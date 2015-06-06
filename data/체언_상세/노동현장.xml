@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>노동현장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">노동 현장</var>
+			<str type="N_N">노동+현장</str>
+			<org lg="si">勞動現場</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>아직도 많은 노동자들은 비민주적 잔재와 차별이 지배하는 ~에서 일하고 있다.</eg>
+				<eg>이번 선거에서는 ~ 출신의 후보들이 대거 당선되었다.</eg>
+				<eg>사용주는 용역 깡패들을 동원해 ~을 파괴했다.</eg>
+				<trans>scene of labor</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 열악하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 방문하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 파괴하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 일하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳|군데|개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

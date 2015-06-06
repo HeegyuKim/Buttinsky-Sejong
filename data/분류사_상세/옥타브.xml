@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>옥타브</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/30</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/18</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">octave</org>
+			<symb>Oc</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 진동수의 비율이 2가 될 때까지의 음정이다</eg>
+				<eg>아내의 목소리는 평소보다 두 ~는 높은 것 같았다</eg>
+				<domain>음악</domain>
+				<cl_subtype type="lnt"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

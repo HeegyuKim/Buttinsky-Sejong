@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>획일화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">획일화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">劃一化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be unified</trans>
+				<trans>be standardized</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<eg>기술의 발달과 함께 우리 사회의 모든 문화도 획일화되어 가는 느낌이다.</eg>
+					<eg>모든 것이 획일화된 집단 속에서 각자의 개성은 무참히 짓밟히곤 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

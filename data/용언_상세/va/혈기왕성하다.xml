@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혈기왕성하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/21</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">血氣旺盛_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be passionate</trans>
+				<trans>be hot-blooded</trans>
+				<trans>be full of youthful vigor</trans>
+				<trans>be in the prime of health</trans>
+				<trans>be in one's vigorous youth</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>나로서는 한창 혈기왕성하고 패기로 똘똘 뭉쳐 있어야 할 십대 청소년들이 삶에 달관한 듯한 모습을 보이는 것이 참 이해하기 힘들었다.</eg>
+					<eg>학교를 졸업하고 은행에 입사할 당시 그는 매사에 자신만만하고 혈기왕성한 청년이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

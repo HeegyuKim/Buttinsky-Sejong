@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잡아뽑다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/29</cre_date>
+				<cre_writer>박소영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/11</mod_date>
+				<mod_writer>김재욱</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take and pull out</trans>
+				<lr>
+					<syn type="perfect">잡아빼다</syn>
+					<ant type="compl">끼워넣다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체물|장소</sel_rst>
+					<eg>새서방은 채찍 끝에 납 뭉치를 달아서 가슴을 훔쳐 갈겼다가 힘껏 잡아뽑았다.</eg>
+					<eg>유럽 전역의 십자군 기사들은 칼을 잡아뽑는 사람이 신의 계시를 받은 지도자라며 너도나도 빨리 칼을 뽑으려 하였습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

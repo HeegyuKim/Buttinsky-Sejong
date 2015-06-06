@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>주변인물</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/28</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_v 기술;max_n, sel_res 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">주변 인물</var>
+			<str type="N_N">주변+인물</str>
+			<org lg="si">周邊人物</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경찰은 범인의 ~을 조사하기 시작했다.</eg>
+				<trans>neighborhood</trans>
+				<domain></domain>
+				<sem_class>비대칭적관계인간</sem_class> <!-- 대칭적관계인간->관계인간 (송근영) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 조사</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 조사하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 술어명사는 아니지만 논항을 가짐(송근영) -->
+				<sel_rst arg="X">인간</sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>피둥피둥하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be fat</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">신체부위(몸|살)</n_appr>
+					<eg>그는 노인이지만 피둥피둥해서 부티가 나 보였다.</eg>
+					<eg>주인은 몸이 아주 피둥피둥하고 얼굴에는 개기름이 좔좔 흘렀다.</eg>
+					<eg>뒤간 옆에서는 피둥피둥한 돼지들이 한가로이 놀고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

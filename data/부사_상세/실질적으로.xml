@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>실질적으로</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/06/11</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/15</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>실질.적-으로</str>
+			<org lg="si">實質的__</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>따라서 공직협의 연대가 ~ 필요하다는 데 의견이 모아졌다고 한다</eg>
+				<eg>인수 합병에서 ~ 거래되는 것은 바로 브랜드입니다</eg>
+				<eg>토키오 마린의 경우에는 ~ 가격을 올림으로써 성공을 거뒀다</eg>
+				<trans>as a matter of fact</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>실제적으로</syn>
+					<syn>사실상</syn>
+					<ant>허구적으로</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel>실질</rel>
+					<rel>실질적</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~나타나다</comb>
+				<comb pos="adj" exist="yes">~필요하다</comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="yes">~실세</comb>
+				<comb pos="n" exist="yes">~주인</comb>
+				<prt>~는</prt>
+				<prt>~도</prt>
+				<prt>~만</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>패션은 지나 데이비스의 취향과는 ~ 대조적이다</eg>
+				<eg>위협이 되는 이유는 이들이 소비자를 ~ 소유하기 때문이라고 설명한다</eg>
+				<eg>나는 그때 ~ 당선된 것이나 마찬가지였습니다</eg>
+				<trans>in fact</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>문장부사/양상부사/관점</sem_rep>
+				<lr>
+					<syn>사실상</syn>
+					<ant>가정적으로</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel>실질</rel>
+					<rel>실질적</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="temp"></comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~는</prt>
+				<prt>~도</prt>
+				<prt>~만</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

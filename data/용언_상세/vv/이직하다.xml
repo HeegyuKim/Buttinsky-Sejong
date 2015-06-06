@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이직하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">이직을 하다</var>
+			<str>N.하</str>
+			<org lg="si">移職_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>change one's job</trans>
+				<lr>
+					<syn type="perfect">전직하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">기관|기업</sel_rst>
+					<sel_rst arg="Z" tht="SRC">기관|기업</sel_rst>
+					<eg>그녀는 우연한 기회로 은행에서 외국인 회사로 이직하게 되었다.</eg>
+					<eg>최근에는 보다 나은 업무 환경을 찾아 이직하는 사람들의 수가 늘고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">이직을 하다</var>
+			<str>N.하</str>
+			<org lg="si">離職_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>leave one's job</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(직장)</sel_rst>
+					<eg>최근 그는 십 년간 다니던 직장을 이직했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

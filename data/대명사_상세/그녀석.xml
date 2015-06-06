@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>그녀석</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/02</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">고녀석</var>
+			<str type="etc">그+녀석</str>
+					<img type="xp">고녀석</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 만나거든 내가 좀 보잔다고 전해라</eg>
+				<eg>난 설사 ~이 최후를 맞이했더라도 하나도 슬프지 않다</eg>
+				<reg>비어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 아주 제 아버지를 꼭 빼닮았구나</eg>
+				<eg>아무리 피곤해도 ~이 방긋방긋 웃는 걸 보고 있으면 피곤이 가신다</eg>
+				<reg>구어</reg>
+				<con>귀여움</con>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

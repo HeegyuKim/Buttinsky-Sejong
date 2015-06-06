@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>인기있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/19</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">인기가 있다</var>
+			<str>NA</str>
+			<org lg="si">人氣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be popular</trans>
+				<trans>enjoy popularity</trans>
+				<trans>be in favor</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에서 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>요즘 젊은이들 사이에서 가수 K의 다이어트 비디오가 인기있다.</eg>
+					<eg>한국에서는 헐리우드 스타일이 인기있다.</eg>
+					<eg>초등학생들 사이에서 이 개그 코너가 인기있다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>이 가게는 부근에서 근무하는 회사원들에게 인기있다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

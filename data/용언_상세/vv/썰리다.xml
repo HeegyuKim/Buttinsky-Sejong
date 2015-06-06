@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>썰리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/30</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.리2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be cut by</trans>
+				<lr>
+					<hyper>잘리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="INS">칼|칼창</sel_rst>
+					<eg>고기는 이 칼로 잘 썰린다.</eg>
+					<eg>횟감이 칼에 잘 썰리지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>cut easily</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="INS">칼|칼창</sel_rst>
+					<eg>이 칼이 잘 썰린다.</eg>
+					<eg>새로 산 부엌칼이 잘 썰리지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

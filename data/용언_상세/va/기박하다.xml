@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기박하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기박을 하다</var>
+			<str>N.하</str>
+			<org lg="si">奇薄_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be unlucky</trans>
+				<lr>
+					<syn type="perfect">박복하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">운명</n_appr>
+					<n_appr arg="X">팔자</n_appr>
+					<eg>최씨 집 사위는 기박해도 너무 기박한 운명을 타고났다.</eg>
+					<eg>명주는 너무 기박해서 사랑하는 사람은 모두 그 아이를 떠나버린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

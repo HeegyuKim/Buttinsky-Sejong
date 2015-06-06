@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>떠지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">뜸해지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(사이)</sel_rst> <!--확인요망-->
+					<eg>오래 못 보다보니 우리 사이가 점점 떠지는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">더디어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(성장|발전)|교통기관</sel_rst>
+					<n_appr arg="X">속도</n_appr>
+					<n_appr arg="X">템포</n_appr>
+					<eg>찬바람이 불기 시작하면 풀의 성장 속도가 떠진다.</eg>
+					<eg>연료가 떨어졌는지 차 속도가 점점 떠진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

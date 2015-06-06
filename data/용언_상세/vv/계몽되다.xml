@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계몽되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>예문 수정 및 보충</mod_note>
+				<mod_note>하위센스 삭제</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계몽이 되다</var>
+			<str>N.되</str>
+			<org lg="si">啓蒙_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be civilized</trans>
+				<lr>
+					<syn type="perfect">계명되다</syn>
+					<syn type="perfect">개화되다</syn>
+					<ant type="compl">미개화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>아프리카인들을 보고 미개하다면서 그들은 반드시 계몽되어야 한다고 주장하는 것은 정말 우습다.</eg>
+					<eg>예전 서양 선교사들은 기독교를 통해 계몽되는 것이 우리 나라 발전을 위해 꼭 필요하다고 생각한 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be enlightened</trans>
+				<lr>
+					<syn type="perfect">계도되다</syn>
+					<syn type="perfect">교화되다</syn>
+					<syn type="perfect">지도되다</syn>
+					<hyper>일깨워지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">마음</n_appr>
+					<n_appr arg="X">정신</n_appr>
+					<n_appr arg="X">사상</n_appr>
+					<eg>일부 몰지각한 관료세력은 반드시 계몽되어야 한다.</eg>
+					<eg>사형수 중에는 계몽되어 성직자와 다름없는 마음가짐을 갖게 되는 이들도 있다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be taught to</trans>
+				<lr>
+					<syn type="perfect">교육되다</syn>
+					<syn type="perfect">지도되다</syn>
+					<ant type="dir">가르치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>피임법이 남성들에게 하루 빨리 계몽되기를 바란다.</eg>
+					<eg>봉사정신의 위대함이 인정없는 부자들에게 계몽되었으면 좋겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

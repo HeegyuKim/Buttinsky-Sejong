@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>수런거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>make a disturbance</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>사람들은 눈이 얼마나 많이 왔기에 비행기가 내리지 못하는 것일까 하고 수런거리면서도 아름다운 눈의 나라를 고대했다.</eg>
+					<eg>이곳엔 언제나 뭇객들이 수런거리지만 오늘은 나 혼자다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

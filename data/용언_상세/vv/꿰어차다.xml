@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꿰어차다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/18</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/18</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/11/12</mod_date>
+				<mod_writer>박영준</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/30</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">꿰차다</var>
+			<cntr opt="obl" type="a"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>dangle a thing</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(주머니)</sel_rst>
+					<eg>영감은 주머니를 꿰어차고 집을 나섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+			<trans>latch on to</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(돈)</sel_rst>
+					<eg>그렇게 애지중지 돈을 꿰어차고만 있으면 무슨 소용있니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+			<trans>latch on to</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>김 씨는 과년한 딸 아이를 시집은 보내지 않고 꿰어차고만 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>체류</sem_class>
+			<trans>occupy</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>저 여자가 그의 옆 자리를 항상 꿰어차고 있으니 접근할 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기절초풍하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기절초풍을 하다</var>
+			<str>N.하</str>
+			<org lg="si">氣絶_風_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>be shocked</trans>
+				<lr>
+					<syn type="etc">경악하다</syn>
+					<syn type="etc">기겁하다</syn>
+					<hyper>놀라다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">구체물|추상적대상|사태</sel_rst>
+					<eg>철수는 영희의 느닷없는 장난에 기절초풍해서 집밖으로 뛰쳐나갔다.</eg>
+					<eg>고은이는 파리 한 마리에도 기절초풍하는 겁쟁이이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">S것</sel_rst>
+					<eg>철수는 영희가 무심코 장난친 것에 기절초풍해서 집밖으로 뛰쳐나갔다.</eg>
+					<eg>고은이는 아기가 집안을 어지럽혀 놓은 것에 기절초풍할 지경이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

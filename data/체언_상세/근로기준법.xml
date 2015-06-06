@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>근로기준법</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl검토바람</mod_note><!--div '조항' '항목' 기술 필요없는 듯 하여 삭제(김이정)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/02(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">근로+기준법</str><!--'기준+법'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">勤勞基準法</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 세계 최장인 우리의 근로시간을 줄여 나가기 위해 지난해 9월 ~을 개정하였다.</eg>
+				<trans>Labor Standard Law</trans>
+				<domain>법률</domain>
+				<sem_class>법률</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">개정 ~</comb_n>
+				<comb_n type="compound">~ 위반</comb_n>
+				<comb_n type="compound">~ 적용</comb_n>
+				<comb_n type="compound">~ 시행</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 준수하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 지키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 위반하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 적용하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 시행하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 따르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 어긋나다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

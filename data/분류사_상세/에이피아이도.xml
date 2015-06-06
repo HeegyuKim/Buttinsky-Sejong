@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>에이피아이도</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">American Petroleum Institute 도</var>
+			<str>에이피아이+도</str>
+			<org lg="en">API_</org>
+			<org lg="si">_____度</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>경질유는 35~ 이상을 가리킨다</eg>
+				<cl_subtype type="wgt"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

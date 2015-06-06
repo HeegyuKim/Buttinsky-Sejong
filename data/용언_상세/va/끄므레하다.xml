@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끄므레하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>'색'은 적정명사로 함 격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>기상상태</sem_class>
+				<trans>be overcast</trans>
+				<lr>
+					<syn type="perfect">흐리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(날|날씨|하늘)</sel_rst>
+					<eg>꽃피는 춘삼월에 하늘이 온통 끄므레하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be gray</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|(얼굴|모습)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<eg>앞에 앉은 사람은 완전 까망도 아니고 흰 것도 아닌 끄므레한데 아까부터 보는 시선이 영 곱지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

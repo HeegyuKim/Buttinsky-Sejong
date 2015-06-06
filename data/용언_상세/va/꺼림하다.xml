@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꺼림하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"꺼림칙/께름칙"이 변이형인지 유의어인지에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">께름하다</var>
+			<var type="etc">꺼림칙하다</var>
+			<var type="etc">께름칙하다</var>
+			<var type="etc">께적지근하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지상태</sem_class>
+				<trans>feel bad</trans>
+				<lr>
+					<syn type="perfect">언짢다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>김씨는 이씨가 주워온 돌이 왠지 꺼림했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>김씨는 이씨가 그 돌을 주워온 것이 왠지 꺼림했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

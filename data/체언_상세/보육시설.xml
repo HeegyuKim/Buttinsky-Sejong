@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보육시설</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스2 추가, 센스1 n_aj 기술, n_n, n_v, cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보육 시설</var>
+			<str type="N_N">보육+시설</str>
+			<org lg="si">保育施設</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>스웨덴에서는 1845년에 이미 빈곤 여성을 위한 ~이 세워졌다.</eg>
+				<eg>우리 구에서는 앞으로 삼 년 동안에 걸쳐 ~을 열 곳 이상 늘리기로 하였다.</eg>
+				<trans>facility for upbringing</trans>
+				<trans>facility for nurture</trans>
+				<domain></domain>
+				<sem_class>기관</sem_class>
+				<lr>
+					<syn type="perfect">보육기관</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 미흡하다</comb_aj>
+				<comb_n type="compound">~ 설치</comb_n>
+				<comb_n type="compound">~ 설립</comb_n>
+				<comb_n type="compound">~ 확충</comb_n>
+				<comb_n type="compound">유아 ~</comb_n>
+				<comb_n type="compound">육아 ~</comb_n>
+				<comb_n type="compound">무료 ~</comb_n>
+				<comb_n type="compound">직장 ~</comb_n>
+				<comb_n type="compound">민간 ~</comb_n>
+				<comb_n type="compound">가정 ~</comb_n>
+				<comb_n type="compound">국공립 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 운영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 늘리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 줄이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 맡기다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>현행 최저생계비는 어린이가 ~에 가지 않는 것을 전제로 하고 있다.</eg>
+				<trans>facility for upbringing</trans>
+				<trans>facility for nurture</trans>
+				<domain></domain>
+				<sem_class>건물</sem_class>
+				<lr>
+					<syn type="perfect">보육기관</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 입소</comb_n>
+				<comb_n type="compound">유아 ~</comb_n>
+				<comb_n type="compound">육아 ~</comb_n>
+				<comb_n type="compound">무료 ~</comb_n>
+				<comb_n type="compound">직장 ~</comb_n>
+				<comb_n type="compound">민간 ~</comb_n>
+				<comb_n type="compound">가정 ~</comb_n>
+				<comb_n type="compound">국공립 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 다니다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입소하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 근무하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

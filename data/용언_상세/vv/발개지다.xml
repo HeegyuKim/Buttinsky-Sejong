@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발개지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">빨개지다</var>
+			<var type="etc">벌개지다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>turn red</trans>
+				<trans>turn blush</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(얼굴)</sel_rst>
+					<eg>술을 조금만 마셔도 얼굴이 금방 발개진다.</eg>
+					<eg>부끄러워서 다른 사람과 눈만 마주쳐도 얼굴이 발개진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

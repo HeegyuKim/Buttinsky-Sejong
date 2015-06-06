@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>조것</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/08/28</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">저것</var>
+			<var type="abb">조거</var>
+			<str type="etc">조+것</str>
+					<metc pos="n" type="prefix">요것~</metc>
+			<img type="xx">저것</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>저기 있는 ~ 좀 집어 다오</eg>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~이 누구한테 감히 손가락질을 하는 거야?</eg>
+				<eg>~ 보게</eg>
+				<eg>~이 이제 제법 어른 티를 내는구나</eg>
+				<reg>구어</reg>
+				<con>귀여움</con>
+				<con>경멸</con>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

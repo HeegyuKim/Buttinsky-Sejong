@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>달러</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">달라</var>
+			<var type="xx">딸라</var>
+			<var type="xx">딸러</var>
+			<org lg="en">dollar</org>
+			<symb>$;弗</symb>
+					<comp pos="n" type="suffix">~화</comp>
+			<comp pos="n" type="prefix">암~</comp>
+			<comp pos="n" type="prefix">오일~</comp>
+			<comp pos="n" type="prefix">유러~</comp>
+			<comp pos="n" type="prefix">홍콩~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 물건을 기념품점에서 이백 ~에 샀다</eg>
+				<trans>dollar</trans>
+				<domain>경제</domain>
+				<cl_subtype type="sum">100센트</cl_subtype>
+				<rel_n>미국</rel_n>
+				<lr>
+					<syn type="etc">불</syn>
+					<rel>미국</rel>
+					<rel>돈</rel>
+					<rel>센트</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

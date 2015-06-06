@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이지러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>wane</trans>
+				<lr>
+					<ant type="grad">차오르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물(달)</sel_rst>
+					<eg>그녀는 저 달이 이지러질 때 쯤이면 그가 다시 돌아오리라 생각했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>break off</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">용기(그릇|독)</sel_rst>
+					<eg>남아 있는 그릇이나 항아리들도 모두 어딘가 한 군데는 이지러져 물건으로 내놓고 팔기에는 적당치 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>be battered</trans>
+				<lr>
+					<syn type="perfect">일그러지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|입술|코)</sel_rst>
+					<eg>그는 이지러진 얼굴에 옷에는 온통 피를 묻힌 채 방으로 들어섰다.</eg>
+					<eg>그의 주먹 한 방에 내 입술은 이지러져 피가 나기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

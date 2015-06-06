@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>추론되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/21</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/14</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">추론이 되다</var>
+			<str>N.되</str>
+			<org lg="si">推論_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be reasoned</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>일부의 사실로 전체구조가 추론될 수 있는가?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>결론적으로 그가 범인이라고 추론된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S것1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="FNS"/>
+					<eg>결론적으로 그가 범인인 것으로 추론된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

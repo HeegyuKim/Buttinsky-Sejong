@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>물려쓰다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>use transferred thing</trans>
+				<lr>
+					<ant type="compl">사쓰다</ant>
+					<hyper>물려받다</hyper>
+					<hyper>쓰다</hyper>
+					<hyper>사용하다</hyper>
+					<hyper>이용하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<eg>장롱이나 화장대처럼 식탁도 잘 고르면 오래오래 물려써도 더 가치있어 보이는 가구 종류이다.</eg>
+					<eg>아이들 금방 금방 자라니까 옷도 물려입혀도 되고, 장난감 등등 전부 쓰던 거 물려써도 될 것 같아요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

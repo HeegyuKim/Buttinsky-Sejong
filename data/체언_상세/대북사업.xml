@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>대북사업</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>'일'로 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">대북 사업</var>
+			<str type="R_N">대북+사업</str>
+			<org lg="si">對北事業</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 기업이 펼쳐온 ~은 남북관계에 있어 큰 영향을 미쳤다.</eg>
+				<trans>business with North Korea</trans>
+				<trans>activities towards North Korea</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="conv">대남사업</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 추진하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 주도하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참여하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|국가|지역집단|단체</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

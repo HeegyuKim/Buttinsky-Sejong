@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>번</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">番</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="prefix">한~</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="prv">열 ~ 찍어 안 넘어 가는 나무 없다</idm>
+			<idm type="etc">두 ~ 다시</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그 사람은 여러 ~ 만나 보았어도 속내를 알 수가 없다</eg>
+				<eg>약속을 어긴 게 한두 ~이 아니다</eg>
+				<cl_subtype type="fqn"/>
+				<lr>
+					<syn type="etc">회</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>둘째 ~ 줄에 앉아 있는 사람이 우리 아버지이다</eg>
+				<eg>이 선수는 항상 4~ 타자를 맡고 있다</eg>
+				<eg>종로에 가려면 134~ 버스를 타면 된다</eg>
+				<cl_subtype type="odr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="etc" ord="ko_si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

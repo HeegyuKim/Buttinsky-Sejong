@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>만성화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">만성화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">慢性化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>pass into a chronic state</trans>
+				<lr>
+					<rel>진행시키다</rel>
+					<rel>심화시키다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">질병및증세</sel_rst>
+					<eg>많은 환자들이 간염을 만성화시켜 간암으로 진행하도록 한다.</eg>
+					<eg>나쁜 공기가 폐병을 만성화시킬 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

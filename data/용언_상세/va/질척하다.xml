@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>질척하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wet and soft</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(땅|길)</sel_rst>
+					<eg>장마가 시작되니 길들이 온통 질척하다.</eg>
+					<eg></eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상관련물|배설물|분비물|액체|식물|자연음식물|음식(소스|반죽)|구체인공물</sel_rst>
+					<eg>반죽이 너무 질척하면 만두가 다 터진다.</eg>
+					<eg>마요네즈 소스가 너무 질척해서 빵에 바르면 다 흘러내리겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be muddy</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">예술|텍스트|작품|방송물</sel_rst>
+					<eg>할 일이 없는 기영이는 내용도 뻔한 질척한 드라마를 시청하며 저녁시간을 떼우고 있었다.</eg> 
+					<eg>이런 질척한 시나리오로는 3류 영화 밖에 나올 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

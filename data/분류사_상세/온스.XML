@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>온스</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/17</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">ounce</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>9~의 금을 시가로 계산하면 어느 정도 되나?</eg>
+				<cl_subtype type="wgt">28.35그램</cl_subtype>
+				<rel_n>실</rel_n>
+				<lr>
+					<rel>그램</rel>
+					<rel>파운드</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>이 주사액은 일 ~ 이상을 쓰려면 반드시 주치의의 허가를 받아야 한다</eg>
+				<cl_subtype type="blk"/>
+				<rel_n>주사액</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

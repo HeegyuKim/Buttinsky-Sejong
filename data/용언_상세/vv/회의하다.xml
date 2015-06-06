@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회의하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회의를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">會議_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>confer</trans>
+				<trans>hold a conference</trans>
+				<trans>hold a meeting</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 Z=N2-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>노조 관계자들이 사측과 임금 인상 문제에 대해 회의한 결과가 곧 발표될 것이다.</eg>
+					<eg>사장은 신제품 개발에 대해 이사진들과 회의하는 중이었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 Z=N2-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>노사 대표들이 임금 인상 문제에 대해 장시간 회의한 결과가 곧 발표될 것이다.</eg>
+					<eg>이사진들이 앞으로 회사의 진로에 대해 회의하는 중이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회의를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">懷疑_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>doubt</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>우리는 당시 신의 존재에 대해 회의하고 있었다.</eg>
+					<eg>그 사람은 모든 것에 대해 회의하는 염세적인 성향을 지니고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

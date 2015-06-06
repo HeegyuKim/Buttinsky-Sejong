@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>세제곱센티미터</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/18</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>symb에 특수문자 표시 불가능</note>
+		</mnt_grp>
+		<morph_grp>
+			<str>세제곱+센티미터</str>
+			<org lg="en">___centimeter</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 병의 용량은 50~이다</eg>
+				<cl_subtype type="blk"/>
+				<lr>
+					<syn type="etc">시시</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

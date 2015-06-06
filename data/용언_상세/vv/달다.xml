@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+
+<superEntry>
+	<orth>달다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/01</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/17</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>장식행위</sem_class>
+				<trans>attach</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소|신체부위</sel_rst>
+					<eg>올 여름은 더워서 선풍기라도 달아야겠다.</eg>
+					<eg>학교에 입학할 때 어머니께서는 손수건을 달아 주셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>장식행위</sem_class>
+				<trans>attach</trans>
+				<lr>
+					<syn type="sino">설치하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기기</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>올 여름은 더워서 선풍기라도 달아야겠다.</eg>
+					<eg>그는 자기 사무실에 에어컨을 달았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>장식행위</sem_class>
+				<trans>put on</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>그 여자는 항상 아이를 달고 다녔다.</eg>
+					<eg>나는 어릴 적에 내 동생을 달고 다녀야 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>annotate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(주|제목)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">텍스트</sel_rst>
+					<eg>이 논문에 주를 달지 않고 인용을 한 것은 잘못이다.</eg>
+					<eg>그 기사는 제목을 달기가 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>charge</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<eg>오늘 먹은 술값은 내 앞으로 달아 두세요.</eg>
+					<eg>그는 물건을 살 때면 장부에 외상값을 달아 두곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/01</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/17</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>weigh</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">무게</sel_rst>
+					<sel_rst arg="Z" tht="INS">측정도구</sel_rst>
+					<eg>상점 주인은 저울에 쌀 무게를 달기 시작했다.</eg>
+					<eg>목욕탕에서 체중계에 몸무게를 달아 보았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">측정도구</sel_rst>
+					<eg>상점 주인은 저울을 달기 시작했다.</eg>
+					<eg>어제 나는 목욕탕에서 체중계를 달아 보니 몸무게가 조금 줄었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/01</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/17</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>heat</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>석탄이 난로 속에서 빨갛게 달아 있었다.</eg>
+					<eg>난로가 빨갛게 달아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>heat</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>나는 술을 마시면 얼굴이 달아 오른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>heat</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(애)</sel_rst>
+					<eg>아들에 관한 소식을 듣자 어머니는 애가 달아 자꾸 이야기를 재촉하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>몸이 달다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="4" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/01</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/17</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>ask</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>아기가 엄마에게 자꾸 젖을 달라고 칭얼댄다.</eg>
+					<eg>우리에게 자유가 아니면 죽음을 달라!</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<end_rst1>달라</end_rst1>
+					<end_rst1>다오</end_rst1>
+				</morph_rst>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

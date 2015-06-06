@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의혹투성이</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem 검토바람, 예문 검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '속성'을 '높은정도'로 수정했으나 검토 요망, 예문 검토했음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의혹 투성이</var>
+			<str type="N_R">의혹+투성이</str>
+			<org lg="si">疑惑___</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번 납치 사건에 대한 외교부의 대응은 ~다.</eg>
+				<eg>뇌졸중을 일으킬 수 있는 감기약의 특정 성분에 대한 연구 용역 최종 보고서도 ~다.</eg>
+				<trans>mass of suspision</trans>
+				<domain></domain>
+				<sem_class>높은정도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 이다</form>
+					<frame>X-이 ~이다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">온</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n><!--불가능한 것 같아요(김이정)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

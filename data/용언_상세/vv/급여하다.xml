@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>급여하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">급여를 하다</var>
+			<str>N.하</str>
+			<org lg="si">給與_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>grant</trans>
+				<lr>
+					<syn type="perfect">지불하다</syn>
+					<syn type="perfect">지급하다</syn>
+					<hyper>주다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|금전</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>최 사장이 몇 달간 직원들에게 월급을 급여하지 않아서 문제가 되고 있다.</eg>
+					<eg>이제부터 제군들에게 제복을 급여하겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

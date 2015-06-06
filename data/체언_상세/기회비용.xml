@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기회비용</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>domain 기술</mod_note>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note의 기술방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기회 비용</var>
+			<str type="N_N">기회+비용</str>
+			<org lg="si">機會費用</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>기업은 ~이 큰 제품을 만드는 데 주력한다.</eg>
+				<trans>opportunity cost</trans>
+				<!--대역어 검토 요망(미현)-->
+				<!-- 대역어 OK (송근영) -->
+				<domain>경제</domain>
+				<sem_class>비용</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 크다</comb_aj>
+				<comb_aj type="min">~이 적다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 고려하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 계산하다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 산출하다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 발생하다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

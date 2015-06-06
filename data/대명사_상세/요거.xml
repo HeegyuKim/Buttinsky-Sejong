@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>요거</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">이거</var>
+			<str type="etc">요+거</str>
+					<hom exist="yes"/>
+			<img type="xx">이거</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>어머니, 이리 와서 ~ 좀 보세요</eg>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ㅣ 하는 일마다 나서서 시비를 걸더라구</eg>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

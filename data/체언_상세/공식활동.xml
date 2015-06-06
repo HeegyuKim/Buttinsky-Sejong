@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공식활동</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">공식+활동</str>
+			<org lg="si">公式活動</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>국회‘김영란 대법관 인사청문특위는 5일 국회에서 첫 회의를 열어 한나라당 권오을 의원을 위원장으로 선출하고 ~에 들어갔다.</eg>
+				<trans>formal action</trans>
+				<domain></domain>
+				<sem_class>행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 시작하다</form>
+					<frame>X-이 ~을 시작하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

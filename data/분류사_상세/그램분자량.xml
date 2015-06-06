@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>그램분자량</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/30</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>그램+분자량</str>
+			<org lg="en">gram___</org>
+			<org lg="si">__分子量</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>화학용액 100~</eg>
+				<domain>화학</domain>
+				<cl_subtype type="wgt"/>
+				<lr>
+					<syn type="etc">몰(mole)</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

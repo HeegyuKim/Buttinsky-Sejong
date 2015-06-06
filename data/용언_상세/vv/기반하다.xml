@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기반하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기반을 하다</var>
+			<str>N.하</str>
+			<org lg="si">基盤_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>be based on</trans>
+				<lr>
+					<syn type="perfect">기초하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상</sel_rst>
+					<eg>다윈이즘에 기반한 경쟁주의는 존재가 곧 우월의 증거라고 주장한다.</eg>
+					<eg>결혼 후에도 우리 부부는 사랑에 기반한 부부가 되겠습니다.</eg>
+					<eg>결혼 후에도 우리 부부의 관계는 사랑에 기반할 수 있도록 하겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>원인</sem_class>
+				<trans>be from</trans>
+				<lr>
+					<syn type="perfect">위치하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>우리 조직은 인천에 기반하고 있다.</eg>
+					<eg>런던에 기반한 많은 배우들은 실제로 영국만이 아닌 다양한 국적을 가지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>남용되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">남용이 되다</var>
+			<str>N.되</str>
+			<org lg="si">濫用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be abused</trans>
+				<lr>
+					<syn type="perfect">오용되다</syn>
+					<hyper>이용되다</hyper>
+					<hyper>사용되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(약물)|추상적대상(외국어|권력)</sel_rst>
+					<eg>항생제가 남용되어 결국에는 항생제에 내성을 가진 세균이 등장했다.</eg>
+					<eg>권력이 남용되면 결국에는 독재가 시작되거나 그 권력의 위기가 오게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

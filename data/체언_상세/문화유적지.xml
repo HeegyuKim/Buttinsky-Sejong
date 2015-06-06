@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>문화유적지</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_n, n_v 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">문화 유적지</var>
+			<str type="N_N">문화+유적지</str> <!--유적지는 더 분석할 수 있음-->
+			<org lg="si">文化遺跡地</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>한국은 유구한 역사를 자랑하며 많은 ~들을 보유하고 있는 전통 국가이다.</eg>
+				<eg>방학동안 다양한 ~들을 둘러보며 역사 체험을 하는 것도 바람직하다.</eg>
+				<trans>place of historic interest</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 답사</comb_n>
+				<comb_n type="compound">~ 탐방</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 찾아가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 답사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 방문하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 탐방하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

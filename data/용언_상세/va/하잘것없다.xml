@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>하잘것없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RuA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be insignificant</trans>
+				<lr>
+					<syn type="perfect">보잘것없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>이 일은 누가 보아도 하잘것없다.</eg>
+					<eg>이것은 누가 보아도 하잘것없는 물건이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

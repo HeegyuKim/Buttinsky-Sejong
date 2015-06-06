@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짓씹다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>chew thoroughly</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>할머니는 보리알과 강냉이알을 짓씹어 아이의 입에 넣어주었다고 합니다.</eg>
+					<eg>손톱을 짓씹어 놓거나 망치로 때려 까맣게 멍을 만드는 일이 유행이라면 그녀들은 서슴없이 그렇게 하겠지.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>suppress one's bad feeling</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태</sel_rst>
+					<eg>증조할아버지는 나라를 빼앗긴 분노를 짓씹고 만주로 떠나셨었다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>마는</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/09/17</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/21</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/07</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/18</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/27</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jx</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="abb">만</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>대립</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>Ef-J</frame>
+				<sel_rst>Ef=(다|라|랴|네)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>날씨가 많이 선선해졌다마는 아직 긴팔옷을 입을 정도는 아니다.</eg>
+				<eg>제주도가 멀기는 멀더라마는 정말 아름다운 곳이다.</eg>
+				<eg>미안합니다마는 저 좀 데려다 주시겠어요?</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>강조</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>Ef-J</frame>
+				<sel_rst>Ef=(더니)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 애는 시집가더니마는 학교에는 코빼기도 안 비친다.</eg>
+				<eg>아이스크림을 한 번 먹어 보더니마는 자꾸 사달라고 한다.</eg>
+				<!--생략이 가능하다.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

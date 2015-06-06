@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>엇바뀌다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/27</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/11</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>be exchanged</trans>
+				<lr>
+					<hyper>바뀌다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="COM">온</sel_rst>
+					<eg>그의 집 문서는 친구의 집문서와 엇바뀌었다.</eg>
+					<eg>내 친구는 남편의 역할이 아내의 역할과 엇바뀌었으면 하고 항상 되뇐다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그의 집 문서와 친구의 집문서는 엇바뀌었다.</eg>
+					<eg>내 친구는 남편의 역할과 아내의 역할이 엇바뀌었으면 하고 항상 되뇐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>be crossed with each other</trans>
+				<lr>
+					<syn type="sino">교차되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|신체착용물|천|종이|의복의부분|미술작품</sel_rst>
+					<sel_rst arg="Y" tht="COM">신체부위|신체착용물|천|종이|의복의부분|미술작품</sel_rst>
+					<eg>그의 한 쪽 팔이 다른 쪽 팔과 엇바뀌었다.</eg>
+					<eg>어머니가 그리시던 난초의 잎이 다른 잎과 엇바뀌었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|신체착용물|천|종이|의복의부분|미술작품</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위|신체착용물|천|종이|의복의부분|미술작품</sel_rst>
+					<eg>그의 한 쪽 팔과 다른 쪽 팔이 엇바뀌었다.</eg>
+					<eg>어머니가 그리시던 난초의 잎과 다른 잎이 엇바뀌었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>햇볕차단제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">햇볕 차단제</var>
+			<str type="N_N">햇볕+차단제</str> <!--더 분석가능-->
+			<org lg="si">_遮斷製</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>자외선이 강한 오후에는 ~를 바르거나 모자나 양산을 사용하는 것이 여름철 피부관리에 좋다.</eg>
+				<trans>sunblock products</trans>
+				<domain></domain>
+				<sem_class>화장품</sem_class>
+				<lr>
+					<syn type="etc">썬오일</syn>
+					<syn type="etc">썬크림</syn> <!--항목 추가-->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n> <!--(임근석) '~품' 삭제-->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 바르다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

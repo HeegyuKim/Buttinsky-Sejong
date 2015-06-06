@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>심사위원장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">심사 위원장</var>
+			<str type="N_N">심사+위원장</str> <!-- '심사위원+장'은 아닌지? -->
+			<org lg="si">審査委員長</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~이 대상 수상자를 발표하였다.</eg>
+				<eg>유명한 영화 감독이 영화제의 ~으로 선출되었다.</eg>
+				<trans>foreman of a jury</trans>
+				<trans>president of the board of examiners</trans>
+				<domain></domain>
+				<sem_class>직위인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">영화제의 ~</comb_n> <!-- 이 항목에 기술하는 것이 맞는지? 유형값이 적절한지? -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 맡다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 선출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 위촉하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 임명하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 사퇴하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 물러나다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

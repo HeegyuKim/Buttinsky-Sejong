@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>금기시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">금기시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">禁忌視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be tabooed</trans>
+				<lr>
+					<syn type="perfect">금지되다</syn>
+					<syn type="etc">터부시되다</syn>
+					<ant type="compl">허용되다</ant>
+					<hyper>꺼려지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|현상</sel_rst>
+					<eg>십 년 전만 해도 공산주의에 대한 언급은 금기시되었었다.</eg>
+					<eg>이슬람 문화권에서는 돼지의 식용 사용이 금기시되어 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>십 년전만 해도 공산주의에 대해 언급하는 것은 금기시되었었다.</eg>
+					<eg>이슬람 문화권에서는 돼지를 먹는 것이 금기시되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

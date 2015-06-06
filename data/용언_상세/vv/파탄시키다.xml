@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>파탄시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">파탄을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">破綻_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>make someone or something fail</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|(인생)</sel_rst>
+					<eg>한 사람의 우발적인 범죄가 단란했던 가정을 파탄시켰다.</eg>
+					<eg>그 사람은 내 딸아이의 인생을 파탄시켜 버렸네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

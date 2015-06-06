@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>집단폐업</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>'집단폐업'을 복합어로 볼 수 있는지 의문</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>예문 추가;대역어 추가;n_n 정보 추가;n_v 정보 추가;단위표현 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">집단 폐업</var>
+			<str type="N_N">집단+폐업</str>
+			<org lg="si">集團廢業</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>의료계는 의약 분업 반대를 주장하면서 내일부터 ~을 하기로 했다.</eg>
+				<eg>최근 건설업체 대부분이 ~으로 노동자들에게 임금을 주지 못하고 있다.</eg>
+				<trans>collective close-down</trans>
+				<trans>quitting of one's business collectively</trans><!--김성용(2004/07/26)영어 대역어 확인 요망-->
+				<domain></domain>
+				<sem_class>파괴행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 위기</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 강행하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 철회하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 막다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">기업</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

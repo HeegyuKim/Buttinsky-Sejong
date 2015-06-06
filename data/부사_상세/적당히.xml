@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>적당히</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김태경; 임유종; 남승호</cre_writer>
+				<cre_date>2001/07/20</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/22</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>적당.히</str>
+			<org lg="si">適當_</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>운동도 ~ 해야지 너무 심하게 하면 오히려 건강을 해친다</eg>
+				<trans>properly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/정도부사/강도</sem_rep>
+				<lr>
+					<syn>적절히</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~뛰다</comb>
+				<comb pos="adj" exist="yes">~흐리다</comb>
+				<comb pos="det" exist="yes">~헌</comb>
+				<comb pos="av" exist="yes">~가끔</comb>
+				<comb pos="av" exist="yes">~멀리</comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~가</prt>
+				<prt>~를</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>일은 ~ 하고 놀기에 바쁘다</eg>
+				<trans>roughly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>대충</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~얼버무리다</comb>
+				<comb pos="v" exist="yes">~하다</comb>
+				<comb pos="v" exist="yes">~먹다</comb>
+				<comb pos="v" exist="yes">~때우다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

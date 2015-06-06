@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>다만</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김태경; 임유종; 남승호</cre_writer>
+				<cre_date>2001/05/06</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/22</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="yes"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>내가 줄 수 있는 것은 ~ 마음뿐이다</eg>
+				<trans>only</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/정도부사/초점</sem_rep>
+				<lr>
+					<syn>오로지</syn>
+					<syn>오직</syn>
+					<syn>단지</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~달리다</comb>
+				<comb pos="adj" exist="yes">~예쁘다</comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="yes">~애국자</comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~뿐이다</col>
+				<col>~일 따름이다</col>
+				<col>~일 만하다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그 돈으로 ~ 입에 풀칠이라도 할 수 있기를 바랬다</eg>
+				<trans>barely</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/정도부사/초점</sem_rep>
+				<lr>
+					<syn>최소한</syn>
+					<syn>적어도</syn>
+					<syn>겨우</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~달리다</comb>
+				<comb pos="adj" exist="yes">~예쁘다</comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="yes">~얼마</comb>
+				<comb pos="n" exist="yes">~푼돈</comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~라도</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~OV</distr>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>네 부탁을 안 들어주겠다는 것은 아니다. ~ 조건이 있다</eg>
+				<trans>only</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>문장부사/접속부사/첨가</sem_rep>
+				<lr>
+					<syn>단지</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="temp"></comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~뿐</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~OV</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

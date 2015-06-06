@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>측면지원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/25</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/30</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">측면 지원</var><!--정보 기입(김)-->
+			<str type="N_N">측면+지원</str><!--'측+면+지원'-->
+			<org lg="si">側面支援</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 재계의 세계시장 진출을 강화하기 위해 ~을 했다.</eg>
+				<trans>side support</trans>
+				<domain></domain>
+				<sem_class>단독행위</sem_class>
+				<lr>
+					<syn type="etc"></syn><!--간접지원-->
+					<ant type="etc"></ant><!--정면지원|직접지원?-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<!--격틀에서 Z논항 삭제(김)-->
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame><!--X-이 Y-을 Z-로 ~을 하다-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str><!--Z논항 삭제(김)-->
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

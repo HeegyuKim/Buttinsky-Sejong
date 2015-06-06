@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>험하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">險_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be steep</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">고지대(산|계곡)|길</sel_rst>
+					<eg>길이 험해서 더이상 갈 수 없다.</eg>
+					<eg>도로가 험해서 운전하기 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sinister</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(얼굴|외모|외양)</sel_rst>
+					<eg>형이 험한 얼굴로 들어왔다.</eg>
+					<eg>얼굴이 험해서 첫인상이 안 좋은 편이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be foul</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황</sel_rst>
+					<eg>일의 형세가 험해져서 분위기가 반전되고 말았다.</eg>
+					<eg>오늘 따라 회의장 분위기가 험하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be foul</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상(날씨)</sel_rst>
+					<eg>날씨가 험해서 비행기가 결항되었다.</eg>
+					<eg>험한 날씨에 오시느라 고생 많으셨습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be rude</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(말)|사태(행동|행위)</sel_rst>
+					<eg>저 사람은 언행이 험해서 친구가 없다.</eg>
+					<eg>저 사람은 말은 거칠지만 행동은 험하지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be shabby</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(음식)|신체착용물(차림새)</sel_rst>
+					<eg>음식이라고 준비를 했는데 너무 험해서 식욕이 없다.</eg>
+					<eg>일 하다가 와서 옷차림이 험합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be rough</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|속성</sel_rst>
+					<eg>제가 하는 일이 워낙 험해서 권하고 싶지는 않습니다.</eg>
+					<eg>그는 험한 심부름도 마다 않고 열심히 일을 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be miserable</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(꼴)</sel_rst>
+					<eg>가지 말라는 데에도 굳이 가더니 험한 꼴을 당하고 말았다.</eg>
+					<eg>더 이상 험한 분위기 만들지 말아라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

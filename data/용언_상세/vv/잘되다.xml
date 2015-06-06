@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잘되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/15</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="oi"/>
+			<str>D.되</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go well</trans>
+				<trans>work well</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(일|계획|훈련|사업|업무)|(작품|글|음식|문안|보고)</sel_rst>
+					<eg>이번 광고가 잘돼서 기쁘다.</eg>
+					<eg>이번 훈련병들은 훈련이 잘됐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get on in the worldpromote</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(신분|지위)</sel_rst>
+					<eg>자식이 잘되기를 바라지 않는 부모는 없다.</eg>
+					<eg>조선 사회에서 그 친구처럼 노비가 잘되기란 쉽지 않다.</eg>
+					<eg>아이가 잘되기를 바라는 마음에서 어머니는 매일 기도를 드렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be likely to</trans>
+				<trans>be apt to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건(범람|붕괴)</sel_rst>
+					<eg>이 가건물들은 눈이 오면 붕괴가 잘돼서 위험하다.</eg>
+					<eg>강물이 범람이 잘되니 댐을 지어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>prosper</trans>
+				<trans>be done well</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(집|가정|가문|기업|회사)</sel_rst>
+					<eg>가정이 잘되야 나라가 잘된다.</eg>
+					<eg>그렇게 가난에 찌들어 있던 집안이 저렇게 잘되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

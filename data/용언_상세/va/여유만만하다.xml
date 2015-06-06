@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>여유만만하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>see 항목의 NA를 str항목으로</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">여유가 만만하다</var>
+			<str>NA</str>
+			<org lg="si">餘裕滿滿_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be calm and at ease</trans>
+				<lr>
+					<syn type="perfect">여유만만이다</syn>
+					<syn type="perfect">여유작작이다</syn>
+					<syn type="perfect">여유작작하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|행위</sel_rst>
+					<eg>철수는 내일이 시험인데도 여유만만하다.</eg>
+					<eg>시험관을 대하는 그의 태도는 아주 여유만만했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>암페어시</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>암페어+시</str>
+			<org lg="en">ampere_</org>
+			<org lg="si">___時</org>
+			<symb>Ah</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 1암페어의 전류가 1시간 동안 흐르는 전기량이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="amt"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

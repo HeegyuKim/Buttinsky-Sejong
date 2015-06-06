@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/02</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">發話_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>utter</trans>
+				<lr>
+					<syn type="kor">말하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">언어단위(문장)|언어요소|언어범주</sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/02</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">發火_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>ignite</trans>
+				<lr>
+					<syn type="perfect">발화되다</syn>
+					<syn type="kor">불붙다</syn>
+					<syn type="kor">불나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">불</sel_rst> <!--주어가 동사의 의미 속에 포함되어 있어서 주어가 실현되지 않는 일이 많음.-->
+					<eg>날씨가 건조하면 자연적으로 발화하여 산불이 잘 일어난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<!--표준사전의 센스2 '총이나 포에 실탄은 재지 않고 화약만 재어서 내쏘아 불만 일어나게 함.'은 기술하지 않음.-->
+	</entry>
+</superEntry>

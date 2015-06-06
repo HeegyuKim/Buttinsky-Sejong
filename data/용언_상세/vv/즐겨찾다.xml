@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>즐겨찾다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/13</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take pleasure in visiting</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>성터를 올라서니 우리가 그동안 즐겨찾았던 금정산의 주능선 길이다.</eg>
+					<eg>레닌 중앙 박물관 북쪽으로 주택 사이를 지나가는 터널이 있는데 여기를 빠져 나오면 니콜리스카야 거리가 나오고 이 거리에는 체홉이 즐겨찾았다는 레스토랑 슬랴뱐스키 바자가 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

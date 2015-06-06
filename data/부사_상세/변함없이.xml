@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>변함없이</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/07/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/08</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>변함+없.이</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>물론 스탭을 데리고 밴쿠버 시가로 나가 ~ 익살스런 모습을 보여주기도 했다</eg>
+				<eg>포레스트 검프가 격동의 시대를 ~ 살아간 인물이라면, 제니는 시대를 따라 자신의 색깔을 바꾸어 살아간 인물이다</eg>
+				<eg>2년10개월 간 재임했던 케네디생전의 모습에 ~ 깊은 애정을 보였다</eg>
+				<trans>without changes</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>꾸준히</syn>
+					<ant>바꾸어</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~움직이다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

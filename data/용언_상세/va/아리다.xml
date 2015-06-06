@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>아리다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>불필요한 sense 구획 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be asleep</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">신체부위</sel_rst>
+					<eg>수영을 하고 나오니 눈이 몹시 아렸다.</eg>
+					<eg>그 고추를 한 입 베어 무니 단번에 혀가 아려 왔다.</eg>
+					<eg>추위에 내가 손이 아리다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>have a pang</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>자식을 혼자 보내려니 나는 몹시 아렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">(마음|가슴)</sel_rst>
+					<eg>자식을 혼자 보내는 내 마음은 몹시 아렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be biting</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(맛)|음식|자연음식물</sel_rst>
+					<eg>그 무는 유난히 맛이 아리다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

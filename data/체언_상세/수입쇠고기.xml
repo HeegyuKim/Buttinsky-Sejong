@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>수입쇠고기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_n 정보 수정</mod_note>
+				<mod_note>단위표현 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xs">수입소고기</var>
+			<var type="spr">수입 쇠고기</var>
+			<str type="N_N">수입+쇠고기</str>
+			<org lg="si">輸入___</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>광우병 여파로 ~에 대한 소비가 대폭 감소했다.</eg>
+				<trans>imported beef</trans>
+				<domain></domain>
+				<sem_class>육류</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">미국산 ~</comb_n> <!-- 기술 항목이 적절한지? 앞 성분의 의미에 대한 정보를 기술할 수 있는 방법은? --> <!--타입값을 lexfunc에서 comnpound로 수정(미현)-->
+				<comb_n type="compound">~ 시장</comb_n>
+				<comb_n type="compound">~ 물량</comb_n>
+				<comb_n type="compound">~ 전문점</comb_n>
+				<comb_n type="compound">~(의) 가격</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 판매하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 소비하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 찾다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">근</cl> <!--분리하여 기술(미현)-->
+				<cl type="qnt">톤</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

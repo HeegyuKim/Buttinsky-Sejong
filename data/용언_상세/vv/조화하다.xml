@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">調和_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>harmonize with</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="COM">구체물|추상적대상</sel_rst>
+					<eg>사회 속에서 우리는 항상 타인들과 조화하며 살아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>사회 속에서 우리는 항상 서로 조화하며 살아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>harmonize with</trans>
+				<lr>
+					<syn type="perfect">조화시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="02">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="COM">구체물|추상적대상</sel_rst>
+					<eg>우리는 가정을 사회와 서로 잘 조화하며 살아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="02">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>우리는 가정과 사회를 서로 잘 조화하며 살아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

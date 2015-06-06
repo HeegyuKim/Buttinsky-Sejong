@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>첨가하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/09</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">첨가를 하다</var>
+			<str>N.하</str>
+			<org lg="si">添加_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>혼합행위</sem_class>
+				<trans>add</trans>
+				<trans>annex</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="LOC">온</sel_rst>
+					<eg>농민이 고추씨박을 사료에 첨가할때 사료 배합 가격을 더 낮출 수 있다.</eg>
+					<eg>그의 뼈있는 충고에 내가 하나를 더 첨가하자면 결국 싸워 이기라는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

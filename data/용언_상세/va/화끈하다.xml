@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>화끈하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/15</cre_date>
+				<cre_writer>강정연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>D.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>feel hot</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(몸|얼굴|볼|귀)</sel_rst>
+					<eg>추운 데서 떨다가 한 잔 했더니 온 몸이 화끈하다.</eg>
+					<eg>그에게 맞은 뺨이 아직도 화끈하다.</eg>
+					<eg>소독약을 발랐더니 상처 부위가 화끈하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be brisk</trans>
+				<trans>be forthright</trans>
+				<trans>be frank</trans>
+				<lr>
+					<syn type="de_spoken">시원스럽다</syn>
+					<ant type="grad">답답하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">성질</n_appr>
+					<eg>우리 과장님은 성격이 화끈하고 뒤끝이 없다.</eg>
+					<eg>그 여자는 보기와는 달리 화끈한 면이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be excited</trans>
+				<trans>be fascinating</trans>
+				<lr>
+					<syn type="de_spoken">시원스럽다</syn>
+					<ant type="grad">지루하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<eg>어제 한국과 일본 간의 축구 시합은 화끈한 한판 대결이었다.</eg>
+					<eg>그들은 뭔가 화끈한 일이 없을까 머리를 맞대고 궁리 중이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>얼굴이 화끈하다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

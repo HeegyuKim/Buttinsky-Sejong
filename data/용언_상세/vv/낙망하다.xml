@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙망하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+				<mod_note>격틀 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">낙망을 하다</var>
+			<str>N.하</str>
+			<org lg="si">落望_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>be disappointed at</trans>
+				<lr>
+					<syn type="etc">낙담하다</syn>
+					<syn type="etc">낙심하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|인간집단|추상적대상|사태</sel_rst>
+					<eg>영희는 철수의 경솔한 행동에 낙망하고 말았다.</eg>
+					<eg>오늘 그런 소리 들었다고 해서 낙망하면 안 된다.</eg>
+					<eg>그는 낙망했을 때 어떻게 해야 하는지 알고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>실지로</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김정선; 임유종</cre_writer>
+				<cre_date>2001/07/15</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/17</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>실지.로</str>
+			<org lg="si">實地_</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>두 사람은 ~ 현지답사를 하고 돌아와서 그곳 상황을 보고하였다</eg>
+				<trans>actually</trans>
+				<trans>really</trans>
+				<trans>as a matter of fact</trans>
+				<trans>in fact</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>문장부사/양상부사/사실</sem_rep>
+				<lr>
+					<syn>실제</syn>
+					<syn>실제로</syn>
+					<syn>실지</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="temp"></comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~는</prt>
+				<prt>~도</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

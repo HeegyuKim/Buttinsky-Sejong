@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회유하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회유를 하다</var>
+			<str>N.하</str>
+			<org lg="si">回游_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>migrate</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">물고기</sel_rst>
+					<sel_rst arg="Y" tht="LOC">물장소</sel_rst>
+					<eg>그는 물고기가 알을 낳을 곳을 찾아 회유하듯 자신도 지구촌 방방곡곡을 찾아다니고 싶다고 했다.</eg>
+					<eg>바다에서 성장하고 강으로 올라가서 산란하는 연어,송어류와는 달리 뱀장어는 강에서 성장하고 산란을 위해 바다로 회유한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회유를 하다</var>
+			<str>N.하</str>
+			<org lg="si">懷柔_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>conciliate</trans>
+				<trans>pacify</trans>
+				<trans>appease</trans>
+				<trans>placate</trans>
+				<lr>
+					<syn type="kor">구슬리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>회견장에서 그는 회사측이 그를 금전적으로 회유하고 있었다고 폭로했다.</eg>
+					<eg>어머니는 아들을 때려도 보고 눈물로 회유해 보기도 했건만 아무 소용이 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

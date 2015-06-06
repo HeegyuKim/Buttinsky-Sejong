@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE affixDic SYSTEM "AFFIX_2007.dtd">
+
+<affixDic>
+<superEntry>
+	<orth>붙이</orth>
+	<entry n="1" pos="xs">
+		
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/08/20</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/08/20</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/08</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="plain"></var>
+			<var type="etc"></var>
+			<str>붙+이</str>
+			<org lg="temp"></org>
+			<hom exist="yes"></hom>
+		</morph_grp>
+		<sense n="1">
+			<trans>family relations</trans>
+			<con></con>
+			<lr>
+				<syn></syn>
+				<ant></ant>
+			</lr>
+			<comb_morph>
+				<comb type="np_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="n_x">
+					<result type="n">살~</result>
+					<result type="n">피~</result>
+					<result type="n">일가~</result>
+				</comb>
+				<comb type="va_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="ma_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xr_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xp_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xs_x">
+					<result type="temp"></result>
+				</comb>
+				<redup type="temp"></redup>
+			</comb_morph>
+		</sense>
+		<sense n="2">
+			<trans>things</trans>
+			<con></con>
+			<lr>
+				<syn></syn>
+				<ant></ant>
+			</lr>
+			<comb_morph>
+				<comb type="np_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="n_x">
+					<result type="n">쇠~</result>
+					<result type="n">금~</result>
+					<result type="n">고기~</result>
+				</comb>
+				<comb type="va_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="ma_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xr_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xp_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xs_x">
+					<result type="temp"></result>
+				</comb>
+				<redup type="temp"></redup>
+			</comb_morph>
+		</sense>
+	</entry>
+</superEntry>
+</affixDic>
+

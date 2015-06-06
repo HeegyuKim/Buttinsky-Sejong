@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>묵시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">묵시를 하다</var>
+			<str>N.하</str>
+			<org lg="si">默視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>overlook</trans>
+				<lr>
+					<hyper>지켜보다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위|사실명제</sel_rst>
+					<eg>우리는 언제까지 그들의 방종을 묵시하고 있어야 합니까?</eg>
+					<eg>문제는 법치국가로 자처하는 일본에서 깡패들이 타국의 선박에까지 몰려와 야료를 부리고 있는 이러한 현실을 일본당국이 묵시하고 있다는데 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">묵시를 하다</var>
+			<str>N.하</str>
+			<org lg="si">默示_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>imply</trans>
+				<lr>
+					<ant type="compl">암시하다</ant>
+					<ant type="compl">함축하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>미가 선지자는 우상 숭배로 가득찬 이스라엘의 멸망을 묵시하고 있다.</eg>
+					<eg>그 글은 소아적 자아의 벽을 허물고 무아지경에 이르도록 힘쓴다면 더 큰 자아를 만날 수 있다는 점을 묵시하고 있다 하겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

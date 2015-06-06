@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희생하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">희생을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">犧牲_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>sacrifice</trans>
+				<trans>victimize</trans>
+				<lr>
+					<syn type="kor">바치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">무생물|상상적인간(신)|장소(바다)</sel_rst>
+					<eg>그는 신에게 자식을 희생하면서까지 부족을 지키려 했다.</eg>
+					<eg>그 당시 사람들은 일 년에 한 번 바다에 젊은 처녀를 희생해야만 그 해의 뱃길이 무사하다고 믿었었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>sacrifice</trans>
+				<lr>
+					<syn type="kor">바치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(생명|명예|직위|자유|권리)</sel_rst>
+					<eg>그 젊은이들은 자신의 목숨을 희생해서라도 이 사회에 자유를 꽃피우기를 갈망했었다.</eg>
+					<eg>그는 자신이 지금까지 쌓아 온 명예를 희생하면서까지 그런 일을 할 생각은 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

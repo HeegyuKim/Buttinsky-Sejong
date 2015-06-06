@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>노래부르다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/28</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충 및 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">노래를 부르다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>sing a song</trans>
+				<lr>
+					<hyper>부르다</hyper>
+					<hyper>읖조리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡|(곡조)</sel_rst>
+					<eg>남북한의 예술인들이 모여서 '우리의 소원'을 노래불렀고 무대는 금방 눈물바다가 되었다.</eg>
+					<eg>우리는 즐겁게 먹고 놀았으며 일하면서 노래불렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

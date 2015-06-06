@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>입사지원서</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>'텍스트담지물'로 의미분할 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">입사 지원서</var>
+			<str type="N_N">입사+지원서</str><!--'지원+서'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">入社志願書</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 그룹은 ~를 종전의 두 통에서 한 통으로 간소화하였다.</eg>
+				<trans>a written application for employment</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 접수하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 마감하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 읽다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">부</cl>
+				<cl type="uni">통</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이 회사는 한 달에 천 통이 넘는 ~가 들어오고 있다.</eg>
+				<trans>a written application for employment</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 읽다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">부</cl>
+				<cl type="uni">통</cl>
+				<cl type="div">쪽</cl>
+				<cl type="div">장</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

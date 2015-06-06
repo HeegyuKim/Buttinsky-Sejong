@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>작동하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">작동을 하다</var>
+			<str>N.하</str>
+			<org lg="etc">作動_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사행</sem_class>
+				<trans>function</trans>
+				<trans>work</trans>
+				<trans>run</trans>
+				<lr>
+					<syn type="kor">움직이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기구|기계|구체물의부분(부품|장치)</sel_rst>
+					<eg>공연이 시작되기 전에 스피커가 제대로 작동하는지 다시 확인해주십시오.</eg>
+					<eg>이번 사고는 회전 출입문의 안전 장치가 제대로 작동하지 않아 일어난 것으로 밝혀졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사행</sem_class>
+				<trans>operate</trans>
+				<lr>
+					<syn type="perfect">작동시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기구|기계</sel_rst>
+					<eg>그 순간 그녀는 침착하게 경보 장치를 작동했다.</eg>
+					<eg>우리 회사에서도 그 기계를 제대로 작동할 줄 아는 사람은 몇 명 안되는 것으로 알고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

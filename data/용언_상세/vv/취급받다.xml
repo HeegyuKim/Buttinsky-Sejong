@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>취급받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">취급을 받다</var>
+			<str>N.V</str>
+			<org lg="si">取扱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be treated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">온|S것</sel_rst>
+					<eg>그 사람은 부랑자로 취급받았다.</eg>
+					<eg>그 사람의 행위는 순수하지 못한 것으로 취급받았다</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-다고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>그 사람은 부랑자라고 취급받았다.</eg>
+					<eg>그 사람의 행위는 순수하지 못하다고 취급받았다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

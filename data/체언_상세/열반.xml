@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>열반</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/05</cre_date>
+				<cre_writer>최지임</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/05</mod_date>
+				<mod_writer>최지임</mod_writer>
+				<mod_note>2003/11/05(최지임)의미부류검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/09/23</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note>기능동사정보추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/31</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note>조사수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미를 '깨달음'과 '죽음'으로 분할</mod_note>
+				<mod_note>센스1의 의미부류 수정</mod_note>
+				<mod_note>센스1에 명사결합, 동사결합 정보 추가 및 보충</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>합성어 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">涅槃</org>
+			<comp pos="n" type="suffix">~경</comp>
+			<comp pos="n" type="suffix">~상</comp>
+			<comp pos="n" type="suffix">~회</comp>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>열심히 수양한 끝에 마침내 그는 ~에 이르렀다.</eg>
+				<trans>Nirvana</trans>
+				<domain>불교</domain>
+				<sem_class>상태</sem_class> <!-- 등급속성값 수정, 단 비의도적행위의 하나로?? -->
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_n type="compound">~의 경지</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="yes">~을 이루다</form>
+					<frame>X-이 ~을 이루다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="yes">~에 이르다</form>
+					<frame>X-이 ~에 이르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+			</syn_grp>
+		</sense>
+		<sense> <!-- 추가함 -->
+			<sem_grp>
+				<eg>간밤에 노스님께서 ~을 하셨다는 연락이 왔다.</eg>
+				<trans>death</trans>
+				<domain>불교</domain>
+				<sem_class>죽음</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="yes">~에 들다</form>
+					<frame>X-이 ~에 들다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

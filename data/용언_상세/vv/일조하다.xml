@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일조하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/04</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">일조를 하다</var>
+			<str>N.하</str>
+			<org lg="si">一助_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>be of help to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(사태|상황)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(사태|상황)</sel_rst>
+					<eg>일부 전문가들은 그간의 달러 과매도 분위기가 최근의 달러 강세에 일조하고 있다고 평가한다.</eg>
+					<eg>분단 상황도 역사 용어의 혼란에 일조했다.</eg>
+					<eg>그의 임용에는 서울대 경제학과를 나와 뉴욕대에서 경제학 박사학위를 받은 경력도 일조했다.</eg>
+					<eg>대중교통 이용은 환경친화에 일조한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(사태|상황)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것|S데</sel_rst>
+					<eg>그가 성공하는 데는 집안의 인맥도 일조했다.</eg>
+					<eg>아버지의 사업이 실패한 것에는 방만한 투자가 일조했다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

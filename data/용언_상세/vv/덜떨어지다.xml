@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덜떨어지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be stupid</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|행위</sel_rst>
+					<eg>그는 사람이 좀 덜떨어졌다.</eg>
+					<eg>그는 하는 짓이 좀 덜떨어졌다.</eg>
+					<eg>너는 왜 그렇게 덜떨어지게 구니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

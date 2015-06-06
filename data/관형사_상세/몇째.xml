@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>몇째</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/22</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/05/01</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx">몇쨋</var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>몇+-째</str>
+			<org lg="temp"></org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>몇째 딸이 제일 착할까?</eg>
+				<nclass>확정</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi">의문</sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car">몇</rel>
+					<rel type="qua">몇</rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 누나</comb_md_n>
+				<comb_md_n>~ 동생</comb_md_n>
+				<comb_md_n>~ 딸</comb_md_n>
+				<comb_md_n>~ 삼촌</comb_md_n>
+				<comb_md_n>~ 아들</comb_md_n>
+				<comb_md_n>~ 이모</comb_md_n>
+				<comb_md_n>~ 자리</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 이유</comb_md_n>
+				<comb_md_n>~ 번</comb_md_n>
+				<comb_md_n>~ 이야기</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

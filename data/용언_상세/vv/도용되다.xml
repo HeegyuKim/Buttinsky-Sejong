@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도용되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도용이 되다</var>
+			<str>N.되</str>
+			<org lg="si">盜用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be used without license</trans>
+				<lr>
+					<syn type="perfect">도답되다</syn>
+					<hyper>사용되다</hyper>
+					<hyper>이용되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|장소|추상적대상|행위|인간</sel_rst>
+					<eg>내 논문의 상당 부분이 그 논문에 도용되었다.</eg>
+					<eg>그의 이름이 그 일에 도용되었다.</eg>
+					<eg>유명 상표가 아직도 국내 의류제조업자들에 의해 도용되고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>내 아이디어가 그 제품을 개발하는 데에 도용되었다.</eg>
+					<eg>내 이름이 허락도 없이 청원서를 작성하는 데에 도용되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

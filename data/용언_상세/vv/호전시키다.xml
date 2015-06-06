@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호전시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/27</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/09</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호전을 시키다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.시</str>
+			<org lg="si">好轉_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>improve</trans>
+				<trans>change for the better</trans>
+				<lr>
+					<ant type="dir">악화시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="X" tht="THM">상황|사건|현상</sel_rst>
+					<eg>주변국 증시의 상승세가 우리 주식 시장의 투자 심리를 호전시키고 있다.</eg>
+					<eg>그 선수의 활약이 침체된 팀 분위기를 호전시켜 승리로 이끌었다.</eg>
+					<eg>정부는 경기를 호전시킬 방안을 모색 중에 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>make better</trans>
+				<lr>
+					<ant type="dir">악화시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">질병및증세</sel_rst>
+					<eg>새로 쓰기 시작한 약제가 아버지의 병세를 많이 호전시켰다.</eg>
+					<eg>그 여자의 정성어린 간호가 남편의 건강을 호전시킨 것이 사실이다.</eg>
+					<eg>아토피 피부염의 경우 식습관의 개선과 적절한 치료가 증세를 호전시키거나 완화시킬 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

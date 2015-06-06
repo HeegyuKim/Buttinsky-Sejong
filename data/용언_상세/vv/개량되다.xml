@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>개량되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/28</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">개량이 되다</var>
+			<str>N.되</str>
+			<org lg="si">改良_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be improved</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|속성(방향)</sel_rst>
+					<eg>요즘 돼지들은 살코기 양을 늘리는 방향으로만 개량되고 있다.</eg>
+					<eg>전통 한복이 멋과 기능을 겸비한 현대식 한복으로 개량되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/28</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">개량이 되다</var>
+			<str>N.되</str>
+			<org lg="si">改量_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be measured again</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>업자들의 항의로 수하물이 공개하에 개량되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

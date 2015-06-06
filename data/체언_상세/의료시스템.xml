@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료시스템</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj 기술, n_n 기술, n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 시스템</var>
+			<str type="N_N">의료+시스템</str>
+			<org lg="si">醫療___</org>
+			<org lg="en">__system</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~에 대한 국민들의 불만이 높아지고 있다.</eg>
+				<eg>지금의 ~에 의하면 암과 같은 병에 걸렸을 때에는 건강 보험이 별 도움을 주지 못한다.</eg>
+				<eg>그 나라의 ~은 평소에 진료 받는 병원과 분만시 입원 병원이 다르다.</eg>
+				<trans>medical system</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 열악하다</comb_aj>
+				<comb_aj type="appr">~이 불합리하다</comb_aj> 
+				<comb_n type="compound">선진 ~</comb_n>
+				<comb_n type="compound">보건 ~</comb_n>
+				<comb_n type="compound">응급 ~</comb_n>
+				<comb_n type="compound">~ 구축</comb_n>
+				<comb_n type="compound">~ 도입</comb_n>
+				<comb_n type="compound">~ 개선</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 작동하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>금리인하</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>max_n 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">금리 인하</var>
+			<str type="N_N">금리+인하</str>
+			<org lg="si">金利引下</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 ~에 대한 구체적인 안을 발표했다.</eg>
+				<trans>reduction of the rate of interest</trans>
+				<domain></domain>
+				<sem_class>감소행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">금리인상</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+						<!--합성동사가 가능한지 확인 요망-->
+						<!--합성동사 예를 코퍼스에서 발견하지 못해 그대로 no로 둠(송근영) -->
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 단행하다</form> <!-- 송근영 추가 -->
+					<frame>X-이 ~를 단행하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str><!--김미현 추가-->
+				<sel_rst arg="X">국가|금융기관</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

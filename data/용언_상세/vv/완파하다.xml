@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>완파하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">완파를 하다</var>
+			<str>N.하</str>
+			<org lg="si">完破_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적결과행위</sem_class>
+				<trans>overwhelm</trans>
+				<trans>make a clean sweep of</trans>
+				<lr>
+					<hyper>이기다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>이번 시합에서 한국팀은 일본팀을 3대0으로 완파하고 준결승에 진출했다.</eg>
+					<eg>그 선수는 매 경기에서 상대를 완파하는 괴력을 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

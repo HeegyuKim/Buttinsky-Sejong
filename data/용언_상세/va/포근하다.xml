@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>포근하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be warm</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">순환시간|기상현상</sel_rst>
+					<eg>아침은 포근하겠고 낮에는 좀 덥겠습니다.</eg>
+					<eg>날씨는 포근하지만 구름은 많았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be soft and comfortable</trans>
+				<trans>be fluffy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>어머니가 새로 솜을 넣어주신 겨울 이불은 포근하고 아늑하였다.</eg>
+					<eg>포근한 잔디밭이 발 아래 펼쳐져 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be warm-hearted</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|신체부위|추상적대상</sel_rst>
+					<eg>여자는 여인보다 포근하다.</eg>
+					<eg>할머니의 품은 언제나 포근하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

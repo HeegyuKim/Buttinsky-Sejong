@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걸고넘어가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>str 검토</cre_note>
+				<cre_note>첫째 subsense를 더 나누어야 할지</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/08/27</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-고.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>간섭</sem_class>
+				<trans>pick on</trans>
+				<lr>
+					<hyper>언급하다</hyper>
+					<hyper>따지다</hyper>
+					<rel>걸고넘어지다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(문제)|인간|인지상태(의견)</sel_rst>
+					<eg>이슈가 되었던 그 문제는 분명 걸고넘어가는 사람들이 없었으면 어물쩡 넘어갔을 거 같습니다.</eg>
+					<eg>아무것도 해결되지 않은 이 시점에서 전직 대통령을 꼭 걸고넘어가야 되겠는가?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>신발을 빨리 벗지 않은 것까지 걸고넘어가는 관리인도 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">사사건건</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

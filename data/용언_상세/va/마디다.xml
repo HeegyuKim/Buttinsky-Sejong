@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>마디다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 기술</mod_note>
+				<mod_note>센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be durable</trans>
+				<lr>
+					<ant type="grad">헤프다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>이 비누는 마디어서 물에 잘 불지 않는다.</eg>
+					<eg>연필심이 단단하면 마디어서 오래 쓸 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속도속성값</sem_class>
+				<trans>be slow</trans>
+				<lr>
+					<syn type="perfect">더디다</syn>
+					<ant type="grad">빠르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">생물</sel_rst>
+					<n_appr arg="X">성장속도</n_appr>
+					<eg>꽃이 물을 적게 주어서 그런가 마디게 자란다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

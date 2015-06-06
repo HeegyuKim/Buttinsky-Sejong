@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼬부장하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>선택제약 수정, 적정명사 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">꾸부정하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be bent</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">허리</n_appr>
+					<n_appr arg="X">어께</n_appr>
+					<eg>우리 할머니 허리는 연세에 비해 그리 꼬부장하다고 할 수는 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>꼬부장한</infl_rst>
+			<trans>disagreeable</trans>
+			<sel_rst arg="X" tht="THM">(생각|마음|의견)</sel_rst>
+			<defect_eg>꼬부장한 생각</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

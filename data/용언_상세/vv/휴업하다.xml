@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휴업하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/24</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">휴업을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">休業_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>temporarily close the business</trans>
+				<trans>take a holiday</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상업건물(상점|가게)|기관건물(병원|은행)</sel_rst>
+					<eg>건강 문제로 그는 당분간 병원을 휴업하게 되었다.</eg>
+					<eg>그는 한 달 동안 가게를 휴업하고 시골로 떠났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be closed</trans>
+				<trans>suspend business</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상업건물(상점|가게)|기관건물(병원|은행)</sel_rst>
+					<eg>내부 공사 관계로 이 상점은 당분간 휴업한다.</eg>
+					<eg>불경기로 많은 공장들이 휴업하게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

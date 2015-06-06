@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낭패보다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/21</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낭패를 보다</var>
+			<str>NV</str>
+			<org lg="si">狼狽_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>fall down</trans>
+				<lr>
+					<syn type="perfect">곤란당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>갑자기 비가 오는 바람에 날씨 좋을 줄 알고 하늘하늘한 원피스를 입고 갔다가 낭패봤다.</eg>
+					<eg>호텔이라는 것만 믿고 아무것도 안 챙겨갔다가 낭패봤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

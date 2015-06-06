@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쌔다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">쌓이다</var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>get accumulated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>미국에서는 그랜져급 차들이 쌔고 쌔서 그랜져가 그냥 탈 만한 수준에서 값싼 자동차가 되었을 수도 있습니다.</eg>
+					<eg>멕시코는 그 오랜 역사만큼이나 유적지와 유물들이 쌔고 쌔어 있어 웬만한 유물들과 유적지는 제대로 관리가 안 되고 있는 현실이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">싸이다</var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get wrapped</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="INS">천|종이|(구름|불길|화염)</sel_rst>
+					<eg>어머님이 남겨주신 반지는 종이로 꼭꼭 쌔어 있었다.</eg>
+					<eg>구름 속에 쌔어 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

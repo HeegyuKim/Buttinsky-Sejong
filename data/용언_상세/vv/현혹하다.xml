@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>현혹하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/09</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/01</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/02</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">현혹을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">眩惑_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>delude</trans>
+				<trans>seduce</trans>
+				<trans>tempt</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|속성(마음|생각|눈)</sel_rst>
+					<sel_rst arg="Z" tht="INS">온</sel_rst>
+					<eg>거리의 장사꾼들이 신기한 물건들로 행인들을 현혹했다.</eg>
+					<eg>그는 달콤한 말로 상대의 마음을 현혹하는 데 재주가 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>delude</trans>
+				<trans>seduce</trans>
+				<trans>tempt</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|속성(생각|마음|눈)</sel_rst>
+					<eg>진열장을 가득 메운 장난감들이 아이들의 눈을 현혹했다.</eg>
+					<eg>그의 잘 생긴 외모가 그녀를 현혹했다.</eg>
+					<eg>그 정치인의 달콤한 말과 친절한 행동이 유권자들을 현혹했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

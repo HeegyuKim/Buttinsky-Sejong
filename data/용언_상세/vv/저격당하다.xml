@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>저격당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/26</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/05</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">저격을 당하다</var>
+			<str>N.당</str>
+			<org lg="si">狙擊當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be shot</trans>
+				<lr>
+					<syn type="perfect">저격되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>그는 한 극우 청년에게 저격당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be shot</trans>
+				<lr>
+					<syn type="perfect">저격되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">무기</sel_rst>
+					<eg>그는 한 극우 청년이 쏜 흉탄에 저격당했다.</eg>
+					<eg>애국지사 한 분이 연설 도중 괴한의 총에 저격당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

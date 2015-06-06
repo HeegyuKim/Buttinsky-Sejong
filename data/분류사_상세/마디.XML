@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>마디</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/14</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/24</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>대나무 세 ~</eg>
+				<cl_subtype type="uni"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>나는 그와 한두 ~ 말밖에 하지 못했다</eg>
+				<eg>노래 한 ~ 해 봐라</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>노래</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>이 악보의 위 네 ~만 연주해 보아라</eg>
+				<domain>음악</domain>
+				<cl_subtype type="uni"/>
+				<rel_n>악보</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

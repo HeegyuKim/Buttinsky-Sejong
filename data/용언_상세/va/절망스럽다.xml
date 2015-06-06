@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>절망스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/25</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">絶望__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be miserable</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|상황</sel_rst>
+					<eg>환자의 상태가 절망스럽다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<eg>그 소식을 듣자 절망스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

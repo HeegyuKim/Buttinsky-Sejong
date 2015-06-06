@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걷어채다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/18</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/27</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>피동형 엔트리 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">걷어를 채다</var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>grab fast</trans>
+				<lr>
+					<hyper>채다</hyper>
+					<hyper>잡다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(공|지갑|돈)</sel_rst>
+					<eg>골키퍼는 날아오는 공을 재빨리 걷어챘다.</eg>
+					<eg>소매치기는 내 지갑을 걷어채어 달아났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/27</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>변이형 보충</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">걷어를 채다</var>
+			<var type="abb">걷어차이다</var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get a hard kick</trans>
+				<lr>
+					<hyper>차이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(옆구리|팔꿈치)</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>소대원들은 부대장에게 옆구리를 걷어채기 일쑤였다.</eg>
+					<eg>나는 운동장 한가운데서 체육 선생님에게 팔꿈치를 걷어챘다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be made to break off</trans>
+				<lr>
+					<syn type="sino">거절당하다</syn>
+					<hyper>차이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>그는 미스코리아가 된 애인에게 걷어챘다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

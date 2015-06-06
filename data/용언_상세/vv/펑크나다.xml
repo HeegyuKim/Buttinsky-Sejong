@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>펑크나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">펑크가 나다</var>
+			<str>NV</str>
+			<org lg="en">puncture_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>have a blowout</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(튜브|타이어)</sel_rst>
+					<eg>바퀴가 펑크나서 애를 먹었다.</eg>
+					<eg>타이어가 펑크나기는 했지만 다른 곳은 문제가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>break</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획|행위</sel_rst>
+					<eg>기본 계획이 펑크나서 큰 어려움을 겪고 있다.</eg>
+					<eg>일이 펑크나서 큰 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>leak out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(비밀)</sel_rst>
+					<eg>우리들의 비밀이 펑크나는 바람에 곤욕을 치뤘다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>혼잡통행료</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/15</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>n_n 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">혼잡 통행료</var><!--정보기입(김)-->
+			<str type="N_N">혼잡+통행료</str><!--혼잡+통행+료-->
+			<org lg="si">混雜通行料</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서울시는 주요 도로에서 ~를 징수하기로 하였다.</eg>
+				<trans>traffic congestion toll</trans>
+				<domain></domain>
+				<sem_class>비용</sem_class> <!--'돈'에서 '비용'으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_n type="compound">~ 징수</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 징수하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">원</cl> <!--단위표현 유형을 uni에서 qnt로 수정(김)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>그램중</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/30</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/31</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>그램+중</str>
+			<org lg="en">gram_</org>
+			<org lg="si">__重</org>
+			<symb>gw</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>다음 물체에 1~의 중력이 작용한다고 치자</eg>
+				<domain>물리</domain>
+				<cl_subtype type="pwr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>비토세력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>의미부류 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>대역어 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>맥스엔, 논항 의미부류 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>단위표현에 '개' 추가;'무리'의 유형값 수정;'주요 ~'의 유형값 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">비토 세력</var>
+			<str type="R_N">비토+세력</str>
+			<org lg="en">veto__</org>
+			<org lg="si">__勢力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>특정 정당을 싫어하는 ~이 나타나기 시작했다.</eg>
+				<trans>counterforce</trans>
+				<trans>veto force</trans><!--김성용(2004/07/03)영어 대역어 확인 요망-->
+				<domain></domain>
+				<sem_class>일시적집단</sem_class><!--김성용(2004/07/03)의미부류 확인 요망--> <!--(호정은)'인간집단'에서 '일시적집단'으로 수정함-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc">최대의 ~</comb_n>
+				<comb_n type="compound">주요 ~</comb_n>
+				<comb_n type="compound">당내 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 나타나다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 등장하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">무리</cl> <!--추가(미현)--> <!-- grp를 수정 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

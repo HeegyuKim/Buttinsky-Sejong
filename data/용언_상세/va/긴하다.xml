@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>긴하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>형태론적 내부구조에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Ru.하</str>
+			<org lg="si">緊_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be vital</trans>
+				<trans>be important</trans>
+				<lr>
+					<syn type="perfect">중요하다</syn>
+					<syn type="perfect">급하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>우리에게 그 일은 매우 긴하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>긴한</infl_rst>
+			<trans>vital</trans>
+			<trans>important</trans>
+			<sel_rst arg="X" tht="THM">사태</sel_rst>
+			<defect_eg>긴한 용무</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>긴히</infl_rst>
+			<infl_rst>긴하게</infl_rst>
+			<trans>vitally</trans>
+			<trans>importantly</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>그 돈을 긴히 쓸일이 있었다.</defect_eg>
+			<defect_eg>그 돈을 긴하게 쓸일이 있었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

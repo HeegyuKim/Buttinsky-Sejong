@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>외교관계</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/29</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note>의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var 기술;전문영역(정치) 삭제;n_aj 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">외교 관계</var>
+			<str type="N_N">외교+관계</str>
+			<org lg="si"> 外交關係</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>두 나라는 ~를 수립했다.</eg>
+				<trans>diplomatic relations</trans>
+				<domain></domain>
+				<sem_class>관계</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 좋다</comb_aj><!--magn를 수정(김이정)-->
+				<comb_aj type="appr">~가 나쁘다</comb_aj><!--min를 수정(김이정)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 수립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 단절하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl><!--전미현(2004/06/29) 단위로 따질 수 없다고 생각되는 단어는 비워두나요?-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

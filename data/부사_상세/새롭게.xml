@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>새롭게</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/07/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/08</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>새롭-게</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>세상이 온통 ~ 보이더라</eg>
+				<eg>지도교사의 역할에 대한 인식을 ~ 할 필요가 있다는 점이다</eg>
+				<eg>비슷하게 하는 것보다 자기가 창의적으로 ~ 연구해서 했으면 좋겠다</eg>
+				<trans>new</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>새로이</syn>
+					<ant>진부하게</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~보다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>김영란은 요즘 다이어트비법도 ~ 가르친다</eg>
+				<trans>differently</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>다르게</syn>
+					<ant>그대로</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~행동하다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

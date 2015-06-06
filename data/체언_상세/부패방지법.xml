@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부패방지법</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>str 코멘트 추가</mod_note>
+				<mod_note>eg 수정</mod_note>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note기술방식 수정</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">부패방지+법</str>
+			<!--부패+방지법 ? (미현)-->
+			<!--부패방지를 더 분석할 수 있음(송근영)-->
+			<!--두 가지 분석이 다 가능해 보임(송근영)-->
+		<org lg="si">腐敗防止法</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>국회는 고위공직자들을 대상으로 한 ~을 통과시켰다.</eg>
+				<!-- 예문을 좀더 자연스럽게 고침(송근영) -->
+				<trans>preventive measure of corruption</trans>
+				<domain></domain>
+				<sem_class>법률</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 제정</comb_n><!--미현 추가-->
+				<comb_n type="compound">~ 통과</comb_n><!--미현 추가-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 만들다</form> <!-- 송근영 추간 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 통과시키다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

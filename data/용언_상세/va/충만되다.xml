@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>충만되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">充滿_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be full</trans>
+				<trans>be filled</trans>
+				<trans>be abundant</trans>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물|현상(기운)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(우주)</sel_rst>
+					<eg>4월이 되니 봄 기운이 온 땅에 충만되어 있다.</eg>
+					<eg>초기에는 방사선이 온 우주에 충만 되어있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(우주)</sel_rst>
+					<sel_rst arg="Y" tht="INS">무생물|현상(기운)</sel_rst>
+					<eg>4월이 되니 온 땅이 봄 기운으로 충만되어 있다.</eg>
+					<eg>초기의 우주는 방사선과 물질로 충만되어 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태(기쁨|열정)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">속성(마음)</sel_rst>
+					<eg>기영이 마음에 기쁨이 충만되어 있다.</eg>
+					<eg>온 교인들에게 성령이 충만되어 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="INS">상태(기쁨|열정)|상상적인간(성령)</sel_rst>
+					<eg>기영이가 기쁨으로 충만되어 있다.</eg>
+					<eg>그 당시는 온 교인들이 성령으로 충만되어 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

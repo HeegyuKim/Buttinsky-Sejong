@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>해괴망측하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">駭怪罔測_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be extremely scandalous</trans>
+				<lr>
+					<syn type="perfect">해괴하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>할아버지께서는 외국인의 옷차림이 해괴망측하게 느껴지시나 보다.</eg>
+					<eg>하도 일이 해괴망측해서 믿기지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

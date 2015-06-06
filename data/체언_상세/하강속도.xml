@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>하강속도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">하강 속도</var>
+			<str type="N_N">하강+속도</str>
+			<org lg="si">下降速度</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부의 이번 정책은 건설경기를 부양하려는 것이 아니라 건설경기의 ~를 조절하려는 것이다.</eg>
+				<eg>대기권을 진입할 때 우주선의 ~를 늦추기 위해 낙하산이 사용된다.</eg>
+				<trans>descent speed</trans>
+				<domain></domain>
+				<sem_class>감소</sem_class>
+				<lr>
+					<syn type="etc">강하속도</syn>
+					<ant type="dir">상승속도</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 완만하다</comb_aj>
+				<comb_aj type="appr">~가 빠르다</comb_aj>
+				<comb_aj type="appr">~가 가파르다</comb_aj>
+					  <!--항목 분리-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자리잡다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/04/03</mod_date>
+				<mod_writer>조원형</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/04/08</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take place</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(지역|마을|건물|집|가게)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(지역|곳)</sel_rst>
+					<eg>내 고향 마을은 가리왕산 기슭에 자리잡고 있다.</eg>
+					<eg>그 가게는 시내 중심가에 자리잡고 있다.</eg>
+					<eg>할아버지 댁은 언덕 위에 자리잡고 있어 아랫 마을이 훤히 내려다 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take place</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(지역|곳)</sel_rst>
+					<eg>사할린으로 이주한 한민족들은 평야 지대에 자리잡고 농사를 짓기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take place</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(생각|추억|아픔|상처)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(머리|가슴|마음)</sel_rst>
+					<eg>그녀에 대한 생각들이 점차 그의 머리 속에 자리잡기 시작했다.</eg>
+					<eg>실연이 남긴 상처가 아직도 그녀의 마음 속에 자리잡고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take place</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">속성인간(리더|대장)</sel_rst>
+					<eg>대인 관계가 좋기로 이름난 그 사람은 어느새 우리 모임에 리더로 자리잡았다.</eg>
+					<eg>전학온지 얼마 되지 않은 민호가 우리 반에 꼬마 대장으로 자리잡았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상(질서|제도|문화)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(사회|생활|삶)</sel_rst>
+					<sel_rst arg="Z" tht="FNS">구체물|추상적대상</sel_rst>
+					<eg>컴퓨터가 우리 생활에 필수적인 도구로 자리잡게 되었다.</eg>
+					<eg>일본에서 들어온 화투 놀이가 우리 사회에 대중 오락으로 자리잡은 것은 이미 오래다.</eg>
+					<eg>스키가 이제 한국에서도 대중적인 겨울 스포츠로 자리잡기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(사회|생활|삶)</sel_rst>
+					<sel_rst arg="Z" tht="FNS">추상적대상</sel_rst>
+					<eg>공공질서를 지키는 것은 이제 우리 사회에 기본 예절로 자리잡게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

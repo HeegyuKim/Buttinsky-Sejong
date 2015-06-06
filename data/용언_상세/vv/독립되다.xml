@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>독립되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">독립이 되다</var>
+			<str>N.하</str>
+			<org lg="si">獨立_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>become independent</trans>
+				<lr>
+					<syn type="perfect">자립되다</syn>
+					<ant type="compl">종속되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|장소|추상적대상</sel_rst>
+					<eg>이제부터 독립된 생활을 해야겠다.</eg>
+					<eg>살사는 재즈, 힙합처럼 독립된 음악 장르이다.</eg>
+					<eg>후반기부터 마케팅부서는 독립된 부서로 운영된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간|인간집단|장소|추상적대상</sel_rst>
+					<eg>우리나라는 1945년 일본으로부터 독립됐다.</eg>
+					<eg>전통 음악에서 독립된 퓨전 음악이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

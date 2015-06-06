@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>구리다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">쿠리다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>냄새속성값</sem_class>
+				<trans>be ill-smelling</trans>
+				<trans>be fetid</trans>
+				<lr>
+					<syn type="perfect">쿠리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|냄새</sel_rst>
+					<eg>이 하숙집에서는 가끔 구린 냄새가 나는 된장이 나오기도 하고, 소금이 씹히는 조개젓이 나오기도 했다.</eg>
+					<eg>남의 똥이 냄새 나면 제 똥 구린 줄도 알아야지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be mean</trans>
+				<trans>be low</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그 녀석은 하는 짓이 너무 구려서 함께 일하고 싶지 않다.</eg>
+					<eg>역시 비열한 사람이 하는 행동은 구리기 이를 데 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>have something on one's conscience</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|(구석|부분)</sel_rst>
+					<eg>네 말이나 행동이 구린 부분이 없다면 당당하게 행동해라.</eg>
+					<eg>그 여자는 구린 구석이 하도 많아서 늘 사람들에게 터무니없는 허풍만 떨고 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>입이 구리다</idm>
+			<idm>뒤가 구리다</idm>
+			<idm>밑이 구리다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>체질화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">체질화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">體質化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>do something as if it was an innate characteristics</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에게 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|행위|S것</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 매일 아침 운동하는 것이 체질화되었다.</eg>
+					<eg>그 사람은 격렬한 운동이 이미 체질화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

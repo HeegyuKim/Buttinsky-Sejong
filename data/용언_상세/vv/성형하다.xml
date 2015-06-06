@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>성형하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">성형을 하다</var>
+			<str>N.하</str>
+			<org lg="si">成形_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>form</trans>
+				<trans>shape</trans>
+				<trans>model</trans>
+				<lr>
+					<syn type="perfect">주조하다</syn>
+					<syn type="kor">만들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">조형물|용기|상자|기구|기기</sel_rst>
+					<eg>그 친구의 집안은 전통적으로 도기를 성형하면서 살아왔다.</eg>
+					<eg>아버지는 언제나 유리 그릇 하나도 정성을 다해 성형하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>undergo a plastic operation</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|신체부위</sel_rst>
+					<eg>의사는 턱만 성형하겠다고 했지만 내 친구는 만족하지 않았다.</eg>
+					<eg>그런 흉터는 가능한 한 빨리 성형해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

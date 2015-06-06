@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가망없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/27</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2007/04/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>대역어, 예문수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">가망이 없다</var>
+			<str>NA</str>
+			<org lg="si">可望_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be not promising</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">일(선거|사업)</sel_rst>
+					<eg>이번 선거는 거의 가망없다.</eg>
+					<eg>가망없는 사업에 더 이상 투자하지 말고 새로 시작해라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be not hopeful</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(사회)</sel_rst>
+					<eg>도덕과 정의가 바로 서지 않는다면 우리 사회는 더 이상 가망없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be hopeless</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>가망없다는 의사말에 장례식까지 준비하던 즈음 기적같은 일이 일어났다.</eg>
+					<eg>그제서야 담당의사가 가망없다고 내게 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

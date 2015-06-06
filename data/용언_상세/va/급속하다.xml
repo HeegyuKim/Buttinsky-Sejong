@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>급속하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"표준"에 의거하여 "급속"을 명사로 간주</cre_note>
+				<cre_note>제한된 활용형으로 두 개의 형태를 제시한 것에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>defect 재고, 일상적으로 관형형, 부사 및 부사형으로 사용되므로 아예 삭제해도 될 듯</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">急速_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rapid</trans>
+				<lr>
+					<syn type="perfect">급격하다</syn>
+					<hyper>빠르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태변화(변화|발전|성장)</sel_rst>
+					<eg>요즘에는 인터넷 환경의 발전이 급속하다.</eg>
+					<eg>요즘에는 인터넷 환경이 급속한 발전을 이루어가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>급속한</infl_rst>
+			<trans>rapid</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>급속한 속도</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>급속히</infl_rst>
+			<infl_rst>급속하게</infl_rst>
+			<trans>rapidly</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>인간의 뇌는 3세까지 급속히 발전한다.</defect_eg>
+			<defect_eg>인간의 뇌는 3세까지 급속하게 발전한다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

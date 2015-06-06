@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오인당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">오인을 당하다</var>
+			<str>N.당</str>
+			<org lg="si">誤認當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be mistaken for</trans>
+				<lr>
+					<syn type="perfect">오인받다</syn>
+					<syn type="perfect">오인되다</syn>
+					<ant type="conv">오인하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">인간</sel_rst>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>며칠 동안이나 그녀의 집 앞을 서성대던 준오는 동네 사람들에게 도둑으로 오인당해 곤욕을 치르기도 했다.</eg>
+					<eg>나는 비틀거리는 그녀를 도와주려다가 오히려 치한으로 오인당할 뻔했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

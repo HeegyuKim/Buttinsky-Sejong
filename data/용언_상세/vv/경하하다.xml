@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경하하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">慶賀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>celebrate</trans>
+				<lr>
+					<hyper>축하하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">계획사건(결혼식|회갑연)</sel_rst>
+					<eg>결혼식을 경하하며 이 화분을 보냅니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>영조는 왕세자의 환후가 회복된 것을 경하하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

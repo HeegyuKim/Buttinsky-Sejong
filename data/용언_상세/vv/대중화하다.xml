@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대중화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">大衆化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>make popular</trans>
+				<lr>
+					<ant type="compl">탈대중화하다</ant>
+					<ant type="compl">고급화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>그는 한국에 동남아시아에서 유행하는 세팍타크로라는 운동을 대중화한 장본인이다.</eg>
+					<eg>그는 그 나라 사람들에게 태권도를 대중화한 주역이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>그는 그 나라 사람들에게 김치를 만들어 먹는 것을 대중화했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>한류 열풍이 동남아시아에 태권도를 대중화했다.</eg>
+					<eg>한국 드라마가 바로 그 나라 사람들에게 한국 음식을 대중화한 주역이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>한류 열풍이 동남아시아에 한국 비디오 보는 것을 대중화했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>그 연예인이 비빔밥을 먹은 것이 그 나라 사람들에게 한국 음식을 대중화하는 데에 크게 기여했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be popular</trans>
+				<lr>
+					<ant type="compl">탈대중화되다</ant>
+					<ant type="compl">고급화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단|장소</sel_rst>
+					<eg>한국에 동남아시아에서 유행하는 세팍타크로라는 운동이 점점 더 대중화하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단|장소</sel_rst>
+					<eg>그 나라 사람들에게 김치를 만들어 먹는 것이 이제 대중화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

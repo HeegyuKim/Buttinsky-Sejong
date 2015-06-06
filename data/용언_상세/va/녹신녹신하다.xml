@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>녹신녹신하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">눅신눅신하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be very soft and flexible</trans>
+				<lr>
+					<syn type="perfect">나긋나긋하다</syn>
+					<hyper>부드럽다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(손|엉덩이|가슴)|구체물(빵|떡)</sel_rst>
+					<eg>손을 뻗자 그녀의 녹신녹신한 손이 만져졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">눅신눅신하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be limp</trans>
+				<lr>
+					<syn type="perfect">나른하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(몸)</sel_rst>
+					<eg>산에서 내려오자 온 몸이 녹신녹신했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

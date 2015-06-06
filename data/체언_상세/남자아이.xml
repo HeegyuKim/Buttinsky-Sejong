@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>남자아이</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">남자애</var>
+			<var type="spr">남자 아이</var>
+			<str type="N_N">남자+아이</str>
+			<org lg="si">男子_</org> <!-- '<si 남자_>, <ko _아이>'와 같이 반복을 하지 않는다?? -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~가 왜 그렇게 겁이 많은 거니?</eg>
+				<eg>수업이 끝나자 ~ 몇 명이 후다닥 교실 밖으로 뛰어나갔다.</eg>
+				<trans>boy-child</trans>
+				<trans>boy</trans>
+				<domain></domain>
+				<sem_class>남성인간</sem_class>
+				<lr>
+					<syn type="kor">사내아이</syn>
+					<ant type="compl">여자아이</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 어리다</comb_aj>
+				<comb_aj type="appr">~가 똑똑하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>의사는 가족들에게 ~가 태어났다고 알려주었다.</eg>
+				<trans>boy-child</trans>
+				<domain></domain>
+				<sem_class>남성인간</sem_class>
+				<lr>
+					<syn type="kor">사내아이</syn>
+					<ant type="compl">여자아이</ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 튼튼하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 낳다</form>
+							<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

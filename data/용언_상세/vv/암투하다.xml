@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>암투하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/09</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">암투를 하다</var>
+			<str>N.하</str>
+			<org lg="si">暗鬪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행동</sem_class>
+				<trans>feud secretly</trans>
+				<lr>
+					<hyper>싸우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 Z=N2-에서 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">동물|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간집단|장소</sel_rst>
+					<eg>당내에서 우파가 좌파와 암투하고 있다.</eg>
+					<eg>궁궐에서는 왕비가 후궁과 암투하는 경우가 잦았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 Z=N1-에서 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">동물|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간집단|장소</sel_rst>
+					<eg>당내에서 좌파와 우파가 암투하고 있다.</eg>
+					<eg>궁궐에서는 후궁과 황비가 암투하는 경우가 잦았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

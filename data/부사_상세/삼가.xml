@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>삼가</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김정선; 임유종</cre_writer>
+				<cre_date>2001/07/15</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~ 고인의 명복을 빕니다</eg>
+				<trans>respectfully</trans>
+				<trans>reverently</trans>
+				<domain></domain>
+				<reg>옛말투</reg>
+				<con></con>
+				
+				<sem_rep>문장부사/양상부사/희망</sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="temp"></comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>빌다</col>
+				<col>바라다</col>
+				<col>기원하다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~OV</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

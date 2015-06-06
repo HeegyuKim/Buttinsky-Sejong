@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>구수하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정, 적정명사 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">고소하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be pleasant</trans>
+				<trans>be tasty</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식|속성(맛)|냄새</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<n_appr arg="X">냄새</n_appr>
+					<eg>밥을 긁어내고 난 솥에 끓인 숭늉이 구수하다.</eg>
+					<eg>저 길 모통이에 있는 빵집은 빵맛이  구수하다며  찾는  사람들이  많다.</eg>
+					<eg>오늘 저녁은 무슨 반찬인지 냄새가 아주 구수하네.</eg>
+					<eg>김이 피어 오르는 솥단지에서도 구수한 냄새가 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be interesting</trans>
+				<trans>be humorous</trans>
+				<trans>be delightful</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소통행위(말|이야기)</sel_rst>
+					<eg>볼 것도 많았을 뿐만 아니라 여행 안내원의 설명도 구수했던 이번 여행은 기억에 오래 남을 것이다.</eg>
+					<eg>아랫목에서 톡톡 튀는 화롯불에 주전부리가 될 법한 밤이나 감자를 구워 먹으며 할머니가 들려주시는 구수한 옛이야기를 들으면, 추위는 어느덧 화롯불 안으로 사그라져갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be kind</trans>
+				<trans>be kind-hearted</trans>
+				<trans>be warm</trans>
+				<lr>
+					<syn type="sino">후하다</syn>
+					<syn type="perfect">푸근하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">품격속성(인심|마음씨)</sel_rst>
+					<eg>나는 자취하며 어린 학생들과 어울려 잔잔한 전원 수필처럼 소박한 재미와 된장처럼 구수한 농촌의 인정에 파묻혔다.</eg>
+					<eg>이 동네에는 구수한 마음씨를 가진 사람들이 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

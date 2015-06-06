@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>얘네</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str type="N_S">얘+네</str>
+		</morph_grp>
+		<sense n="1" sem="3" num="plural" ref="human">
+			<sem_grp>
+				<eg>~가 다 어디 숨었지?</eg>
+				<eg>~들은 모두 제가 가르치는 학생입니다</eg>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular_plural" ref="human">
+			<sem_grp>
+				<eg>~ 집은 여기서 머니?</eg>
+				<eg>글쎄, ~ 아버지가 판사래요</eg>
+				<trans>their</trans>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

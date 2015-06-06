@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>역하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">逆_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>feel nausea</trans>
+				<trans>be disgusting</trans>
+				<lr>
+					<syn type="perfect">역겹다</syn>
+					<syn type="perfect">혐오스럽다</syn>
+					<syn type="kor">메스껍다</syn>
+					<syn type="kor">거슬리다</syn>
+					<ant type="grad">편안하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>어디선가 나는 고약한 악취가 역해서 나는 자리를 뜨고 말았다.</eg>
+					<eg>우리에게 구수한 된장냄새가 외국인에게는 역할 수 있다.</eg>
+				</subsense>
+				</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be repelled</trans>
+				<lr>
+					<syn type="kor">꼴사납다</syn>
+					<syn type="kor">아니꼽다</syn>
+					<ant type="grad">흡족하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 그를 보고만 있어도 역하다.</eg>
+					<eg>그에게 축하의 말을 건네고 싶었지만, 나는 치밀어 오르는 역한 느낌을 가만히 누르고 있어야 했다.</eg>
+					<eg>나는 짐짓 태연하게 말하는 그의 가식적인 행동이 구토가 날 정도로 역했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0|S기0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>정치권이 자성하기는 커녕 당리당략에 몰두하는 것이 매우 역하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

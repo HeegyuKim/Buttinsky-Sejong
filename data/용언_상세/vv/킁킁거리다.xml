@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>킁킁거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/22</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>I.거</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>whine</trans>
+				<trans>grunt</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물(개|돼지)</sel_rst>
+					<eg>사내가 집으로 들어서자 강아지는 킁킁거리며 뒷걸음질을 쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>snuffle</trans>
+				<trans>sniffle</trans>
+				<lr>
+					<syn type="etc">킁킁대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">생물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(코)</sel_rst>
+					<eg>어린아이가 어깨를 들썩이고 코를 킁킁거리거나 헛기침을 하는 등 가만히 있지를 못한다는 것은 아토피의 한 증상이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

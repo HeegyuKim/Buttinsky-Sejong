@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이러이러하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/22</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정적사태</sem_class>
+				<trans>be so and so</trans>
+				<trans>be such and such</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>사건의 정황은 이러이러하다.</eg>
+					<eg>범인의 모습은 대략 이러이러하다.</eg>
+					<eg>그의 성격이 이러이러하기 때문에 서로 친하게 지내기가 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료사고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합 정보 수정 및 추가;동사결합 정보 수정;수식어절 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>형식오류 검사 중 s_n항목의 정보 읽지 못하므로 보류</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>frame 기술;최대논항구조, 선택제약, 관형절정보 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>Y 논항 추가하여 정보 수정, 기능동사 변이형 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 사고</var>
+			<str type="N_N">의료+사고</str>
+			<org lg="si">醫療事故</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>잘못된 수혈로 여러 환자가 사망하는 대형 ~가 터졌다.</eg>
+				<trans>medical accident</trans>
+				<domain></domain>
+				<sem_class>사고</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">대형 ~</comb_n>
+				<comb_n type="compound">~ 분쟁</comb_n>
+				<comb_n type="compound">~ 소송</comb_n>
+				<comb_n type="compound">~ 피해자</comb_n>
+				<!-- '사건' 명사의 구문 구조를 어떻게 표기할 것인지 검토 필요 -->
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 일으키다</form>
+					<frame>X-이 Y-에게 S는 ~ 를 ~일으키다</frame>
+					<frame>X-에서Y-에게 S는 ~ 를 ~일으키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form>
+					<frame>X-에서 S는 ~가 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form>
+					<frame>X-에서 S는 ~가 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 나다</form>
+					<frame>X-에서 S는 ~가 나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 터지다</form>
+					<frame>X-에서 S는 ~가 터지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 겪다</form>
+					<frame>Y-이 X-에의해 S는 ~를 겪다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 당하다</form>
+					<frame>Y-이 X-에의해 S는 ~를 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~로 죽다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)|의료기관</sel_rst>
+				<sel_rst arg="Y">상태인간(환자)</sel_rst>
+				 <!--정보내용 'S는 ~','S은 ~'형식을 읽어들이지 못하므로 임시보류-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

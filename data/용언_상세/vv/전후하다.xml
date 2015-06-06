@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>전후하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/24</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">전후를 하다</var>
+			<str>N.하</str>
+			<org lg="si">前後_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be closely one upon the other</trans>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>기영이와 미영이가 전후하여 동아리방에 나타났다.</eg>
+					<eg>찜질방과 노래방이 전후하여 문을 열었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>about</trans>
+				<trans>in the region of</trans>
+				<trans>in the neighborhood of</trans>
+				<trans>some time around</trans>
+				<trans>approximately</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">속성|단위|사조|상황|사태</sel_rst>
+					<eg>요즈음 70세를 전후한 노부부들의 이혼이 많아지고 있다.</eg>
+					<eg>내일 저녁 7시를 전후하여 만나기로 하자.</eg><!--주어의 설정이 애매하기도 함-->
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

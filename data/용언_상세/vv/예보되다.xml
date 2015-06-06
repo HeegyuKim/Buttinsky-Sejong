@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>예보되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/13</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">예보가 되다</var>
+			<str>N.되</str>
+			<org lg="si">豫報_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be forecasted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상|기상관련재해</sel_rst>
+					<eg>중부 내륙 지방에 집중 호우가 예보되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>오늘 저녁 천둥 번개를 동반한 폭우가 내릴 것이 예보되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S0-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>오늘 저녁 천둥 번개를 동반한 폭우가 내릴 것이라고 예보되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be announced</trans>
+				<lr>
+					<syn type="perfect">예고되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건</sel_rst>
+					<eg>예보된 바 없던 정전 사태로 아파트 주민들은 한바탕 소동을 겪었다.</eg>
+					<eg>수도관 교체 공사로 인한 단수는 이미 일주일 전부터 예보되었던 일이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>어제 저녁 지역 방송을 통해 수도관 교체 공사로 인해 오늘 하루 이 지역에 단수가 될 것이 예보되었었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S0-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>어제 저녁 지역 방송을 통해 오늘 하루 이 지역에 수도물 공급이 중단된다고 예보되었었다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="time">미리</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

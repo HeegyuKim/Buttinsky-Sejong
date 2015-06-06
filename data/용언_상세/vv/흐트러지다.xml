@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흐트러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>disperse</trans>
+				<trans>scatter</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>연구실의 모든 것이 흐트러져서 아무 것도 찾을 수가 없다.</eg>
+					<eg>흐트러진 연구실을 정리하느라 나는 반나절을 보냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be disheveled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(머리|머리카락)</sel_rst>
+					<eg>흐트러진 머리를 예쁘게 좀 빗어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>get confused</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(정신|자세|마음|자세|몸가짐)</sel_rst>
+					<eg>흐트러진 마음을 다잡고 이제 학문에 정진하도록 하거라.</eg>
+					<eg>행사 동안 그의 자세는 조금도 흐트러지지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

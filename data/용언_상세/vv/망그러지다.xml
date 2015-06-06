@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>망그러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">망가지다</var>
+			<str>Vu</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>get broken</trans>
+				<lr>
+					<syn type="perfect">고장나다</syn>
+					<syn type="sino">파손되다</syn>
+					<ant type="conv">고장내다</ant>
+					<ant type="conv">망치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|심리상태|계획</sel_rst>
+					<eg>우산을 받쳐 들고 조심스럽게 걷는데, 바람에 우산이 뒤집히면서 망그러져 척척할 만큼 옷이 젖었다.</eg>
+					<eg>이래서는 모처럼의 존귀한 마음가짐도 아주 망그러져 버립니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

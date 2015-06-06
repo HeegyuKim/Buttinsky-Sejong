@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>킬로암페어</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/20</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>킬로+암페어</str>
+			<org lg="en">kilo___</org>
+			<org lg="fr">__ampere</org>
+			<symb>kA</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1암페어의 천 배에 해당하는 전류을 1~라고 한다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="pwr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

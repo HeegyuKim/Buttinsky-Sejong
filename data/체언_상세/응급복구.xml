@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>응급복구</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 수정;영어대역어 일부 추가;형용사, 명사 결합 정보 추가;동사결합 정보 수정 및 추가;논항명사구 일부 추가;논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>frame와 max n 조사/논항 따라 element 반복으로 입력형식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">응급 복구</var>
+			<str type="N_N">응급+복구</str>
+			<org lg="si">應急復舊</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>군인들이 동원되어 태풍이 휩쓸고 간 지역에 ~가 빠르게 이루어지고 있다.</eg>
+				<trans>emergency repair</trans>
+				<trans>temporary restoration</trans>
+				<domain></domain>
+				<sem_class>변형행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 빠르다</comb_aj>
+				<comb_aj type="appr">~가 느리다</comb_aj>
+				<comb_aj type="appr">~가 더디다</comb_aj>
+				<comb_n type="compound">~ 비용</comb_n>
+				<comb_n type="compound">~ 공사</comb_n>
+				<comb_n type="compound">~ 작업</comb_n>
+				<comb_n type="compound">~ 상황</comb_n>
+				<comb_n type="compound">~ 현황</comb_n>
+				<comb_n type="compound">~ 대책</comb_n>
+				<comb_n type="compound">~ 디스크</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+					<frame>X-이 Y-에대해 ~를 하다</frame>
+					<frame>X-이 S것-을 ~를 하다</frame>
+					<frame>X-이 S것-에대해 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>Y-이 X-에의해 ~가 되다</frame>
+					<frame>S것-이 X-에의해 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame>Y-이 X-에의해 ~가 이루어지다</frame>
+					<frame>S것-이 X-에의해 ~가 이루어지다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 S것-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst> <!-- '인간|직업인간|일시적역할인간|군대|국가기관|일시적집단|범위인간집단'을 수정함 -->
+				<sel_rst arg="Y">장소|시설물|시설망|저장시설|소프트웨어|기계|전기전자기구|사고|피해|상태변화</sel_rst> <!-- '농경지|휴양지공원|묘지|담|제방|건물|길|다리|굴|건물부분장소|관계장소|행정구역|지역|일시적기능장소|사육장소'를 수정함 -->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

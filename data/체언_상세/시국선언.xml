@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시국선언</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/25</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>시험기술 후 재기술.단위표현 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합 정보 추가;기존 동사결합 정보를 기능동사 결합 유형으로 수정, 일부 결합정보를 추가 기술;논항명사구 정보, 논항 의미부류 정보 추가;단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정 및 comment</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/26</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">시국+선언</str>
+			<org lg="si">時局宣言</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>사회단체들이 독재에 항거하는 뜻으로 ~을 발표했다.</eg>
+				<eg>그들은 ~에 자신들의 결연한 의지를 담았다.</eg>
+				<trans>declaraction on current state of affairs</trans>
+				<domain></domain>
+				<sem_class>소통행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 대회</comb_n>
+				<comb_n type="compound">~ 참여자</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 내다</form>
+					<frame>X-이 ~을 내다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!-- 유형값이 적절한지 검토 필요 --> <!--'시국선언문'을 발표한다는 의미 아닌지?-->
+					<form vcompound="no">~을 발표하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 동참하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참가하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참여하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl> <!--'2차 종교인~'식으로는 가능하지만 '차례'를 단위표현으로 삼기는 부적절한 듯. 검토요망--><!--검토했음(김이정)-->
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

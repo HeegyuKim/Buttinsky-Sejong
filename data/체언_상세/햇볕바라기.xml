@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>햇볕바라기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">볕바라기</var>
+			<str type="N_Vn">햇볕+바라기</str> <!--더 분석될 수 있음-->
+			<org lg="etc"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>햇볕만 있으면 어디에서건 ~를 할 수 있는 이런 아름다운 자연이 좋다.</eg>
+				<eg>직사광선을 피해 적당한 ~를 하는 것은 비타민 D의 흡수를 도와 뼈와 피부가 튼튼해지므로 피부질환 예방에 효과가 있습니다.</eg>
+				<trans>a sunbath</trans>
+				<domain></domain>
+				<sem_class>몸짓및동작</sem_class>
+				<lr>
+					<syn type="sino">일광욕</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-에서 ~를 하다</frame> <!-- '마당에서'와 같은 경우 이외에 '태양아래에서' '관목아래에서'와 같은 경우의 프레임 표기는? -->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">구체자연물</sel_rst>
+				<sel_rst arg="Y">속성구체물</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

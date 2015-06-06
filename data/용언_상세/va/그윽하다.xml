@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>그윽하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/12</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be secluded</trans>
+				<trans>be deep and quiet</trans>
+				<lr>
+					<syn type="sino">유적하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<eg>등잔을 꺼내어 기름을 붓고 심지를 갈아 불을 밝히니, 방안이 한결 아늑하고 그윽하다.</eg>
+					<eg>침엽수라고는 찾아볼 수 없는 울창한 활엽수림 사이로 난 길은 시원하고 그윽하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be deep</trans>
+				<trans>be profound</trans>
+				<lr>
+					<syn type="sino"></syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트|인지적행위(생각)</sel_rst>
+					<eg>화담은 말보다는 글이 훨씬 깊고 그윽했다.</eg>
+					<eg>이것만큼 맑고 그윽하고 순결한 애국심을 여러분께서는 보신 적 있으십니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be dim</trans>
+				<trans>be subtle</trans>
+				<lr>
+					<syn type="sino">은근하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">현상(냄새|목소리)</sel_rst>
+					<eg>방안에는 차의 향기가 그윽하고 최 회장과 나는 대화를 나누고 있었다.</eg>
+					<eg>그 남자는 자신의 애인을 그윽한 눈길로 응시했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

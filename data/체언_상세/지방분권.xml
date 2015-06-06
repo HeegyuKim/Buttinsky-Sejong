@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지방분권</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/06</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지방 분권</var>
+			<str type="N_N">지방+분권</str>
+			<org lg="si">地方分權</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>지방자치는 주민에 의한 자치를 의미하고 ~은 권한과 돈을 넘겨주는 것을 뜻한다.</eg>
+				<eg>참다운 ~의 실현을 위해서 전문성이 우수한 중앙의 인재도 지방으로의 분산을 도모해야 한다.</eg>
+				<trans>decentralization of power</trans>
+				<domain></domain>
+				<sem_class>인간관련현상</sem_class><!--제도(두산백과의 정의)로 해야할지, 결과행위로 해야할지? 제도일 경우는 narg. 인간관련현상은 아닌 듯(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">중앙집권</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 방식</comb_n>
+				<comb_n type="compound">~ 체제</comb_n>
+				<comb_n type="compound">~의 실현</comb_n>
+				<comb_n type="compound">~의 추진</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form>
+					<frame>X-이 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 추진하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 제창하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~으로 이행하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

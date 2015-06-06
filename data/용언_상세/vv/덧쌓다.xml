@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덧쌓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미역 부분 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>make a pile double</trans>
+				<lr>
+					<hyper>쌓다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">건물</sel_rst>
+					<eg>태풍에 대비해서 우리는 하천의 제방 중 취약한 부분을 일부 덧쌓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>repile up</trans>
+				<lr>
+					<hyper>쌓다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">건물</sel_rst>
+					<eg>홍수에 대비해서 우리는 하천의 제방 위에 모래 주머니를 덧쌓았다.</eg>
+					<eg>기존의 벽돌탑에 벽돌을 덧쌓아서 탑 높이를 높였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물</sel_rst>
+					<eg>아버지는 둑을 모래주머니로 덧쌓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

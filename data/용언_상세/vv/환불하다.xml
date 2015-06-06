@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환불하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환불을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">還拂_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>pay back</trans>
+				<lr>
+					<syn type="kor">되돌려주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|금전</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|단체</sel_rst>
+					<eg>이 책은 잘못 된 것이니 책값을 환불해 주십시오.</eg>
+					<eg>한 달간 일을 하지 못한 나는 선불로 받은 돈을 거래처에 환불해 줄 수 밖에 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환불을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">換拂_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>change to other currency</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|구체물</sel_rst>
+					<sel_rst arg="Z" tht="FNS">돈</sel_rst>
+					<eg>이 돈을 달러로 환불하면 얼마나 될까요?</eg>
+					<eg>이 수표를 현금으로 환불해 주시기 바랍니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

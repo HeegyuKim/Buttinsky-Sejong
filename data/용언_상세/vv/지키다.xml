@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지키다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/11</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/19</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>observe</trans>
+				<lr>
+					<syn type="sino">준수하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">규범(법|규칙|질서)|단위(시간)</sel_rst>
+					<eg>우리 모두 법을 지키는 민주시민이 됩시다.</eg>
+					<eg>너는 왜 약속시간을 지키지 못하니?.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep</trans>
+				<lr>
+					<syn type="sino">보호하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|인간</sel_rst>
+					<eg>시장에 다녀올 테니 동생 좀 잘 지키고 있어.</eg>
+					<eg>누가 내 짐을 좀 지키고 있을래?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>watch</trans>
+				<lr>
+					<syn type="sino">감시하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">도로(길목)</sel_rst>
+					<eg>그들은 길목을 지키고 서 있었다.</eg>
+					<eg>헌병들이 간선도로마다 지키고 서서 탈영병이 시내로 들어오는 것을 감시했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>maintain</trans>
+				<lr>
+					<syn type="perfect">차리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(이성|체면)</sel_rst>
+					<eg>체면을 지키는 것은 때로는 필요하다고 생각한다.</eg>
+					<eg>지금처럼 당황스러울 때일수록 침착해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep</trans>
+				<lr>
+					<syn type="sino">보전하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(자리|몫)</sel_rst>
+					<eg>자리를 지키는 데만 급급한 사람들이 너무 많아.</eg>
+					<eg>누구나 자기 몫은 지키고 싶어한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep</trans>
+				<lr>
+					<syn type="sino">보전하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(정조|절개|소신)</sel_rst>
+					<eg>옛날 한국의 여인들은 정조를 지키기 위해 은장도를 몸에 지녔다고 한다.</eg>
+					<eg>사육신은 지조를 지킨 사람들이지만 죽으면 그게 다 무슨 소용이 있겠소?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>accompany</trans>
+				<lr>
+					<syn type="perfect">지켜보다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(곁|병상|임종)</sel_rst>
+					<eg>모든 의료진들은 대통령이 위기 상황을 넘길 때까지는 병상을 지키라는 명령을 받았다.</eg>
+					<eg>그녀는 아버지의 임종을 지키지 못한 것이 천추의 한으로 남았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep</trans>
+				<lr>
+					<syn type="sino">보호하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로부터 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체물|장소(나라|집|감옥|무기고)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">사건(공격|침공|침입)|부정적속성인간</sel_rst>
+					<eg>우리가 적의 침공으로부터 나라를 지킬 수 있을까?</eg>
+					<eg>경비원이 은행을 지키고 있다고 해서 안심해도 될까?</eg>
+					<eg>그들은 화재로부터 아이들을 지키기 위해 자신들을 희생했다.</eg>
+					<eg>우리는 도굴꾼들로부터 문화재를 지키기 위해 노력하고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>침묵을 지키다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/11</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/11</mod_date>
+				<mod_writer>박영준</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/19</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Npr1">소통행위(약속|언약|맹세)|(비밀)</sel_rst>
+					<eg>제발 나와의 약속을 지켜주길 바란다.</eg>
+					<eg>영원히 지키겠다던 맹세를 저버린 너는 더 이상 내 친구가 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

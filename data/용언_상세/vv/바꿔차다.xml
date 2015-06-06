@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바꿔차다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정,표제어가 바꿔치다가 아닌지</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>착용행위</sem_class>
+				<trans>change</trans>
+				<lr>
+					<hyper>바꾸다</hyper>
+					<hyper>차다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">패용물|기계(시계)</sel_rst>
+					<eg>심지어 2천만원을 호가하는 고급 시계를 요일별로 바꿔차는 아가씨도 있다.</eg>
+					<eg>벨트를 바꿔찼더니 바지와 상의가 좀더 어울리게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

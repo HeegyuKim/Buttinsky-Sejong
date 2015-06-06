@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>생긋거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/10</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>smile</trans>
+				<lr>
+					<syn type="perfect"></syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>아이는 생긋거리며 다가와 말을 붙였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

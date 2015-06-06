@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부당이득</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>의미부류검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/07</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '속성'에서 '이익'으로 수정, 예문 추가, n_n와 n_v 추가, sel_rst 기술, frame의 논항구조와 max_n 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>max_n 수정</mod_note>
+				<mod_note>n_v 유형 수정</mod_note>
+				<mod_note>s_n 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부당 이득</var>
+			<str type="N_N">부당+이득</str>
+			<org lg="si">不當利得</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>피의자는 무면허 성형 수술로 1억여 원의 ~을 취한 혐의를 받고 있다.</eg>
+				<eg>이 그룹의 대표는 상가 건물의 사기 분양으로 엄청난 규모의 ~을 챙겼다.</eg>
+				<eg>그 부분에 한하여 지방자치단체에게 ~이 발생한다.</eg>
+				<eg>납세의무자와 관세관청 사이의 조세법률관계에서 ~이 발생할 수 있다.</eg>
+				<trans>excessive profits</trans>
+				<domain></domain>
+				<sem_class>이익</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no"></comb_aj>
+				<comb_n type="compound">~ 발생</comb_n>
+				<comb_n type="compound">~ 반환</comb_n> <!--띄어쓰기 (미현)-->
+				<comb_n type="compound">~ 반환의무</comb_n> <!--띄어쓰기 (미현)-->
+				<comb_n type="compound">~ 반환청구</comb_n> <!--띄어쓰기 (미현)-->
+				<comb_n type="compound">~ 반환청구소송</comb_n> <!--띄어쓰기 (미현)-->
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>Y-에서 X-에게 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 노리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"><!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"><!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 얻다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"><!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 챙기다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"><!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 취하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"><!--npred->narg 로 수정(미현)-->
+					<form vcompound="no">~을 올리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에서의 ~</max_n_str>
+				<!--논항이 둘 다 쓰이는 경우는 없는 것 같아 나눠서 기술했어요(김이정)--> <!--두 논항이 출현하는 최대논항구 기술(미현)-->
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">물리적행위(경매|증여)|추상적대상</sel_rst>
+				<cl type="qnt">원</cl>
+				<s_n></s_n> <!--'S는' 삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

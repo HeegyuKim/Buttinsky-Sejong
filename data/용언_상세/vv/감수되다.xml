@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감수되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감수가 되다</var>
+			<str>N.되</str>
+			<org lg="si">甘受_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be submitted</trans>
+				<lr>
+					<ant type="compl">거부하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태|비난욕설|재해|피해</sel_rst>
+					<eg>이번 홍수는 우리들의 책임이므로 어떠한 피해도 감수되어야 한다.</eg>
+					<eg>큰 일에는 작은 희생은 감수되어야 한다는 생각 때문에 늘 단체 속에서 개인의 문제는 무시된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감수가 되다</var>
+			<str>N.되</str>
+			<org lg="si">減水_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get to sink below its level</trans>
+				<lr>
+					<ant type="grad">증수되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물)|물장소</sel_rst>
+					<eg>가뭄으로 댐의 물이 감수되어 주변 논에 물을 대기가 어렵다.</eg>
+					<eg>이 속도로 호수가 감수되면 앞으로 한 달안에 바닥이 보일 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감수가 되다</var>
+			<str>N.되</str>
+			<org lg="si">減收_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get to decrease</trans>
+				<lr>
+					<ant type="grad">증수되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량</sel_rst>
+					<eg>이렇게 날이 가물면 올해 벼의 수확량은 분명히 감수된다.</eg>
+					<eg>올해 냉해를 입어서 배추 수확량이 감수되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

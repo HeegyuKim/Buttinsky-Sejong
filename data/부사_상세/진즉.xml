@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>진즉</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>강정연; 남승호</cre_writer>
+				<cre_date>2002/05/11</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/05/27</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="si">進卽</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>할머니를 ~ 찾아가 보았더라면 이런 일은 일어나지 않았을텐데</eg>
+				<trans>a long time ago</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/시간부사/순서</sem_rep>
+				<lr>
+					<syn>좀 더 일찍이</syn>
+					<syn>진시</syn>
+					<syn>진작</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~가다</comb>
+				<comb pos="v" exist="yes">~떠나다</comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~에</prt>
+				<prt>~부터</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>~ 문이 열리더니 그리운 얼굴이 나타났다</eg>
+				<trans>directly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/시간부사/순서</sem_rep>
+				<lr>
+					<syn>바로 그때에</syn>
+					<ant></ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~ 열리다</comb>
+				<comb pos="v" exist="yes">~만나다</comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

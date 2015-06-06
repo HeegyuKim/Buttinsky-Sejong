@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기부입학제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>영어대역어 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/12(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기부 입학제</var>
+			<str type="N_N">기부+입학제</str><!--'입학+제'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">寄附入學制</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>경영이 투명한 대학에는 ~를 허용하는 것이 바람직하다.</eg>
+				<eg>~는 단계적으로 도입해야 한다.</eg>
+				<trans>system of contribution entrance</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class>
+				<lr>
+					<syn type="etc">기여입학제</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 도입</comb_n>
+				<comb_n type="compound">~ 허용</comb_n>
+				<comb_n type="compound">~ 시행</comb_n>
+				<comb_n type="compound">~ 실시</comb_n>
+				<comb_n type="compound">~ 추진</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">를 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">를 허용하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">를 시행하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">를 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">를 추진하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환속하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환속을 하다</var>
+			<str>N.하</str>
+			<org lg="si">還俗_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>leave the priesthood</trans>
+				<trans>return to secular life</trans>
+				<domain>불교</domain>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">종교역할인간(중|스님|승려)|인간</sel_rst>
+					<eg>어린 나이에 절에 들어가 잔뼈가 굵은 그였지만 마흔을 넘긴 후 승려 생활이 결코 자신의 길이 아니라는 것을 깨닫고 환속하였다.</eg>
+					<eg>사회주의 체제 하에서 수도 생활은 철저히 배격되었고, 남아 있던 스님들은 총살당하거나 환속하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환속을 하다</var>
+			<str>N.하</str>
+			<org lg="si">還屬_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>return</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체물|장소</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간집단|장소</sel_rst>
+					<eg>그는 권력을 잡은 후 권세가들이 부당하게 차지한 토지의 대부분을 국가에 환속함으로써 경제적 안정을 꾀할 수 있는 기반을 마련했다.</eg>
+					<eg>이번 사업이 끝나면 각 부서에서 차출한 직원들을 해당 부서로 환속할 예정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

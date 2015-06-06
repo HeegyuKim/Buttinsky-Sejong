@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계산되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>세 번째 센스 격틀 관련 메모</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+				<mod_note>하위센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계산이 되다</var>
+			<str>N.되</str>
+			<org lg="si">計算_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be calculated</trans>
+				<lr>
+					<syn type="perfect">연산되다</syn>
+					<syn type="perfect">산출되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량</sel_rst>
+					<eg>드디어 올해 우리가 사용한 총 금액이 계산되었다.</eg>
+					<eg>일년 동안 사용할 판공비가 드디어 계산돼 나왔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">Q</sel_rst>
+					<eg>올 한해 동안 우리가 사용했는가가 모두 계산돼 나왔습니다.</eg>
+					<eg>일년 동안 판공비로 얼마나 사용할 수 있을지 드디어 계산된 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">단위</sel_rst>
+					<eg>방값이 일인당 삼만 원으로 계산되었다.</eg>
+					<eg>사과 하나가 이천 원으로 계산된 게 이 금액입니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>방값이 일인당 삼만 원에 이를 것으로 계산되었다.</eg>
+					<eg>사과 하나가 이천 원인 것으로 계산된 게 이 금액입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be reckoned</trans>
+				<lr>
+					<syn type="perfect">계획되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|인지상태(의도)</sel_rst>
+					<eg>그의 행동은 이미 사전에 계산되어 있던 것이었다.</eg>
+					<eg>이번 사고도 계산된 것이었습니까?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|Q</sel_rst>
+					<eg>그가 그렇게 행동한 것도 계산된 것이었다고 말할 수 있을까?</eg>
+					<eg>얼마의 보험금을 탈 수 있을지가 이미 계산돼 있었기 때문에 그런 사고를 위장했던 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be paid</trans>
+				<lr>
+					<syn type="perfect">지불되다</syn>
+					<syn type="perfect">지출되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">값</sel_rst>
+					<eg>방값은 이미 계산되었습니다.</eg>
+					<eg>네 밀린 술값이 다 계산되려면 몇 달은 더 열심히 일해야 할 거다.</eg>
+					<eg>주거비로 사용한 것은 이미 계산되었습니다.</eg>
+					<eg>네가 술값으로 쓴 것이 다 계산되려면 몇 달은 더 열심히 일해야 할 거다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

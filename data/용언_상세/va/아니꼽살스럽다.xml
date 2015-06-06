@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>아니꼽살스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/08/01</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RuS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be nauseated</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>상사에 대한 그 친구의 태도가 아니꼽살스럽다.</eg>
+					<eg>마음에도 없는 철수의 말이 아니꼽살스러웠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S기</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>마음에도 없는 말 하기가 아니꼽살스러웠다.</eg>
+					<eg>철수가 나이도 어린 사람에게 아부하는 것이 보기에 아니꼽살스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be nauseated</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>상사에 대한 그 친구의 태도를 보고 있는 나는 영 아니꼽살스러웠다.</eg>
+					<eg>철수가 나이도 어린 사람에게 아부하는 것이 보니 나는 정말 아니꼽살스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

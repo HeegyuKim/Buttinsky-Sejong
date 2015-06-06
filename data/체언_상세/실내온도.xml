@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>실내온도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;반의어 유형값을 'conv'에서 'compl'로 수정;형용사에서 '낮다, 높다'의 유형값을 수정;명사결합에서 '~조절' 삭제;동사결합에 '재다, 측정하다' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>수정 없음</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">실내 온도</var>
+			<str type="N_N">실내+온도</str>
+			<org lg="si">室內溫度</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>겨울에 난방으로 ~가 너무 높으면 피부가 건조해져서 안 좋다.</eg>
+				<eg>에어컨을 켰더니 ~가 3도 낮아졌다.</eg>
+				<trans>room temperature</trans>
+				<domain></domain>
+				<sem_class>온도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">실외온도</ant> <!-- 유형값이 타당한지 검토 필요 --><!--삭제하는 게 낫지 않을지(김이정)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 낮다</comb_aj><!--min를 수정(김이정)-->
+				<comb_aj type="appr">~가 높다</comb_aj><!--magn를 수정(김이정)-->
+				<comb_aj type="appr">~가 적당하다</comb_aj>
+				<comb_aj type="appr">~가 쾌적하다</comb_aj>
+				<comb_n type="compound">적정 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 올리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 낮추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 재다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 측정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 올라가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 내려가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">도</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

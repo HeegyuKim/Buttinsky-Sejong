@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>접맥하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/05</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">접맥을 하다</var>
+			<str>N.하</str>
+			<org lg="si">接脈</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>join one thing to another</trans>
+				<trans>join two things together </trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">추상적대상</sel_rst>
+					<eg>통일교육협의회는 기존의 프로그램에 다른 단체의 우수한 프로그램을 접맥하여 통일교육의 질적 향상을 도모코자 하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="02">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="COM">추상적대상</sel_rst>
+					<eg>그 분은 마케팅을 기호학과 접맥하여 새로운 이론을 발표하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="02">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="THM">추상적대상</sel_rst>
+					<eg>작가는 1910년대의 희곡과 전통극을 서로 접맥하려고 시도한 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

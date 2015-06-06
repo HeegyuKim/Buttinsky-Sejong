@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>마이크로미크론</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/13</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/23</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/05/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>마이크로+미크론</str>
+			<org lg="en">micromicron</org>
+			<symb>μμ</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 1미크론의 100만분의 1이다</eg>
+				<cl_subtype type="lnt"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

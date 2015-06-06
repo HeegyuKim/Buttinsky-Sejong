@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>선물시장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/13</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>추상적대상에서 다시 일시적기능장소로 수정;동사에 '개설하다, 나오다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">선물 시장</var>
+			<str type="N_N">선물+시장</str>
+			<org lg="si">先物市場</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>최근 주식 거래에서 ~의 영향력이 점점 커지고 있다.</eg> <!--예문 수정(김)-->
+				<trans>futures market</trans>
+				<domain>경제</domain>
+				<sem_class>일시적기능장소</sem_class> <!--일시적기능장소에서 추상적대상으로 수정. 추상적인 의미의 시장을 포괄할 수 있는 '영역' 부류의 설정 가능성 검토 필요(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~의 동향</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개설하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 나오다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl><!--추가(미현)-->
+				<cl type="uni">군데</cl><!--추가(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>땡땡이치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">땡땡이를 치다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>cut a class</trans>
+				<lr>
+					<syn type="de_vulgar">게으름피우다</syn>
+					<syn type="de_vulgar">빠지다</syn>
+					<syn type="perfect">빼먹다</syn>
+					<syn type="sino">결석하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단(회사|학회)|(수업)</sel_rst>
+					<eg>회사 땡땡이치고 어디 놀러갔으면 좋겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

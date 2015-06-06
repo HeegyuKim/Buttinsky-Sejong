@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>막힘없이</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2002/07/07</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/08/18</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>막힘+없.이</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그는 이야기를 ~ 이어 갔다</eg>
+				<eg>일이 ~ 진행되다</eg>
+				<trans>smoothly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>술술</syn>
+					<syn>거침없이</syn>
+					<ant>어렵게</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel>막힘</rel>
+					<rel>막힘없다</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~진행하다</comb>
+				<comb pos="adj" exist="temp"></comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~는</prt>
+				<prt>~도</prt>
+				<prt>~만</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

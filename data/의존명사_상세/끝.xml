@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>끝</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/13</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+			<idm type="prv">고생 ~에 낙이 오다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그들은 다섯 시간의 격론 ~에 김 씨의 구명 운동에 참가하기로 결론을 내렸다</eg>
+				<eg>저는 여러 차례 편지를 띄운 ~에 사촌누이로부터 어머니의 생존 사실을 확인했습니다</eg>
+				<eg>고향집을 떠나 전전한 ~이라 그는 피곤할 대로 피곤해 있었다.</eg>
+				<trans>after</trans>
+				<lr>
+					<syn type="etc">뒤</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<prt>~에</prt>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<comb_ida>~이다</comb_ida>
+				<pre_d yn="no"/>
+				<pre_n>N</pre_n>
+				<s_n>S은 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

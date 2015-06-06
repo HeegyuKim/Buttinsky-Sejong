@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후미지다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>form an inlet</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소(골짜기|해변)</sel_rst>
+					<eg>내 고향은 후미진 골짜기 속 작고 아름다운 농촌 마을이다.</eg>
+					<eg>그는 후미진 바닷가 작은 마을에 터를 잡았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be retired</trans>
+				<trans>be secluded</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|길</sel_rst>
+					<eg>그 술집은 후미진 뒷골목 지하 어딘가에 자리하고 있었다.</eg>
+					<eg>그의 집은 후미진 곳에 있어 밤에는 인적도 드물었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

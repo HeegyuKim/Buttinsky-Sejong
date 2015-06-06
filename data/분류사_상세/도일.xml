@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>도일</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/23</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/23</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/05/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">度日</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 어떤 표준 값으로부터 일 평균 기온의 편차가 하루에 1℃이다</eg>
+				<domain>지리</domain>
+				<cl_subtype type="tmp"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

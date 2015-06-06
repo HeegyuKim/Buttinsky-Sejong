@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙선되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>센스 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">낙선이 되다</var>
+			<str>N.되</str>
+			<org lg="si">落選_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be defeated in an election</trans>
+				<lr>
+					<ant type="compl">당선되다</ant>
+					<rel>낙천되다</rel>
+					<rel>공천되다</rel>
+					<rel>입후보되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">경연대회(선거)</sel_rst>
+					<eg>이번 국회의원 선거에서 많은 중진의원들이 낙선되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be rejected</trans>
+				<lr>
+					<ant type="compl">당선되다</ant>
+					<rel>출품되다</rel>
+					<rel>심사되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">경연대회(출품회)</sel_rst>
+					<eg>그 무명화가는 매번 국전에 응모하지만 늘 낙선된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

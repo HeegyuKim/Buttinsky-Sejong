@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교육철학</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>max_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교육 철학</var>
+			<str type="N_N">교육+철학</str>
+			<org lg="si">敎育哲學</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이제 우리의 ~을 다시 세워야할 때다.</eg>
+				<eg>이 프로그램은 어린이들에게 자신이 귀한 존재임을 스스로 깨닫게 해주는 ~을 담고 있다.</eg>
+				<eg>정치인들은 학교가 학생들에게 즐거운 기억을 만들어내는 곳이어야 한다는 ~을 가졌으면 좋겠다.</eg>
+				<eg>이 어린이집은 어린이를 자연 속에서 활발하게 키우자는 ~을 실천하고 있다.</eg>
+				<trans>educational philosophy</trans>
+				<domain></domain>
+				<sem_class>의견</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 올바르다</comb_aj>
+				<comb_aj type="appr">~이 건전하다</comb_aj>
+				<comb_aj type="appr">~이 확고하다</comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-에게 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-에게 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 S는 ~을 가지다</frame>
+					<frame>X-이 S다는 ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 추구하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 따르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 받아들이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 이해하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 담다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 펼치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 밝히다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 실천하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|교육기관</sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그는 독일에서 ~을 공부했다.</eg>
+				<trans>educational philosophy </trans>
+				<domain></domain>
+				<sem_class>학문과목</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~ 이 쉽다</comb_aj>
+				<comb_aj type="appr">~ 이 어렵다</comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 전공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 공부하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

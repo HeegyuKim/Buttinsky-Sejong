@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>식민통치</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>Y의 선택제약에서 수동적행위인간 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">식민 통치</var>
+			<str type="R_N">식민+통치</str>
+			<org lg="si">植民統治</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>오늘날의 민족분쟁은 과거 제국주의 열강들의 ~에서 비롯된다.</eg>
+				<trans>colonial rule</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="perfect">식민지배</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Y-이 X-에게 ~를 받다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 이루어지다 </form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">국가|종족|국가기관|직위인간|작위|왕족|행위인간</sel_rst>
+				<sel_rst arg="Y">국가|종족</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

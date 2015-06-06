@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오해당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">오해를 당하다</var>
+			<str>N.당</str>
+			<org lg="si">誤解當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be mistaken for</trans>
+				<lr>
+					<syn type="perfect">오해받다</syn>
+					<syn type="perfect">오인당하다</syn>
+					<syn type="perfect">오인받다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">인간</sel_rst>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>그녀는 한때 직장 동료들에게 사장의 애인으로 오해당해 손가락질을 받기도 했었다.</eg>
+					<eg>그는 할머니를 부축하려다 오히려 소매치기로 오해당해 경찰서까지 가는 봉변을 당한 적도 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be mistaken for</trans>
+				<lr>
+					<syn type="perfect">오해받다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>친구를 돕기 위해 그의 아내를 만났을 뿐인데, 어쩌다 보니 친구에게 그의 아내와 수작을 부린다고 오해당했답니다.</eg>
+					<eg>그는 반 친구들에게 선생님께 모든 일을 고자질해 바친다고 오해당해 친구들의 따돌림을 받아야 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

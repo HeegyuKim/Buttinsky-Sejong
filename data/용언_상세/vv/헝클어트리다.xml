@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헝클어트리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/21</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>헝클어뜨리다</see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.뜨</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

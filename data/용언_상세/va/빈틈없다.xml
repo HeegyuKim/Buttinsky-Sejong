@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>빈틈없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">빈틈이 없다</var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be thorough</trans>
+				<lr>
+					<syn type="sino">철저하다</syn>
+					<ant type="grad">허술하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<eg>그녀의 빈틈없는 성격이 때로는 나를 피곤하게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be perfect</trans>
+				<lr>
+					<syn type="sino">완벽하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(모습|외모)</sel_rst>
+					<eg>그녀는 빈틈없는 외모에 실력과 겸손함까지 갖춘 팔방미인이다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be complete</trans>
+				<lr>
+					<syn type="sino">완벽하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>어떤 결점도 찾을 수 없을 만큼 그의 말과 행동이 모두 빈틈없었다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be complete</trans>
+				<lr>
+					<syn type="sino">완벽하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(사실|논리|생각|체계)</sel_rst>
+					<eg>이번 행사가 훌륭히 진행될 수 있도록 빈틈없는 계획을 세워 주시기 바랍니다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

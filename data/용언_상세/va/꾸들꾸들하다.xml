@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꾸들꾸들하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">구들구들하다</var>
+			<var type="etc">꼬들꼬들하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be dry and hard</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물(밥|떡|생선)</sel_rst>
+					<eg>아침밥을 그냥 놔두었더니 밥알이 꾸들꾸들하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

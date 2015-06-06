@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>설마하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>wonder</trans>
+				<trans>doubt</trans>
+				<lr>
+					<syn type="sino">의심하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">언어요소</sel_rst>
+					<eg>북한군이 내려온다는 소식에도 사람들은 설마했다.</eg>
+					<eg>철수가 장가를 간다는 소문에 마을 사람들은 설마했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

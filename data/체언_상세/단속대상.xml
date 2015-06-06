@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>단속대상</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 '범주'로</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">단속 대상</var>
+			<str type="N_N">단속+대상</str>
+			<org lg="si">團束對象</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 물건은 ~에 해당한다.</eg>
+				<trans>subject of control</trans>
+				<domain></domain>
+				<sem_class>범주</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 물품</comb_n>
+				<comb_n type="compound">~ 품목</comb_n>
+				<comb_n type="compound">~ 기관</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 해당하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 해당되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

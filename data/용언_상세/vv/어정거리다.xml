@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>어정거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/26</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/11</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>linger around</trans>
+				<lr>
+					<syn type="perfect">어정대다</syn>
+					<hyper>걷다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에서|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|짐승</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>그 곳에서 그만 어정거리고 나와라.</eg>
+					<eg>강아지는 주인과 헤어지는 것이 아쉬운 듯 계속 집 앞을 어정거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

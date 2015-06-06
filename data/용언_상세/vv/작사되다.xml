@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>작사되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">작사가 되다</var>
+			<str>N.되</str>
+			<org lg="si">作詞_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be written</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에의해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">성악곡(노래|동요|가요)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>이 동요는 유명 시인에 의해 작사된 노래말에 곡을 붙인 것이다.</eg>
+					<eg>요즘 가요계에서는 그에 의해 작사된 곡들이 인기를 얻고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

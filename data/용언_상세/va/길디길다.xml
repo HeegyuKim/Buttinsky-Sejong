@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>길디길다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>구체물과 추상으로 센스 나눠 영어대역어 등 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A-디.A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be very long</trans>
+				<lr>
+					<ant type="grad">짧디짧다</ant>
+					<hyper>길다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">길이</n_appr>
+					<eg>이 줄의 길이는 길디길어서 끝이 보이지가 않는다.</eg>
+					<eg>이 줄은 길디길어서 끝이 보이지가 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be very prolonged</trans>
+				<lr>
+					<ant type="grad">짧디짧다</ant>
+					<hyper>길다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간|사건|상태|자연현상</sel_rst>
+					<eg>우리에게 남은 세월은 길디길다.</eg>
+					<eg>길디긴 싸움이 이제야 끝났다.</eg>
+					<eg>그 행렬은 참으로 길디길었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

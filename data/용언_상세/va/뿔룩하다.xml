@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뿔룩하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">불룩하다</var>
+			<var type="etc">볼록하다</var>
+			<var type="etc">뽈록하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be bulging</trans>
+				<trans>be bulgy</trans>
+				<lr>
+					<ant type="dir">우묵하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(배|볼|눈)</sel_rst>
+					<eg>얼마나 많이 먹었는지 배가 뿔룩하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>동전이 많아서 지갑이 뿔룩하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

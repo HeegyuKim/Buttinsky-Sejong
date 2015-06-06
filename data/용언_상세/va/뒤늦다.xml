@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뒤늦다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>시간상태</sem_class>
+				<trans>be late</trans>
+				<lr>
+					<ant type="grad">재빠르다</ant>
+					<hyper>늦다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|계획사건</sel_rst>
+					<eg>그 친구는 언제나 조금씩 뒤늦는다.</eg>
+					<eg>비 때문에 행사가 약간 뒤늦긴 했는데, 그래도 별 탈 없이 진행되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

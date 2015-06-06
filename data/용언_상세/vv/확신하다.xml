@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확신하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/14</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">확신을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">確信_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>believe firmly</trans>
+				<trans>have a firm belief</trans>
+				<lr>
+					<hyper>믿다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>나는 그의 결백을 확신한다.</eg>
+					<eg>그들은 자신들의 성공을 확신하고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>나는 내 판단이 옳았음을 확신하다.</eg>
+					<eg>그의 주장이 사실이라는 것을 확신할 근거가 없다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>그는 아내가 결백하다고 확신했었다.</eg>
+					<eg>나는 이번 계획이 반드시 성공하리라고 확신한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

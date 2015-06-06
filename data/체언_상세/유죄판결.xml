@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>유죄판결</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정;명사_동사 결합정보 수정, 보완;선택제약 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str 기술;의미부류 처벌을 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>S 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">유죄 판결</var>
+			<str type="N_N">유죄+판결</str>
+			<org lg="si">有罪判決</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~의 근거가 되는 자료가 필요하다.</eg>
+				<trans>judgment of guilty</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<!--법률용어이기 때문에 법률로 분류(지혜)-->
+				<!--이런 식의 의미부류 판별은 지양할 것! 판결은 행위의 하위부류에서 생각해야함. 의미부류 '법률'에서 '방향성행위'아래 '처벌'로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">무죄판결</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup"> <!--'~을 하다'라는 기능동사구문 추가 기술(미현)-->
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 S다고 ~을 하다</frame>
+				</comb_v>				
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+						<!--'유죄판결받다'가 어색하므로 'no'로 수정(미현)-->
+					<frame>Y-이 X-로부터 S다고 ~을 받다</frame>
+					<frame>Y-이 X-에게서 S다고 ~을 받다</frame>
+						<!--판결을 내리는 주체를 추가해서 프레임 재기술(미현)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--'~을 내리다'라는 기능동사변이형구문 추가 기술(미현)-->
+					<form vcompound="no">~을 내리다</form>
+					<frame>X-이 Y-에게 S다고 ~을 내리다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 S다는 ~</max_n_str>
+				<sel_rst arg="X">직업인간(판사)</sel_rst><!--논항 추가에 따른 선택제약 재기술(미현)-->
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+				<!--단위표현 정보표상시 vertical bar 사용하지 말 것!(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

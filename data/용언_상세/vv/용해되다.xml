@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>용해되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">용해가 되다</var>
+			<str>N.되</str>
+			<org lg="si">溶解_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>dissolve</trans>
+				<lr>
+					<syn type="kor">녹다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(가루|약)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">액체</sel_rst>
+					<eg>물에 열을 가하면 설탕은 더 잘 용해된다.</eg>
+					<eg>이 물질은 물에 용해되면 푸른 빛을 띠게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>get merged</trans>
+				<trans>get fused</trans>
+				<lr>
+					<syn type="perfect">동화되다</syn>
+					<syn type="perfect">융합되다</syn>
+					<syn type="kor">섞이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|사태</sel_rst>
+					<eg>그의 예술은 대중 문화에 용해되지 못한 채 어둠 속에 묻히게 된다.</eg>
+					<eg>아이의 말과 행동에는 부모의 가르침이 그대로 용해되어 나타난다는 사실을 잊지 마십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">용해가 되다</var>
+			<str>N.되</str>
+			<org lg="si">鎔解_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>melt</trans>
+				<trans>be fused</trans>
+				<lr>
+					<syn type="kor">녹다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">광물|금속재|화학자재</sel_rst>
+					<eg>용해된 금속을 틀 속에 넣고 응고시켜 모양을 만듭니다.</eg>
+					<eg>열을 가하면 접착제가 녹아내리며 이렇게 용해된 접착제는 용지의 표면에 얇은 막을 형성한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환송하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환송을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">歡送_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>bid farewell</trans>
+				<trans>give a hearty send-off</trans>
+				<lr>
+					<ant type="dir">환영하다</ant>
+					<ant type="conv">환송받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>우리는 미국으로 유학을 떠나는 그를 환송하기 위해 공항으로 나갔다.</eg>
+					<eg>우리 부서는 오늘 회사를 떠나는 동료를 환송하는 모임을 가지기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환송을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">還送_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>send back</trans>
+				<lr>
+					<syn type="perfect">반송하다</syn>
+					<syn type="perfect">회송하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|단체</sel_rst>
+					<eg>우리는 하자가 있는 제품들을 본사로 환송했다.</eg>
+					<eg>대학측은 그에게 모든 서류를 환송했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

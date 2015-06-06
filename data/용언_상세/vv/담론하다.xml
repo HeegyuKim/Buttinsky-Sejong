@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>담론하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">담론을 하다</var>
+			<str>N.하</str>
+			<org lg="si">談論_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상호적언술행위</sem_class>
+				<trans>discuss</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그는 조선시대 서민문화에 대해 담론하였다.</eg>
+					<eg>우리는 그 세미나에서 언어학 연구의 최근 국제적 경향에 대해 함께 담론하였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|Q</sel_rst>
+					<eg>그는 통일이 과연 가능한가에 대해 담론하였다.</eg>
+					<eg>우리는 북한이 4자회담을 계속 거부하고 있는 것에 대해 함께 담론하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

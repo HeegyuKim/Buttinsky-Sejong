@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>망라되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">총망라되다</var>
+			<var type="spr">망라가 되다</var>
+			<str>N.되</str>
+			<org lg="si">網羅_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>get included</trans>
+				<lr>
+					<syn type="perfect">포함되다</syn>
+					<ant type="compl">제외되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>한국어와 영어로 구성돼 있는 이 사이트에는 세계 70개국의 무역, 마케팅, 유통, 가격 등 정보는 물론 18개 종류 70여 세부 품목과 관련한 각국의 수출 정보와 관련 통계까지 망라돼 있다.</eg>
+					<eg>구직 신청에서부터 취업 알선, 직업 상담, 직업 탐색, 창업, 직업 훈련,실업급여 정보까지 그야말로 고용 관련 정보가 총 망라돼 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

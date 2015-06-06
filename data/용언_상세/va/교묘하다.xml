@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>교묘하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">巧妙_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be clever</trans>
+				<trans>be skillful</trans>
+				<trans>be dexterous</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|기기|방법|기술|속성|현상|상태변화|소통행위</sel_rst>
+					<eg>그 현상범은 교묘한 변장술로 아직도 숨어다니고 있다.</eg>
+					<eg>한복의 모양새는 단아하고 아취가 있으며, 그 솜씨는 섬세하고 교묘하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

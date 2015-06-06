@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>몰아쉬다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>breathe out</trans>
+				<lr>
+					<hyper>쉬다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위(숨)</sel_rst>
+					<eg>그곳에서는 고도가 높기 때문에 우리 모두 가쁜 숨을 몰아쉬어야 했다.</eg>
+					<eg>완전히 탈진한 상태로 거친 호흡을 몰아쉬어야 하는 지경에까지 이르게 된다는 힘겨운 순간의 연속이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

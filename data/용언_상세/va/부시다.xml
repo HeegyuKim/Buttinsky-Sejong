@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>부시다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dazzling</trans>
+				<trans>be blinding</trans>
+				<lr>
+					<syn type="perfect">눈부시다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(햇빛|햇살)</sel_rst>
+					<n_appr arg="X">눈</n_appr> <!--항상 '눈'이 있어야 하는데, 어떻게 처리해야 되는지 잘 모르겠음. 검토요망-->
+					<eg>햇살이 눈이 부셔 나는 고개를 들 수 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

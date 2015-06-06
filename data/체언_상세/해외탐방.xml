@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>해외탐방</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">해외 탐방</var>
+			<str type="N_N">해외+탐방</str>
+			<org lg="si">海外探訪</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>지금 현재 대학가는 대학 및 기업이 경비의 일정액을 지원하면서 대학생들에게 다양한 해외체험의 기회를 유도하는 ~이 유행이다.</eg>
+				<trans>private inquiry into overseas</trans>
+				<domain></domain>
+				<sem_class>돌아다니기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~단</comb_n>
+				    <comb_n type="compound">~보고서</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-로 ~을 하다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="X">인간집단</sel_rst>  <!--항목 분리-->
+				<sel_rst arg="Y">국가</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

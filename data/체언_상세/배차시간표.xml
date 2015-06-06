@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>배차시간표</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/26</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 추가;분류사 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">배차 시간표</var>
+			<str type="R_N">배차+시간표</str><!--시간표는 더 분석가능함-->
+			<org lg="si">配車時間表</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>셔틀버스 운행노선 및 ~는 다음과 같습니다.</eg>
+				<eg>~에 보면 낙성대역에서 첫차시간이 37분으로 나와 있습니다.</eg>
+				<trans>timetable for allocation of cars</trans>
+				<domain></domain>
+				<sem_class>도표</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">버스 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 짜다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 변경하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

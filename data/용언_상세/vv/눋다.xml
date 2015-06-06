@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>눋다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>v</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>scorch</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(곡식)|음식(밥)</sel_rst>
+					<eg>밥이 눌었다.</eg>
+					<eg>쌀보다는 보리가 눌은 것이 더 고소하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>scorch</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>방바닥이 너무 뜨거워서 장판이 다 눌었다.</eg>
+					<eg>그 열기로 옆에 놔 두었다 종이들이 눌었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

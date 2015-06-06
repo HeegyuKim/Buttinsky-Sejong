@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후퇴하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/24</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">후퇴를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">後退_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>retreat</trans>
+				<lr>
+					<syn type="perfect">퇴각하다</syn>
+					<ant type="dir">전진하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">군대</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>적군의 기세에 몰린 아군들은 남으로 후퇴할 수밖에 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>retrograde</trans>
+				<lr>
+					<syn type="perfect">퇴보하다</syn>
+					<ant type="dir">발전하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(제도|역사|학문)</sel_rst>
+					<eg>그 사건으로 인해 우리나라 민주화의 역사는 30년이나 후퇴하고 말았다.</eg>
+					<eg>잘못된 교육정책으로 공교육은 점차 후퇴하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="magn">한발</col>
+					<col type="magn">크게</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

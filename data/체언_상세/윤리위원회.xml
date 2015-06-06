@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>윤리위원회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문에 '~가 심의하다' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">윤리+위원회</str> <!--'위원+회'로 추가분석 가능-->
+			<org lg="si">倫理委員會</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>인간복제나 유전자변형 같은 생명기술의 문제에서 ~의 역할이 점점 중요해지고 있다.</eg>
+				<eg>각계의 전문가들로 구성된 ~는 각종 신기술의 윤리적인 타당성을 심의한다.</eg>
+				<trans>ethics committee</trans>
+				<domain></domain>
+				<sem_class>기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">병원 ~</comb_n>
+				<comb_n type="compound">간행물 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 발족하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

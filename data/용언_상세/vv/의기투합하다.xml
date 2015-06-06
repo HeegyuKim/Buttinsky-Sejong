@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>의기투합하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">의기투합을 하다</var>
+			<str>N.하</str>
+			<org lg="si">意氣投合_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be of congenial temper</trans>
+				<trans>find a congenial spirit in</trans>
+				<lr>
+					<syn type="perfect">의기상투하다</syn>
+					<syn type="perfect">의기상합하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>실직 후 집안에만 있던 남편이 고등학교 동창과 의기투합하여 사업을 벌이기로 했다.</eg>
+					<eg>나는 그 날 그녀와 의기투합하여 정신을 잃을 때까지 술을 마셨었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>고등학교 동창인 두 사람은 의기투합하여 사업을 벌이기로 했다.</eg>
+					<eg>모든 직원들이 의기투합하여 이번 일에 발벗고나서기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

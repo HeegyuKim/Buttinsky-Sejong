@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>환경오염도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/25</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<var type="spr">환경 오염도</var>
+			<str type="N_N">환경+오염도</str><!--환경+오염+원 분석 가능-->
+			<org lg="si">環境汚染度</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리는 탄광 부근의 ~를 측정하기 위해 정밀 조사에 들어갔다.</eg>
+				<eg>자동차 배기가스로 인한 ~가 날로 증가하고 있다. </eg>
+				<trans>degree of contamination</trans>
+				<domain></domain>
+				<sem_class>크기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 측정</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 측정하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 재다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

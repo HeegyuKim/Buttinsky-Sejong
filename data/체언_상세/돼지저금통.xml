@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>돼지저금통</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/15(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">돼지 저금통</var>
+			<str type="N_N">돼지+저금통</str> <!--'저금+통'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">__貯金筒</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그는 퇴근 후 매일 주머니의 동전들을 ~에 넣는다.</eg>
+				<trans>piggy bank</trans>
+				<domain></domain>
+				<sem_class>통</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 모금</comb_n>
+				<comb_n type="compound">~ 배포</comb_n>
+				<comb_n type="compound">~ 증정</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 깨다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 넣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 배포하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 증정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 주다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 채우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 비치하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

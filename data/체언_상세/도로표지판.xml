@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>도로표지판</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정, syn기술 검토바람</mod_note><!--'이정표' 삭제(김이정)-->
+			</mod>
+			<note>2007/08/14(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">도로 표지판</var>
+			<str type="N_N">도로+표지판</str><!--'표지+판'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">道路標識板</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 지역에는 표기가 잘못된 ~이 눈에 많이 띈다.</eg>
+				<eg>시는 한자문화권 관광객들을 위해 ~에 한자 병기를 검토 중이다.</eg>
+				<eg>시골로 들어가면 ~을 보고도 길을 찾기가 힘들다.</eg>
+				<trans>road sign</trans>
+				<domain></domain>
+				<sem_class>표지판</sem_class>
+				<lr>
+					<syn type="perfect">도로교통표지판</syn>
+					<syn type="perfect">교통표지판</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">엉뚱한 ~</comb_aj>
+				<comb_aj type="appr">~이 불합리하다</comb_aj>
+				<comb_aj type="appr">~이 정확하다</comb_aj>
+				<comb_aj type="appr">~이 많다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 크다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 적다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 작다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound">~ 설치</comb_n>
+				<comb_n type="compound">~ 정비</comb_n>
+				<comb_n type="compound">~ 점검</comb_n>
+				<comb_n type="compound">~ 관리</comb_n>
+				<comb_n type="compound">~ 지지대</comb_n>
+				<comb_n type="compound">대형 ~</comb_n>
+				<comb_n type="compound">엉터리 ~</comb_n><!--lexfunc으로 처리해야 하는지?(김이정)--><!--compound가 나을 것 같습니다(권)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 정비하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 점검하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 관리하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 없애다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 닦다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

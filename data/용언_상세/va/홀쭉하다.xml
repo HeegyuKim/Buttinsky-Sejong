@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>홀쭉하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">훌쭉하다</var>
+			<var type="etc">홀쪽하다</var>
+			<str>I.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be thin</trans>
+				<trans>be slim</trans>
+				<trans>be slender</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<eg>식탁 위에는 주둥이가 작고 모양이 홀쭉한 화병이 하나 놓여 있었다.</eg>
+					<eg>이 식물의 열매는 계란을 거꾸로 세운 모양으로 홀쭉하고 감촉이 매끈하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(몸|허리|얼굴)</sel_rst>
+					<eg>목격자에 따르면 범인은 다소 키가 크고 몸이 홀쭉한 30대 남자로 추정된다.</eg>
+					<eg>타이트 스커트를 입으면 그녀의 홀쭉한 몸매가 더 강조되어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hollow</trans>
+				<trans>be empty</trans>
+				<lr>
+					<ant type="grad">불룩하다</ant>
+					<ant type="grad">빵빵하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">주머니|가방|상자</sel_rst>
+					<eg>겨울 옷들을 몇 벌 꺼내 놓자 가방은 이내 홀쭉하게 되었다.</eg>
+					<eg>그는 홀쭉한 주머니 속에 신문지를 구겨 넣어 배가 볼록하게 만들었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(볼|뺨|배)</sel_rst>
+					<eg>이가 다 빠져 홀쭉한 할머니 볼 위로 웃음이 번졌다.</eg>
+					<eg>두 끼를 굶었더니 배가 홀쭉하게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be lean</trans>
+				<trans>be pinched</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|인간</sel_rst>
+					<eg>굶주림에 시달린 아이들은 한결같이 볼이 홀쭉하고 마른 채 머리만 커다랬다.</eg>
+					<eg>가난에 지친 그 여자는 얼굴이 홀쭉하고 생기가 없어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

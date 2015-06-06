@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재회하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재회를 하다</var>
+			<str>N.하</str>
+			<org lg="si">再會_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>meet again</trans>
+				<lr>
+					<hyper>만나다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>그는 어제 동창회에서 서울로 오며 소식이 끊겼던 고향 친구들과 20 년만에 재회했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>그들은 서로 재회할 날을 기다리며 아픈 마음을 추스려야 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

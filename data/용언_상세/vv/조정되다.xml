@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조정되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조정이 되다</var>
+			<str>N.되</str>
+			<org lg="si">調整_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be ajusted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>요금 체계과 노선 체계가 새롭게 조정될 예정입니다.</eg>
+					<eg>이번 학기 강의 내용이 학생들의 요청에 따라 다소 조정되었다.</eg>
+					<eg>마이크 볼륨이 적당히 조정되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조정이 되다</var>
+			<str>N.되</str>
+			<org lg="si">調停_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be mediated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>노사간의 이견이 정부에 의해서 조정될 예정입니다.</eg>
+					<eg>두 나라 간의 분쟁이 그 국제 회담을 통해서 조정되었다.</eg>
+					<eg>정부 부처들 간의 대립이 이 위원회에 의해 조정되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

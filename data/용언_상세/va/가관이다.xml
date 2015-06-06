@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가관이다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/15</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>'S-면'선택제약에서 의미역은?</cre_note>
+				<cre_note>사태(행위)의 의미부류가 너무 포괄적이지 않은지?</cre_note>
+				<cre_note>entry로 나누었지만 sense로 나눌수도 있을 것 같음</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.이4</str>
+			<org lg="si">可觀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be a bad sight</trans>
+				<trans>be unbecoming</trans>
+				<lr>
+					<syn type="etc">꼴불견이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그 녀석들 하는 짓거리가 참 가관이다.</eg>
+					<eg>영국에서도 타블로이드지의 행태는 가관이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>자신의 잘못을 반성하기는커녕 더 큰소리 치는 것이 가관이었다.</eg>
+					<eg>시에서 골프장을 건설하겠다고 그 장단에 덩달아 춤을 추는 것은 더 가관이었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양|상황|개체상황</sel_rst>
+					<eg>그의 인터뷰 장면은 정말 가관이다.</eg>
+					<eg>정치판 돌아가는 모양새가 가관이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

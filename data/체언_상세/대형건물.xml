@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>대형건물</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/28</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>uni 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">대형 건물</var>
+			<str type="R_N">대형+건물</str>
+			<org lg="si">大形建物</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서울 도심지에는 ~이 너무 많이 들어서서 복잡하다</eg>
+				<trans>big building</trans>
+				<domain></domain>
+				<sem_class>건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">소형건물</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 짓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 건축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 허물다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">채</cl>
+				<cl type="uni">동</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

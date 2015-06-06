@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>각설하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/16</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>'각설하고,'의 형식으로 주로 쓰여 활용 제약이 있는 것으로 보았고, 격틀에서 주어 하나만 취하는 것으로 봐도 되는지..</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">却說_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>return to the topic</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame></frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>각설하고</infl_rst>
+			<trans>returning to the topic</trans>
+			<sel_rst arg="X" tht="AGT">인간</sel_rst>
+			<defect_eg>각설하고 지금부터 전략적인 디자이너가 되기 위한 6가지 요건을 소개하겠습니다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

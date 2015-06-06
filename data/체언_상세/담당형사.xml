@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>담당형사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토 요; 최대논항구조 검토 요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>sel_res 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">담당 형사</var>
+			<str type="N_N">담당+형사</str>
+			<org lg="si">擔當刑事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 사건의 ~가 누구입니까?</eg>
+				<eg>그는 문제의 사건에서 ~를 지낸 적이 있다.</eg>
+				<trans>police investigator in charge</trans>
+				<domain></domain>
+				<sem_class>역할인간</sem_class> <!-- '담당'이라는 말 때문에 직업인간보다는 역할인간이 적절할 듯  -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X ~</max_n_str> <!-- '담당'이 술어이기 때문에 '이 사건의 ~'라 할 때 '사건'이 논항 성격을 갖는데, 이를 최대논항구조에 반영해야 하는지? -->
+				<sel_rst arg="X">온</sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

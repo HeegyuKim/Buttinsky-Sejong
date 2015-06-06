@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후려치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>lash</trans>
+				<trans>whip</trans>
+				<trans>thrash</trans>
+				<lr>
+					<syn type="perfect">후려갈기다</syn>
+					<hyper>치다</hyper>
+					<hyper>때리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물|구체물|신체부위</sel_rst>
+					<sel_rst arg="Z" tht="INS">도구(막대기|채찍)|신체부위(손|주먹)</sel_rst>
+					<eg>사내는 피를 흘리며 누운 상대를 계속 몽둥이로 후려쳤다.</eg>
+					<eg>그는 채찍으로 말의 엉덩짝을 몇 대 후려쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

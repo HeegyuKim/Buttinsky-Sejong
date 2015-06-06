@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>입영통지서</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>텍스트담지물로 의미분할 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">입영 통지서</var>
+			<str type="N_N">입영+통지서</str><!--'통지+서'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">入營通知書</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>오빠는 다니던 대학을 휴학하고 ~가 나오기만 기다리고 있다.</eg>
+				<trans>notice for enrollment</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">군 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+				<cl type="uni">통</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>친구는 ~를 받자 기다렸다는 듯이 입대를 하였다.</eg>
+				<eg>이 후보는 친구집을 전전하면서 고시 공부를 하다가 ~를 제때에 전달받지 못했다고 진술했다.</eg>
+				<trans>notice for enrollment</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+				<cl type="uni">통</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

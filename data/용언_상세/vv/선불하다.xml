@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선불하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선불을 하다</var>
+			<str>N.하</str>
+			<org lg="si">先拂_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>pay in advance</trans>
+				<lr>
+					<ant type="compl">후불하다</ant>
+					<hyper>지불하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|세금|비용</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>지난 주에 우리는 관리소에 운동장 사용료를 선불했다.</eg>
+					<eg>의사에게 진료비를 선불했지만 정작 진료 당일에 의사는 나타나지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

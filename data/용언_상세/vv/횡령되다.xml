@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>횡령되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/02</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">횡령이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">橫領_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be usurped</trans>
+				<trans>be seized</trans>
+				<trans>be dispossessed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈|금전|구체물</sel_rst>
+					<eg>기업 관리가 허술한 사이에 많은 회사 돈이 횡령되었다.</eg>
+					<eg>그 직원에 의해 지난 몇 년간 횡령된 공금이 상당액에 달한다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

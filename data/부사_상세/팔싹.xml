@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>팔싹</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김선화; 임유종</cre_writer>
+				<cre_date>2002/08/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/08/06</mod_date>
+			</mod>
+			<note>의태</note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+			<der pos="v">~거리다</der>
+			<der pos="v">~대다</der>
+			<der pos="v">~이다</der>
+			<comp pos="v">~ 하다</comp>
+			<metc>팔싹팔싹</metc>
+			<img type="xg">펄썩펄썩</img>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>발로 땅을 구르다 흙먼지가 ~ 일어났다</eg>
+				<trans>puffing</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>풀썩</syn>
+					<syn>먼지가 이는</syn>
+					<ant>축축하게</ant>
+					<ant>깨끗하게</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~일어나다</comb>
+				<comb pos="v" exist="yes">~생기다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>너무 오래 걸었더니 나도 모르게 ~ 주저앉아버렸다</eg>
+				<trans>flop</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>털썩</syn>
+					<syn>주저앉아서</syn>
+					<ant>꼿꼿하게</ant>
+					<ant>서 있는</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~주저앉다</comb>
+				<comb pos="v" exist="yes">~내려앉다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~주저앉다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

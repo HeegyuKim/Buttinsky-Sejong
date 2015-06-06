@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>앞서다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take the lead</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에게|을|보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|방법|기술|속성|행위</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>아시아와 미국이 나노기술 특허 경쟁서 유럽을 앞서기 시작했다.</eg>
+					<eg>닌텐도가 자사의 차세대 게임 콘솔인 와이를 소니의 플레이스테이션3보다 앞서 출시할 수도 있다고 발표했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>앞서</infl_rst>
+			<trans>before</trans>
+			<sel_rst arg="X" tht="CRT">행위</sel_rst>
+			<defect_eg>북한은 경수로 제공 논의에 앞서 우선 핵무기비확산조약부터 가입해야 한다고 거듭 강조했습니다.</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>앞서</infl_rst>
+			<trans>previously</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>앞서 있었던 사고는 지금의 사고와 원인이 조금 틀린 것으로 보입니다.</defect_eg>
+			<defect_eg>앞서 말한 주장은 모순이 있습니다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

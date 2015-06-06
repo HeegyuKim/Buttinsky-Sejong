@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>유아용품</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 속성구체물을 수정;n_aj 수정;n_v 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">유아+용품</str>
+			<org lg="si">乳兒用品</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>출산한 언니에게 ~을 선물했다.</eg>
+				<eg>우리 회사는 ~을 생산한다.</eg>
+				<trans>baby supplies</trans>
+				<domain></domain>
+				<sem_class>속성구체물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 생산하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 선물하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 팔다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

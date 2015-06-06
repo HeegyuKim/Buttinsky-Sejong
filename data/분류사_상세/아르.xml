@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>아르</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="fr">are</org>
+			<symb>a</symb>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>경지 3~를 추가로 구입했다</eg>
+				<cl_subtype type="sqr">100제곱미터</cl_subtype>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

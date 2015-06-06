@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>진단받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/23</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/14</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">진단을 받다</var>
+			<str>NV</str>
+			<org lg="si">診斷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be examined</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|라고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">질병및증세</sel_rst>
+					<eg>전에는 학원에서 아이들 가르치는 일을 했는데 간염으로 진단받은 후에 일을 그만두고 지금은 아무 일도 하지 않는다.</eg>
+					<eg>전립선 암으로 진단받은 남성은 다른 남성에 비하여 추가적으로 유방암이 진단될 가능성이 조금 높아진다는 사실이 새롭게 제시되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>여의하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">如意_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>여의치</infl_rst>
+			<trans>be to one's desire</trans>
+			<sel_rst arg="X" tht="THM">상황|장소|돈</sel_rst>
+			<defect_eg>저번에는 상황이 여의치 않아 제대로 이야기를 못 나눠 많이 아쉽습니다.</defect_eg>
+			<defect_eg>장소가 여의치 않으면 저희 집에서 모이십시다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

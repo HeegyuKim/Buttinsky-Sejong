@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바스러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">부스러지다</var>
+			<str>R.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>fall into small pieces</trans>
+				<lr>
+					<syn type="perfect">조각나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>미풍에도 파삭 바스러져 내릴 것만 같은 해묵은 가지에 살포시 무리지어 핀 선명한 꽃송이들이 내뿜는 해맑은 향취가 선계의 것을 연상케 한다.</eg>
+					<eg>모닥불이 또 다시 타닥 하고 소리를 내면서 잿더미가 된 장작 하나가 풀썩 바스러져 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

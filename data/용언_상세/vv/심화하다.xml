@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>심화하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/05/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/12</mod_date>
+				<mod_writer>최정진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">심화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">深化_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>become worse</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태|사건|현상</sel_rst>
+					<eg>빈부격차가 지금보다 심화하는 것은 막아야 합니다.</eg>
+					<eg>남미의 몇몇 국가들은 경제난이 심화하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>deepen</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(관계)</sel_rst>
+					<eg>이번 사태로 양국 간의 우호적인 관계가 심화될 것으로 기대된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>intensify</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="X" tht="THM">학문과목</sel_rst>
+					<eg>교육부는 이번에 중고등학교의 교육과정을 심화하기로 결정했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>유독물질</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, 분류사 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">유독 물질</var>
+			<str type="R_N">유독+물질</str>
+			<org lg="si">有毒物質</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>시민단체는 장마철에 ~을 배출하는 기업을 집중감시하기로 했다.</eg>
+				<eg>컴퓨터에서 나오는 ~을 제거하기 위한 연구가 성과를 거두었다.</eg>
+				<trans>poisonous material</trans>
+				<domain></domain>
+				<sem_class>부정적속성구체물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~의 제거</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 배출하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제거하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

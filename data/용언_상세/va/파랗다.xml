@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>파랗다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/21</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be blue</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>하늘도 파랗고 기분도 상쾌하다.</eg>
+					<eg>내 차는 색이 파랗다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be pale</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴)</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>날씨가 얼마나 추운지 모두들 금새 얼굴이 파랗다.</eg>
+					<eg>그는 공포로 얼굴이 파랬다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>파랗게</infl_rst>
+				<trans>angrily</trans>
+				<defect_eg>나는 선생님이 그렇게 파랗게 노하신 것을 처음 보았다.</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>파란</infl_rst>
+				<trans>young</trans>
+				<defect_eg>김선생이 중년이라니, 파란 청년으로 보인다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

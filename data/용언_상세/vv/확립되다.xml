@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확립되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/03</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">확립이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">確立_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be established</trans>
+				<trans>be settled</trans>
+				<trans>be fixed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제|규범|관습|제도|종교|사조|관계추상적대상|개념|기준</sel_rst>
+					<eg>군기가 확립되어야 군의 기강이 바로 설 수 있다.</eg>
+					<eg>좋은 전통이 확립되려면 많은 시간이 필요하다.</eg>
+					<eg>사춘기는 자아에 대한 정체성이 확립되어 가는 시기이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

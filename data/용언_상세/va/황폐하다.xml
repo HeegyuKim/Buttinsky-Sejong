@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>황폐하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">荒廢_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>be ruined</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|건물|길</sel_rst>
+					<eg>그들의 땀과 노력이 황폐했던 땅을 옥토로 탈바꿈시켰다.</eg>
+					<eg>사람들의 발길이 멀어지면서 거리 전체가 황폐하게 변해 갔다.</eg>
+					<eg>사람의 손길이 닿은 지가 언제인지 집은 황폐하고 정원은 잡초로 무성했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>be wasted</trans>
+				<lr>
+					<syn type="perfect">피폐하다</syn>
+					<syn type="kor">메마르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">심리상태(정서|감정|마음)</sel_rst>
+					<eg>이 책은 현대인들의 황폐한 마음에 새순을 돋게 하는 묘약이다.</eg>
+					<eg>요즘 아이들은 예전에 비해 호기심도 없고 정서가 황폐하다고들 말합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

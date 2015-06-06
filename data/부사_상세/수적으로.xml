@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>수적으로</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/06/11</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/15</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>수.적-으로</str>
+			<org lg="si">數的__</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>기득권 세력이 ~ 절대 우위였다</eg>
+				<eg>대만, 필리핀, 네팔 등 아시아 국가들로 ~ 가장 우세하다</eg>
+				<eg>전문직에 진출한 여성이 ~ 소수에 지나지 않는다</eg>
+				<eg>화이트칼라 노동자는 ~ 더욱 늘어날 것이다</eg>
+				<eg>학술 발표 세미나 강연회 등이 ~ 증가했다</eg>
+				<trans>in numbers</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>문장부사/양상부사/관점</sem_rep>
+				<lr>
+					<syn>양적으로</syn>
+					<ant>질적으로</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel>수</rel>
+					<rel>수적</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~늘다</comb>
+				<comb pos="v" exist="yes">~줄다</comb>
+				<comb pos="adj" exist="yes">~많다</comb>
+				<comb pos="adj" exist="yes">~적다</comb>
+				<comb pos="adj" exist="yes">~미미하다</comb>
+				<comb pos="adj" exist="yes">~막강하다</comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="yes">~우세</comb>
+				<comb pos="n" exist="yes">~열세</comb>
+				<comb pos="n" exist="yes">~증가</comb>
+				<comb pos="n" exist="yes">~감소</comb>
+				<prt>~는</prt>
+				<prt>~도</prt>
+				<prt>~만</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

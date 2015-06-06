@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>이라고</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/24</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/09</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/16</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/06/24</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jkq</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>cn</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">라고</var>
+			<var type="abb">라</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>직접인용</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>QM-J</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>영수는 철수에게 "제가 뭐 그리 대단하남"이라고 말하며 비꼬았다.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/24</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/09</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/16</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/06/24</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jx</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>cn</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">라고</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>지칭</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이 것도 직업이라고 하고 있지만, 입에 풀칠하기도 빠듯해요.</eg>
+				<eg>그렇게 하는 것도 걸레질이라고 하는 거냐?</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>강조</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=인간|동물|생물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>식물이라고 그것도 못 느끼겠니?</eg>
+				<!--수사 의문문과 공기.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

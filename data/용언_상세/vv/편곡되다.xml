@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>편곡되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">편곡이 되다</var>
+			<str>N.되</str>
+			<org lg="si">編曲_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>arrange</trans>
+				<domain>음악</domain>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음악</sel_rst>
+					<sel_rst arg="Y" tht="FNS">음악</sel_rst>
+					<eg>민요가 합창곡으로 편곡되었다.</eg>
+					<eg>유명 가곡이 대중음악으로 편곡되는 경우는 많다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

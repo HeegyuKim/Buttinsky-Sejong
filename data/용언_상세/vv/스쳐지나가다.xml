@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>스쳐지나가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go past by</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|관계장소(옆)|장소</sel_rst>
+					<eg>기영이는 명동에서 미영이를 스쳐지나갔지만 알아보지 못했다.</eg>
+					<eg>기영이는 급하게 미영이의 옆을 스쳐지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>glance off</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물</sel_rst>
+					<eg>기영이가 쏜 총알이 목표물을 맞히지 못하고 스쳐지나 가버리고 말았다.</eg>
+					<eg>공중을 날던 새가 갑자기 호수의 수면 위를 스쳐지나간다.</eg>
+					<eg>가로수 잎사귀들이 버스의 창을 스쳐지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감각행위</sem_class>
+				<trans>smell</trans>
+				<trans>feel</trans>
+				<trans>hear</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">바람|냄새|소리속성</sel_rst>
+					<sel_rst arg="X" tht="LOC">관계장소|신체부위</sel_rst>
+					<eg>어디선가 고기 굽는 냄새가 잠시 코 끝을 스쳐지나갔다.</eg>
+					<eg>가벼운 바람이 얼굴을 스쳐지나갔다.</eg>
+					<eg>한 순간 가냘픈 비명소리가 내 귀를 스쳐지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>flit</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+					<subsense>
+					<sel_rst arg="X" tht="THM">영상|추상적행위(생각)</sel_rst>
+					<sel_rst arg="X" tht="EXP">신체부위(머리|머리속|뇌리)</sel_rst>
+					<eg>한 순간 불길한 생각이 갑자기 내 머리에 스쳐지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>기색</sem_class>
+				<trans>be shown</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+					<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<sel_rst arg="X" tht="LOC">(얼굴)</sel_rst>
+					<eg>불안한 기색이 기영이의 얼굴에 잠시 스쳐지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

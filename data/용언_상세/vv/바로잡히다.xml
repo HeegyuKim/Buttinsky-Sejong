@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바로잡히다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/23</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/23</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="i"/>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>correct</trans>
+				<trans>set right</trans>
+				<lr>
+					<syn type="sino">교정되다</syn>
+					<rel>바르게 되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">규범|제도|(오자|마음|행실)</sel_rst>
+					<eg>학교 기강이 바로 잡혀야 학교가 사는 법이다.</eg>
+					<eg>3차 교정을 본 후에야 그 책의 오자가 모두 바로잡혔다.</eg>
+					<eg>나라의 기강이 바로잡히기 위해서는 정치인의 모범이 필수적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>make straight</trans>
+				<lr>
+					<rel>곧게 되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(자세)</sel_rst>
+					<eg>네 자세가 바로잡히기 위해서는 이 의자가 필요해.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

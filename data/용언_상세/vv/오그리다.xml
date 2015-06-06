@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오그리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>crouch</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(몸|무릎|다리|손)</sel_rst>
+					<eg>잠자리는 먹이가 될 벌레가 다가오면, 가시가 돋친 여섯 개의 다리를 바구니처럼 오그려서 공중에서 잡습니다.</eg>
+					<eg>난 격실의 벽을 향해 몸을 오그려 몇 차례 반복한 끝에 담배에 불을 붙일 수가 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>bend something out of shape</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>천조각이나 양말 속에 솜을 넣어 빵빵하게 만들어 주고, 밑부분을 오그려서 꽉 묶어준다.</eg>
+					<eg>만강 부락 주민들이 사용하는 그릇은 전부가 나무를 파고 깎아서 만든 목기가 아니면 봇나무 껍질을 오그려 만든 목피 그릇이였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

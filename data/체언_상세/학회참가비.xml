@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>학회참가비</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>학술대회참가비의 줄임말로 보임</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see>학술대회참가비</see>
+		<morph_grp>
+			<var type="spr">학회 참가비</var> <!--정보 기입(김)-->
+			<var type="lng">학술대회참가비</var>
+			<str type="N_N">학회+참가비</str><!--'학회+참가+비'로 분석가능-->
+			<org lg="si">學會參加費</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>내일 열리는 국제학술대회에 참가하려면 ~를 내야 한다.</eg>
+				<trans>entry fee of an academic meeting</trans> <!--대역표현 수정(김)-->
+				<domain></domain>
+				<sem_class>비용</sem_class> <!--'돈'에서 '비용'으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				<comb_n type="compound">소정의 ~</comb_n>
+				 <!--정보 기입(김)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지불하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">원</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

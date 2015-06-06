@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>건설공사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>목정수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">건설 공사</var>
+			<str type="N_N">건설+공사</str>
+			<org lg="si">建設工事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 회사는 중동에서 ~를 세 건이나 따냈다.</eg>
+				<trans>construction work</trans>
+				<domain></domain>
+				<sem_class>창조행위</sem_class>
+				<lr>
+					<syn type="etc">건축공사</syn>
+					<ant type="dir">해체공사</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 현장</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 시행하다</form> 
+					<frame>X-이 ~를 시행하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 맡다</form>
+					<frame>X-이 ~를 맡다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 따다</form>
+					<frame>X-이 ~를 따다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni">건</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

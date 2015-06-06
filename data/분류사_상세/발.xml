@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>발</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">입이 닷 ~이나 나왔다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>두 ~ 간격으로 벌려라</eg>
+				<eg>이 나무를 싸는 데에 새끼 너 ~ 정도면 충분하다</eg>
+				<cl_subtype type="lnt"/>
+				<lr>
+					<rel>팔</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/05</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">發</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그는 과녁에 총을 세 ~ 연속 쏘았다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>대포</rel_n>
+				<lr>
+					<syn type="etc">방</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

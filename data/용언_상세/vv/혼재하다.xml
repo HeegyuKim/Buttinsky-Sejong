@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼재하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼재를 하다</var>
+			<str>N.하</str>
+			<org lg="si">混載_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>load various goods together</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 W=N3-에 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="COM">구체물</sel_rst>
+					<sel_rst arg="W" tht="LOC">교통기관</sel_rst>
+					<eg>수입업자가 화물차에 냉동 고추를 건조 고추와 혼재하여 운반한 사실이 드러나 처벌을 받게 되었다.</eg>
+					<eg>동일한 차량에 동물을 화학약품과 혼재하여 옮긴다는 것은 상식 밖의 일이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 W=N2-에 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물</sel_rst>
+					<sel_rst arg="W" tht="LOC">교통기관</sel_rst>
+					<eg>수입업자가 화물차에 냉동 고추와 건조 고추를 혼재하여 운반한 사실이 드러나 처벌을 받게 되었다.</eg>
+					<eg>동일한 차량에 동물과 화학약품을 혼재하여 옮긴다는 것은 상식 밖의 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼재를 하다</var>
+			<str>N.하</str>
+			<org lg="si">混在_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>coexist</trans>
+				<lr>
+					<syn type="perfect">공존하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 Z=N2-에 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="COM">온</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소|인간집단</sel_rst>
+					<eg>그 섬에는 기암절벽이 활엽수림과 혼재하고 있으며 아직 오염되지 않은 맑은 바다가 이들을 둘러싸고 있다.</eg>
+					<eg>그 마을에는 현재가 과거와 혼재한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 Z=N1-에 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="X" tht="LOC">장소|인간집단</sel_rst>
+					<eg>잘난 사람과 못난 사람이 혼재하는 집단 속에는 언제나 그런 갈등이 있게 마련이다.</eg>
+					<eg>이번 발굴 조사를 통해 우리는 다양한 고분 형식이 제한된 지역에 혼재한다는 사실을 확인할 수 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

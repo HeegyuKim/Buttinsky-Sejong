@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>근무성적</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl기술했으니 검토바람</mod_note><!--uni '점' 부적절한 듯 하여 삭제(김이정)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">근무 성적</var>
+			<str type="N_N">근무+성적</str>
+			<org lg="si">勤務成績</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 회사는 ~이 우수한 직원에게 표창장을 준다.</eg>
+				<eg>레지던트는 인턴 ~을 바탕으로 선발했다.</eg>
+				<trans>one's service record</trans>
+				<trans>one's service merit</trans>
+				<domain></domain>
+				<sem_class>결과</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 우수하다</comb_aj>
+				<comb_aj type="appr">~이 뛰어나다</comb_aj>
+				<comb_aj type="appr">~이 좋다</comb_aj>
+				<comb_aj type="appr">~이 나쁘다</comb_aj>
+				<comb_aj type="appr">~이 불량하다</comb_aj>
+				<comb_n type="compound">~ 평가</comb_n>
+				<comb_n type="compound">~ 평정</comb_n>
+				<comb_n type="compound">~ 불량</comb_n>
+				<comb_n type="compound">~ 반영</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 평가하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 반영하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

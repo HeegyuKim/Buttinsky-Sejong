@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>예행연습</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/0/</cre_date>
+				<cre_writer>허영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str 기술;n_v 추가;최대논항구조, 선택제약, 분류사 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">예행 연습</var>
+			<str type="N_N">예행+연습</str>
+			<org lg="si">豫行演習</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 반은 수업이 끝난 후 졸업식 ~을 하러 강당으로 모일 것이다.</eg>
+				<trans>preliminary exercises</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">계획사건</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

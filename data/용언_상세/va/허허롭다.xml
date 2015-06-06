@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>허허롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">虛虛_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be empty</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>눈 앞에는 인적 없는 허허로운 들판만이 끝없이 펼쳐져 있었다.</eg>
+					<eg>언제나 허허로운 벌판에 혼자 서 있는 듯한 쓸쓸함과 외로움 때문에 사람을 만나면 있는 그대로를 내보이다 혼자 쑥스러움을 겪곤 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hallow</trans>
+				<trans>be empty</trans>
+				<lr>
+					<syn type="perfect">허전하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(웃음|미소)|개체상황(표정|얼굴)</sel_rst>
+					<eg>먼 하늘만 바라보며 아버지는 허허로운 웃음을 웃으셨다.</eg>
+					<eg>그의 얼굴이 오늘따라 더 허허로워 보여 마음이 아프다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

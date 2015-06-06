@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>제약회사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/26</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/22</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N"></str>
+			<org lg="si">製藥會社</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~인 다케다(武田) 약품공업이 1억4천900만엔으로 2위를, 세계 최대의 액정표시장치(LCD)용 편광필름 제조업체인 닛토덴코(日東電工)가 7천300만엔으로 3위를 각각 차지했다.</eg>
+				<eg>한민식품은 특급호텔, 레스트랑 등에 특별 요리용으로 물개 고기를 공급하는 것은 물론 건강에 도움을 주는 물질인 오메가-3 원료인 물개기름을 직수입해 국내의 ~를 통해 캡슐로 제조하여 판매한다고 밝혔다.</eg>
+				<trans>a drugmaker</trans>
+				<domain></domain>
+				<sem_class>기업</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 취직하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 다니다</form>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

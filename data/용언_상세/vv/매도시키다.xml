@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매도시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매도를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">罵倒__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>denounce</trans>
+				<lr>
+					<syn type="perfect">매리시키다</syn>
+					<syn type="perfect">비난하다</syn>
+					<syn type="perfect">공격하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-다고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>저를 마치 신빙성 없이 짜증만 내는 그런 실없는 학생이라고 매도시켜 버리시는군요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">부정적속성인간</sel_rst>
+					<eg>저를 마치 신빙성 없이 짜증만 내는 그런 실없는 학생으로 매도시켜 버리시는군요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

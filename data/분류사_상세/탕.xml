@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>탕</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/31</mod_date>
+				<mod_writer>방성원</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2002/04/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<comp pos="n" type="prefix">헛~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>오늘 과외가 벌써 세 ~째다</eg>
+				<cl_subtype type="fqn"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>논란하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">논란을 하다</var>
+			<str>N.하</str>
+			<org lg="si">論難_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>논쟁</sem_class>
+				<trans>criticize</trans>
+				<lr>
+					<syn type="perfect">논쟁하다</syn>
+					<syn type="perfect">쟁론하다</syn>
+					<syn type="perfect">비난하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>대간에서 탐관오리의 행동을 논란하여 처결한다면 옳게 행해질 것입니다</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg></eg>
+					<eg>우리는 한 사회구성체에서 상·하부구조의 관계가 얼마나 대응적인가를 논란하기에 바쁘다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

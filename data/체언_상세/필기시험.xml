@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>필기시험</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;반의어에서 '실기시험' 삭제함, 반의어는 아닌 듯함;동사결합과 논항명사구, 논항 의미정보를 '실기시험'에 준해 수정함;단위표현에서 '개' 삭제함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">필기</var>
+			<var type="spr">필기 시험</var>
+			<str type="N_N">필기+시험</str>
+			<org lg="si"> 筆記試驗</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번 ~은 예상했던 문제가 그대로 나와서 쉬었다.</eg>
+				<trans>written examination</trans>
+				<domain></domain>
+				<sem_class>시험</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="conv"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 쉽다</comb_aj>
+				<comb_aj type="appr">~이 어렵다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 보다</form>
+					<frame>X-이 Y-을|에 대해 ~을 보다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 치르다</form>
+					<frame>X-이 Y-을|에 대해 ~을 치르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 보다</form>
+					<frame>Z-이 Y-을|에 대해 ~을 보다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 치르다</form> <!-- 위 경우들의 유형값이 적절한지 확인 필요 -->
+					<frame>Z-이 Y-을|에 대해 ~을 치르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup"> <!--동사구 유형설정 검토요망-->
+					<form vcompound="no">~을 받다</form>
+					<frame>Z-이 X-에게|에게서 Y-을|에 대해 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!--적절성 검토요망-->
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<max_n_str>Z-의 Y ~</max_n_str> <!-- 적절한지 검토 필요 -->
+				<sel_rst arg="X">인간|일시적역할인간|직업인간|비대칭적관계인간|교육기관|기업|군대|기관|단체의부서</sel_rst>
+				<sel_rst arg="Y">학문과목|직업인간|행위</sel_rst>
+				<sel_rst arg="Z">인간|일시적역할인간|비대칭적관계인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

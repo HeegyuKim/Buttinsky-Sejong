@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>동냥하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/13</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">동냥을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>beg</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|음식</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>그는 사람들에게 젖을 동냥하여 이 아이를 키웠다.</eg>
+					<eg>나는 그가 역 앞에서 사람들에게 차비를 동냥하는 것을 보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>beg</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">종교역할인간(중|스님)</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|음식</sel_rst>
+					<eg>앞산 절의 스님이 쌀을 동냥하러 다닌다.</eg>
+					<eg>내가 어릴 적에는 동냥하는 중들이 집 앞에서 목탁을 두드리는 광경을 자주 볼 수 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

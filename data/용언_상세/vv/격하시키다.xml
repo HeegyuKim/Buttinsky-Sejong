@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격하시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+			<org lg="si">格下_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>make sb reduce to a lower position</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="FNS">위계인간</sel_rst>
+					<eg>사장님은 이번 서류조작 사건의 책임을 물어 김과장을 대리로 격하시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+			<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>make st degrade</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">의무|기념일|명절</sel_rst>
+					<sel_rst arg="Z" tht="FNS">의무|기념일|명절</sel_rst>
+					<eg>신성한 국방 의무를 자기들 수준으로 격하시키다니 정말 한심하다.</eg>
+					<eg>이렇게 역사를 왜곡하고 고작 518을 지역감정의 시초로 격하시키다니 저렇게 한심할 수가 있나!</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이의제기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/01</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;영어대역어를 'making protests'에서 수정;형용사결합 정보 추가;명사결합 정보 추가;동사결합에서 '~를 하다'의 구문구조 정보 수정;동사결합에 '~가 되다, ~를 받다' 추가;논항명사구, 논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 정보 전면 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">이의 제기</var>
+			<str type="N_N">이의+제기</str>
+			<org lg="si">異意提起</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>철수가 공식석상에서 발표자에게 ~를 했다.</eg>
+				<trans>objection</trans>
+				<trans>exception</trans>
+				<domain></domain>
+				<sem_class>보고제안</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">별다른 ~</comb_aj>
+				<comb_n type="compound">정식 ~</comb_n>
+				<comb_n type="compound">~ 건수</comb_n>
+				<comb_n type="compound">~ 대상</comb_n>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form> <!-- 형태 정보가 모두 누락되어 있음 -->
+					<frame>X-이 Z-에게 Y-에대해 S다는 ~를 하다</frame>
+					<frame>X-이 Z-에게 S것-에대해 S다는 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form> 
+					<frame>X-이 Z-에게 Y-에대해 S다는 ~가 있다</frame>
+					<frame>X-이 Z-에게 S것-에대해 S다는 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 없다</form> 
+					<frame>X-이 Z-에게 Y-에대해 ~가 없다</frame>
+					<frame>X-이 Z-에게 S것-에대해 ~가 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>X-에 의해 Y-에대해 S다는 ~가 되다</frame>
+					<frame>X-에 의해 S것-에대해 S다는 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Z-이 X-에게 Y-에대해 S다는 ~를 받다</frame>
+					<frame>Z-이 X-에게 S것-에대해 S다는 ~를 받다</frame>
+					<frame>Z-이 X-에게서 Y-에대해 S다는 ~를 받다</frame>
+					<frame>Z-이 X-에게서 S것-에대해 S다는 ~를 받다</frame>
+					<frame>Z-이 X-로부터 Y-에대해 S다는 ~를 받다</frame>
+					<frame>Z-이 X-로부터 S것-에대해 S다는 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 S다는 ~</max_n_str>
+				<max_n_str>X-의 S것-에대한 S다는 ~</max_n_str>
+				<max_n_str>X-의 Z-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">추상적대상|행위|사건</sel_rst>
+				<sel_rst arg="Z">인간|인간집단</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

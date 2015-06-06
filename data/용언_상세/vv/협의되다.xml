@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협의되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협의가 되다</var>
+			<str>N.되</str>
+			<org lg="si">協議_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be discussed</trans>
+				<lr>
+					<syn type="perfect">논의되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(일|문제)|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">모임회의</sel_rst>
+					<eg>이번 책임자 회의에서는 이 모임의 향후 진로가 협의될 예정이다.</eg>
+					<eg>이번 토론회에서 두 나라 간의 문화 교류와 협력에 대한 구체적 사항들이 협의되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

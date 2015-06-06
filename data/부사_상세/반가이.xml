@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>반가이</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>이민우; 임유종</cre_writer>
+				<cre_date>2002/04/26</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/05/3</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>반갑.이</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>할머니는 오랜만에 찾아온 손주들을 ~ 맞아 주셨다</eg>
+				<trans>delightedly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>기꺼이</syn>
+					<syn>즐거이</syn>
+					<ant>언짢게</ant>
+					<ant>마지못해</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel>반갑다</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~맞다</comb>
+				<comb pos="v" exist="yes">~대하다</comb>
+				<comb pos="v" exist="yes">~받다</comb>
+				<comb pos="v" exist="yes">~웃다</comb>
+				<comb pos="v" exist="yes">~주다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~도</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~맞다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

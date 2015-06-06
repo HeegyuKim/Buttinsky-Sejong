@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>자릿자릿</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김선화; 임유종</cre_writer>
+				<cre_date>2002/07/13</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/07/19</mod_date>
+			</mod>
+			<note>의태, 중첩</note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="abb">자릿</var>
+			<str>자릿+자릿</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+			<comp pos="v">~하다</comp>
+			<img type="xt">짜릿짜릿</img>
+			<img type="xg">저릿저릿</img>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>손끝이 ~ 저리다</eg>
+				<trans>prickling</trans>
+				<trans>tingling</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>짜릿짜릿</syn>
+					<syn>저릿저릿</syn>
+					<syn>전기가 오르듯</syn>
+					<ant>부드럽게</ant>
+					<ant>아무 느낌없이</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~저리다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~저리다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그 소식을 듣자마자 온 몸에 ~ 배어드는 기쁨을 참을 수 없었다</eg>
+				<trans>prickling</trans>
+				<trans>tingling</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>짜릿짜릿</syn>
+					<syn>저릿저릿</syn>
+					<syn>흥분되는</syn>
+					<ant>온순한</ant>
+					<ant>편안한</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~흥분되다</comb>
+				<comb pos="v" exist="yes">~떨리다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~흥분되다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

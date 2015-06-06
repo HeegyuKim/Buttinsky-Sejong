@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>패권다툼</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/30</mod_date>
+				<mod_writer>백고운</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">패권다툼</var>
+			<str type="N_N">패권+다툼</str>
+			<org lg="si">覇權_</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>미국 자동차 시장을 석권하기 위해 유럽 자동차와 일본 자동차 업계의 ~이 치열하다.</eg>
+				<eg>포에니 전쟁은 지중해 지역의 해상권을 장악하기 위한 로마와 카르타고의 ~에서 비롯되었다.</eg>
+				<trans>the competition for a hegemony</trans>
+				<domain></domain>
+				<sem_class>계획사건</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				  <!--항목 추가-->
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">	<!--(임근석) npred_vpred를 npred_vsupvar로 수정-->
+					<form vcompound="yes">~을 벌이다</form>
+					<frame>X-이 Y-와 ~을 벌이다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>	<!--(임근석) '국가'를 인간집단으로 수정-->
+				<sel_rst arg="Y">인간집단</sel_rst>	<!--(임근석) 수정-->
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

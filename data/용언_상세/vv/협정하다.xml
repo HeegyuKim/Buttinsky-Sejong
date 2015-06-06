@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협정하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/03</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협정을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">協定_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>agree</trans>
+				<trans>arrange</trans>
+				<trans>make arrangements</trans>
+			</sem_grp>
+			<frame_grp type="FIT" cor="sym" n="01">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간집단</sel_rst>
+					<eg>우리 회사는 한 제약회사와 신약 개발을 위한 공동 연구 추진을 협정했다.</eg>
+					<eg>한국은 중국과 인적 자원의 상호 교류에 대해 협정했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT" cor="sym" n="01">
+				<frame>X+Z=N0-이 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간집단</sel_rst>
+					<eg>두 회사는 신약 개발을 위한 공동 연구 추진을 협정했다.</eg>
+					<eg>한국과 중국이 인적 자원의 상호 교류에 대해 협정했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="02">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"/>
+					<sel_rst arg="Z" tht="COM">인간집단</sel_rst>
+					<eg>우리 회사가 한 제약회사와 신약 개발을 위해 공동으로 투자하기로 협정했다.</eg>
+					<eg>한국은 중국과 인적 자원을 교류하기로 협정했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT" cor="sym" n="02">
+				<frame>X+Z=N0-이 (서로) Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"/>
+					<sel_rst arg="Z" tht="AGT">인간집단</sel_rst>
+					<eg>경쟁 관계였던 두 회사가 신약 개발을 위해 공동 투자하기로 협정했다.</eg>
+					<eg>한국과 중국은 인적 자원을 교류하기로 협정했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

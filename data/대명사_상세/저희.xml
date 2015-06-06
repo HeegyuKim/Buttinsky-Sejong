@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>저희</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+			<note>관형 의미로 쓰이는 경우를 의미구획에 추가</note>
+		</mnt_grp>
+		<morph_grp>
+			<str type="N_S">저+희</str>
+		</morph_grp>
+		<sense n="1" sem="1" num="plural" ref="human">
+			<sem_grp>
+				<eg>어머니께서는 ~를 위해서라면 뭐든지 하셨죠</eg>
+				<reg>겸양</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="1" num="plural" ref="human">
+			<sem_grp>
+				<eg>언제 한 번 ~ 집에 들르시지요</eg>
+				<trans>our</trans>
+				<reg>겸양</reg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<note>2001년모형으로 재조정</note>
+		</mnt_grp>
+		<morph_grp>
+			<str type="N_S">저+희</str>
+		</morph_grp>
+		<sense n="1" sem="reflexive" num="plural" ref="human">
+			<sem_grp>
+				<eg>저 녀석들이 밤마다 모이는 걸 보니 ~끼리 무슨 일을 꾸미는 모양이다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>형식화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/27</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/05</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">형식화를 시키다</var>
+			<cntr opt="opt" type="i"/>
+			<str>N.시</str>
+			<org lg="si">形式化_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>formalize</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>이제 그에게는 이론을 체계적인 모습으로 형식화시키는 작업이 남아 있다.</eg>
+					<eg>사장은 나에게 모든 과정을 일목요연하게 형식화시킨 자료가 필요하다고 덧붙였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>formalize</trans>
+				<lr>
+					<syn type="perfect">의례화하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>현대인들은 인간의 관계마저 형식화시키고 있다는 개탄의 소리가 높다.</eg>
+					<eg>그들은 시 당국이 노인들의 복지 문제를 형식화시키는 데 그치고 있다고 비난했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>바쁘게 돌아가는 생활이 가족 관계마저 형식화시키고 있다.</eg>
+					<eg>전통 의식의 부재가 우리의 모든 미풍양속을 형식화시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

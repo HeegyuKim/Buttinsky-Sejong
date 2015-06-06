@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>근본주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/28</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>domain 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">근본+주의</str>
+			<org lg="si">根本主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+		<!--고유명사로서 '미국 신교파의 일파'로의 센스는 여기서 다루지 않음.-->
+			<sem_grp>
+				<eg>그 종파에서는 창시자의 이념을 ~로 채택하고 있다.</eg>
+				<trans>fundamentalisme</trans>
+				<domain>종교</domain>
+				<sem_class>사조</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="temp">
+					<form vcompound="temp"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

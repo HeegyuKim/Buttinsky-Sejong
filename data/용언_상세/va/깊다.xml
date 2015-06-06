@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깊다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/04/22</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be deep</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(물|바다)</sel_rst>
+					<n_appr arg="X">깊이</n_appr>
+					<eg>강물이 아주 깊다.</eg>
+					<eg>우물이 바닥이 깊다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(굴|우물|항아리)|(바닥)</sel_rst>
+					<n_appr arg="X">깊이</n_appr>
+					<eg>항아리가 깊은 것이 배추가 많이 들어가겠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(바닥)</sel_rst>
+					<eg>그 우물의 바닥이 아주 깊다.</eg>
+					<eg>강물의 바닥이 아주 깊어 보인다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(뿌리)</sel_rst>
+					<eg>이 나무는 뿌리가 아주 깊다.</eg>
+					<eg>이 식물이 벌써 뿌리가 아주 깊게 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be lonely</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(산|골짜기|골목|집안)</sel_rst>
+					<eg>산이 아주 깊다.</eg>
+					<eg>골짜기가 아주 깊다.</eg>
+					<eg>그는 깊은 산골짝에 산다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>시간상태</sem_class>
+				<trans>be in the last stage</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(밤)|(가을|늦가을)</sel_rst>
+					<eg>밤이 깊다.</eg>
+					<eg>늦가을이 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be careful</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(마음|사려|속)</sel_rst>
+					<eg>철수는 사려가 깊다.</eg>
+					<eg>그처럼 속이 깊은 사람은 처음 봤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a long story and tradition</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(역사|유서)</sel_rst>
+					<eg>이 회사의 역사가 깊다.</eg>
+					<eg>이 도자기는 유서가 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a deep taste</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식|자연음식물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(맛)</sel_rst>
+					<eg>이 포도주의 맛이 아주 깊다.</eg>
+					<eg>이 깊은 장 맛은 어디에서 나오는 것인가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a close relation with</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(관계|관련)</sel_rst>
+					<eg>두 사람의 관계가 아주 깊다.</eg>
+					<eg>미국과 영국은 관련이 깊다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(우정)</sel_rst>
+					<eg>두 사람의 우정이 아주 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be critical</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(상처|병)</sel_rst>
+					<eg>철수의 어깨 부위의 상처가 아주 깊다.</eg>
+					<eg>그는 병이 아주 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be deep</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(잔주름|눈두덩이|눈자위)</sel_rst>
+					<eg>그는 눈가에 잔주름이 아주 깊다.</eg>
+					<eg>그는 두 눈두덩이가 깊게 패어 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a complex emotion to</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=N2-에대해|에게 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(애정|원한|신뢰)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>철수는 레아에게 원한이 깊다.</eg>
+					<eg>나는 그 사람에 대해서 신뢰가 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a good ability in</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=N2-에대해|에 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(조예|학식)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>그는 이 방면에 조예가 깊다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(조예|학식)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">S데</sel_rst>
+					<eg>그는 이누이트 말을 분석하는 데에 조예가 깊다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>깊은</infl_rst>
+			<trans>sound</trans>
+			<trans>deep</trans>
+			<sel_rst arg="X" tht="THM">(잠)</sel_rst>
+			<defect_eg>그는 깊은 잠에 빠졌다.</defect_eg>
+		</defect>
+		<idm_grp>
+			<idm>뿌리가 깊다</idm>
+			<idm>골이 깊다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

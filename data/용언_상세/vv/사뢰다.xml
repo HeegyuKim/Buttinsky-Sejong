@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>사뢰다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">아뢰다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소통행위|S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>우리들이 돌아가서 왕에게 사뢰어 허락해 주시면 내일 다시 오겠고, 만일 허락지 않으시면 잠시 뒤에 다시 오겠소.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에|에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>들어가서 주인장께 내가 좀 뵙자고 한다고 사뢰어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

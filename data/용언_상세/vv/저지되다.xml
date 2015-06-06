@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>저지되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">저지가 되다</var>
+			<str>N.되</str>
+			<org lg="si">沮止_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be blocked</trans>
+				<lr>
+					<syn type="perfect">저지당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="X" tht="EFF">인간집단|추상적대상</sel_rst>
+					<eg>가두 진출이 경찰에 저지되었다.</eg>
+					<eg>적의 진격이 아군의 완강한 저항에 저지되었다.</eg>
+					<eg>우리 팀의 본선 진출은 복병인 그리스 팀에 의해 저지되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그 법안 처리가 야당 의원들에게 무력으로 저지되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

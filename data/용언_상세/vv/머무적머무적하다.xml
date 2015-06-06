@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>머무적머무적하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/05/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">머뭇머뭇하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>hesitate</trans>
+				<lr>
+					<syn type="perfect">뭉그적뭉그적하다</syn>
+					<syn type="perfect">몽그작몽그작하다</syn>
+					<syn type="perfect">주척주척하다</syn>
+					<syn type="perfect">주춤주춤하다</syn>
+					<syn type="perfect">멈칫멈칫하다</syn>
+					<syn type="perfect">망설망설하다</syn>
+					<syn type="perfect">우물쭈물하다</syn>
+					<syn type="sino">주저하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>더 이상 여기에서 머무적머무적하고 있을 시간이 없다.</eg>
+					<eg>계속 머무적머무적할 작정이라면 나는 네 곁에 머무를 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

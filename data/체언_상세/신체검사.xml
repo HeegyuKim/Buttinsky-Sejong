@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신체검사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사결합 사례 열거 순서 조정;논항명사구에 'X-의 Y-에 대한 ~' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형, 합성어 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">신검</var> <!--'신검'은 abb이자 spoken인 듯. 군입대용 신체검사에만 해당?-->
+			<var type="spr">신체 검사</var> 
+			<str type="N_N">신체+검사</str>
+			<org lg="si">身體檢査</org>
+			<comp pos="v" type="suffix">~하다</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>의사는 그의 건강 상태를 살피기 위해 ~를 했다.</eg>
+				<trans>physical examination</trans>
+				<domain></domain>
+				<sem_class>단독행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">채용 ~</comb_n>
+				<comb_n type="compound">징병 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Y-이 X-에게 ~를 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str> <!-- 이 구조는 조사 생략으로 앞의 것을 설명할 수 있음 -->
+				<sel_rst arg="X">인간|의료기관|기관</sel_rst>
+				<sel_rst arg="Y">인간|범위인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

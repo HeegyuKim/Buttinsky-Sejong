@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>습득시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">습득을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">習得__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>teach</trans>
+				<trans>give lessons in</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|동물(원숭이|개)</sel_rst>
+					<eg>기영이는 그 마을의 노인들에게 컴퓨터를 기증하고 인터넷 사용법도 습득시켰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>민기 엄마가 민기한테 화장실에서 볼일을 본 다음에는 반듯시 손을 씻어야 한다는 것을 습득시키는 데 꼬박 2주일이 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

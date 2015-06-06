@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>킬로미터</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/31</mod_date>
+				<mod_writer>방성원</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2002/04/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">키로미터</var>
+			<var type="xx">킬로메타</var>
+			<var type="xx">킬로미타</var>
+			<var type="xx">키로미타</var>
+			<var type="abb">킬로</var>
+			<org lg="en">kilometer</org>
+			<symb>km;Km;KM</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>십 ~ 경기에서 우승했다</eg>
+				<cl_subtype type="lnt"/>
+				<lr>
+					<rel>미터</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>취득되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/03</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">취득이 되다</var>
+			<str>N.되</str>
+			<org lg="si">取得_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be acquired</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>일단 원하는 물건만 핵심요원에게 취득되면, 다른 모든 요원들은 제자리로 돌아가 평범한 소시민이 된다.</eg>
+					<eg>성년이 되면, 상속받은 재산권이 본인에게 취득된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

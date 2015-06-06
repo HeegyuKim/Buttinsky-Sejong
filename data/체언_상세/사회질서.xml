@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사회질서</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/13</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>전문영역 정보 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사연어에서 '~ 유지' 삭제, '유교적 ~' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사회 질서</var>
+			<str type="N_N">사회+질서</str>
+			<org lg="si">司會秩序</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>소규모의 자연상태에서는 어떤 통치기구가 없다고 하더라도 ~가 유지될 수 있을 것이다.</eg>
+				<trans>social order</trans>
+				<domain>사회</domain>
+				<sem_class>규범</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_n type="compound">유교적 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 유지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 깨뜨리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 무너지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 깨지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 위반되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

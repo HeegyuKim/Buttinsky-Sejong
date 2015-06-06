@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>만하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be worth</trans>
+				<lr>
+					<syn type="sino">가치있다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="Aaux">
+				<frame>X=S0-을 A</frame><!--"듯하다"와 관련하여 검토 요망.-->
+				<subsense>
+					<sel_rst arg="X" tht="CNT"></sel_rst>
+					<eg>저수지 위쪽의 평탄한 오솔길을 따라 이어지는 동백골의 단풍도 감상할 만하다.</eg>
+					<eg>그의 말은 늘 신뢰할 만하다.</eg>
+					<eg>그 극단의 공연은 한번쯤 볼 만하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

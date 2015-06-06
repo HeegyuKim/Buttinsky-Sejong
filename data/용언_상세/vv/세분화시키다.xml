@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>세분화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">세분화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">細分化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>subdivide</trans>
+				<trans>break down</trans>
+				<lr>
+					<syn type="kor">나누다</syn>
+					<ant type="dir">통합시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="FNS">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<eg>진행진은 사람들을 관심사에 따라 몇 개의 그룹으로 세분화시켰다.</eg>
+					<eg>이 많은 데이터들을 단 3명의 사람이 3일 만에 5개의 하위 분야로 세분화시켰다니.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

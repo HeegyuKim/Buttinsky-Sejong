@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>판단내리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/10</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>판단하다</see>
+		<morph_grp>
+			<var type="spr">판단을 내리다</var>
+			<str>NV</str>
+			<org lg="si">判斷__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>judge</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>고등학생이 전공에 대하여 판단내리기는 쉽지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

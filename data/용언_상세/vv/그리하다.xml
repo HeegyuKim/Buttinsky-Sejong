@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>그리하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>DV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리적행위</sem_class>
+				<trans>do so</trans>
+				<lr>
+					<hyper>하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">생물|집단</sel_rst>
+					<eg>누렁이가 그리하는 바람에 도둑을 잡을 수 있었잖아.</eg>
+					<eg>영희가 그리한다고 너도 그러면 쓰겠니.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

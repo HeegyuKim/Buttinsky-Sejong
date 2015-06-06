@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>힐책하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">힐책을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">詰責_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>rebuke</trans>
+				<trans>reprimand</trans>
+				<trans>reproach</trans>
+				<trans>blame</trans>
+				<lr>
+					<syn type="kor">나무라다</syn>
+					<syn type="kor">꾸짖다</syn>
+					<ant type="dir">칭찬하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|행위</sel_rst>
+					<eg>아내는 이번 일에 대해서도 나를 힐책하고 싶은 눈치였다.</eg>
+					<eg>사장은 그 사람의 반복되는 실수를 힐책했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그녀는 내가 실수를 거듭하는 것을 심하게 힐책했다.</eg>
+					<eg>그는 내가 이렇게 떠나려는 것을 힐책했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그는 나에게 그런 소극적인 자세는 버려야 한다고 힐책했다.</eg>
+					<eg>사장은 그에게 이번 계약이 파기된 것은 모두 그의 안일한 태도 탓이었다고 힐책했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="magn">심하게</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신망하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">신망을 하다</var>
+			<str>NV</str>
+			<org lg="si">信望_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>place confidence in</trans>
+				<trans>confide in</trans>
+				<lr>
+					<syn type="perfect">신의하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>선생님은 기영이를 무척 신망한다.</eg>
+					<eg>국민들은 사법부를 신망하지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이용하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/10</cre_date>
+				<cre_writer>박소영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/11</mod_date>
+				<mod_writer>김재욱</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">이용을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">利用_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>use</trans>
+				<trans>utilize</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|추상적대상</sel_rst>
+					<eg>현 생활을 중시하는 '베짱이형' 그룹은 카드사를, 장래생활을 대비하는 '개미형' 그룹은 캐피탈을 주로 이용했다.</eg>
+					<eg>나는 국내 항공사 편으로 자카르타까지 간 뒤, 발리까지는 현지인이 예약해 준 G항공 국내선을 이용했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물|추상적대상</sel_rst>
+					<eg>카틀리지 씨의 증언을 통해 옛 소련 해군이 군사작전을 위해 돌고래를 훈련시켰으며 그것을 자살특공대로 이용한 사실을 알았다.</eg>
+					<eg>선인들은 겨울이면 땅 속에 독을 묻어 지열을 김치 발효에 이용했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">S것|S기|S데</sel_rst>
+					<eg>컴퓨터업체 S사는 개인정보를 빼내 광고메일을 보내는 데 이용했다.</eg>
+					<eg>선인들은 겨울이면 땅 속에 독을 묻어 지열을 김치를 발효시키는 것에 이용했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>exploit</trans>
+				<trans>take advantage of</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|추상적대상</sel_rst>
+					<eg>그녀는 자기 친구를 이용하여 오늘날의 부귀를 얻었다.</eg>
+					<eg>김 장관은 사회의 무정부 상태를 이용하여 권력을 얻었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물|집단|추상적대상</sel_rst>
+					<eg>남한이 납치 북한인을 공작원, 위안부로 이용했다는 터무니없는 주장이 나왔다.</eg>
+					<eg>김 장관은 사회의 부조리를 치부에 이용했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

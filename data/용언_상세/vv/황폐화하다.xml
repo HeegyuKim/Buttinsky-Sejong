@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>황폐화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/09</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">황폐화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">荒廢化_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>desolate</trans>
+				<trans>devastate</trans>
+				<trans>ruin</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="01">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|사건|현상|행위</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>무분별한 개발이 국토를 황폐화했다.</eg>
+					<eg>지나친 농약의 사용은 농경지를 황폐화하기에 이르렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>ruin</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="02">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|사건|현상|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<eg>부모들의 지나친 교육열이 오히려 우리 아이들의 정서를 황폐화한다는 생각이 든다.</eg>
+					<eg>동족간의 전쟁은 국토뿐 아니라 우리의 마음을 황폐화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be devastated</trans>
+				<trans>go to ruin</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="01">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>농촌이 황폐화하고 있음에도 당국은 아무도 대책을 제시하지 않고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>ruin</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="02">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<eg>어른들의 무관심 속에 아이들의 마음이 황폐화하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

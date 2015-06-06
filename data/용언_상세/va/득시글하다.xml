@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>득시글하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/08/22</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/22</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+			  	<mod_date>2005/09/10</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<n_appr arg="X">방에 벌레들이 득시글하다.</n_appr>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물</sel_rst>
+					<n_appr arg="X">방이 벌레들로 득시글하다.</n_appr>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>용트림하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">용트림을 하다</var>
+			<str>N.하</str>
+			<org lg="si">龍___</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>force out a loud belch on purpose</trans>
+				<lr>
+					<hyper>트림하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>언젠가부터 그녀는 멀건 죽 한 그릇 먹고도 꺽꺽 용트림하는 남편이 애처롭게 느껴지기 시작했다.</eg>
+					<eg>평상시에는 물이 흐르지 않다가 큰비가 내리면 시뻘건 냇물이 세차게 용트림하듯 흐르고 집채만한 바위들이 휩쓸려 구르며 그 소리는 마치 천둥소리 같았다고 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

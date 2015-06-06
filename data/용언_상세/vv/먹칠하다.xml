@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>먹칠하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>센트타입수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">먹칠을 하다</var>
+			<str>N.하</str>
+			<org lg="si">_漆_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>smear with ink</trans>
+				<lr>
+					<hyper>칠하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">종이</sel_rst>
+					<eg>스승의 서체를 본뜬 천편일륜적인 서예작품, 사상과 혼맥의 투입은커녕 잔재주만이 화선지를 먹칠해 놓고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>disgrace</trans>
+				<lr>
+					<syn type="perfect">망신시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|품격속성값(명예|명성|가치)|신체부위(얼굴)</sel_rst>
+					<eg>외국인 근로자들의 약점을 이용한 임금 착취와 인권유린이 비일비재해 동남아 국가에서 한국의 이미지를 먹칠해 놓고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>spoil</trans>
+				<lr>
+					<syn type="kor">망치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>성자의 그림을 한 순간에 먹칠해 버릴 수도 있습니다.</eg>
+					<eg>그 녀석은 우리가 오랫동안 세워 온 계획을 완전히 먹칠해 버리고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

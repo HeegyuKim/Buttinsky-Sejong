@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>노인학대</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">노인 학대</var>
+			<str type="N_N">노인+학대</str>
+			<org lg="si">老人虐待</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>적지 않은 노인들이 아들이나 며느리에게서 ~를 당하고 있을 것으로 판단된다.</eg>
+				<trans>ill-treatment of the old</trans>
+				<domain></domain>
+				<sem_class>범죄및비행</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심하다</comb_aj>
+				<comb_n type="compound">~ 사례</comb_n>
+				<comb_n type="compound">~의 실태</comb_n>
+				<comb_n type="lexfunc">~의 피해자</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 저지르다</form>
+					<frame>X-이 ~를 저지르다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 예방하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 줄이다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl> <!-- 일회성 행위를 의미하는지 아니면 지속적 행위를 의미하는지 검토 요망? -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

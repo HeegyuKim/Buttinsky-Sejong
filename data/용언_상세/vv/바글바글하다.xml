@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바글바글하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>교차구문 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">버글버글하다</var>
+			<var type="etc">빠글빠글하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>swarm with</trans>
+				<lr>
+					<syn type="perfect">우글우글거리다</syn>
+					<syn type="perfect">득시글거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|용기</sel_rst>
+					<eg>네가 먼저 말을 걸고 상대의 이야기에 맞장구를 잘 치기 때문에 주변에 항상 친구들이 바글바글해.</eg>
+					<eg>그 집은 보기엔 허름하고 비좁지만, 점심 때는 물론 저녁 때에도 손님들이 바글바글해 앉을 곳이 없다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|용기</sel_rst>
+					<sel_rst arg="Y" tht="INS">인간|동물|인간집단</sel_rst>
+					<eg>네가 먼저 말을 걸고 상대의 이야기에 맞장구를 잘 치기 때문에 주변이 항상 친구들로 바글바글해.</eg>
+					<eg>그 집은 보기엔 허름하고 비좁지만, 점심 때는 물론 저녁 때에도 손님들로 바글바글해 앉을 곳이 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

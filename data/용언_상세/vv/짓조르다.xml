@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짓조르다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/26</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>ask strongly</trans>
+				<trans>urge strongly</trans>
+				<trans>press strongly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>아이는 엄마에게 장난감을 사달라고 짓조른다.</eg>
+					<eg>기영이는 미영이에게 함께 영화 보러 가자고 짓조른다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-을 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="THM">인간</sel_rst>
+					<eg>아이는 장난감을 사달라고 엄마를 짓조른다.</eg>
+					<eg>기영이는 함께 영화 보러 가자고 미영이를 짓조른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

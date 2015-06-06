@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>길다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>적정명사 '길이'를 설정하는 것이 어떨지</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>적정명사 추가, 김건희 의견반영</mod_note>
+				<mod_note>예문 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be long</trans>
+				<lr>
+					<ant type="grad">짧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">길이</n_appr>
+					<eg>그 당시에는 남자들 머리가 다 이처럼 길었다.</eg>
+					<eg>이 바지가 나한테는 길이가 너무 길다.</eg>
+					<eg>영희에겐 그 치마가 너무 길다.</eg>
+					<eg>이 바지가 나한테는 길이가 너무 길다.</eg>
+					<eg>그 막대기는 젓가락으로 쓰기에는 너무 길다.</eg>
+					<eg>그 발은 내 방 문간에 걸기에 길이가 너무 길다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be lengthy</trans>
+				<lr>
+					<ant type="grad">짧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>그의 여생은 그리 길지 못하였다.</eg>
+					<eg>긴 세월 동안 만나지 못한 친구들이 보고 싶다.</eg>
+					<eg>그 일에 두 시간은 긴 시간이 아니다.</eg>
+					<eg>긴 밤을 우리는 함께 지새웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be lengthy</trans>
+				<lr>
+					<ant type="grad">짧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|텍스트</sel_rst>
+					<eg>그날 그의 이야기는 너무 길었다.</eg>
+					<eg>그는 같은 얘기도 늘 길게 하는 버릇이 있다.</eg>
+					<eg>그는 아주 긴 장문의 편지를 나에게 보내 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be lengthy</trans>
+				<lr>
+					<ant type="grad">짧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">천체(해)</sel_rst>
+					<eg>요즘은 해가 길어서 오후 8시에도 밖이 환하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

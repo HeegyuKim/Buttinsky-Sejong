@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발각나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>의미부류수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+			<org lg="si">發覺_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get found out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(속성|사실명제)|사태(계획)|행위|S것</sel_rst>
+					<eg>백제 왕족 부여 씨라는 사실이 발각나 일족이 모조리 참변을 당한 경우도 있고, 환차처럼 영락없이 죽을 뻔한 위기에서 뒤로 재물을 바치고 살아난 자도 있었다.</eg>
+					<eg>만약, 고위 당간부나 외국 손님의 물건을 훔친 것이 발각나면, 반당분자로 찍혀 직장에서도 잘리고, 거주지도 이 평양 교외에서 삼수갑산으로 쫓겨난다는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꾸부스름하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>적정명사 추가했으나 의미부류 재고</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">구부스름하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be rather bent</trans>
+				<lr>
+					<syn type="perfect">꾸부정하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|신체부위(등|허리|몸)|(모습|자세)</sel_rst>
+					<eg>노인은 꾸부스름한 몸을 이끌고 방안으로 들어갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(기둥|대들보)</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<eg>자연 그대로의 나무를 갖다 써서 기둥이 꾸부스름했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

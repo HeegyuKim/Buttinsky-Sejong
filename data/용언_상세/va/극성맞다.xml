@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극성맞다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈, 적정명사가 추상적인 의미부류로 제시</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">極盛_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be impatient</trans>
+				<trans>be impetuous</trans>
+				<lr>
+					<syn type="perfect">극성스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">품격속성|행위</n_appr>
+					<eg>주위 사람들은 시도때도 없이 나대는 이 아이들을 극성맞다고 고개를 내두른다.</eg>
+					<eg>일각에서는 요즘의 젊은 엄마들을 유난스럽고 극성맞다고 나무라는 소리가 높다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be impatient</trans>
+				<trans>be impetuous</trans>
+				<lr>
+					<syn type="perfect">극성스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">품격속성|행위</sel_rst>
+					<eg>요즘 관객의 반응이 예전에 비해 너무 극성맞다.</eg>
+					<eg>그 털털한 여자는 여자 아이의 행동이 너무 극성맞다고 어렸을 때 많이 혼이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be extreme</trans>
+				<trans>be heavy</trans>
+				<lr>
+					<syn type="perfect">극성스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">현상</sel_rst>
+					<eg>밤새 들리는 극성맞은 바람소리 덕분에 한숨도 자지 못했다.</eg>
+					<eg>무슨 비가 이렇게 극성맞게 오는지 모르겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

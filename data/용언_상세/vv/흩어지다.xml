@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흩어지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/22</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/24</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>scatter about</trans>
+				<trans>be scattered</trans>
+				<trans>disperse</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>공원 이곳저곳에 쓰레기가 흩어져 있었다.</eg>
+					<eg>그는 흩어진 책들을 하나씩 집어 책꽂이에 꽂앗다.</eg>
+					<eg>그들은 낙엽이 흩어진 거리를 걷고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>scatter about</trans>
+				<trans>be scattered</trans>
+				<trans>disperse</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">혈연집단|일시적집단</sel_rst>
+					<eg>전쟁으로 우리 가족은 뿔뿔이 흩어져 살게 되었다.</eg>
+					<eg>경찰이 공포탄을 쏘자 시위대는 이리저리 흩어지기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be distracted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(마음|정신)</sel_rst>
+					<eg>그 소식에 나는 정신이 흩어져 무슨 일부터 해야 할지 갈피를 잡지 못했다.</eg>
+					<eg>그는 작은 일에도 쉽게 마음이 흩어진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

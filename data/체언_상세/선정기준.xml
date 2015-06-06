@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>선정기준</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_v 추가</mod_note>
+				<mod_note>cl 기술</mod_note>
+				<mod_note>max_n 기술</mod_note>
+				<mod_note>sel_res 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/13</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">선정 기준</var>
+			<str type="N_N">선정+기준</str>
+			<org lg="si">選定基準</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번 인사에서 임원진의 ~은 너무 모호했다.</eg>
+				<trans>criterion of selection</trans>
+				<domain></domain>
+				<sem_class>기준</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 잡다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 적용하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 어긋나다</form> <!-- 송근영 기준 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<!-- '선정'이 갖는 술어성 때문에 논항 필요(송근영) -->
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">상태인간|역할인간|단체|속성구체물|건물|속성기능장소</sel_rst> <!-- '온'을 줄 수는 없지만, 정확한 의미부류 설정이 어려움(송근영) -->
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

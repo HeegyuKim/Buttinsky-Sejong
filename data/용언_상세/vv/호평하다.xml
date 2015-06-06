@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호평하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호평을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">好評_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>criticize favorably</trans>
+				<trans>give a favorable reception</trans>
+				<lr>
+					<ant type="dir">악평하다</ant>
+					<hyper>평하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|구체물|추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>한 평론가는 이 책을 순수한 영혼의 담백한 독백이라고 호평했다.</eg>
+					<eg>대다수의 소비자들은 우리의 신제품 냉동고에 대해 좋은 상품이라고 호평했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

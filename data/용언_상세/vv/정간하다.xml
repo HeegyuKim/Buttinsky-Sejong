@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>정간하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/11</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">정간을 하다</var>
+			<str>N.하</str>
+			<org lg="si">停刊_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>갈등상황</sem_class>
+				<trans>suspend publication</trans>
+				<lr>
+					<syn type="perfect">정간시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트담지물(신문|잡지)</sel_rst>
+					<!--명사의미부류 체계에 [텍스트담지물/출판물/정기간행물] 추가 필요-->
+					<eg>그 잡지사는 그 월간지를 정간하고 새로운 주간지를 발간하기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/10/07</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">정간을 하다</var>
+			<str>N.하</str>
+			<org lg="si">正諫</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>remonstrate accurately with a person</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>이조판서는 왕에게 그 사건에대해 정간하지 못하고 왕이 듣기 좋은대로 간하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

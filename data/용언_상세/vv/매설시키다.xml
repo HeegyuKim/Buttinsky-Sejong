@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매설시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매설을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">埋設__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>lay under the ground</trans>
+				<lr>
+					<ant type="compl">발굴시키다</ant>
+					<ant type="compl">파다</ant>
+					<hyper>묻다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">탄환|설치물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>테스트에서는 대인 지뢰와 여러 가지 폭발물을 선로 주변 깊은 곳에 매설시켜 두었다.</eg>
+					<eg>포장마차는 철거후 확인해 본 결과 시멘트로 바닥 공사를 하고 하수관을 매설시켜 놓았었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

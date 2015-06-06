@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>탄하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>criticize</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|행위(일)</sel_rst>
+					<eg>저 사람은 쓸데없이 남의 일을 탄해서 비난받는 경향이 있다.</eg>
+					<eg>남의 일을 탄할 때는 상당히 조심해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>cavil</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|행위(말)</sel_rst>
+					<eg>우리가 지금 남의 말을 탄할 때가 아니다.</eg>
+					<eg>나는 저 사람의 말을 탄하는 게 아니라 일반적인 도리를 얘기하는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

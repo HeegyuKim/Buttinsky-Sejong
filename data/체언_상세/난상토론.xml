@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>난상토론</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/28</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note>센스1의 '~을 하다' 구문이 적절한지 검토 요망;센스2에서 '~을 개최하다'의 구문 성격에 대한 검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">난상+토론</str> <!-- 난상이 명사인지? 아니면 어근인지? -->
+			<org lg="si">爛商討論</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>두 나라의 대표들은 몇 시간째 관세율 인하를 둘러싸고 ~을 벌였다.</eg>
+				<trans>discussion</trans>
+				<domain></domain>
+				<sem_class>논쟁</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">격렬한 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-와 Z|S것|S지-에 대해 ~을 하다</frame>
+					<frame>X-와 Y-이 Z|S것|S지-에 대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 Y-와 Z|S것|S지-에 대해 ~을 벌이다</frame>
+					<frame>X-이 Y-가 Z|S것|S지-에 대해 ~을 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 펼치다</form>
+					<frame>X-이 Y-와 Z|S것|S지-에 대해 ~을 펼치다</frame>
+					<frame>X-와 Y-이 Z|S것|S지-에 대해 ~을 펼치다</frame>
+				</comb_v>
+				<max_n_str>Z|S것|S지-에 대한 X-와 Y-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<sel_rst arg="Z">추상적대상|사태</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>기조 발표 이후에 각계의 전문가들이 참석하는 ~이 열릴 예정이다.</eg>
+				<trans>dispute</trans>
+				<trans>debate</trans>
+				<trans>discussion</trans>
+				<domain></domain>
+				<sem_class>일반모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 열리다</form>
+					<frame>X|S것|S지-에 대해 ~이 열리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--술어명사+일반동사의 결합은 아닌지 검토 필요-->
+					<form vcompound="no">~을 개최하다</form>
+					<frame>Y-이 X|S것|S지-에 대해 ~을 개최하다</frame>
+				</comb_v>
+				<max_n_str>X|S것|S지-에 대한 ~</max_n_str>
+				<sel_rst arg="X">추상적대상|사태</sel_rst>
+				<sel_rst arg="Y">인간집단</sel_rst> <!--'~을 개최하다'의 분석에 따라 삭제될수도 있음-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

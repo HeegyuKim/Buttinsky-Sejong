@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감명깊다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2007/04/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">感銘_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be touched deeply</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-에게는|이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">예술|방송물|작품|추상적부분</sel_rst>
+					<eg>나는 주인공이 20년만에 연인과 재회하는 마지막 장면이 특히 감명깊었다.</eg>
+					<eg>감명깊은 소설이라고 하기엔 그렇지만 어쨌든 나는 그 소설을 재미있게 읽었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

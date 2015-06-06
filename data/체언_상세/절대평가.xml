@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>절대평가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김천학</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/26</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/20</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">절대 평가</var>
+			<str type="N_N">절대+평가</str>
+			<org lg="si">絶對平價</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>고등학교 때까지는 ~로 성적를 부여한다.</eg>
+				<trans>absolute evaluation</trans>
+				<domain></domain>
+				<sem_class>평가</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">상대평가</ant> <!-- 목(2004/8/10) 추가 -->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-에 대해 ~를 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<sel_rst arg="X">학교</sel_rst> <!-- 목(2004/8/10) 추가 -->
+				<sel_rst arg="Y">개인</sel_rst>
+				<sel_rst arg="Y">과목</sel_rst> <!-- 목(2004/8/10) 추가 -->
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

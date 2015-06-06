@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문명화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문명화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">文明化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>get civilized</trans>
+				<lr>
+					<syn type="perfect">개화되다</syn>
+					<syn type="perfect">개명되다</syn>
+					<ant type="compl">미개화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">국가|종족</sel_rst>
+					<eg>인류가 문명화되기 전 인신공양은 신에게 봉헌하는 최대의 예물이었다.</eg>
+					<eg>이들 수많은 부족들은 문명화되기 이전에도 나름대로의 사회의 제도와 국가 구조가 잘 발달되었었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

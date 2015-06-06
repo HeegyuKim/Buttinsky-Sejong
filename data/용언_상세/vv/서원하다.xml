@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>서원하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/13</cre_date>
+				<cre_writer>안소진</cre_writer>
+				<cre_note>서원의 GOL은 '신'인데 적절한 선택제약이 없음.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">서원을 하다</var>
+			<str>N.하</str>
+			<org lg="si">誓願_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>vow</trans>
+				<trans>swear</trans>
+				<trans>take a vow</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">(신|부처|부처님|하느님|하나님|예수|예수님)</sel_rst>
+					<eg>철수는 신께 선행을 서원했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">(신|부처|부처님|하느님|하나님|예수|예수님)</sel_rst>
+					<eg>철수는 신께 선행할 것을 서원했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

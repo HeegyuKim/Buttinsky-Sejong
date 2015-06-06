@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>자문기구</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/30</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>동사결합정보 기입</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">자문+기구</str>
+			<org lg="si">諮問機構</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경제 문제에 지속적인 관심을 갖고 있는 대통령은 여러 ~로부터 정책수립 방안에 대한 조언을 듣고 있다.</eg>
+				<trans>an advisory committee</trans>
+				<trans>an advisory organ</trans>
+				<domain></domain>
+				<sem_class>기관</sem_class>
+				<lr>
+					<syn type="perfect">자문위원회</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 단체</comb_n>
+				<comb_n type="compound">~ 회장단</comb_n> <!-- 항목 분리-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 두다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">개</cl> <!-- 항목 추가-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

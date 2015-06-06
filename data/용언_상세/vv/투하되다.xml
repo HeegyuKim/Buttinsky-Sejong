@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>투하되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/14</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">투하가 되다</var>
+			<str>N.되</str>
+			<org lg="si">投下_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be thrown down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무기(폭탄)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>히로시마에 원자폭탄이 투하되자 전쟁은 끝이 났다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(자본|노력)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">분야|산업</sel_rst>
+					<eg>엄청난 자본이 항공산업에 투하되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

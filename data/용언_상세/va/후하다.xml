@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/11/01</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">厚_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be generous</trans>
+				<trans>be magnanimous</trans>
+				<trans>be cordial</trans>
+				<lr>
+					<ant type="grad">박하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">품격속성(마음|마음씨|성품)|인간</sel_rst>
+					<eg>그 사람은 마음씨가 후해서 동네에서 평판이 좋다.</eg>
+					<eg>아직 시골 마을은 도시에 비해 인심이 후한 편이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be generous</trans>
+				<trans>be openhanded</trans>
+				<lr>
+					<ant type="grad">박하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(대접|접대)|금전</sel_rst>
+					<eg>우리 회사는 다른 기업에 비해 월급이 후하다.</eg>
+					<eg>우리는 아낙네의 후한 대접에 황솔할 지경이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

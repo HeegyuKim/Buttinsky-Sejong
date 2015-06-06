@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전면통제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김천학</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/20</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전면 통제</var>
+			<str type="N_N">전면+통제</str>
+			<org lg="si">全面統制</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>시위대의 거리 진출로 종롯길로의 진입이 ~되었다.</eg>
+				<trans>a whole control</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">부분통제</ant> <!-- 목(2004/8/10) 추가 -->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심하다</comb_aj> <!-- 목(2004/8/10) Y에 대해를 추가 -->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-에 대해 ~를 하다</frame> <!-- 목(2004/8/10) Y에 대해를 추가 -->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>X-에 의해 Y-가 ~가 되다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">국가기관</sel_rst>
+				<sel_rst arg="Y">지역</sel_rst> <!-- 목(2004/8/10) 추가 -->
+				<cl type="uni">차례</cl> <!-- 목(2004/8/10) 번을 차례로 수정 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선행하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/29</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/29</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/20</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선행을 하다</var>
+			<str>N.하</str>
+			<org lg="si">先行_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>precede</trans>
+				<trans>be ahead of</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>아침 일찍 길을 나섰는지 등산로에 나보다 선행하는 사람들이 많았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>precede</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>정부는 그 문제의 해결을 위해 야당과의 화해를 선행하는 것이 필요하다고 느꼈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>의사들은 먼저 응급환자들을 치료하는 것을 선행하기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="CRT">추상적대상|사태</sel_rst>
+					<eg>주체사실주의와 그에 선행한 사회주의적 사실주의의 근본적인 차이는 사람을 어떤 견지에서 보고 그리는가 하는데 있다.</eg>
+					<eg>고려에 선행한 나라들이였던 발해와 후기신라 시기의 무덤들을 보면 다 같이 돌칸흙무덤이 무덤형식의 기본을 이루었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/29</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/29</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선행을 하다</var>
+			<str>N.하</str>
+			<org lg="si">善行_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>do a good deed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>선행한 자에게 돌아가는 것은 오해와 누명뿐. 한국에서는 법에 걸리지만 않는다면 뭐든지 할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

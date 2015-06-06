@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>순행하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">순행을 하다</var>
+			<str>N.하</str>
+			<org lg="si">巡行_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>make a tour(round)</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">직업인간|인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>행자부 장관은 이번 폭우로 인한 피해 상황을 보기 위해 이틀에 걸쳐 전라도 지방과 영동지방을 순행하였다.</eg>
+					<eg>기영이는 이번에 전국을 순행한 후에 국토에 대한 사랑이 커졌다.</eg>
+					<eg>신이 지난 가을에 황해도 도순찰사로서 연변 각 고을을 순행해 살펴본 적이 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>go(move) round</trans>
+				<trans>run</trans>
+				<lr>
+					<syn type="etc">운행하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(버스|기차)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>그 지역을 순행하는 버스가 있나요?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">순행을 하다</var>
+			<str>N.하</str>
+			<org lg="si">巡幸_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>(a king) make a tour </trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">왕족(왕|황제)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>진시황은 전국을 다섯 차례나 순행했다는 기록이 있다.</eg>
+					<eg>이제 짐은 일찍이 신료들에게 말한 바와 같이 북방을 잠시 순행해야겠소이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">순행을 하다</var>
+			<str>N.하</str>
+			<org lg="si">順行_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>계획사건</sem_class>
+				<trans>go(do) in order</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획사건</sel_rst>
+					<eg>지난 9월 15일에 시작된 전국체전은 별다른 사고 없이 순행하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go in order</trans>
+				<lr>
+					<ant type="compl">역행하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">천체</sel_rst>
+					<eg>외행성은 대부분의 기단을 순행 (서→동) 하고 충 부근에서 짧은 기간 동안 역행(동→서)한다.</eg>
+					<eg>화국의 신파로써 양기가 양호하고, 내외당의 자연 흐름이 순행해 생기가 응집된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go with the tide</trans>
+				<trans>swim with</trans>
+				<lr>
+					<ant type="compl">역행하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">명령|인지상태|추상적대상</sel_rst>
+					<eg>대통령은 민심에 순행하는 부동산정책을 수립하도록 장관에게 지시했다.</eg>
+					<eg>그분의 뜻에 따라 순행해 봅시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

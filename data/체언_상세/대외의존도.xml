@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>대외의존도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정</mod_note>
+			</mod>
+            <note>2007/08/14(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">대외 의존도</var>
+			<str type="N_N">대외+의존도</str><!--'의존+도'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">對外依存度</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~가 높은 우리나라는 국제경제의 틀 속에서 발전해야만 한다.</eg>
+				<eg>동북아 지역은 중국의 급격한 경제 성장에 따라 에너지의 ~가 더 심화될 것이다.</eg>
+				<trans>degree of foreign dependence</trans>
+				<domain></domain>
+				<sem_class>크기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 높다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~가 크다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~가 낮다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound">~ 심화</comb_n>
+				<comb_n type="compound">~ 확대</comb_n>
+				<comb_n type="compound">~ 증대</comb_n>
+				<comb_n type="compound">~ 증가</comb_n>
+				<comb_n type="compound">~ 축소</comb_n>
+				<comb_n type="compound">~ 탈피</comb_n>
+				<comb_n type="compound">경제 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 심화되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 높아지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 확대되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 줄이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 낮추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 심화시키다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

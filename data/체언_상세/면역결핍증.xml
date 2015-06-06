@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>면역결핍증</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl기술</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<note>2007/08/16(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">면역 결핍증</var>
+			<str type="N_N">면역+결핍증</str><!--결핍증을 더 분석할 수 있음-->
+			<org lg="si">免疫缺乏症</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>후천성 ~에 대한 백신이 아직 개발되지 못해 많은 사람들이 고통받고 있다.</eg>
+				<trans>anergy</trans>
+				<domain></domain>
+				<sem_class>질병및증세</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">후천성 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 앓다</form>
+					<frame></frame>
+				</comb_v>
+				 <comb_v type="narg_vpred">
+					<form vcompound="no">~에 걸리다</form>
+					<frame></frame>
+				 </comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

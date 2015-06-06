@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>성장시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">성장을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">成長_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make something grow up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">생물</sel_rst>
+					<eg>좋은 기후 조건이 과일을 빠르게 성장시켰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>민주주의에 대한 국민들의 열망이 과거 우리 사회의 민주주의를 성장시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

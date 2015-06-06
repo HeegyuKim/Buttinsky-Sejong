@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>면허시험장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>다른 면허시험장(예.조정면허시험장)도 있으므로 대역어 수정했으나 검토 요망</mod_note>
+			</mod>
+			<note>2007/08/16(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">면허 시험장</var>
+			<str type="N_N">면허+시험장</str> <!--시험장을 더 분석할 수 있음-->
+			<org lg="si">免許試驗</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>운전면허 시험에 몇 번이나 떨어져 ~을 자주 왔다갔다했다.</eg>
+				<trans>place for obtaining a license</trans> <!--영어번역 자신없음-->
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

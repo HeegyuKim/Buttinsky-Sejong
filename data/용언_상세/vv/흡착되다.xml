@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흡착되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/24</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">흡착이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">吸着_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be absorbed</trans>
+				<trans>be adhered</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물</sel_rst>
+					<eg>이 섬유는 물은 스며들지 않고 기름기만 흡착되는 성질을 지니고 있다.</eg>
+					<eg>약의 종류에 따라서는 우유 단백질에 흡착되기 쉬운 것도 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

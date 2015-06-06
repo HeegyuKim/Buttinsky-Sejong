@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도탑다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>항목 기술</mod_note>
+				<mod_note>어휘의미관계 보충 및 수정</mod_note>
+				<mod_note>"의미역" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">두텁다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>be affectionate</trans>
+				<lr>
+					<syn type="sino">돈독하다</syn>
+					<syn type="sino">돈후하다</syn>
+					<ant type="grad">얄팍하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst><!--THM은 절대 안 되는지.-->
+					<sel_rst arg="Y" tht="THM">품격속성|심리상태</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>내 동생은 나와 우애가 도탑다.</eg>
+					<eg>옛날에는 우리 집은 우리 이웃과 정이 도타왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Z=N0-이 (서로) Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">품격속성|심리상태</sel_rst>
+					<sel_rst arg="Z" tht="EXP">인간</sel_rst>
+					<eg>내 동생과 나는 우애가 도탑다.</eg>
+					<eg>옛날에는 우리 집과 우리 이웃은 정이 도타왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

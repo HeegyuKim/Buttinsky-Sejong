@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be different</trans>
+				<lr>
+					<syn type="sino">상이하다</syn>
+					<ant type="grad">같다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온</sel_rst>
+					<eg>나는 너와 많이 다르다.</eg>
+					<eg>이 책은 저 책과 상당히 다르다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>몽둥이와 망둥이는 다르다.</eg>
+					<eg>두 책이 서로 상당히 다르다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>두 나라 민족의 성향이나 기질이 아주 다르다.</eg>
+					<eg>두 책의 내용이 서로 상당히 다르다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be extraordinary</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>역시 배운 사람은 뭐가 달라도 다르구나.</eg>
+					<eg>네가 찍은 사진은 다르다.</eg>
+					<eg>우리 땅에서 재배한 농산물은 역시 다르다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>다른</infl_rst>
+			<trans>the others</trans>
+			<sel_rst arg="X" tht="THM">온</sel_rst>
+			<defect_eg>그는 다른 학생들보다 늘 일찍 와서 선생님을 기다렸다.</defect_eg>
+			<defect_eg>다른 생각은 하지 말고 공부만 열심히 해라.</defect_eg>
+			<defect_eg>이 곳은 다른 관공서와는 뭔가 분위기가 다르다.</defect_eg>
+		</defect>
+		<idm_grp>
+			<idm>하루가 다르다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

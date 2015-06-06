@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>속성하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/08/18</mod_date>
+				<mod_writer>최정진</mod_writer>
+				<mod_note>'續成하다'도 있으나 사용하지 않는 듯 함. 기술할 필요가 있는지 확실치 않음.</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">速成_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>train quickly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(과정)</sel_rst>
+					<eg>동생은 고등학교 과정을 속성하기 위해 학원을 다녔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흥분시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">흥분을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">興奮_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>excite</trans>
+				<trans>stimulate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>콘서트의 열기가 관람객들을 흥분시켰다.</eg>
+					<eg>그의 무심한 행동이 아내를 더욱 흥분시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>work up</trans>
+				<trans>stimulate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">무생물(카페인|스테로이드)|약(소화제|두통약)</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(신경|세포|위)</sel_rst>
+					<eg>소화제는 위산이 나오는 부위를 흥분시켜 소화가 빨리 이루어지도록 한다.</eg>
+					<eg>카페인이 없는 커피도 뇌중추신경계를 흥분시킨다는 연구결과가 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

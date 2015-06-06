@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후텁지근하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/01</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense >
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sultry</trans>
+				<trans>be stuffy</trans>
+				<trans>be sticky</trans>
+				<lr>
+					<syn type="perfect">후터분하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(날씨|날|공기|대기)|(바람)</sel_rst>
+					<eg>날씨가 후텁지근해서 그런지 짜증만 나고 일의 능률이 오르지를 않는다.</eg>
+					<eg>한줄기 비가 오려는지 날이 유난히 후텁지근하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

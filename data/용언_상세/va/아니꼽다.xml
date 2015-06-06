@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>아니꼽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/27</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be disgusting</trans>
+				<lr>
+					<syn type="vulgar">꼽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|인간</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>그의 말이 나에게는 퍽 아니꼽다.</eg>
+					<eg>나는 그의 말이 아주 아니꼽다.</eg>
+					<eg>나는 그의 그런 처사가 아니꼽다.</eg>
+					<eg>그가 나를 그런 식으로 대하는 것이 나에게는 무척이나 아니꼬웠다.</eg>
+					<eg>나는 그의 말이 아니꼬운 것을 꾹 참았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>그가 나를 그런 식으로 대하는 것이 나에게는 무척이나 아니꼬웠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게|이 X=S기0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>그런 꼴을 보고 있기가 나에게는 퍽 아니꼬웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be nauseated</trans>
+				<lr>
+					<syn type="vulgar">꼽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그의 말을 듣는 동안 나는 좀 아니꼬웠다.</eg>
+					<eg>네가 좀 아니꼽더라도 참아라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

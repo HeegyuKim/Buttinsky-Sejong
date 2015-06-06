@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>하야하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">하야를 하다</var>
+			<str>N.하</str>
+			<org lg="si">下野_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>go out of office</trans>
+				<trans>retire from public life</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직위인간(대통령|수상|총리)</sel_rst>
+					<sel_rst arg="X" tht="SRC">직책</sel_rst>
+					<eg>그 사건으로 그는 결국 수상직에서 하야하게 되었다.</eg>
+					<eg>당시 국민들 사이에서는 대통령이 하야할 것을 요구하는 목소리가 커지고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

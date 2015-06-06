@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상업광고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>센스구분, 의미부류 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스 번호 추가;센스1의 프레임 정보 분할 표기;센스2의 의미부류를 텍스트담지물에서 텍스트로 수정;동사정보에 '싣다, 게재하다, 내보내다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상업 광고</var>
+			<str type="N_N">상업+광고</str>
+			<org lg="si">商業廣告</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>시민 단체들은 공영 방송이 ~를 중단해야 한다고 주장하였다.</eg> <!--예문 수정(김)-->
+				<eg>현재 한국의 모든 방송사들이 ~를 한다.</eg>
+				<trans>commercial advertising</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">공익광고</ant> <!--전환적/관점적 반의어로 보기 어려움(김)-->
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form> <!--조사 수정(김)-->
+					<frame>X-이 Y-에 ~를 하다</frame> <!--불특정 다수를 상대로 하므로 '~에게'를 논항으로 보지 않았음(이민우);Y논항 추가 가능하지 않을지?(김)-->
+					<frame>X-이 Y-에게 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 중단하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>버스와 지하철 안에는 ~가 많이 눈에 띈다.</eg>
+				<trans>commercial advertisement</trans> <!--수정(김)-->
+				<domain></domain>
+				<sem_class>텍스트</sem_class> <!--추상적대상인 '텍스트'보다 구체물인 '텍스트담지물'이 적절하다고 생각됨(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">공익광고</ant> <!--'상업'의 반의어로 '공익'이 가능할지? 기타 유형으로 수정(김)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 싣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 게재하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내보내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">편</cl> <!--추가(김)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

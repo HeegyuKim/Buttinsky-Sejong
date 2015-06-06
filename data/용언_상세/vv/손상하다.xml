@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>손상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">손상을 하다</var>
+			<str>N.하</str>
+			<org lg="si">損傷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>injure</trans>
+				<lr>
+					<ant type="dir">치료하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">생물|신체부위</sel_rst>
+					<eg>그는 무리하다 결국 팔을 손상했다.</eg>
+					<eg>광부들은 쉽게 자기 폐를 손상한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>spoil</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>그런 행동은 집안의 명예를 손상하게 된다.</eg>
+					<eg>우리의 무관심이 자연을 손상한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>damage</trans>
+				<lr>
+					<ant type="dir">수리하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<eg>우리 아이들은 언제나 컴퓨터를 험하게 쓰다가 손상한다.</eg>
+					<eg>그 친구는 언제나 물건들을 손상한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

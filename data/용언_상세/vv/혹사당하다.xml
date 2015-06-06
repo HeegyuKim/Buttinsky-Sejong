@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혹사당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/14</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/08</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/14</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혹사를 당하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.당</str>
+			<org lg="si">酷使當_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be overworked</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>이 곳 노동자들은 자본주에게 혹사당하며 일하고 있었다.</eg>
+					<eg>더 이상 남편에게 혹사당하고 지낼 수는 없다며 그녀는 이혼을 결심했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be overworked</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Y" tht="EFF">행위</sel_rst>
+					<eg>그의 육체와 정신은 과중한 업무에 혹사당하고 있었다.</eg>
+					<eg>연일 거듭되는 과음에 혹사당하는 당신의 간을 생각하셔야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

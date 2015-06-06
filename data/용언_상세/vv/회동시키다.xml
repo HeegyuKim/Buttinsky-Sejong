@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회동시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/12</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회동을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">會同_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>gather together</trans>
+				<trans>have a meeting</trans>
+				<trans>assemble</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>대통령은 정치 현안 문제를 논하기 위해 각 당 대표들을 회동시켰다.</eg>
+					<eg>이사진들을 회동시킨 자리에서 회장은 자신의 퇴임 문제에 대해 입을 열었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

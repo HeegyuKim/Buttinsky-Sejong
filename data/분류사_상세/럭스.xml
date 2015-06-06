@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>럭스</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">룩스</var>
+			<org lg="en">lux</org>
+			<symb>lx</symb>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>가로등의 조도가 오십 ~ 정도 된다</eg>
+				<eg>조기 수확을 위해 채소에 조도 50 ~ 정도의 전기불을 하루 종일 비춘다</eg>
+				<trans>lux</trans>
+				<reg>물리</reg>
+				<cl_subtype type="lmn"/>
+				<lr>
+					<syn type="etc">미터촉광</syn>
+					<rel>조도</rel>
+					<rel>조명도</rel>
+					<rel>밝기</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

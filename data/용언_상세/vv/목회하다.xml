@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>목회하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">번영을 하다</var>
+			<str>N.하</str>
+			<org lg="si">牧會_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>일</sem_class>
+				<trans>take the spiritual care of a congregation of Christians</trans>
+				<lr>
+					<rel>전도하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>김 목사는 작년부터 교회를 개척하여 목회하느라 무척 바쁘다.</eg>
+					<eg>목회하시는 분들은 금전 문제와 대인 관계를 잘 처리할 줄 알아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

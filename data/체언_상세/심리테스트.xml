@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>심리테스트</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 단독행위를 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">심리 테스트</var>
+			<str type="N_N">심리+테스트</str>
+			<org lg="si">心理___</org>
+			<org lg="en">__test</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리들은 성격이 어떤지 알아볼 수 있는 ~를 받아보았다.</eg>
+				<eg>~를 해본 결과 범인은 정신이상으로 밝혀졌다.</eg>
+				<trans>psychological test</trans>
+				<domain></domain>
+				<sem_class>시험</sem_class> <!-- 적절한지 검토 필요 -->
+				<lr>
+					<syn type="etc">심리검사</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 결과</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 받다</form>
+					<frame>Y-이 X-에게|에게서 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)</sel_rst>
+				<sel_rst arg="Y">인간(환자)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이번 호에는 연애 상대를 알아보는 ~가 실려있다.</eg>
+				<trans>psychological test</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class> <!-- 내고, 푸는 문제 부류를 추가로 만들 수 있을 듯함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 재미있다</comb_aj>
+				<comb_n type="compound">연애 ~</comb_n>
+				<comb_n type="compound">성격 ~</comb_n>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 풀다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

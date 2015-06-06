@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이동경로</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사결합 정보 추가;논항 명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">이동 경로</var>
+			<str type="N_N">이동+경로</str>
+			<org lg="si">移動經路</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>배관을 설계를 할 때 기체의 ~가 어떻게 되는가를 면밀하게 감안을 해야한다.</eg>
+				<eg>이 지도에는 철새들의 ~가 표시되어 있다.</eg>
+				<trans>route</trans>
+				<trans>migration route</trans>
+				<domain></domain>
+				<sem_class>경로</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 확인하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 파악하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 추적하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst> <!-- 추가함 -->
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

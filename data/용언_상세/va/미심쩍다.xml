@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>미심쩍다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">未審_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dubious</trans>
+				<lr>
+					<syn type="perfect">수상쩍다</syn>
+					<syn type="perfect">수상하다</syn>
+					<syn type="perfect">의심스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|사태</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>아내는 남편의 늦은 귀가가 미심쩍었다.</eg>
+					<eg>나에게는 그의 지나친 친절이 미심쩍다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>어머니는 아들이 갑자기 그의 안부를 묻는 것이 왠지 미심쩍었다.</eg>
+					<eg>그는 내가 그런 말을 하는 것이 미심쩍은 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

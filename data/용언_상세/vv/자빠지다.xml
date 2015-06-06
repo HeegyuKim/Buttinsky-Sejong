@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자빠지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fall on one's back</trans>
+				<lr>
+					<syn type="etc">넘어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>조심조심 얼음판을 걸어 가던 아이는 기어코 자빠져 엉덩방아를 찧고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner2">벌렁</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fall</trans>
+				<lr>
+					<syn type="etc">넘어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>한바탕 소동이 있었던 듯 집안 여기저기에는 가재도구며 화분들이 자빠져 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>lie down</trans>
+				<trans>lay oneself down</trans>
+				<lr>
+					<syn type="de_vulgar">쓰러지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|가구(침대|소파)</sel_rst>
+					<eg>술이 곤드레가 된 남편은 집에 들어서자 그대로 소파에 자빠진 채 잠이 들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>자빠져도 코가 깨진다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

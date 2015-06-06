@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>그램</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/10</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">그람</var>
+			<org lg="en">gram</org>
+			<symb>g;gr</symb>
+					<der pos="n" type="suffix">~당</der>
+			<comp pos="n" type="suffix">~당량</comp>
+			<comp pos="n" type="suffix">~분자</comp>
+			<comp pos="n" type="suffix">~센티미터</comp>
+			<comp pos="n" type="suffix">~이온</comp>
+			<comp pos="n" type="suffix">~중</comp>
+			<comp pos="n" type="suffix">~칼로리</comp>
+			<comp pos="n" type="prefix">킬로~</comp>
+			<comp pos="n" type="prefix">밀리~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>비커에 물 사십 ~을 담았다</eg>
+				<cl_subtype type="wgt">0.001kg</cl_subtype>
+				<lr>
+					<rel>킬로그램</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회생되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/12</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회생이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">回生_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be restored to life again</trans>
+				<trans>be resuscitated</trans>
+				<lr>
+					<syn type="perfect">회생하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>의사는 어떤 기적이 일어나지 않는 한 그가 회생되기는 어렵다고 잘라말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>return to prosperity</trans>
+				<lr>
+					<syn type="perfect">회생하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>연이은 실패로 이제 그 사람이 회생될 가능성은 거의 없어 보인다.</eg>
+					<eg>이런 위기 상황 속에서 그 회사는 다시 회생되기 어려울 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

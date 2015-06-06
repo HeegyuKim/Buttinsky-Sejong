@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>단독보도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">단독 보도</var>
+			<str type="N_N">단독+보도</str>
+			<org lg="si">單獨報道</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>연쇄 납치 강도 사건이 모 신문사에 의해 ~가 되었다.</eg>
+				<trans>exclusive report</trans>
+				<domain></domain>
+				<sem_class>소통행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+					<frame>X-이 S것-을 ~를 하다</frame>
+					<frame>X-이 Y-에대해 ~를 하다</frame>
+					<frame>X-이 S것-에대해 ~를 하다</frame>
+					<frame>X-이 S다고 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~가 되다</form>
+					<frame>Y-이 X-에서 ~가 되다</frame>
+					<frame>S것-이 X-에서 ~가 되다</frame>
+					<frame>S다고  X-에서 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 내다</form>
+					<frame>X-이 Y-을 ~를 내다</frame>
+					<frame>X-이 S것-을 ~를 내다</frame>
+					<frame>X-이 Y-에대해 ~를 내다</frame>
+					<frame>X-이 S것-에대해 ~를 하다</frame>
+					<frame>X-이 S다고 ~를 내다</frame>
+				</comb_v>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str>
+				<max_n_str>S것-에 대한 X-의 ~</max_n_str>
+				<max_n_str>X-의 S다는 ~</max_n_str>
+				<sel_rst arg="X">직업인간|단체</sel_rst> <!-- '언론' 부류가 필요할 듯 -->
+				<sel_rst arg="Y">사태</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S다는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

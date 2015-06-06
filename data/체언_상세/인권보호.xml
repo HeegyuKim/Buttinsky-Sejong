@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인권보호</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동의어에서 '인권보장' 삭제함;형태변이에 띄어쓰기 정보 추가;예문 추가;의미부류 수정;명사결합, 동사결합, 논항명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>프레임 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">인권 보호</var> <!-- 추가함 -->
+			<str type="N_N">인권+보호</str>
+			<org lg="si">人權保護</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~를 위해서 정치 권력 독재자의 출현을 막아야 한다.</eg>
+				<eg>여성단체들은 여성들이 실질적으로 ~를 받을 수 있는 대책을 마련하라고 정부에 요구했다.</eg> <!-- 추가함 -->
+				<trans>protection of human rights</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class> <!-- '결과행위'를 수정함 -->
+				<lr>
+					<syn type="perfect"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 단체</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 대책</comb_n>
+				<comb_n type="compound">~ 조항</comb_n>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_v type="npred_vsup"> <!-- 추가함 -->
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에대해 ~를 하다</frame> <!-- 실제 쓰이는지 확인 필요 -->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>Y-이 X-에의해 ~가 되다</frame> <!-- 실제 쓰이는지 확인 필요 -->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Y-이 X-에의해 ~를 받다</frame>
+					<frame>Y-이 X-에게 ~를 받다</frame>
+					<frame>Y-이 X-에 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str> <!-- 추가함 -->
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">국가|국가기관</sel_rst> <!-- 추가함 -->
+				<sel_rst arg="Y">인간|종족|계층계급|혈연집단|지역집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

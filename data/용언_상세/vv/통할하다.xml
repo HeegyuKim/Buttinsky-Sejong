@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통할하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer></cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>조원형</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">통할을 하다</var>
+			<str>N.하</str>
+			<org lg="si">統轄_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>control</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|집단|장소</sel_rst>
+					<eg>군단은 여러 사단을 통할하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

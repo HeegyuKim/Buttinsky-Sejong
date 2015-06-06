@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>고가사다리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/05(정아름)org수정</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">고가+사다리</str>
+			<org lg="si">高架___</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>광주시내에 있는 ~가 장착된 차량은 지난 1981년 구입한 차량 한 대를 비롯해 1994년까지 구입한 차령 10년 이상의 차량이 전체 보유 소방차의 40%인 서른 대에 달하고 있다.</eg>
+				<trans>elevated ladder</trans>
+				<domain></domain>
+				<sem_class>기구</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~차</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 이용하다</form>
+					<frame>X-이 ~를 이용하다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

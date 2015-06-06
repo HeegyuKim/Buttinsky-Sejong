@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걸리적거리다</orth><!--"거치적거리다"의 잘못이라고 함.-->
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/29</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"표제항" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">걸리적을 거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be disturbed</trans>
+				<lr>
+					<syn type="perfect">이아치다</syn>
+					<rel>거치적거리다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(다리|눈)</sel_rst>
+					<eg>의사가 집게를 잘못 찝어서 우리 아기 배꼽이 다리에 걸리적거리다 떨어졌어요.</eg>
+					<eg>다시 또 눈에 뭐가 낀 듯 걸리적거리면 빨리 안과로 오셔야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+			<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be interrupted</trans>
+				<lr>
+					<syn type="perfect">이아치다</syn>
+					<syn type="sino">방해되다</syn>
+					<rel>거치적거리다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">속성(마음|심리)|감각행위</sel_rst>
+					<eg>모든 게 마음에 걸리적거렸다.</eg>
+					<eg>바닥으로 향하던 내 시선에 뭔가가 걸리적거렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것|S기|S데</sel_rst>
+					<eg>너무 짧은 치마 제복은 근무하는 데 걸리적거리기만 한다.</eg>
+					<eg>이 화분은 이동하기에 걸리적거리니 다른 데로 치우세요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="EXP">속성(마음|심리)|감각행위</sel_rst>
+					<eg>모든 게 마음에 걸리적거렸다.</eg>
+					<eg>바닥으로 향하던 내 시선에 뭔가가 걸리적거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꾀어들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>gather</trans>
+				<trans>crowd</trans>
+				<lr>
+					<syn type="perfect">모여들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>세일 기간에는 엄청난 사람들이 백화점에 꾀어든다.</eg>
+					<eg>세일 기간에는 엄청난 사람들이 백화점으로 꾀어든다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|추상적대상</sel_rst>
+					<eg>돈 보고 영희에게 꾀어든 친구들은 이미 그를 떠난 지 오래다.</eg>
+					<eg>몇 십 년 전만 해도 사회주의 이념에 꾀어든 사람들은 거기서 헤어나지 못했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

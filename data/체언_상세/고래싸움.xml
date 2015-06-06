@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>고래싸움</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">고래 싸움</var>
+			<str type="N_Vn">고래+싸움</str>
+			<org lg="etc"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="prv">~에 새우등 터진다</idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>대기업들이 서로 다투는 가운데 납품을 맡고 있는 중소기업들은 ~에 새우등 터지는 격으로 큰 피해를 보고 있다.</eg>
+				<eg>대기업들의 ~에 중소기업들이 새우등이 터지고 있죠.</eg>
+				<eg>대기업들이 서로 ~을 벌이고 있는 중에 중소기업들이 새우등이 터지고 있죠.</eg>
+				<trans>fight between whales</trans>
+				<domain></domain>
+				<sem_class>대칭적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame>
+					<frame>X-와 Y-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 Y-와 ~을 벌이다</frame>
+					<frame>X-와 Y-이 ~을 벌이다</frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<sel_rst arg="X">생물|집단</sel_rst>
+				<sel_rst arg="Y">생물|집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

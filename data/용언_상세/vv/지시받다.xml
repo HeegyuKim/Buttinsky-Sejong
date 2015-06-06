@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지시받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/23</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/14</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">지시를 받다</var>
+			<str>N.받</str>
+			<org lg="si">指示_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>receive instructions</trans>
+				<lr>
+					<ant type="conv">지시내리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>지시받은 일의 목적과 상급자의 생각, 방침이나 완급도 확실히 파악하고 육하원칙에 의하여 정확히 기록하고 의문나는 점은 다시 질문하며 정확히 확인해야 한다.</eg>
+					<eg>기술지원본부 소집을 지시받은 당직자는 비상 연락망에 의거하여 기술지원 본부의 각 반장에게 비상소집을 통지해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>receive instructions</trans>
+				<lr>
+					<ant type="conv">지시내리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=S1-라고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>당직자는 화재가 났을 때는 전원을 일단 차단하라고 지시받았다고 변명했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

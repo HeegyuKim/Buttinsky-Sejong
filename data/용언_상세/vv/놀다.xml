@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>놀다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/23</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>play</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>아이들이 신나게 노느라 시간 가는 줄도 모른다.</eg>
+					<eg>할아버지들께서 모처럼 동심으로 돌아가 재미있게 노셨다.</eg>
+					<eg>사슴들이 정원에서 풀을 뜯으며 한가로이 놀고 있다.</eg>
+					<eg>수많은 물고기들이 연못 속에서 서로 떼지어 논다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>아이가 배속에서 노는지 배가 울렁거려요.</eg>
+					<eg>물고기들이 물 속에서 헤엄치며 놀고 있어요.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner2">빈둥빈둥</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>act</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="ADV">Adv|Adj-게</sel_rst>
+					<sel_rst arg="Adv">(함께|같이|따로)</sel_rst>
+					<sel_rst arg="Adj">(아니꼽다)</sel_rst>
+					<eg>그는 결혼하기 전에 함부로 논 듯하다.</eg>
+					<eg>나는 그녀가 아니꼽게 노는 꼴을 더 이상은 참을 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>be out of work</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>그는 직장에서 해고된 뒤 집에서 빈둥빈둥 놀기만 한다.</eg>
+					<eg>그는 아버지 덕분에 아무 일도 하지 않고 놀 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>do not work</trans>
+				<lr>
+					<syn type="perfect">쉬다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">기관</sel_rst>
+					<eg>이 회사는 노는 날이 없다.</eg>
+					<eg>저 가게는 일년 내내 놀지 않고 장사를 한다.</eg>
+					<eg>우리 집 앞의 슈퍼는 일 주일째 놀아요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>be not in use</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(기계|돈)|추상적대상(재주)|장소</sel_rst>
+					<eg>저렇게 많은 땅이 그냥 놀고 있으니 걱정이다.</eg>
+					<eg>노사분규로 공장의 기계들이 한 달째 놀고 있다.</eg>
+					<eg>그를 알아 보지 못하는 사람들 때문에 그의 훌륭한 재주가 아깝게 놀고 있다.</eg>
+					<eg>이 화물 트럭은 한 달째 일 나가지 않고 놀고 있어요.</eg>
+					<eg>서울 사람들이 산 땅들은 농사를 짓지 않아 놀고 있어요.</eg>
+					<eg>노는 컴퓨터없나?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>be loose</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(이|나사|못)</sel_rst>
+					<eg>나사 못이 논다.</eg>
+					<eg>입 안에서 틀니가 논다.</eg>
+					<eg>여기 박힌 못이 노는지 의자가 불안해요.</eg>
+					<eg>핸들이 제멋대로 놀아서 정비소에 다녀와야겠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Adv">(함께|같이|따로)</sel_rst>
+					<eg>열쇠와 열쇠구멍이 같이 놀아 열쇠를 뺄 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="COM">구체물</sel_rst>
+					<sel_rst arg="Adv">(함께|같이|따로)</sel_rst>
+					<eg>열쇠가 열쇠구멍과 따로 논다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be loose</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Adv">(함께|같이|따로)</sel_rst>
+					<eg>몸과 마음이 따로 논다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Y" tht="COM">신체부위</sel_rst>
+					<sel_rst arg="Adv">(함께|같이|따로)</sel_rst>
+					<eg>마음이 머리와 따로 논다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>일</sem_class>
+				<trans>activate</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>이 깡패들은 주로 명동에서 놀아요.</eg>
+					<eg>이태원에서 놀던 양아치들이 모두 검거되었다.</eg>
+					<eg>재벌 아들들이 화류계에서 놀다 언론에 적발되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>범죄및비행</sem_class>
+				<trans>do unpleasant action</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>놀지 마.</eg>
+					<eg>놀고 있네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>장단에 놀다</idm>
+			<idm>풍에 놀다</idm>
+			<idm>말에 놀다</idm>
+			<idm>소매 속에서 놀다</idm>
+			<idm>물고기는 물에서 놀아야 한다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/05/02</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>play</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(윷|화투)|물리적행위</sel_rst>
+					<eg>요즘은 남자 아이들도 소꿉놀이를 노는 것이 보편화되어있다.</eg>
+					<eg>그는 섣불리 화투를 놀다가 패가망신하였다.</eg>
+					<eg>온 가족이 모인 김에 윷을 놀면서 재미있는 한 때를 보냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/05/02</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>interfere with</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Y=N2-에|에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">물리적행위(훼방|방해)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">(일)|인간</sel_rst>
+					<eg>나는 어릴 때 여자 애들이 모이기만 하면 항상 훼방을 놀았다.</eg>
+					<eg>우리 형은 내가 공부할 때면 항상 방해를 놀아 어머니께 야단을 맞곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

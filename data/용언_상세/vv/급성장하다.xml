@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>급성장하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">급성장을 하다</var>
+			<str>N.하</str>
+			<org lg="si">急成長_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>grow rapidly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">능력</n_appr>
+					<eg>우리 회사는 지난 몇 년간 급성장해 왔습니다.</eg>
+					<eg>우리 회사는 반도체 분야에서 지난 몇 년간 급성장해 왔습니다.</eg>
+					<eg>철수의 능력이 한 해가 다르게 급성장하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기이하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>적정명사 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">奇異_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be strange</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<n_appr arg="X">모습</n_appr>
+					<n_appr arg="X">모양</n_appr>
+					<eg>그 산은 생긴 모습이 하도 기이해 구경하려는 사람들로 붐빈다.</eg>
+					<eg>그녀는 어젯밤 꾼 꿈이 기이하여 그 꿈을 가족들에게 이야기하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

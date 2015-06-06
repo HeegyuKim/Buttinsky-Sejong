@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>퇴락하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/25</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>N.하</str>
+			<org lg="si">頹落_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>dilapidate</trans>
+				<lr>
+					<syn type="perfect">퇴당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>집이 퇴락하기는 했어도 주변 경관은 아름답다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>decline</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<eg>변화를 제대로 읽어내지 못하면 우리는 퇴락할 수밖에 없다.</eg>
+					<eg>최근 경기가 순간적으로 어렵게 느껴지지만 우리 나라가 퇴락하는 것으로 보아서는 안 된다.</eg>
+					<eg>그 일이 있은 후 집안이 퇴락하기 시작하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

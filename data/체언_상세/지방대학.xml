@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지방대학</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/06</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '기관건물'로 다의어 분할 요망</mod_note><!--'대학'과 달리 '건물' 의미로의 쓰임이 잡히지 않아 분할하지 않음(권)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지방 대학</var>
+			<str type="N_N">지방+대학</str>
+			<org lg="si">地方大學</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>동생은 ~이 싫다며 서울에서 대학을 다니기 위해 재수를 하고 있다.</eg>
+				<eg>친구는 ~의 전임이 되어 안정적인 환경에서 연구를 하게 되었다.</eg>
+				<trans>local college</trans>
+				<trans>provincial university</trans>
+				<domain></domain>
+				<sem_class>교육기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 교수</comb_n>
+				<comb_n type="compound">~ 육성</comb_n>
+				<comb_n type="compound">~ 졸업생</comb_n>
+				<comb_n type="compound">~ 지원</comb_n>
+				<comb_n type="compound">~ 출신</comb_n>
+				<comb_n type="compound">~ 학생</comb_n>
+				<comb_n type="compound">~의 세계화</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입학하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 다니다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 졸업하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 마치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 나오다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 다니다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 강의하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

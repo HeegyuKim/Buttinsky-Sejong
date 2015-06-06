@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되직하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>적정명사 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>be somewhat thick</trans>
+				<lr>
+					<ant type="grad">묽다</ant>
+					<hyper>되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(밥|죽)|음식|액체|(풀)</sel_rst>
+					<n_appr arg="X">묽기</n_appr>
+					<eg>죽이 되직하다고 해서 끓이는 도중에 물을 더 넣으면 맛이 없어지므로 주의한다.</eg>
+					<eg>반죽은 시간이 지날수록 질어지므로 약간 되직하다 싶게 한다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

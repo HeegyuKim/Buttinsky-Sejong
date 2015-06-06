@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통고받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/31</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">통고를 받다</var>
+			<str>NV</str>
+			<org lg="si">通告_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be notified</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<eg>학생들은 시험 결과를 통고받자 다양한 반응을 보였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S음</sel_rst>
+					<eg>학교는 시험이 끝났음을 통고받은 후 곧바로 채점에 들어갔다.</eg>
+					<eg>마을 사람들은 모두 마을 회관 앞으로 모이라고 통고받았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-라고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>마을 사람들은 모두 마을 회관 앞으로 모이라고 통고받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

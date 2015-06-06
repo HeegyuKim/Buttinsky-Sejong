@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>화락</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김선화; 임유종</cre_writer>
+				<cre_date>2002/08/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/08/08</mod_date>
+			</mod>
+			<note>의태</note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그 말을 듣고 영이는 얼굴이 ~ 붉어졌다</eg>
+				<trans>suddenly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>확</syn>
+					<syn>갑자기</syn>
+					<ant>천천히</ant>
+					<ant>서서히</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~변하다</comb>
+				<comb pos="v" exist="yes">~붉어지다</comb>
+				<comb pos="v" exist="yes">~움직이다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~변하다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>김선화; 임유종</cre_writer>
+				<cre_date>2002/08/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2002/08/08</mod_date>
+			</mod>
+			<note>의태</note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+			<comp pos="v">~하다</comp>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>갑자기 내린 소나기로 옷이 ~ 젖었다</eg>
+				<trans>fully</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/상징</sem_rep>
+				<lr>
+					<syn>흠뻑</syn>
+					<syn>완전히</syn>
+					<ant>군데군데</ant>
+					<ant>조금씩</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~젖다</comb>
+				<comb pos="v" exist="yes">~적시다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col>~젖다</col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

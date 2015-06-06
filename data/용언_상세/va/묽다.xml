@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>묽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be watery</trans>
+				<lr>
+					<ant type="grad">되다</ant>
+					<ant type="grad">걸다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식(죽|국|스프|반죽)|구체인공물(풀|물감)</sel_rst>
+					<n_appr arg="X">농도</n_appr>
+					<eg>그는 며칠 전부터 속이 좋지 않아 음식을 입에 못 대는 아내를 위해 쌀을 갈아 묽은 죽을 쑤었다.</eg>
+					<eg>반죽이 너무 묽은 듯 하다며 그녀는 밀가루통을 손가락으로 가리켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상업방송</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사정보에 '허용하다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상업 방송</var>
+			<str type="N_N">상업+방송</str>
+			<org lg="si">商業放送</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 신설 방송국에 대해 ~을 전면 금지했다.</eg> <!--예문 수정-->
+				<eg>미국은 텔레비전과 라디오 채널의 대부분이 ~으로 채워져 있다.</eg>
+				<trans>commercial broadcasting</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class><!--'방송국'의 의미로 센스구분을 할 필요가 있을지?(이민우)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">공익방송</ant> <!--일단 기타 유형으로 수정.'공영방송, 공공방송'은 상업방송의 반의어가 되기 어렵다고 봄(김)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 허용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni">회</cl> <!--추가(미현)-->
+				<cl type="uni">번</cl> <!--추가(미현)-->
+				<cl type="uni">차례</cl> <!--추가(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

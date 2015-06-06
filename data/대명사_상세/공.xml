@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>공</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/12</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/14</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">公</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1" sem="2" num="singular" ref="human">
+			<sem_grp>
+				<eg>~께서는 왕명을 순순히 받으셔야만 하옵니다</eg>
+				<eg>이번 전쟁에서는 ~의 역할이 아주 중요하오</eg>
+				<reg>고어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>이 서찰을 보면 용맹한 ~의 기운이 절로 느껴진다</eg>
+				<reg>고어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>진상파악</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>동의어 추가;n_aj의 pred  정보 추가;n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">진상 파악</var>
+			<str type="N_N">진상+파악</str>
+			<org lg="si">眞相把握</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>대통령은 기무사가 감사원의 자료제공 요구를 거부했다는 보도를 듣고 즉각 ~을 하도록 지시했다.</eg>
+				<trans>getting at the truth</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc">진상규명</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn"  pred="no">철저한 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+					<frame>X-에서 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame>X-이 Y-에대해 ~에 나서다</frame>
+					<frame>X-에서 Y-에대해 ~에 나서다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 들어가다</form>
+					<frame>X-이 Y-에대해 ~에 들어가다</frame>
+					<frame>X-에서 Y-에대해 ~에 들어가다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 지시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 요청하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 촉구하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">우발사건</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

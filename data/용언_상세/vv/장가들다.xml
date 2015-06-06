@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>장가들다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/29</cre_date>
+				<cre_writer>박소영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/11</mod_date>
+				<mod_writer>김재욱</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">장가를 들다</var>
+			<str>NV</str>
+			<org lg="si">杖家_</org>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>marry a woman</trans>
+				<lr>
+					<syn type="perfect">장가가다</syn>
+					<ant type="etc">시집가다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">남성인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">여성인간|혈연집단(집|댁)</sel_rst>
+					<eg>낙선군(樂善君) 숙(潚)은 강릉김씨(江陵金氏) 영의정 득원(得元)의 딸에게 장가들었다.</eg>
+					<eg>본래 양제는 후량(後梁) 세조 효명제(孝明帝) 소귀 공주에게 장가들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

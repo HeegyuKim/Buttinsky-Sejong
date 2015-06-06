@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맵짜다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be hot and salty</trans>
+				<lr>
+					<ant type="grad">싱겁다</ant>
+					<hyper>맵다</hyper>
+					<hyper>짜다</hyper>
+					<rel>짜다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물|음식</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<eg>너무 맵짠 음식을 많이 먹으면 위장에 좋지 않다.</eg>
+					<eg>이 지방의 음식은 맵짠 것이 특징이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>기상상태</sem_class>
+				<trans>be severe</trans>
+				<lr>
+					<syn type="perfect">거세다</syn>
+					<hyper>세다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">바람</sel_rst>
+					<eg>첫눈을 불러오느라 그랬는지 바람도 꽤나 맵짜다.</eg>
+					<eg>절 안 깊숙이로 내달리는 숲길로 한길을 줄 틈도 없이 맵짠 바람이 온몸을 휘감았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be vicious</trans>
+				<lr>
+					<syn type="sino">독하다</syn>
+					<ant type="grad">순하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">속성</n_appr>
+					<n_appr arg="X">태도</n_appr>
+					<eg>그 녀석은 맵짠 여자를 만나서 아주 고생을 하고 있다.</eg>
+					<eg>그 노인의 성미가 맵짜서 주변의 사람들이 점점 찾아가지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be firm</trans>
+				<lr>
+					<syn type="perfect">야무지다</syn>
+					<ant type="grad">어설프다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|정적사태|행위</sel_rst>
+					<eg>이 드라마 작가의 솜씨는 대목대목에서 민첩하고 맵짜다.</eg>
+					<eg>극단 목화의 주연급 배우로 처음 다른 무대에 서는 장씨의 연기가 맵짜다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

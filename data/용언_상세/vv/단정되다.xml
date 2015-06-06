@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단정되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">斷定_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be laid down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>그는 죽었다고 단정되었다.</eg>
+					<eg>사실 확인도 없이 많은 사람들에 의해서 그 회사는 소생의 가능성이 없다고 단정되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S것1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="FNS"/>
+					<eg>그가 죽은 것으로 단정되었다.</eg>
+					<eg>사실 확인도 없이 많은 사람들에 의해서 그 회사는 소생의 가능성이 없는 것으로 단정되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

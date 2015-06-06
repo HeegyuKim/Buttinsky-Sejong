@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>규범화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">규범화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">規範化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be made as a model</trans>
+				<trans>be made as a norm</trans>
+				<lr>
+					<syn type="perfect">규칙화되다</syn>
+					<syn type="perfect">규약화되다</syn>
+					<syn type="perfect">규정화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="X" tht="FNS">추상적대상|사태</sel_rst>
+					<eg>중국의 학생 군사훈련은 남녀 무구분 훈련으로 규범화되어 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="X" tht="FNS">S것</sel_rst>
+					<eg>중국의 학생 군사훈련은 남녀 구분을 하지 않는 것으로 규범화되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>이제 인터넷 전자상거래도 국제적으로 규범화될 때가 왔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>부동산 거래를 할 때 반드시 세금을 무는 것이 규범화되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

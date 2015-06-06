@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기능하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기능을 하다</var>
+			<str>N.하</str>
+			<org lg="si">機能_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>function</trans>
+				<lr>
+					<syn type="perfect">작용하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">역할</sel_rst>
+					<eg>역사는 언제나 의미있는 기록으로 기능할 수 있어야 한다.</eg>
+					<eg>우리 동네에서는 근린공원이 시민들의 휴식처로 충실하게 기능하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

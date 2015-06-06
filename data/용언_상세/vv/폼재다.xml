@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>폼재다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">폼을 재다</var>
+			<str>NV</str>
+			<org lg="en">form_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>put on airs</trans>
+				<lr>
+					<syn type="perfect">폼잡다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>너 그렇게 폼재다가 나중에 후회하는 수가 있다.</eg>
+					<eg>비록 왕으로 떠받든다고 해서 우쭐한 기분에 함부로 폼재지 말아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

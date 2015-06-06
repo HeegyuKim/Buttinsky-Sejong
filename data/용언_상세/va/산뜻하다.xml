@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>산뜻하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be fresh</trans>
+				<lr>
+					<syn type="perfect">개운하다</syn>
+					<ant type="grad">찜찜하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(기분|느낌|몸)</sel_rst>
+					<eg>운동 후에 샤워를 하니 기분까지 산뜻하다.</eg>
+					<eg>푹 자고 나니 몸이 아주 산뜻하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be neat</trans>
+				<trans>be bright</trans>
+				<trans>be clean</trans>
+				<lr>
+					<syn type="perfect">말쑥하다</syn>
+					<syn type="perfect">깔끔하다</syn>
+					<ant type="grad">칙칙하다</ant>
+					<ant type="grad">지저분하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(모습|옷차림)</sel_rst>
+					<eg>옷차림이 아주 산뜻하구나.</eg>
+					<eg>머리를 자르니 산뜻해 보이네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be light</trans>
+				<trans>be plain</trans>
+				<lr>
+					<syn type="perfect">깔끔하다</syn>
+					<ant type="grad">텁텁하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(음식)</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<eg>식초를 더 넣으니까 한층 맛이 산뜻하네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

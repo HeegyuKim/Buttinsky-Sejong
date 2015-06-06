@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되돌려받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str><!--"PV"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>receive back</trans>
+				<lr>
+					<syn type="perfect">돌려받다</syn>
+					<ant type="conv">돌려주다</ant>
+					<ant type="conv">주다</ant>
+					<hyper>받다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서|에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(돈|책)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>결국 이자는 커녕 원금도 되돌려받지 못했다.</eg>
+					<eg>어떻게 책을 되돌려받을 방법이 없을까요?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

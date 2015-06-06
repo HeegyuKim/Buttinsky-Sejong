@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>산적하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/20</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/22</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>의미역 수정, entry 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">산적을 하다</var>
+			<str>N.하</str>
+			<org lg="si">山積_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>heap up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">일(업무)|(과제|문제)|구체물</sel_rst>
+					<eg>시청자 참여 프로그램이 본 궤도에 오르는 데까지 풀어야 할 문제는 산적하다.</eg>
+					<eg>위성 DMB사업은 앞으로 풀어야 할 과제가 산적하다.</eg>
+					<eg>한국 경제가 안고 있는 산적한 과제를 감안할 때, 신정부가 이를 해결하는데 상당한 어려움을 겪을 것으로 예상된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/09/22</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">산적을 하다</var>
+			<str>N.하</str>
+			<org lg="si">散積</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>lie in a heap</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(석탄|쌀가마니)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>인부들이 쌀가마니들을 창고헤 산적해 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

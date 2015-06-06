@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>능욕당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">능욕을 당하다</var>
+			<str>N.당</str>
+			<org lg="si">凌辱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be violated</trans>
+				<trans>be outraged</trans>
+				<trans>be raped</trans>
+				<lr>
+					<syn type="perfect">강간당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>판결을 받은 여학생은 모두 일본 병사에게 능욕당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be held in contempt</trans>
+				<lr>
+					<syn type="perfect">능모당하다</syn>
+					<syn type="perfect">능멸당하다</syn>
+					<syn type="kor">업신여김당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>힘없는 민족은 지배자들에게 능욕당할 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

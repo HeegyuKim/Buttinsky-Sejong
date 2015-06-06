@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>위험지구</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">위험 지구</var>
+			<str type="N_N">위험+지구</str>
+			<org lg="si">危險地區</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경찰은 ~를 통제했다.</eg>
+				<eg>그녀는 아들이 ~에 출입하는 것을 불안해했다.</eg>
+				<eg>정부는 올해 안에 산사태 ~를 정비한다고 발표하였다.</eg>
+				<trans>dangerous region</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">재해 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 통제하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 정비하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

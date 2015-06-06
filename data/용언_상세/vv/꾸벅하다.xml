@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꾸벅하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">꾸벅을 하다</var>
+			<var type="etc">꾸뻑하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>bow</trans>
+				<lr>
+					<hyper>절하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(고개|머리)</sel_rst>
+					<eg>수진이는 나를 보더니 고개를 한 번 꾸벅하고 제 방으로 들어가 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(고개|머리)</sel_rst>
+					<eg>고개가 한 번 꾸벅하는 것이 수진이 인사의 전부이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>fall into a doze</trans>
+				<lr>
+					<hyper>졸다</hyper>
+					<hyper>잠들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<eg>책을 읽다 보면 나도 모르게 꾸벅할 때가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

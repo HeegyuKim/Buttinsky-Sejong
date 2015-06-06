@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>저렴하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/27</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+			<org lg="si">低廉_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be cheap</trans>
+				<trans>be inexpensive</trans>
+				<lr>
+					<syn type="kor">싸다</syn>
+					<ant type="grad">비싸다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-보다 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물|값|비용</sel_rst>
+					<sel_rst arg="Y" tht="CRT">기준|인지적행위</sel_rst> <!--생략가능-->
+					<eg>이 상품은 다른 것보다 값이 저렴하다.</eg>
+					<eg>새로 구입한 차량의 유지비가 생각보다 저렴하다.</eg>
+					<eg>전자제품의 경우에는 소모품을 일일이 사는 것보다 신상품 구매가 더 저렴할 때도 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

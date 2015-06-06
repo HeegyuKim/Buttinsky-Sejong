@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자랑스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/01</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be proud of</trans>
+				<lr>
+					<syn type="perfect">대견스럽다</syn>
+					<!--'sino'로 판단했으나, 적당한 한자가 없음. '對見'은 '마주보다'의 뜻이며, '大見'은 등재되어 있지 않음.-->
+					<ant type="grad">창피스럽다</ant>
+					<ant type="grad">부끄럽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-에게는|이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|행위|속성</sel_rst>
+					<eg>나는 최선을 다한 국가대표 선수들이 자랑스럽다.</eg>
+					<eg>어머니께서는 그런 아들이 그저 자랑스럽기만 했습니다.</eg>
+					<eg>선생님은 어려운 상황에서도 서로를 도울 줄 아는 너희들이 정말 자랑스럽다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>이번에 출시한 신제품을 순수한 우리 기술로 개발했다는 것이 더욱 자랑스럽습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

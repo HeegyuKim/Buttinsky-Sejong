@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>석연찮다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">釋然_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be not relieved from doubt</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>모양새가 이상한 데다 전격 사표를 낸 이유도 석연찮아 구구한 억측이 나돌고 있다.</eg>
+					<eg>난 돌아서며 멈칫거리던 그의 표정이 내내 석연찮았다.</eg>
+					<eg>원고를 쓰려는데 아무래도 줄거리가 석연찮아 편집부에 전화해 물어보았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>그 일이 그렇게 마무리된 것이 난 아무래도 석연찮다.</eg>
+					<eg>나는 그가 서둘러 출국한 것이 가장 석연찮다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>눙치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>soothe</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>그는 겁을 먹은 영희에게 눙치고 달랬다.</eg>
+					<eg>그는 나에게 눙치는 어조로 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>pass away</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>그는 자신이 한 말를 농담이라고 눙치려 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">S것</sel_rst>
+					<eg>그는 자신이 한 말를 농담인 것으로 눙치려 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

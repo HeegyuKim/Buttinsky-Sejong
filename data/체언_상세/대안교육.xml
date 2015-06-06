@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>대안교육</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">대안 교육</var>
+			<str type="N_N">대안+교육</str>
+			<org lg="si">代案敎育</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>요즘에는 학교교육과 연계된 ~에 관심있는 학부모들이 늘어나고 있다.</eg>
+				<trans>alternative education</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 연대</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 시키다</form>
+					<frame>X-이 Y-을 ~을 시키다</frame>
+					<frame>X-이 Y-에게 ~을 시키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">인간|교육기관</sel_rst>
+				<sel_rst arg="Y">인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

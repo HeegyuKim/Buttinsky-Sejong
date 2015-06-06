@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>점하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/24</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">占_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>occupy</trans>
+				<trans>hold</trans>
+				<trans>account for</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성값(우위)|방향|장소|크기|수량|단위</sel_rst>
+					<eg>해양은 지구표면적 전체의 3/4, 세계 수자원의 90%를 점하고 있다.</eg>
+					<eg>아직까지 한 경기밖에 지지 않은 대표팀은 본선 진출가능성에 있어서 일본보다는 우위를 점하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/24</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">점을 하다</var>
+			<str>N.하</str>
+			<org lg="si">占_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>tell one's fortune</trans>
+				<trans>divine</trans>
+				<trans>forecast</trans>
+				<lr>
+					<syn type="perfect">점치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>기영이는 시합에 나가는 준호의 우승을 점해 보았다.</eg>
+					<eg>기영이가 있을 만한 장소를 점해 보아라.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>기영이는 준호가 우승할 것을 이미 점했었다.</eg>
+					<eg>기영이가 회장에 선출될 것을 점했었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg>기영이는 시합에 나가는 준호가 몇위를 할지를 점해 보았다.</eg>
+					<eg>기영이가 있을 만한 장소가 어디인지를 점해 보아라.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>기영이는 김교수가 총장에 선출될 것이라고 점하였으나 차교수가 총장이 되었다.</eg>
+					<eg>기영이는 환율이 계속 상승할 것이라고 점하였으나 상황은 반대였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

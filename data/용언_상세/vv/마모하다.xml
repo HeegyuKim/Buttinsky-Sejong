@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>마모하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">磨耗_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>be worn away</trans>
+				<lr>
+					<syn type="perfect">마멸되다</syn>
+					<syn type="kor">닳다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst> <!-- 이런 어휘는 의미부류 논의에서 고려해야 할 예 -->
+					<eg>그 연결 부위에서 물이 샌 것은 고무 패킹이 마모했기 때문이다.</eg>
+					<eg>마모하는 시점을 잘 알아서 미리 타이어를 교체해 주어야 한다.</eg>
+					<eg>톱니바퀴가 많이 마모하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

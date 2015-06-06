@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신통찮다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/23</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.찮</str>
+			<org lg="si">神通_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be unsatisfactory</trans>
+				<trans>be unsatisfying</trans>
+				<trans>be poor</trans>
+				<trans>be not good</trans>
+				<trans>be dull</trans>
+				<lr>
+					<ant type="grad">훌륭하다</ant>
+					<ant type="grad">신통하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst> <!-- EXP를 포함시켜야 할지도 모르겠음 -->
+					<eg>저 선수는 실력이 영 신통찮은 것 같다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>저 친구는 연주하는 게 영 신통찮은데.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

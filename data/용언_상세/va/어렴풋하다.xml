@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>어렴풋하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/08</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>str의 A를 R.하로, ant type의 또렸하다를 또렷하다로</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/07/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<syn type="perfect">어슴프레하다</syn>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(기억|추억|생각)</sel_rst>
+					<eg>나는 캐나다에서 살았던 기억이 어렴풋하지만 약간은 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<syn type="perfect">어슴프레하다</syn>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(모습)|소리속성</sel_rst>
+					<eg>멀리 그의 모습이 어렴풋하게 보인다.</eg>
+					<eg>얼마나 멀리 갔는지 그의 목소리가 어렴풋하게 들린다.</eg>
+					<eg>어둠 속에 그의 모습이 어렴풋하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

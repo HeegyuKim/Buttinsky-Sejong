@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시리다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/12</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be cold</trans>
+				<trans>be chilled</trans>
+				<lr>
+					<syn type="perfect">시렵다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(손|발|귀|코|무릎)</sel_rst>
+					<eg>손이 시려서 글씨가 잘 써지지 않는다.</eg>
+					<eg>발이 시려서 난로 좀 쬐어야겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>have pains in</trans>
+				<trans>ache</trans>
+				<lr>
+					<hyper>아프다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(이|무릎)</sel_rst>
+					<eg>이가 시려서 찬 음식을 잘 못 먹겠다.</eg>
+					<eg>하루종일 서서 일을 했더니 무릎이 시리고 아파서 죽겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be dazzled</trans>
+				<lr>
+					<syn type="etc">부시다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈)</sel_rst>
+					<eg>가을 하늘이 하도 파래서 눈이 시릴 정도이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

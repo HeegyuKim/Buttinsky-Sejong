@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>프린트하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">프린트를 하다</var>
+			<str>N.하</str>
+			<org lg="en">print_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>print</trans>
+				<lr>
+					<syn type="sino">인쇄하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트</sel_rst>
+					<eg>그는 각종 서류와 홍보 책자를 프린트하는 일을 하고 있다.</eg>
+					<eg>보고서를 프린트하는 데 시간이 얼마나 걸릴까요?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>print</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">모양속성값|문자</sel_rst>
+					<sel_rst arg="Z" tht="LOC">천|종이</sel_rst>
+					<eg>그 여자는 노란 천에 꽃무늬를 프린트한 원피스를 입고 나타났다.</eg>
+					<eg>흰 천에 한글을 프린트해서 만든 티셔츠가 외국인 관광객들에게 인기를 끌었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

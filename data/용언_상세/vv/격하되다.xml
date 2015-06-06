@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격하되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">格下_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>reduce sb to a lower position</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">위계인간</sel_rst>
+					<eg>그는 이번 총기 난사 사건으로 인해 소대장으로 격하되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>be degraded</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(여론)|방법(의술|기술)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">상황(여론)|방법(의술|기술)</sel_rst>
+					<eg>국민여론이 동네아저씨 수준의 여론으로 격하되건 어떻건 솔직히 별 관심이 없다.</eg>
+					<eg>우리 민족 고유의 자연요법인 민중의 술은 일제 강점기 이후 민간요법이라는 이름으로 격하되었다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

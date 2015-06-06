@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>인수되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">인수가 되다</var>
+			<str>N.되</str>
+			<org lg="si">引受_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be transferred</trans>
+				<lr>
+					<syn type="kor">넘어가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>당초의 계약에 따라 이 건물은 채권단에 인수되게 된다.</eg>
+					<eg>그의 모든 재산과 토지는 국가에 인수될 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be transferred</trans>
+				<lr>
+					<syn type="kor">넘어가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">권리(권리|권한)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>지금까지 그가 누리던 모든 권리는 신임 회장에게 인수될 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be transferred</trans>
+				<lr>
+					<syn type="kor">넘어가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">일(직무|일|사업)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그가 맡아 왔던 일들은 기획팀장에게 인수되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

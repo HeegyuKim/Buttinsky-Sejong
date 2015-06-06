@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흡족하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">洽足_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sufficient</trans>
+				<trans>be ample</trans>
+				<lr>
+					<syn type="perfect">충분하다</syn>
+					<ant type="grad">부족하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나에게는 이 정도의 보수도 흡족하다.</eg>
+					<eg>나는 아이에게는 이 책상이 흡족하다고 생각한다.</eg>
+					<eg>수미에게는 그의 사랑이 흡족하고도 남는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="INS">온</sel_rst>
+					<eg>저 청년은 내 사윗감으로 흡족하다.</eg>
+					<eg>이 공책은 일기장으로 흡족하다.</eg>
+					<eg>그 일은 네 평생 직업으로 흡족하다고 생각지 않니?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=S기1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC"/>
+					<eg>저 청년은 내가 사윗감으로 삼기에 흡족하다.</eg>
+					<eg>이 공책은 일기장으로 쓰기에 흡족하다.</eg>
+					<eg>그 일은 네가 평생 직업으로 택하기에 흡족하다고 생각지 않니?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 Z=N2-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체자연물|구체인공물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">(마음)</sel_rst>
+					<eg>그녀는 아이의 선물이 마음에 흡족했다.</eg>
+					<eg>나는 그 청년이 마음에 흡족하다.</eg>
+					<eg>준오는 아들의 시험 성적이 마음에 흡족치 않았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="LOC">(마음)</sel_rst>
+					<eg>그녀는 준오가 그런 생각을 하는 것이마음에 흡족했다.</eg>
+					<eg>아버지는 그 청년이 의사라는것이 마음에 흡족하신 모양이다.</eg>
+					<eg>준오는 아들이 이번 시험에서10 등을한 것이영 마음에 흡족치 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

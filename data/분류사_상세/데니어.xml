@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>데니어</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/23</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/23</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/05/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">denier</org>
+			<symb>D</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 길이 450미터의 실의 무게가 0.05그램일 때의 굵기를 가리킨다</eg>
+				<cl_subtype type="thk"/>
+				<rel_n>인조견사</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

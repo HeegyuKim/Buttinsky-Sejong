@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단산하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단산을 하다</var>
+			<str>N.하</str>
+			<org lg="si">斷産_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>stop childbearing</trans>
+				<lr>
+					<rel>출산하다</rel>
+					<rel>순산하다</rel>
+					<rel>난산하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>아내가 몸이 약한 이유로 우리 부부는 딸아이 하나를 낳고 단산하였다.</eg>
+					<eg>요즘에는 경제적인 이유로 일찍 단산하는 여성들이 늘어나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

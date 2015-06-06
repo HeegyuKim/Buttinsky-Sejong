@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보수정치</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 추가, 의미부류 '지속적활동'이 아닐지(그럴 경우 npred) 재고 요망</mod_note><!--'보수정치를 하다'되는 것 같은데요?!(김이정)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+				<mod_note>n_v 재기술</mod_note>
+				<mod_note>선택제약 추가</mod_note>
+				<mod_note>max_n 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보수 정치</var>
+			<str type="N_N">보수+정치</str>
+			<org lg="si">保守政治</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 정당은 정경유착이라는 ~의 구습을 되풀이하고 있다.</eg>
+				<trans>conservative politics</trans>
+				<domain></domain>
+		        <sem_class>지속적활동</sem_class> <!--'정치사조'에서 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">진보정치</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~의 구습</comb_n>
+				<comb_n type="compound">~ 세력</comb_n>
+				<comb_n type="compound">~ 진영</comb_n>
+				<comb_v type="npred_vsup"> <!--추가 기술(미현)-->
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 펴다</form>
+					<frame>X-이 ~를 펴다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 펼치다</form>
+					<frame>X-이 ~를 펼치다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 실현하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 탄생시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 끝내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정해서 재기술(미현)-->
+					<form vcompound="no">~를 청산하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

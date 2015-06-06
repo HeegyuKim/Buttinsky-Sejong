@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>여의찮다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>str항목의 RS를 RA로 수정, 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">여의치 않다</var>
+			<str>RA</str>
+			<org lg="si">如意_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>go wrong</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>매사가 여의찮았다.</eg>
+				</subsense>				
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>사업자금을 마련하는 것이 여의찮았다.</eg>
+				</subsense>				
+				<subsense>
+					<sel_rst arg="X" tht="THM">S기</sel_rst>
+					<eg>대중교통을 이용해서 그 곳에 가기가 여의찮았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

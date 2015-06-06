@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>애호받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/09</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">애호를 받다</var>
+			<str>NV</str>
+			<org lg="si">愛好_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>be loved</trans>
+				<lr>
+					<syn type="kor">사랑받다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|종족|계층계급|혈연집단|지역집단</sel_rst>
+					<eg>이 곳은 이 지역 주민들에게 애호받는다.</eg>
+					<eg>물담배는 이 나라 국민들에게 특히 애호받는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

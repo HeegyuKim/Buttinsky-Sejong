@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대견스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀, 의미역 보완 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be enough</trans>
+				<lr>
+					<syn type="perfect">자랑스럽다</syn>
+					<ant type="compl">창피스럽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<n_appr arg="Y">행동</n_appr>
+					<eg>나는 그 녀석이 얼마나 대견스러운지 몰라요.</eg>
+					<eg>아이가 해내는 작은 것들에도 대견스러워 한다면 아이는 엄마 아빠의 따뜻한 애정과 항상 내 편이 있다는 안정감을 느낄 수 있을 것입니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<n_appr arg="Y">행동</n_appr>
+					<eg>나는 그 녀석이 대학에 들어간 것이 얼마나 대견스러운지 몰라요.</eg>
+					<eg>나는 그 아이가 혼자서 그 일을 해 낸 것이 너무나 대견스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

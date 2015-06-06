@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도식화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도식화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">圖式化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be schematized</trans>
+				<lr>
+					<syn type="perfect">도표화되다</syn>
+					<syn type="perfect">도해되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상</sel_rst>
+					<eg>그 소프트웨어의 구성 체계가 하나의 흐름도로 도식화되었다.</eg>
+					<eg>전체적인 법 개정의 내용이 아래의 도표로 도식화되어 나타나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be oversimplified</trans>
+				<lr>
+					<syn type="perfect">추상화되다</syn>
+					<syn type="perfect">단순화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>너의 그런 단순한 설명으로는 현 상황이 도식화될 위험이 있다.</eg>
+					<eg>인터넷과 요즘 유행하는 문고판 도서들을 보면 지식이 다분 도식화되어 교양이 아닌 단순 지식이 전달되는 데에 그치고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상</sel_rst>
+					<eg>그의 사고 속에는 늘 세상의 모든 갈등이 선과 악의 대결로 도식화되고 있다.</eg>
+					<eg>그의 글에서는 이번 사태가 친미와 반미의 2분 구도로 도식화되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

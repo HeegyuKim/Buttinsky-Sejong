@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>원기왕성하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">元氣旺盛_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be in full vigor</trans>
+				<trans>be vigorous</trans>
+				<trans>be energetic</trans>
+				<lr>
+					<syn type="perfect">혈기왕성하다</syn>
+					<ant type="grad">맥없다</ant>
+					<ant type="grad">허약하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|연령인간</sel_rst>
+					<eg>자라나는 청소년들은 원기왕성하다.</eg>
+					<eg>보릿고개를 모르는 요즘 아이들은 정말 원기왕성하다.</eg>
+					<eg>그 연세에도 할아버지는 원기왕성하시다.</eg>
+					<eg>그 노인은 어지간한 청년들보다 훨씬 원기왕성하다.</eg>
+					<eg>대체로 산 좋고 물 좋은 시골 사람들이 환경오염에 시달리는 도시인들보다 원기왕성하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

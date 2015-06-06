@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넘실넘실하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/26</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">넘실넘실을 하다</var>
+			<var type="etc">남실남실하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>roll</trans>
+				<trans>undulate</trans>
+				<lr>
+					<syn type="perfect">굼실굼실하다</syn>
+					<syn type="perfect">너울너울하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물장소|물관련현상|불|식물(곡식)</sel_rst>
+					<eg>소년의 눈에는 늘 푸른 바다가 넘실넘실했다.</eg>
+					<eg>검은 연기 속에 붉은 불길이 넘실넘실할 때 그가 밖으로 나왔다.</eg>
+					<eg>논에 누런 벼들이 넘실넘실한 것을 보니 가을이 분명하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

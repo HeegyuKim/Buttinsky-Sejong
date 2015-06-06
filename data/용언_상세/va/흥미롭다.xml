@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흥미롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">興味_</org>
+			<infl type="b"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be interesting</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>우리 시대를 대표하는 그 두 배우의 만남은 관객들에게 늘 흥미로웠다.</eg>
+					<eg>나는 그 사람의 행동 하나하나가 모두 흥미로웠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 조그만 아이가 그렇게 어른스럽게 구는 것이 흥미로웠다.</eg>
+					<eg>그에게는 그 여자의 숨은 모습들을 조금씩 알아 가는 것이 흥미로운 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

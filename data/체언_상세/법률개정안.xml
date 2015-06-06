@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>법률개정안</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>전문영역(법률) 삭제;n_n 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">법률 개정안</var>
+			<str type="N_N">법률+개정안</str> <!--개정안은 더 분석가능함-->
+			<org lg="si">法律改正案</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>야당이 재산세 인상에 관한 ~을 철회해 줄 것을 요청한 바 있다.</eg>
+				<eg>경차 관련 ~이 4월중 통과, 경차에 대한 세제 지원이 조만간 시행된다.</eg>
+				<eg>국회는 1999년 1월 5일 방문판매등에 관한 ~을 본 회의에 상정 통과시켰다.</eg>
+				<trans>bill for amending the law</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 상정</comb_n>
+				<comb_n type="compound">~ 철회</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 상정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 통과시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 철회하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

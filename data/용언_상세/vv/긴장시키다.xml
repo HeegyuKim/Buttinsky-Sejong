@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>긴장시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">긴장을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">緊張__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>tense</trans>
+				<lr>
+					<ant type="compl">이완시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(근육)</sel_rst>
+					<eg>그 보디빌더가 이두박근을 긴장시키면 정말 멋있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>tense</trans>
+				<lr>
+					<ant type="compl">안심시키다</ant>
+					<ant type="compl">안정시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<n_appr arg="X">속성</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<eg>철수가 폭탄발언을 해서 우리 모두를 긴장시켰다.</eg>
+					<eg>철수의 폭탄발언이 우리 모두를 긴장시켰다.</eg>
+					<eg>그녀의 매력은 남자들을 긴장시킨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

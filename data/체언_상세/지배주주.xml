@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지배주주</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람, 예문검토바람</cre_note><!--의미부류 수정하긴 했는데 이 경우 다의분할할 필요없는 것 아닌가요? 센스2로만 살려도 될 듯(김)-->
+			</cre>
+			<mod>
+				<mod_date>2004/09/12</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 의미부류 '기업'을 '단체'로 수정, 센스2 의미부류 '권리인간'을 '상태인간'으로 수정</mod_note><!--경제적 관계로 보아 '기업-권리인간'으로 선택했는데...고민되네요.(권)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>comp기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지배 주주</var>
+			<str type="N_N">지배+주주</str>
+			<org lg="si">支配株主</org>
+		
+			<comp pos="n" type="suffix">~회사</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 지역 민영 방송의 ~는 의약업체이다.</eg>
+				<eg>지분율 26%인 A쇼핑이 종합 유선 방송의 ~로 나섰다.</eg>
+				<eg>오늘 오후에 이동 통신의 ~를 선정하기 위한 면접 심사가 시작되었다.</eg>
+				<trans>predominant shareholder</trans>
+				<domain></domain>
+				<sem_class>단체</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 기업</comb_n>
+				<comb_n type="compound">~ 선정</comb_n>
+				<comb_n type="compound">~ 신청</comb_n>
+				<comb_n type="compound">~ 의향서</comb_n>
+				<comb_n type="compound">~ 자리</comb_n>
+				<comb_n type="compound">~ 지분</comb_n>
+				<comb_n type="compound">~ 참여</comb_n>
+				<comb_n type="compound">~ 포기</comb_n>
+				<comb_n type="compound">단일 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 올라서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 선정되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>아버지는 그 회사 주식의 60%를 가진 ~이다.</eg>
+				<eg>그녀는 비밀리에 주식을 사들인 후 주주 총회에서 ~로서의 영향력을 행사하였다.</eg>
+				<trans>predominant shareholder</trans>
+				<domain></domain>
+				<sem_class>직위인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 자리</comb_n>
+				<comb_n type="compound">~ 지분</comb_n>
+				<comb_n type="compound">~ 참여</comb_n>
+				<comb_n type="compound">~ 포기</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

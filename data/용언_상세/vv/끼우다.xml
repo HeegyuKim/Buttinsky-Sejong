@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끼우다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>get in</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물|장소</sel_rst>
+					<eg>김 과장은 파일에 서류를 끼우고는 나가 버렸다.</eg>
+					<eg>창문과 창문 사이에 솜을 끼워 두면 바람이 들어오지 않는다.</eg>
+					<eg>꼬챙이에 닭고기를 끼워 구어 먹었다.</eg>
+					<eg>라디오에 부속을 갈아 끼웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>포장행위</sem_class>
+				<trans>get in</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(단추)</sel_rst>
+					<eg>첫 단추를 잘못 끼우면 마지막 단추는 끼울 자리가 없다.</eg>
+					<eg>제 단추를 좀 끼워 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>let join</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간|모임회의(편|모임)|행위(놀이|게임)</sel_rst>
+					<eg>동네 아이들은 순이를 자기들 놀이에 끼워 주지 않았다.</eg>
+					<eg>아이들은 구슬치기 할 때마다 나를 끼우고 싶어했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>sell with a premium</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>이 집을 살 때 가구를 끼워서 샀어요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>include</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">시간(주말|공휴일)</sel_rst>
+					<eg>이번 주말을 끼워서 2박 3일로 놀러 갑시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>첫단추를 잘 끼우다</idm>
+			<idm>첫단추를 잘못 끼우다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/06</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.우</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체착용물(반지|장갑)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>철수가 순이에게 반지를 끼워 주고 결혼을 맹세했다.</eg>
+					<eg>나는 동생에게 장갑을 끼워 주었다.</eg>
+					<eg>나는 영희 팔목에 팔찌를 끼우고 나니 흐뭇한 감정이 솟아올랐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

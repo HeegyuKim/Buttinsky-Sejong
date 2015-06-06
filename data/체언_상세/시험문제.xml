@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시험문제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>센스 구분 필요성 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 추가;의미부류 검토 필요;명사결합 정보 수정 및 추가;단위표현에서 '장' 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시험 문제</var>
+			<str type="N_N">시험+문제</str>
+			<org lg="si">試驗問題</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>저번 수업시간에 배운 내용에서 ~가 나온다고 한다.</eg>
+				<eg>많은 학생들이 ~를 다 풀지 못 했다.</eg>
+				<trans>examination question</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class> <!--'사실명제'도 가능? 구두시험,실기시험문제도 존재-->
+				<!-- 문제에 해당하는 부류를 별도로 만들어야 하지 않을지, '~를 내다, 풀다' 등과 결합하는 부류로 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="conv">시험답안</ant> <!--반작용적 반의관계-->
+					<!-- 반작용적 반의관계 라는 것이 무슨 말인지?? -->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 어렵다</comb_aj> <!--'~가 풀기 어렵다'여야하는지?-->
+				<comb_aj type="appr">~가 까다롭다</comb_aj>
+				<comb_aj type="appr">~가 쉽다</comb_aj>
+				<comb_n type="compound">국어 ~</comb_n>
+					<!-- 야후 검색 결과 '국어시험 문제'처럼 표기된 사례가 더 많음, 만약 그렇다면 이 표제어의 하위 정보로 기술하기 어려운 듯함 -->
+					<!-- 이를 인정할 경우, '과목/시험명 ~'처럼 일반화된 기술이 가능함 -->
+				<comb_n type="compound">필기 ~</comb_n> <!-- 야후 검색 결과 '필기시험 문제'로 추출됨 -->
+				<comb_n type="compound">면접 ~</comb_n>
+				<comb_n type="compound">실기 ~</comb_n>
+				<comb_n type="compound">기말고사 ~</comb_n>
+				<comb_n type="compound">기출 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 출제하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 풀다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 맞추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 나오다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

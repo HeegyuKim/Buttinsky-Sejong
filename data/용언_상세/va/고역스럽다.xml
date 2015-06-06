@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고역스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/27</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">苦役_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be heavy upon sb</trans>
+				<lr>
+					<rel>고역이다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">질병및증세(감기)|소통행위(위로)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>양력이기는 하지만 오뉴월 감기는 정말 고역스럽다.</eg>
+					<eg>거기에서 고생하는 동안 다른 사람은 몰라도 영석이로부터의 위로는 오히려 나에게 고역스러웠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>시험지 채점하는 것은 내게 매우 고역스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

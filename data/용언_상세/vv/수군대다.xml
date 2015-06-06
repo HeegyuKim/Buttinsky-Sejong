@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>수군대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>talk in whispers</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>삼권 기자의 발언 이후 기자들은 사분오열되어 명분과 실리를 따지며 중구난방으로 수군대기 시작한다.</eg>
+					<eg>저 사람이 그때 컨닝을 해서 우리가 재시험을 봤다면서 뒤에서 수군대는 일이 없기를 바란다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

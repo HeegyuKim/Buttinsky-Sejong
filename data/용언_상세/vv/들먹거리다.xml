@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>들먹거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">달막거리다</var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>move up and down</trans>
+				<trans>shake</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위(엉덩이|어깨|입술)</sel_rst>
+					<eg>어깨를 들먹거리며 울기 시작했다.</eg>
+					<eg>뭔가 할 말이 있는지 입술을 아까부터 들먹거리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>힘이 얼마나 센지 무거운 바위를 쉽게 들먹거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>move up and down</trans>
+				<trans>shake</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>바람에 슬레이트 지붕이 들먹거렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(엉덩이|어깨|입술)</sel_rst>
+					<eg>흥겨운 음악 소리에 어깨가 저절로 들먹거린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>become restless</trans>
+				<trans>become disturbed</trans>
+				<lr>
+					<syn type="perfect">뒤숭숭해지다</syn>
+					<syn type="perfect">들뜨다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">(마음)</n_appr>
+					<eg>날씨가 따뜻해지면 마음이 괜히 들먹거린다.</eg>
+					<eg>그 소식에 너나할 것 없이 모두가 들먹거렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<n_appr arg="X">(마음)</n_appr>
+					<eg>겨우 맘 잡고 있는 애 괜한 말로 들먹거리지 마.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>become restless</trans>
+				<trans>move up and down</trans>
+				<lr>
+					<syn type="perfect">뒤숭숭해지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(여론|민심)</sel_rst>
+					<eg>정부의 갑작스런 발표에 여론이 들먹거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans></trans>
+				<lr>
+					<rel>오르려는 기세를 보이다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">값(주가|물가)|금전(공공요금)</sel_rst>
+					<eg>명절이 다가오자 물가가 들먹거리기 시작한다.</eg>
+					<eg>유가가 오르면 공공요금이 들먹거릴 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>mention</trans>
+				<trans>refer to</trans>
+				<lr>
+					<syn type="sino">언급하다</syn>
+					<syn type="perfect">들추다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태(이름|과거|얘기|단점|일)</sel_rst>
+					<eg>왜 자꾸 없는 사람 얘기를 들먹거리는 거니?</eg>
+					<eg>지난 일은 들먹거리지 않는 것이 좋다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

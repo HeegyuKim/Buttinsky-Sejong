@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희소하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/16</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Ru.하</str>
+			<org lg="si">稀少_</org>
+			<infl type="b"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be scarce</trans>
+				<trans>be rare</trans>
+				<lr>
+					<syn type="kor">드물다</syn>
+					<ant type="grad">많다</ant>
+					<ant type="grad">흔하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|수량</sel_rst>
+					<eg>산삼은 워낙 희소해서 구하기가 힘들다.</eg>
+					<eg>이런 자원들은 이제 세계적으로 희소한 것이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

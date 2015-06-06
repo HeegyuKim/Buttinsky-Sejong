@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대칭되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대칭이 되다</var>
+			<str>N.되</str>
+			<org lg="si">對稱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be symmetrical</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|수학적대상</sel_rst>
+					<sel_rst arg="Y" tht="COM">장소|수학적대상</sel_rst>
+					<eg>이 면은 저쪽 면과 대칭된다.</eg>
+					<eg>이 건물은 옆 건물과 완벽하게 대칭된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|수학적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소|수학적대상</sel_rst>
+					<eg>이 면과 저쪽 면은 서로 대칭된다.</eg>
+					<eg>이 건물과 옆 건물은 서로 완벽하게 대칭된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

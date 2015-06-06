@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>규탄대회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/02</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">규탄 대회</var>
+			<str type="N_N">규탄+대회</str>
+			<org lg="si">糾彈</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>야당은 여당의 횡포에 대하여 ~를 열었다.</eg>
+				<trans>denouncing rally</trans>
+				<domain></domain>
+				<sem_class>일반모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">대대적인 ~</comb_aj>
+				<comb_n type="compound">대규모의 ~</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 열다</form>
+					<frame>X-이 Y-에대해 ~를 열다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참석하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+				<s_n>S라는</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

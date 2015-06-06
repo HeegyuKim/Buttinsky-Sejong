@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>시</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/12</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">時</org>
+					<hom exist="yes"/>
+			<comp pos="av" type="suffix">~~각각</comp>
+			<comp pos="av" type="suffix">~~때때로</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>한 ~에 전화해라</eg>
+				<trans>o'clock</trans>
+				<cl_subtype type="tim"/>
+				<lr>
+					<rel>시간</rel>
+					<rel>분</rel>
+					<rel>초</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

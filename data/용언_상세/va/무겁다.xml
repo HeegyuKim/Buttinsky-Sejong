@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무겁다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be heavy</trans>
+				<lr>
+					<ant type="grad">가볍다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">(무게)</n_appr>
+					<eg>이 칼은 무게가 무겁다.</eg>
+					<eg>그 사람은 보기보다 무겁다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be heavy</trans>
+				<lr>
+					<ant type="grad">가볍다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(무게)</sel_rst>
+					<eg>이 칼의 무게는 무겁다.</eg>
+					<eg>그 사람의 무게는 보기보다 무겁다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be tired</trans>
+				<lr>
+					<syn type="perfect">피곤하다</syn>
+					<ant type="grad">가볍다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>어제 늦게 잤더니 몸이 무거워서 일어나기가 어렵다.</eg>
+					<eg>다시 일을 시작해야 한다고 생각하니 다리가 무겁다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be very responsible</trans>
+				<lr>
+					<ant type="grad">가볍다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">(책임|부담)</n_appr>
+					<eg>대통령은 지고 있는 책임이 무겁다.</eg>
+					<eg>모든 조직에서 언제나 리더는 부담이 무겁기 마련이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be very responsible</trans>
+				<lr>
+					<ant type="grad">가볍다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(책임|부담)</sel_rst>
+					<eg>대통령이 지고 있는 책임은 무겁다.</eg>
+					<eg>모든 조직에서 언제나 리더의 부담은 무겁기 마련이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cruel</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">벌</sel_rst>
+					<eg>그에게 내려진 벌은 그가 저지른 죄에 비해 무거웠다.</eg>
+					<eg>사형은 너무 무거운 벌이 아닐까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be very important</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획사건|행위|의무|사실명제</sel_rst>
+					<eg>그는 이 일이 얼마나 무거운지 이제서야 눈치를 좀 챈 것 같다.</eg>
+					<eg>국민들은 자신이 진 의무가 얼마나 무거운지, 그러나 동시에 얼마나 가치있는지 알아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be depressed</trans>
+				<lr>
+					<syn type="perfect">가라앉다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단|장소</sel_rst>
+					<n_appr arg="X">심리상태</n_appr>
+					<eg>이 방은 분위기가 왜 이렇게 무겁니?</eg>
+					<eg>사람들이 기분이 영 무거워 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be depressed</trans>
+				<lr>
+					<syn type="perfect">가라앉다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>이 방 분위기가 왜 이렇게 무겁니?</eg>
+					<eg>사람들의 기분이 영 무거워 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dark</trans>
+				<lr>
+					<syn type="perfect">어둡다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|건물|건물부분장소</sel_rst>
+					<n_appr arg="X">(빛|색|빛깔|색깔)</n_appr>
+					<eg>이 방은 색깔이 왜 이렇게 무겁니?</eg>
+					<eg>옷이 빛깔이 영 무거워 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dark</trans>
+				<lr>
+					<syn type="perfect">어둡다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(빛|색|빛깔|색깔)</sel_rst>
+					<eg>이 방의 색깔은 왜 이렇게 무겁니?</eg>
+					<eg>옷의 빛깔이 영 무거워 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>slow</trans>
+				<lr>
+					<syn type="perfect">느리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물</sel_rst>
+					<n_appr arg="X">(행동|움직임|동작)</n_appr>
+					<eg>너는 행동이 그렇게 무거워서 어디 일이나 제대로 하겠니?</eg>
+					<eg>코끼리는 움직임이 보기보다는 무겁지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>slow</trans>
+				<lr>
+					<syn type="perfect">느리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(행동|움직임|동작)</sel_rst>
+					<eg>너 행동이 그렇게 무거워서 어디 일이나 제대로 하겠니?</eg>
+					<eg>코끼리의 움직임은 보기보다는 무겁지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

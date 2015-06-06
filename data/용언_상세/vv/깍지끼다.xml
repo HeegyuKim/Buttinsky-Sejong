@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깍지끼다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/25</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">깍지를 끼다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>clasp one's hands</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>요가하는 사람들은 유독 깍지끼는 자세를 많이 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>깍지끼고</infl_rst>
+			<trans>clasp each other's hands</trans>
+			<sel_rst arg="X" tht="AGT">인간</sel_rst>
+			<sel_rst arg="X" tht="COM">인간</sel_rst>
+			<defect_eg>현진이는 윤수와 깍지끼고 걸을 때 제일 기분이 좋다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

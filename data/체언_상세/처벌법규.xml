@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>처벌법규</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/19</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 정보 표기 오류 수정;예문 수정;영어대역어 수정 및 추가;의미부류 수정;기타 결합 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">처벌 법규</var> <!-- 추가함 -->
+			<str type="N_N">처벌+법규</str> <!-- '-'를 '+'로 수정함 -->
+			<org lg="si">處罰法規</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~의 내용이 모호하고 복잡하여 많은 혼란을 야기하고 있다.</eg> <!-- '죄수들을 다스리는 ~의 기준이 모호해 많은 혼란을 야기하고 있다 -->
+				<trans>laws and regulations for the punishment</trans> <!-- 'of'를 'for'로 수정 -->
+				<trans>penalty law</trans> <!-- 추가함 -->
+				<domain></domain>
+				<sem_class>법률</sem_class> <!-- '규범'을 수정 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 없다</comb_aj> <!-- 추가함 -->
+				<comb_n type="compound"></comb_n>
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 제정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str> <!-- 추가함 -->
+				<max_n_str></max_n_str> <!-- 추가함 -->
+				<max_n_str></max_n_str> <!-- 추가함 -->
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S다는 ~</s_n> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

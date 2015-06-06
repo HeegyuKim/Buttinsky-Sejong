@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지원되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">지원이 되다</var>
+			<str>N.되</str>
+			<org lg="si">支援_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be supported</trans>
+				<trans>be provided</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|건물|단위|방법|기술</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|행위(사업)|사건|영화|연극|텍스트|작품|방송물|산업|분야</sel_rst>
+					<eg>이 사업에는 총 5억 7천 2백만원이 지원되었다.</eg>
+					<eg>수재를 당한 농민들에게 식수가 지원되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

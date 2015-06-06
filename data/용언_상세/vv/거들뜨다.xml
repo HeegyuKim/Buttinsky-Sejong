@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>거들뜨다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/28</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>'거들떠'의 형태로만 쓰이는 지극히 제한적인 용법 보임</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>raise one's eyes</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<n_appr arg="X">눈</n_appr>
+					<eg>우리가 들어가도 그 사람은 거들뜨지 않고 심지어 고개조차 들지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>거들떠</infl_rst>
+			<trans>raising sb's eyes</trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg>그 사람들은 우리를 거들떠 보지 않았다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

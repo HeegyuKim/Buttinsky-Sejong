@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>게서</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/17</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/03</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jkb</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="etc">에게서</var>
+			<!--주로 인칭대명사 '내', '제', '네' 아래 쓰임.-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>출처</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=(내|네|제)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>경수는 내게서 빌려간 사전을 돌려주지 않는다.</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>행위주</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=(내|네|제)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>철수가 네게서 배반당했다고 하더라.</eg>
+				<!--수동문과 공기.-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>비유적장소</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=(내|네|제)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>우리는 네게서 이상한 점을 발견했다.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

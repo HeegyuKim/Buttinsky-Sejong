@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>거무스름하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">거뭇하다</var>
+			<var type="etc">꺼무스름하다</var>
+			<var type="etc">가무스름하다</var>
+			<str>Ru.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be dark</trans>
+				<lr>
+					<ant type="grad">희끄무레하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>그 남자의 피부는 햇볕에 그을려 거무스름했다.</eg>
+					<eg>색이 거무스름한 현미는 쌀눈이 그대로 붙어 있어 각기병을 예방하는 효과가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

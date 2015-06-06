@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시범사업</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사 결합 정보 추가;동사결합에 기능동사 예와 술어동사 결합 예 추가;논항명사구 정보 추가;논항 의미정보 추가;단위표현에서 '개'를 '번|차례'로 수정함, 단 '건'이 가능한 듯한데, 의미를 분할해야 할지 검토 필요</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정;논항명사구 정보추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/05</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>동사결합 유형값 오류(narg_vsupvar)수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시범 사업</var>
+			<str type="N_N">시범+사업</str>
+			<org lg="si">示範事業</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 막대한 예산을 들여 산업별로 ~을 추진했지만 그 성과는 알 수 없다.</eg>
+				<eg>우리 농장이 무공해 재배에 대한 ~의 주체로 선정되었다.</eg>
+				<trans>pilot project</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc">~ 관계자</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 Y-에대해 ~을 벌이다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 추진하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 운영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 주관하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 선정하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-의 ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str> <!--논항 추가-->
+				<sel_rst arg="X">기관</sel_rst>
+				<sel_rst arg="Y">행위|방법|기술</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

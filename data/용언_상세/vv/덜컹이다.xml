@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덜컹이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>의미부류 부분 수정</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.이3</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be rattled</trans>
+				<lr>
+					<syn type="perfect">달달거리다</syn>
+					<syn type="perfect">덜걱거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>비포장도로를 달구지가 덜컹이며 지나간다.</eg>
+					<eg>바람에 유리 창문이 덜컹인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>rattle</trans>
+				<lr>
+					<syn type="perfect">달달거리다</syn>
+					<syn type="perfect">덜걱거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>농부들이 달구지를 덜컹이며 지나간다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">자연현상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>세찬 바람이 유리 창문을 덜컹인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

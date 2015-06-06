@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>침략전쟁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/25</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/30</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">침략 전쟁</var><!--정보 기입(김)-->
+			<str type="N_N">침략+전쟁</str>
+			<org lg="si">侵略戰爭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>미국은 이라크에 대한 명분없는 ~을 저질렀다.</eg>
+				<trans>aggressive war</trans>
+				<domain></domain>
+				<sem_class>물리적충돌</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant><!--방어전쟁-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<!--Y논항 추가(김)-->
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 일으키다</form>
+					<frame>X-이 Y-에대해 ~을 일으키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 저지르다</form>
+					<frame>X-이 Y-에대해 ~을 저지르다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str><!--Y논항 추가(김)-->
+				<sel_rst arg="X">인간|인간집단</sel_rst><!--선택제약 수정(김)-->
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl><!--'번, 회' 추가(김)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

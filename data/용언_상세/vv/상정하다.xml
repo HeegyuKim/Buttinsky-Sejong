@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상정하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/25</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/17</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>의미역 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상정을 하다</var>
+			<str>N.하</str>
+			<org lg="si">上程_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>bring up a bill for discussion </trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(법안|안건|문제)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">모임회의</sel_rst>
+					<eg>국회는 민생법안을 다음 임시국회에 상정하기로 결의했다.</eg>
+					<eg>경찰 수뇌부는 다음과 같은 문제를 간부회의에 상정하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/10/10</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상정을 하다</var>
+			<str>N.하</str>
+			<org lg="si">想定</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>suppose</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<eg>생성문법론자들이 심층구조를 상정하는 이유는 무엇인가?.</eg>
+					<eg>너는 왜 그렇게 복잡한 모델을 상정하려고 하니?.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

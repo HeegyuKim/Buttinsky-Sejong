@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>법정공휴일</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">법정 공휴일</var>
+			<str type="R_N">법정+공휴일</str>
+			<org lg="si">法定公休日</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>빠르면 내년부터 주 5일근무제 도입에 맞춰 ~이 2-5일 줄어들 것으로 보인다.</eg>
+				<eg>현재 우리나라의 국경일을 포함한 ~은 16일로 다른 나라에 비해 많은 편이다.</eg>
+				<trans>legal holiday</trans>
+				<domain></domain>
+				<sem_class>기념일명절</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">일</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

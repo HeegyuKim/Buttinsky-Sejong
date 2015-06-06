@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>매춘업소</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note>sense를 둘로 나눔</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/22</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>센스를 둘로 나눌 필요가 없어 보여, 하나로 통합;의미부류 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>'상업건물'과 '기업'으로 다의분할</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">매춘업소</var>
+			<str type="N_N">매춘+업소</str>
+			<org lg="si">賣春業所</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그가 ~에 드나든다는 것은 공공연한 비밀이다.</eg>
+				<eg>~에서 불이 나 많은 인명 피해가 났다.</eg>
+				<trans>house of ill fame</trans>
+				<domain></domain>
+				<sem_class>상업건물</sem_class> <!-- 기업이라기엔 좀 무리이지만 마땅한 의미부류가 없는 듯해서...(호정은)-->
+				<!--위 예문과 아래 동사 자유구성에 맞는 의미부류는 '기업'이라기 보다는 '상업건물'이 더 나을 듯(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 다니다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 드나들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 나가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 철거하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이 단체는 전국 ~의 주인들이 모여 결성한 것이다.</eg>
+				<eg>각 ~마다 월 평균 억 대의 수입을 올린다는 말이 있다.</eg>
+				<trans>house of ill fame</trans>
+				<domain></domain>
+				<sem_class>기업</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 하다</form><!--운영하다의 대동사(권오희)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 운영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 나가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

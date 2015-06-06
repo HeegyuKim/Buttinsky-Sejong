@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확충되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/03</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">확충이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">擴充_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be expanded</trans>
+				<lr>
+					<hyper>보충되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|단체|장소|추상적대상</sel_rst>
+					<eg>이곳을 물류 중심지로 키워 나가기 위해서는 우선 도로가 확충되어야 한다.</eg>
+					<eg>일단 인력이 확충되면 구체적인 계획을 세워 보기로 합시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

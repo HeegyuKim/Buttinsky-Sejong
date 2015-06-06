@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쟁취하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/11</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">쟁취를 하다</var>
+			<str>N.하</str>
+			<org lg="si">爭取_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>win</trans>
+				<lr>
+					<hyper>얻다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">금전|권리|권력|행위|사건</sel_rst>
+					<eg>수많은 노력 끝에 그들은 참정권을 쟁취했다.</eg>
+					<eg>어떤 일이 있어도 우리는 이번 쟁의에서 기본급 70만원을 쟁취해야 합니다.</eg>
+					<eg>민주주의란 쟁취해야 하는 것이지 결코 거저 얻어지는 것이 아닙니다.</eg>
+					<eg>주 5일 근무와 40 시간 노동을 쟁취해자.</eg>
+					<eg>천신만고 끝에 우리는 승리를 쟁취했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>고녀석</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/15</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">그녀석</var>
+			<str type="etc">고+녀석</str>
+					<img type="xx">그녀석</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 크면 큰 인물이 될 게다</eg>
+				<eg>철수 ~은 언제나 봐도 귀여워</eg>
+				<reg>구어</reg>
+				<con>귀여움</con>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

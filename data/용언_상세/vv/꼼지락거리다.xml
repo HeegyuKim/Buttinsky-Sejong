@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼼지락거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">꼼질거리다</var>
+			<var type="spr">꼼지락을 거리다</var>
+			<var type="etc">꿈지럭거리다</var>
+			<var type="etc">곰지락거리다</var>
+			<var type="etc">굼지럭거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>move slowly</trans>
+				<lr>
+					<syn type="perfect">꼬물거리다</syn>
+					<hyper>움직이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물신체부위</sel_rst>
+					<eg>아가가 발가락을 꼼지락거리는 모습은 정말 예쁘다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물신체부위</sel_rst>
+					<eg>아가 발가락이 꼼지락거리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<n_appr arg="X">행동</n_appr>
+					<eg>영경이는 시간이 촉박한데도 꼼지락거리는 습관이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

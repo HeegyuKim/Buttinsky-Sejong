@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">훤하다</var>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bright</trans>
+				<trans>be light</trans>
+				<lr>
+					<syn type="perfect">밝다</syn>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>모처럼의 밝은 햇살 덕분에 천지가 환하다.</eg>
+					<eg>조명등을 바꾸었더니 방 안이 훨씬 환하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛</sel_rst>
+					<eg>거리에 가게들의 간판 불빛이 환했다.</eg>
+					<eg>오늘따라 달빛이 유난히 환하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(색|색깔|색상|톤)|색속성값</sel_rst>
+					<eg>그는 담장을 환한 색깔의 페인트로 단장했다.</eg>
+					<eg>오늘 그녀는 환한 빛깔의 원피스를 입고 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be open</trans>
+				<trans>be unobstructed</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|속성(시야)</sel_rst>
+					<eg>집 창문을 열면 눈 앞에 넓은 평야가 환하게 펼쳐졌다.</eg>
+					<eg>우리 마을 앞으로 환한 대로가 뚫렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bright</trans>
+				<trans>be sunny</trans>
+				<lr>
+					<syn type="perfect">밝다</syn>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(얼굴|표정|목소리)|몸짓및동작(미소|웃음)</sel_rst>
+					<eg>무슨 좋은 일이 생겼는지 아내는 환한 목소리로 전화를 받았다.</eg>
+					<eg>아들의 합격 소식을 들은 어머니의 얼굴에 미소가 환했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be clear</trans>
+				<lr>
+					<syn type="perfect">밝다</syn>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(장래|앞길|전망)</sel_rst>
+					<eg>이제 그 사람은 장래가 환하다.</eg>
+					<eg>한국 경제의 앞날이 환하지만은 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be familiar with</trans>
+				<lr>
+					<syn type="perfect">휑하다</syn>
+					<syn type="perfect">횅하다</syn>
+					<ant type="grad">어둡다</ant>
+					<ant type="grad">무지하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>그는 경제 방면에 환하다.</eg>
+					<eg>아직 나이는 어렸지만 그는 세상 물정에 누구보다 환했다.</eg>
+					<eg>그 여자는 이 지역의 지리에 대해 환해서 우리에게 많은 도움을 주었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

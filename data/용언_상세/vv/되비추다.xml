@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되비추다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>빛</sem_class>
+				<trans>reilluminate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">(빛)</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<eg>빛이 천장을 되비추고 있다.</eg>
+					<eg>강물에 비친 달빛이 골짜기를 되비추고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

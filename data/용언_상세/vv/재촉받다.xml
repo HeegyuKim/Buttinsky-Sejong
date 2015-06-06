@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재촉받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재촉을 받다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be pressed</trans>
+				<trans>be asked</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈(빚|집세|세금)</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>집주인에게 또 집세를 재촉받은 남편이 어두운 얼굴로 방문을 열고 들어섰다.</eg>
+					<eg>그 일이 있은 후 우리는 더 이상 그녀에게 빚을 재촉받지 않게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be pressed</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 사장에게 서류 작성을 재촉받고 점심도 거른 채 일에 열중했다.</eg>
+					<eg>그녀는 벌써 여러 주 전부터 잡지사에서 원고 수정을 재촉받고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=S것1|S기1-을 V</frame>
+				<subsense>
+					<eg>그는 부모님으로부터 사귀는 여자를 데려오기를 재촉받은 적이 한두 번이 아니었다.</eg>
+					<eg>그녀는 벌써 여러 주 전부터 잡지사에서 수정된 원고를 보내 줄 것을 재촉받고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be pressed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>오늘 아침에도 그는 아내에게 빨리 생활비를 내놓으라고 재촉받았다.</eg>
+					<eg>매일같이 부모님으로부터 결혼하라고 재촉받는 것이 지겨워 그녀는 유학이라도 떠날 생각이라고 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

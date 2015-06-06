@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시발되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/31</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">시발이 되다</var>
+			<str>N.되</str>
+			<org lg="si">始發_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>be departed</trans>
+				<lr>
+					<syn type="perfect">출발되다</syn>
+					<ant type="compl">도착되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관</sel_rst>
+					<eg>열차가 10분 늦게 시발되었다.</eg>
+					<eg>그가 탑승하자 마자 비행기가 시발되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>be begun</trans>
+				<lr>
+					<syn type="perfect">시작되다</syn>
+					<ant type="compl">중단되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건</sel_rst>
+					<eg>한 번 폭동이 시발되자 상황은 걷잡을 수 없이 커져갔다.</eg>
+					<eg>간신히 전시회가 시발되었지만 진행은 여전히 엉망이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내리꽂히다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str><!--"V.히2"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be stuck down on</trans>
+				<lr>
+					<hyper>꽂히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>그녀가 쏜 화살이 과녁의 한가운데에 정확히 내리꽂혔다.</eg>
+					<eg>토마호크 미사일은 콘크리트 구조물에 내리꽂혔다.</eg>
+					<eg>처마 끝에서 떨어지는 빗물은 폭포수처럼 내리꽂히고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be stuck onto</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|기상현상</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>그의 검이 땅바닥으로 내리꽂혔다.</eg>
+					<eg>다시 몸뚱아리가 화살처럼 땅 위로 내리꽂히기 시작했다.</eg>
+					<eg>골짜기를 오르는 두 시간 내내 태양을 가려 주었던 울창한 숲이 걷히면서 5월 한낮의 따가운 햇볕이 목덜미에 내리꽂혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

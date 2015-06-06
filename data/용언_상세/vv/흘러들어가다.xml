@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흘러들어가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str>V-어V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>flow</trans>
+				<trans>run</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물장소</sel_rst>
+					<sel_rst arg="Y" tht="GOL">물장소</sel_rst>
+					<ord_rst></ord_rst>
+					<eg>이 강은 남해로 흘러들어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>soak into</trans>
+				<trans>permeate</trans>
+				<trans>penetrate</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물)|기체(공기)|빛|냄새|연기</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<ord_rst></ord_rst>
+					<eg>욕조를 넘친 물이 목욕탕에서 거실로 흘러들어갔다.</eg>
+					<eg>음식 냄새가 방안으로 흘러들어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>leak through</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제|소통행위(말|이야기|소문|비밀)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<ord_rst></ord_rst>
+					<eg>이 말이 상대에게 흘러들어가지 않도록 각별히 주의해야 한다.</eg>
+					<eg>누구에 의해 그 기밀이 상대 회사에 흘러들어갔는지 조사가 시작되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

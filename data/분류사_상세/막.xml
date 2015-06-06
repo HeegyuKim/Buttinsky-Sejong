@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>막</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/13</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/23</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">幕</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 연극은 3~ 4장으로 이루어져 있다</eg>
+				<eg>제2~이 방금 시작되었다</eg>
+				<cl_subtype type="div"/>
+				<rel_n>희곡</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

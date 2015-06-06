@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>교착되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/31</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>격틀, 선택제약 재고 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>N.되</str>
+			<org lg="si">交錯_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>mingle with each other</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>그를 다시 만나자 나는 안도와 원망이 교착되었다.</eg>
+					<eg>해묵은 온갖 감정들이 교착되어 그들의 관계는 더이상 회복할 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/31</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>N.되</str>
+			<org lg="si">膠着_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>glue to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>이번 테러로 난항을 종식시키려는 이라크의 노력이 교착되었다.</eg>
+					<eg>남북한 6자 회담이 6개월 동안 교착된 것은 과연 누구의 책임인가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

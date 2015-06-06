@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료소비자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 소비자</var>
+			<str type="N_N">의료+소비자</str><!--'소비+자' 더 분석할 수 있음(권오희)-->
+			<org lg="si">醫療消費者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>오늘날의 ~들은 예전과는 달리 의료의 질과 가치에 좀 더 잘 알고 있다.</eg>
+				<eg>~에게는 의사의 의료 행위를 수락하거나 거부할 수 있는 권리가 있다.</eg>
+				<trans>medical treatment consumer</trans>
+				<domain></domain>
+				<sem_class>일시적역할인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 교육</comb_n>
+				<comb_n type="compound">~의 권리</comb_n>
+				<comb_n type="compound">~의 의무</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

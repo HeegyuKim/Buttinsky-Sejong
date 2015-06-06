@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>복지정책</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>의미부류검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '추상적대상'에서 '방법'으로 수정, n_v 추가, n_n의 '~적' 기술위치 재고 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_n의 '~적' 류를 n_aj로 이동</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">복지 정책</var>
+			<str type="N_N">복지+정책</str>
+			<org lg="si">福祉政策</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>농촌 지역의 노인들에 대한 ~이 시급하다.</eg>
+				<eg>많은 선진 국가에서 국민의 행복한 삶을 위하여 사유 재산을 제한하고 ~을 펴 나가고 있다.</eg>
+				<trans>welfare policy</trans>
+				<domain></domain>
+				<sem_class>방법</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">새로운 ~</comb_aj>
+				<comb_aj type="appr">생산적 ~</comb_aj>
+				<comb_aj type="appr">실천적 ~</comb_aj>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 개발</comb_n>
+				<comb_n type="compound">~ 수립</comb_n>
+				<comb_n type="compound">~ 시행</comb_n>
+				<comb_n type="compound">~ 추구</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 펴다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개발하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 시행하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 추구하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

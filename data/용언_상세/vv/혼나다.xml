@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/13</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼이 내다</var>
+			<cntr opt="obl" type="a"/>
+			<str>NV</str>
+			<org lg="si">魂_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>have bitter experiences</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>연일 바쁜 일정에 몸이 극도로 피곤해서 아주 혼났습니다.</eg>
+					<eg>선생님께서 조목조목 논문에 대해서 물어 보셔서 당황해 아주 혼났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be blamed</trans>
+				<lr>
+					<syn type="perfect">꾸중듣다</syn>
+					<syn type="perfect">야단맞다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>나는 오늘 선생님께 정말 호되게 혼났다.</eg>
+					<eg>영수는 거짓말한 것이 들통나서 어머니에게 많이 혼났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

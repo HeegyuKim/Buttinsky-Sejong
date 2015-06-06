@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>우울하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/20</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2007/03/30</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note>기존 원고와 안소진 원고 통합 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">憂鬱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be melancholy</trans>
+				<trans>be gloomy</trans>
+				<lr>
+					<syn type="perfect">울적하다</syn>
+					<syn type="vulgar">꿀꿀하다</syn>
+					<ant type="grad">명랑하다</ant>
+					<ant type="grad">쾌활하다</ant>
+					<hyper>슬프다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">예술|작품|텍스트|영상</sel_rst>
+					<eg>일반적으로 푸른색 계통은 우울하다.</eg>
+					<eg>비록 주인공들의 성격은 밝지만, 이 작품의 시대적 배경은 우울하다.</eg>
+					<eg>나는 이런 종류의 소설이 우울하다.</eg>
+					<eg>말러 교향곡 6번 4악장은 선율이 우울하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be melancholy</trans>
+				<trans>be gloomy</trans>
+				<lr>
+					<syn type="perfect">울적하다</syn>
+					<ant type="grad">쾌활하다</ant>
+					<hyper>슬프다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<n_appr arg="X">심리상태(기분)</n_appr>
+					<eg>철수가 오늘은 우울하다.</eg>
+					<eg>나는 오늘 기분이 우울하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be worried</trans>
+				<lr>
+					<syn type="kor">걱정스럽다</syn>
+					<syn type="perfect">불투명하다</syn> <!-- 추상적 의미에서 -->
+					<syn type="perfect">암울하다</syn>
+					<ant type="grad">유망하다</ant>
+					<hyper>어둡다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|현상|원인|결과|(소식)</sel_rst>
+					<eg>경기침체로 올 상반기 경제 전망이 우울하다.</eg>
+					<eg>서울의 교통상황이 갈수록 우울하다.</eg>
+					<eg>들려오는 소식이 우울하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be worried</trans>
+				<lr>
+					<syn type="kor">걱정스럽다</syn>
+					<syn type="perfect">불투명하다</syn> <!-- 추상적 의미에서 -->
+					<syn type="perfect">암울하다</syn>
+					<ant type="grad">유망하다</ant>
+					<hyper>어둡다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-에게는|이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>수험생을 둔 학부모들은 오락가락하는 입시행정이 우울하다.</eg>
+					<eg>나는 장애인들이 아직도 고통받고 있는 현실이 우울하다.</eg>
+					<eg>농민들은 쌀을 비롯한 농업시장 개방이 우울할 따름이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

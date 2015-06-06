@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>홀가분하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be light-hearted</trans>
+				<lr>
+					<syn type="perfect">가볍다</syn>
+					<syn type="sino">편안하다</syn>
+					<ant type="grad">무겁다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<n_appr arg="X">마음</n_appr>
+					<n_appr arg="X">기분</n_appr>
+					<eg>쌓인 일을 끝낸 후 그는 홀가분한 기분으로 가족들과 여행을 떠났다.</eg>
+					<eg>부모님께 모든 것을 이야기하고 나니 마음이 한결 홀가분하다.</eg>
+					<eg>아이들을 모두 결혼시키고 나니 좀 섭섭한 마음도 있기야 하지만 홀가분한 것이 사실입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be free and easy</trans>
+				<lr>
+					<syn type="perfect">가볍다</syn>
+					<syn type="sino">편안하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(몸|복장|차림)</sel_rst>
+					<eg>쇼핑을 나섰던 그는 대부분의 물건들을 배달시킨 덕에 홀가분한 몸으로 돌아올 수 있었다.</eg>
+					<eg>오늘 모임에는 화려한 의상보다는 홀가분한 차림이 더 어울린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be easy</trans>
+				<trans>be simple</trans>
+				<trans>be light</trans>
+				<lr>
+					<syn type="perfect">쉽다</syn>
+					<syn type="perfect">만만하다</syn>
+					<syn type="sino">단순하다</syn>
+					<ant type="grad">버겁다</ant>
+					<ant type="grad">어렵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<eg>그 여자는 결코 너에게 홀가분한 상대가 아니란 걸 명심해라.</eg>
+					<eg>그 일은 우리 누구에게도 홀가분한 문제가 아니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=S기1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="CRT"/>
+					<eg>아내보다는 그 여자가 다루기에 더 홀가분해 보인 것이 사실이다.</eg>
+					<eg>그 문제는 네가 해결하기에 그렇게 홀가분한 것이 아닐지도 모른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

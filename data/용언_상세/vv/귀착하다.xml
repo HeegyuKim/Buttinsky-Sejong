@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>귀착하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/26</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>박정준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/21</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">귀착을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">歸着_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>arrive at a conclusion</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상(토론|결론)|사건</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(문제|결과|원점)|인간|인간집단</sel_rst><!-- GOL or FNS?-->
+					<eg>우리는 결국 돈 문제에 귀착했다.</eg>
+					<eg>우리의 결론은 애초의 문제로 다시 귀착했다.</eg>
+					<eg>우리의 토론은 다시 원점에 귀착했다.</eg>
+					<eg>논의의 형식은 고대의 그리스인이 '엘레아의 파르메니데스'에게 귀착하는 것과 정확히 일치한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상(토론|결론)|사건</sel_rst>
+					<sel_rst arg="Y" tht="GOL">S것|S데|Q</sel_rst>
+					<eg>그와 같은 抛棄의 취지는 원재판의 確定을 구하는 것에 귀착한다.</eg>
+					<eg>그 놀라움은 친구의 말이 옳다는 데 귀착하였다.</eg>
+					<eg>우리의 얘기는 결국 누가 그 일을 맡을 것인가에 귀착했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(문제|결과|가치)|인간|인간집단</sel_rst>
+					<eg>진위여부를 가리는 것은 사건 단서의 발견에 귀착한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>come back</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>아내와 자식들은 오도마리에서 마지막 후송선을 타고 왓카나이를 탈출하여 고향인 부산에 귀착하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

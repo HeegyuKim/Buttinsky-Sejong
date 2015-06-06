@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙향하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>격틀 관련 메모</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙향을 하다</var>
+			<str>N.하</str>
+			<org lg="si">落鄕_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>rusticate</trans>
+				<lr>
+					<syn type="perfect">귀향하다</syn>
+					<ant type="dir">귀경하다</ant>
+					<ant type="dir">귀성하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>김씨는 낙향하여 농사를 짓기로 마음을 먹었다.</eg>
+					<eg>암환자였던 이 선생은 낙향한 후 빠른 속도로 건강을 회복하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

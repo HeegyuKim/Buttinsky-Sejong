@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>관행화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>N.되</str>
+			<org lg="si">慣行化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>become a habitual practice</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">부정적속성구체물(촌지|향응)|범죄및비행(성희롱)</sel_rst>
+					<eg>기자들 사이에서는 워낙 촌지와 향응이 관행화되다보니 강직한 김기자는 부담을 줄까봐 미리 피해버린 것이다.</eg>
+					<eg>성희롱 처벌 조항이 새로이 법제화됨에 따라 이제까지 관행화되다시피한 직장내 성희롱이 된서리를 맞게 됐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>일부 몰지각한 세무 공무원들 사이에서 잘못낸 세금들을 몰래 챙기는 것이 관행화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

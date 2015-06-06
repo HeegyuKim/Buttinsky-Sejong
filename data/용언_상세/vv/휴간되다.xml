@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휴간되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/09</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">휴간이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">休刊_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense >
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be discontinued publication</trans>
+				<trans>be stoped issue</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트담지물(신문|잡지|간행물)</sel_rst>
+					<eg>인기 절정의 잡지가 휴간된 것은 참으로 이해할 수 없는 일이다.</eg>
+					<eg>교내 신문이 당분간 휴간될 것이라는 이야기가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

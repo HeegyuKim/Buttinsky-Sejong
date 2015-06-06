@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>계절특수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+                <mod_date>2007/07/29</mod_date>
+                <mod_writer>이홍식</mod_writer>
+                <mod_note></mod_note>
+            </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">계절+특수</str>
+			<org lg="si">季節特需</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">~를 겨냥하다</idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서울의 한 백화점에서는 최근 불경기로 인해 위축된 소비 심리를 활성화 시키기 위해 올 여름 ~를 위한 기획 상품들을 내놓을 예정이다.</eg>
+				<trans>seasonal demands</trans>
+				<domain></domain>
+				<sem_class>상황</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~상품</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 노리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

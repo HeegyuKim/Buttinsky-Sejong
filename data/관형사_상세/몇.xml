@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>몇</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/09</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/03/25</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/07/09(김창섭);고유어이지만 한자계 수사, 수관형사 형성법에 참여한다. 예를 들어 “삼백몇십오 번이라고?”와 같이 질문할 수 있다. sense n=1로는 “몇(양수, 의문) 사람이 왔니?”, sense n=2로는 “몇(서수, 의문) 학년이니?”(서수, 의문), sense=3로는 “나도 몇(기타; 양수, 부정) 가지/사람 알고 있다”를 두기로 한다.;‘몇 分 몇 秒’와 같은 경우, ‘삼백몇십오’와 같은 경우에 ‘몇’은 한자어 양수의 자질을 가진다. 그러나 이 사실을 반영하기 위해 org 태그 내에 si()와 같이 표시하기로 한다.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd">몃</var>
+			<var type="xd">?</var>
+			<var type="xd">멧</var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="si"></org>
+			<comp pos="md">~대(大)</comp>
+			<comp pos="n">~대(代)</comp>
+			<comp pos="n">~월(月)</comp>
+			<comp pos="n">~중(重)</comp>
+			<metc>몇+몇</metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>너는 사과를 몇 개 먹었니?</eg>
+				<nclass>기타</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">양수</sem_rep>
+				<sem_rep type="qi">의문</sem_rep>
+				<lr>
+					<syn>수(數)</syn>
+					<ant></ant>
+					<rel type="car">몇</rel>
+					<rel type="qua"></rel>
+					<rel type="ord">몇|몇째</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 개(個)</comb_md_n>
+				<comb_md_n>~ 건(件)</comb_md_n>
+				<comb_md_n>~ 곡(曲)</comb_md_n>
+				<comb_md_n>~ 광년(光年)</comb_md_n>
+				<comb_md_n>~ 구(具)</comb_md_n>
+				<comb_md_n>~ 국(局)</comb_md_n>
+				<comb_md_n>~ 권(卷)</comb_md_n>
+				<comb_md_n>~ 그램</comb_md_n>
+				<comb_md_n>~ 기(期)</comb_md_n>
+				<comb_md_n>~ 기(基)</comb_md_n>
+				<comb_md_n>~ 기(騎)</comb_md_n>
+				<comb_md_n>~ 년(年)</comb_md_n>
+				<comb_md_n>~ 단(段)</comb_md_n>
+				<comb_md_n>~ 달러</comb_md_n>
+				<comb_md_n>~ 대(代)</comb_md_n>
+				<comb_md_n>~ 대(臺)</comb_md_n>
+				<comb_md_n>~ 도(度)</comb_md_n>
+				<comb_md_n>~ 동(棟)</comb_md_n>
+				<comb_md_n>~ 리(里)</comb_md_n>
+				<comb_md_n>~ 매(枚)</comb_md_n>
+				<comb_md_n>~ 면(面)</comb_md_n>
+				<comb_md_n>~ 명(名)</comb_md_n>
+				<comb_md_n>~ 문(門)</comb_md_n>
+				<comb_md_n>~ 미터</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 박(泊)</comb_md_n>
+				<comb_md_n>~ 발(發)</comb_md_n>
+				<comb_md_n>~ 부(部)</comb_md_n>
+				<comb_md_n>~ 분(分)</comb_md_n>
+				<comb_md_n>~ 선(選)</comb_md_n>
+				<comb_md_n>~ 세(歲)</comb_md_n>
+				<comb_md_n>~ 센티미터</comb_md_n>
+				<comb_md_n>~ 수(首)</comb_md_n>
+				<comb_md_n>~ 승(勝)</comb_md_n>
+				<comb_md_n>~ 엔</comb_md_n>
+				<comb_md_n>~ 연(聯)</comb_md_n>
+				<comb_md_n>~ 원</comb_md_n>
+				<comb_md_n>~ 인(人)</comb_md_n>
+				<comb_md_n>~ 장(章)</comb_md_n>
+				<comb_md_n>~ 장(張)</comb_md_n>
+				<comb_md_n>~ 점(點)</comb_md_n>
+				<comb_md_n>~ 정보(町步)</comb_md_n>
+				<comb_md_n>~ 조(組)</comb_md_n>
+				<comb_md_n>~ 종(種)</comb_md_n>
+				<comb_md_n>~ 주(週)</comb_md_n>
+				<comb_md_n>~ 주간(週間)</comb_md_n>
+				<comb_md_n>~ 주일(週日)</comb_md_n>
+				<comb_md_n>~ 책(冊)</comb_md_n>
+				<comb_md_n>~ 초(秒)</comb_md_n>
+				<comb_md_n>~ 층(層)</comb_md_n>
+				<comb_md_n>~ 킬로그램</comb_md_n>
+				<comb_md_n>~ 킬로미터</comb_md_n>
+				<comb_md_n>~ 톤</comb_md_n>
+				<comb_md_n>~ 편(篇)</comb_md_n>
+				<comb_md_n>~ 평(坪)</comb_md_n>
+				<comb_md_n>~ 할(割)</comb_md_n>
+				<comb_md_n>~ 행(行)</comb_md_n>
+				<comb_md_n>~ 호(戶)</comb_md_n>
+				<comb_md_n>~ 호(號)</comb_md_n>
+				<comb_md_n>~ 호봉(號俸)</comb_md_n>
+				<comb_md_n>~ 회(回);가지</comb_md_n>
+				<comb_md_n>~ 근(斤)</comb_md_n>
+				<comb_md_n>~ 냥(兩)</comb_md_n>
+				<comb_md_n>~ 다발</comb_md_n>
+				<comb_md_n>~ 되</comb_md_n>
+				<comb_md_n>~ 마리</comb_md_n>
+				<comb_md_n>~ 말</comb_md_n>
+				<comb_md_n>~ 모금</comb_md_n>
+				<comb_md_n>~ 방울</comb_md_n>
+				<comb_md_n>~ 벌</comb_md_n>
+				<comb_md_n>~ 병(甁)</comb_md_n>
+				<comb_md_n>~ 사람</comb_md_n>
+				<comb_md_n>~ 시(時)</comb_md_n>
+				<comb_md_n>~ 자루</comb_md_n>
+				<comb_md_n>~ 조각</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 켤레</comb_md_n>
+				<comb_md_n>~ 토막</comb_md_n>
+				<comb_md_n>~ 형제(兄弟)</comb_md_n>
+				
+				<post_n>~ 가산명사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>너는 몇 학년이냐?</eg>
+				<nclass>기타</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi">의문</sem_rep>
+				<lr>
+					<syn>몇째</syn>
+					<ant></ant>
+					<rel type="car">몇</rel>
+					<rel type="qua">몇</rel>
+					<rel type="ord">몇째</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 국(局)</comb_md_n>
+				<comb_md_n>~ 권(卷)</comb_md_n>
+				<comb_md_n>~ 급(級)</comb_md_n>
+				<comb_md_n>~ 기(期)</comb_md_n>
+				<comb_md_n>~ 단(段)</comb_md_n>
+				<comb_md_n>~ 대(代)</comb_md_n>
+				<comb_md_n>~ 대대(大隊)</comb_md_n>
+				<comb_md_n>~ 동(洞)</comb_md_n>
+				<comb_md_n>~ 동(棟)</comb_md_n>
+				<comb_md_n>~ 등(等)</comb_md_n>
+				<comb_md_n>~ 면(面)</comb_md_n>
+				<comb_md_n>~ 반(班)</comb_md_n>
+				<comb_md_n>~ 부(部)</comb_md_n>
+				<comb_md_n>~ 사단(師團)</comb_md_n>
+				<comb_md_n>~ 세기(世紀)</comb_md_n>
+				<comb_md_n>~ 소대(小隊)</comb_md_n>
+				<comb_md_n>~ 연(聯)</comb_md_n>
+				<comb_md_n>~ 일(日)</comb_md_n>
+				<comb_md_n>~ 장(章)</comb_md_n>
+				<comb_md_n>~ 조(組)</comb_md_n>
+				<comb_md_n>~ 중대(中隊)</comb_md_n>
+				<comb_md_n>~ 차(次)</comb_md_n>
+				<comb_md_n>~ 층(層)</comb_md_n>
+				<comb_md_n>~ 편(篇)</comb_md_n>
+				<comb_md_n>~ 행(行)</comb_md_n>
+				<comb_md_n>~ 호(號)</comb_md_n>
+				<comb_md_n>~ 회(回)</comb_md_n>
+				
+				<post_n>~ 가산명사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>오늘은 시계를 몇 개 못 팔았다.</eg>
+				<eg>공원에서 몇 이상한 사람을 보았다.</eg>
+				<nclass>기타</nclass>
+				<arab></arab>
+				<reg></reg>
+				<sem_rep type="dsoq">양수</sem_rep>
+				<sem_rep type="qi">부정</sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car">몇</rel>
+					<rel type="qua"></rel>
+					<rel type="ord">몇|몇째</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 개(個)</comb_md_n>
+				<comb_md_n>~ 건(件)</comb_md_n>
+				<comb_md_n>~ 곡(曲)</comb_md_n>
+				<comb_md_n>~ 광년(光年)</comb_md_n>
+				<comb_md_n>~ 구(具)</comb_md_n>
+				<comb_md_n>~ 국(局)</comb_md_n>
+				<comb_md_n>~ 권(卷)</comb_md_n>
+				<comb_md_n>~ 그램</comb_md_n>
+				<comb_md_n>~ 기(期)</comb_md_n>
+				<comb_md_n>~ 기(基)</comb_md_n>
+				<comb_md_n>~ 기(騎)</comb_md_n>
+				<comb_md_n>~ 년(年)</comb_md_n>
+				<comb_md_n>~ 단(段)</comb_md_n>
+				<comb_md_n>~ 달러</comb_md_n>
+				<comb_md_n>~ 대(代)</comb_md_n>
+				<comb_md_n>~ 대(臺)</comb_md_n>
+				<comb_md_n>~ 도(度)</comb_md_n>
+				<comb_md_n>~ 동(棟)</comb_md_n>
+				<comb_md_n>~ 리(里)</comb_md_n>
+				<comb_md_n>~ 매(枚)</comb_md_n>
+				<comb_md_n>~ 면(面)</comb_md_n>
+				<comb_md_n>~ 명(名)</comb_md_n>
+				<comb_md_n>~ 문(門)</comb_md_n>
+				<comb_md_n>~ 미터</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 박(泊)</comb_md_n>
+				<comb_md_n>~ 발(發)</comb_md_n>
+				<comb_md_n>~ 부(部)</comb_md_n>
+				<comb_md_n>~ 분(分)</comb_md_n>
+				<comb_md_n>~ 선(選)</comb_md_n>
+				<comb_md_n>~ 세(歲)</comb_md_n>
+				<comb_md_n>~ 센티미터</comb_md_n>
+				<comb_md_n>~ 수(首)</comb_md_n>
+				<comb_md_n>~ 승(勝)</comb_md_n>
+				<comb_md_n>~ 엔</comb_md_n>
+				<comb_md_n>~ 연(聯)</comb_md_n>
+				<comb_md_n>~ 원</comb_md_n>
+				<comb_md_n>~ 인(人)</comb_md_n>
+				<comb_md_n>~ 장(章)</comb_md_n>
+				<comb_md_n>~ 장(張)</comb_md_n>
+				<comb_md_n>~ 점(點)</comb_md_n>
+				<comb_md_n>~ 정보(町步)</comb_md_n>
+				<comb_md_n>~ 조(組)</comb_md_n>
+				<comb_md_n>~ 종(種)</comb_md_n>
+				<comb_md_n>~ 주(週)</comb_md_n>
+				<comb_md_n>~ 주간(週間)</comb_md_n>
+				<comb_md_n>~ 주일(週日)</comb_md_n>
+				<comb_md_n>~ 책(冊)</comb_md_n>
+				<comb_md_n>~ 초(秒)</comb_md_n>
+				<comb_md_n>~ 층(層)</comb_md_n>
+				<comb_md_n>~ 킬로그램</comb_md_n>
+				<comb_md_n>~ 킬로미터</comb_md_n>
+				<comb_md_n>~ 톤</comb_md_n>
+				<comb_md_n>~ 편(篇)</comb_md_n>
+				<comb_md_n>~ 평(坪)</comb_md_n>
+				<comb_md_n>~ 할(割)</comb_md_n>
+				<comb_md_n>~ 행(行)</comb_md_n>
+				<comb_md_n>~ 호(戶)</comb_md_n>
+				<comb_md_n>~ 호(號)</comb_md_n>
+				<comb_md_n>~ 호봉(號俸)</comb_md_n>
+				<comb_md_n>~ 회(回);가지</comb_md_n>
+				<comb_md_n>~ 근(斤)</comb_md_n>
+				<comb_md_n>~ 냥(兩)</comb_md_n>
+				<comb_md_n>~ 다발</comb_md_n>
+				<comb_md_n>~ 되</comb_md_n>
+				<comb_md_n>~ 마리</comb_md_n>
+				<comb_md_n>~ 말</comb_md_n>
+				<comb_md_n>~ 모금</comb_md_n>
+				<comb_md_n>~ 방울</comb_md_n>
+				<comb_md_n>~ 벌</comb_md_n>
+				<comb_md_n>~ 병(甁)</comb_md_n>
+				<comb_md_n>~ 사람</comb_md_n>
+				<comb_md_n>~ 시(時)</comb_md_n>
+				<comb_md_n>~ 자루</comb_md_n>
+				<comb_md_n>~ 조각</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 켤레</comb_md_n>
+				<comb_md_n>~ 토막</comb_md_n>
+				<comb_md_n>~ 형제(兄弟)</comb_md_n>
+				
+				<post_n>~ 가산명사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

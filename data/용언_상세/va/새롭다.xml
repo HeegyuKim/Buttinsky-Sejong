@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>새롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be new</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(뉴스|기술|마음가짐|태도)</sel_rst>
+					<eg>새로운 마음가짐으로 일을 시작하고 싶다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be fresh</trans>
+				<lr>
+					<syn type="perfect">생생하다</syn>
+					<syn type="perfect">다르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(감회|느낌|기억)</sel_rst>
+					<eg>옛날 일기장을 다시 들춰보니 감회가 새롭다.</eg>
+					<eg>좋은 영화는 매번 볼 때마다 새롭다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be fresh</trans>
+				<lr>
+					<syn type="perfect">아쉽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">금전|시간(하루)</sel_rst>
+					<eg>떠날 날을 며칠 앞두고 보니, 하루하루가 새롭다.</eg>
+					<eg>나한테는 단돈 천 원이 새로워.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

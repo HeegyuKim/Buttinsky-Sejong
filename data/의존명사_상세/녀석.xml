@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>녀석</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/08</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/10/21(방성원)</note>
+			<note>동형어 정보 수정</note>
+			<note>예문 추가</note>
+			<note>한정사 제약 정보 수정|'이, 그, 저. 어느, 아무, 무슨' 등과 모두 결합이 가능하므로</note>
+			<note>수식어-문장 정보 수정|결합 제약이 없으므로</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>너처럼 버릇없는 ~은 혼이 나야 해</eg>
+				<eg>길동이 ~이 머리 하나는 참 좋단 말이야</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_n>N</pre_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국정관리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/09</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국정 관리</var>
+			<str type="N_N">국정+관리</str>
+			<org lg="si">國政管理</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그는 대통령과 야당사이에서 처신을 잘하며 ~를 안정적으로 하고 있다.</eg>
+				<eg>내각은 ~에 최선을 다해야 할 것이다.</eg>
+				<eg>그는 ~에 나서면서도 몸을 낮추는 신중한 모습을 보이고 있다.</eg>
+				<eg>상식이 존중되는 ~를 펴나갈 때 잃은 명예를 회복할 수 있다.</eg>
+				<trans>governance</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 안정적이다</comb_aj>
+				<comb_aj type="appr">~가 초당적이다</comb_aj>
+				<comb_aj type="appr">~가 효과적이다</comb_aj>
+				<comb_aj type="appr">~가 합리적이다</comb_aj>
+				<comb_aj type="appr">~가 실질적이다</comb_aj>
+				<comb_aj type="appr" pred="no">일상적인 ~</comb_aj>
+				<comb_aj type="appr" pred="no">새로운 ~</comb_aj>
+				<comb_n type="compound">~ 체계</comb_n>
+				<comb_n type="compound">~ 체제</comb_n>
+				<comb_n type="compound">~ 업무</comb_n>
+				<comb_n type="compound">~ 능력</comb_n>
+				<comb_n type="compound">~ 방향</comb_n>
+				<comb_n type="compound">~ 방식</comb_n>
+				<comb_n type="compound">~ 구상</comb_n>
+				<comb_n type="compound">~ 방안</comb_n>
+				<comb_n type="compound">~ 대행</comb_n>
+				<comb_n type="compound">~ 전문가</comb_n>
+				<comb_n type="compound">~ 시스템</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 총괄하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 대행하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 전념하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 임하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame>X-이 ~에 나서다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">직위인간|국가기관</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

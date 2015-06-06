@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>면제받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>의미역검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">면제를 받다</var>
+			<str>NV</str>
+			<org lg="si">免除_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get released</trans>
+				<trans>get exempted</trans>
+				<lr>
+					<syn type="perfect">면역받다</syn>
+					<syn type="perfect">면책받다</syn>
+					<ant type="compl">제재받다</ant>
+					<ant type="compl">제한받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">의무|시험|돈</sel_rst>
+					<eg>개성공단에 진출하는 남한기업은 5년간 소득세를 전액 면제받고 이후 3년간 50%를 면제받아 경쟁력이 매우 높다.</eg>
+					<eg>이번 행사를 통해 대리 직급의 직장인이 5년간 5000만원을 대출받으면 한 달치 이자를 면제받아, 평균 50만원 정도를 아낄 수 있게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

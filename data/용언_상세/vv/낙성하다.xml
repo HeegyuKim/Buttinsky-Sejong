@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙성하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙성을 하다</var>
+			<str>N.하</str>
+			<org lg="si">落成_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>complete</trans>
+				<lr>
+					<syn type="perfect">완공하다</syn>
+					<syn type="perfect">준공하다</syn>
+					<hyper>짓다</hyper>
+					<hyper>완성하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">건물</sel_rst>
+					<eg>그 회사가 드디어 멀티플렉스 극장을 낙성하였다.</eg>
+					<eg>김 서방 집 근처에 친구가 아주 큰 방석공장을 낙성하였는데, 그는 그곳에 여직공이 많다며 좋아했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지역본부</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/06</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/11</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '기관'을 '단체의부서'로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지역 본부</var>
+			<str type="N_N">지역+본부</str>
+			<org lg="si">地域本部</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 건설회사는 동남아에 ~를 설립하여 해외의 현지화 및 개발 사업을 강화하기로 했다.</eg>
+				<eg>이 그룹은 전국을 10개 지역으로 나누어 ~를 설치하고 이사급 이상으로 본부장을 선임하였다.</eg>
+				<trans>local headquarter</trans>
+				<domain></domain>
+				<sem_class>단체의부서</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				<comb_n type="compound">~ 구성</comb_n>
+				<comb_n type="compound">~ 설립</comb_n>
+				<comb_n type="compound">~ 설치</comb_n>
+				<comb_n type="compound">~ 조직</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 두다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 차리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 옮기다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

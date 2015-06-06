@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내뛰다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>run at full speed</trans>
+				<lr>
+					<syn type="perfect">내닫다</syn>
+					<hyper>뛰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="DIR">부분장소|관계장소|길|다리|굴</sel_rst>
+					<eg>사람들이 갈대를 치기 시작하자 여기저기서 짐승들이 괴성을 지르며 내뛰었다.</eg>
+					<eg>그는 온몸의 악을 다 내어 소리를 치면서 내뛰었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>run away</trans>
+				<lr>
+					<syn type="vulgar">토끼다</syn>
+					<syn type="sino">도망가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="DIR">부분장소|관계장소|길|다리|굴</sel_rst>
+					<eg>그는 숭례문 쪽에서 광화문통으로 나가는 길목으로 내뛰었다.</eg>
+					<eg>그는 동사무소 앞 골목으로 내뛰더니 오른편으로 휙 돌았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

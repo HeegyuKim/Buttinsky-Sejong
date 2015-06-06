@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내붙이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/23</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 기술</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내어붙이다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>put up</trans>
+				<trans>stick up</trans>
+				<lr>
+					<hyper>내다</hyper>
+					<hyper>붙이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트담지물|미술작품</sel_rst>
+					<sel_rst arg="Z" tht="LOC">건물|관계장소|부분장소</sel_rst>
+					<eg>2학기가 끝날 무렵인 12월 초순에 그 교수는 공고를 내붙였다.</eg>
+					<eg>노조측은 회사측에 대한 요구조건을 담은 대자보를 회사 정문 앞 게시판에 내붙였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>say coldly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-라고|냐고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>그 여자는 나에게 또 왔냐고 내붙이고는 쌀쌀맞게 자기 방으로 들어가 버렸다.</eg>
+					<eg>나는 그 멍청한 남자에게 앞으로 그러지 말라고 내붙이고는 뒤도 돌아보지 않고 와버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

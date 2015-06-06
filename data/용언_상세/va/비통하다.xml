@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비통하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">悲痛_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be sad</trans>
+				<trans>be grievous</trans>
+				<trans>be pathetic</trans>
+				<lr>
+					<hyper>슬프다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>우리에게는 그의 죽음이 비통하고 안타까웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be sad</trans>
+				<trans>be grievous</trans>
+				<trans>be pathetic</trans>
+				<lr>
+					<hyper>슬프다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(마음|어조|표정)</sel_rst>
+					<eg>이번 계획도 실패했다는 보고를 들으며 그는 비통한 표정을 감추지 못했다.</eg>
+					<eg>내 마음이 이렇게 비통한데, 당사자들의 마음이야 어떻겠습니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

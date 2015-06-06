@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>눈부시다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀순서수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/24</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>빛</sem_class>
+				<trans>be dazzling</trans>
+				<lr>
+					<syn type="sino">찬란하다</syn>
+					<hyper>밝다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>햇살이 눈부셔 나는 고개를 떨굴 수밖에 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be brilliant</trans>
+				<lr>
+					<syn type="sino">화려하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그 시합에서 보여준 그의 활약은 정말 눈부셨다.</eg>
+					<eg>짧은 기간 동안이었음에도 그의 성장은 눈부셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be gorgeous</trans>
+				<lr>
+					<syn type="sino">황홀하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|속성(모습)</sel_rst>
+					<eg>드레스를 입은 그녀의 모습은 실로 눈부셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

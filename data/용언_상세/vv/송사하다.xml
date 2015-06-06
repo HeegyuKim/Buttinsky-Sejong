@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>송사하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/04</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/08/30</mod_date>
+				<mod_writer>최정진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">송사를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">訟事_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>계획사건</sem_class>
+				<trans>sue</trans>
+				<trans>file suit</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|행위|사건</sel_rst>
+					<sel_rst arg="Z" tht="GOL">국가기관|국제기구</sel_rst>
+					<eg>유족들은 죽은 그녀의 누명을 법원에 여러 차례에 걸쳐 송사했다.</eg>
+					<eg>정부는 이번 관세 부과를 WTO에 정식으로 송사했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">국가기관|국제기구</sel_rst>
+					<eg>유족들은 그녀가 억울하게 죽었다는 것을 법원에 여러 차례에 걸쳐 송사했다.</eg>
+					<eg>정부는 이번에 관세가 부당하게 부과된 것을 WTO에 정식으로 송사했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">국가기관|국제기구</sel_rst>
+					<eg>유족들은 그녀가 억울하게 죽었다고 법원에 여러 차례에 걸쳐 송사했다.</eg>
+					<eg>정부는 이번의 관세 부과가 부당하다고 WTO에 정식으로 송사했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/08/30</cre_date>
+				<cre_writer>최정진</cre_writer>
+			</cre>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">송사를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">送辭_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>연설</sem_class>
+				<trans>speech a farewell address</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>부장님이 떠나가는 동료에게 송사하시기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종교및제의행위</sem_class>
+				<trans>speech a eulogy</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">종교역할인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">상상적인간</sel_rst>
+					<eg>제사장은 제를 올리면서 신께 송사하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

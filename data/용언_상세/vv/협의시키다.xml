@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협의시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/02</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협의를 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">協議_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>make discuss</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>사장은 이사들에게 이번 신입사원 특별 채용 문제를 협의시키기로 했다.</eg>
+					<eg>중재 위원회는 노사 대표들에게 임금 인상 문제를 협의시킬 예정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무장투쟁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/02</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>기능동사 구문 수정;n_n의 타입값 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">무장 투쟁</var>
+			<str type="N_N">무장+투쟁</str>
+			<org lg="si">武裝鬪爭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 산간 지역에서 정규군과 ~을 벌여 온 저항단체를 체포하였다.</eg>
+				<trans>armed struggle</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class> <!--검토 요망-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">극렬한 ~</comb_aj>
+				<!--타입값을 'lexfunc'에서 'compound'로 수정(미현)-->
+				<comb_n type="compound">항일 ~</comb_n>
+				<comb_n type="compound">반미 ~</comb_n>
+				<comb_n type="compound">~ 단체</comb_n>
+				<comb_n type="compound">~ 노선</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame> <!-- 검토 요망 ; '하다'가 쓰일 때는 Y 논항을 거의 안 쓰는 편--><!--Y논항 삭제(미현)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 ~을 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 전개하다</form>
+					<frame>X-이 ~을 전개하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame>X-이 ~에 나서다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|단체</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흐물흐물하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">하물하물하다</var>
+			<str>II.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be overripe</trans>
+				<trans>be flabby</trans>
+				<trans>be pulpy</trans>
+				<lr>
+					<ant type="grad">단단하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>고기가 흐물흐물하게 될 때까지 푹 삶아라.</eg>
+					<eg>사내는 아낙네의 흐물흐물한 팔을 주무르며 능글맞게 웃었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

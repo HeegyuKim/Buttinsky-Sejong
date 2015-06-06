@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>근사하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈, 삭제된 의미부류 란 복원하고 내용 채움</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">近似_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be approximate</trans>
+				<lr>
+					<syn type="perfect">유사하다</syn>
+					<syn type="kor">비슷하다</syn>
+					<ant type="compl">다르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="COM">온</sel_rst>
+					<eg>덧셈과 곱셈의 총연산 횟수의 비교에 있어서 추정치가 실제치와 근사하다는 결론을 얻을 수 있다.</eg>
+					<eg>나의 의견은 그의 생각과 근사하게 접근하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Y=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>덧셈과 곱셈의 총연산 횟수의 비교에 있어서 추정치와 실제치가 근사하다는 결론을 얻을 수 있다.</eg>
+					<eg>나의 예상과 실제 결과가 근사하게 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be approximate</trans>
+				<lr>
+					<syn type="perfect">유사하다</syn>
+					<syn type="kor">비슷하다</syn>
+					<ant type="compl">다르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="GOL">온</sel_rst>
+					<eg>우리는 추정식의 결과가 실제치에 근사하다는 결과를 얻었다.</eg>
+					<eg>이번 선거 결과는 출구 조사등을 통한 사전 예측에 근사하게 드러났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be fine</trans>
+				<trans>be splendid</trans>
+				<lr>
+					<syn type="kor">멋지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>조용한 호면에 단풍이 그림자를 비추어 내는 경치가 근사하다.</eg>
+					<eg>그 남자도 멋있지만 그의 사무실과 그의 집도 아주 근사하다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

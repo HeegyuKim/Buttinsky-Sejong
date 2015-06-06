@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극단적이다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈, 적정명사가 추상적인 의미부류로 제시, 재고요망</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.이</str>
+			<org lg="si">極端的_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be extreme</trans>
+				<trans>be radical</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">품격속성</n_appr>
+					<eg>두 사람은 너무 극단적이라서 어떤 점에서도 합의점을 찾지 못했다.</eg>
+					<eg>그의 성격이 급하고 너무 극단적이라서 어떤 일을 차분하게 따져가면서 대처하지 못한다.</eg>
+					<eg>그 부부의 성격은 너무 극단적이라서 자주 다퉜지만 그래도 의좋은 부부로 잘 살고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be extreme</trans>
+				<trans>be radical</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그 작가에 대한 문단의 평가는 극단적이다.</eg>
+					<eg>집단적 시위에 대한 우리 사회의 견해는 극단적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be extreme</trans>
+				<trans>be radical</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|행위</sel_rst>
+					<eg>결국에는 모두 파멸로 치닫는 그런 극단적인 상황은 어느 누구도 바라지 않는다.</eg>
+					<eg>자살은 문제 해결의 방법 가운데에서 가장 극단적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

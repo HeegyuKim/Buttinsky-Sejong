@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>방문서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>최대논항구조 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">방문 서비스</var>
+			<str type="N_N">방문+서비스</str>
+			<org lg="si">訪問___</org>
+			<org lg="en">__service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>저희 이삿짐 업체는 ~도 해 드립니다.</eg>
+				<eg>요즈음 학습지는 교재만 사면 무료로 ~를 해 주는 데가 많습니다.</eg>
+				<trans>call service</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">가정 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-에 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 받다</form>
+					<frame>Y-이 X-에게 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단(가족|가정)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

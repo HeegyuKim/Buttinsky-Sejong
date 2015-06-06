@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>그냥</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2003/07/31</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/06/04</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>표준국어대사전에서는 ‘그냥’에 부사만 인정하였음.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd">걍</var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="temp"></org>
+			<comp pos="n"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>철수는 교환학생이 아니라 그냥 학생이다.</eg>
+				<eg>우리에게 익숙한 그냥 무릇에는 분홍색 꽃이 피지만 시베리아 무릇에는 청람색 꽃이 핀다.</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">성상</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>보통</syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 친구</comb_md_n>
+				
+				<post_n>~ 명사</post_n>
+				<synt_sub type="big"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

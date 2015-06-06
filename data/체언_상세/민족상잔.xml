@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>민족상잔</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정 및 추가;최대논항구조와 선택제약 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>다의분할 후 재기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">민족 상잔</var>
+			<str type="N_N">민족+상잔</str>
+			<org lg="si">民族相殘</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>우리 민족은 6.25라는 전쟁에서 ~을 해야 하는 고통을 겪어야만 했다.</eg>
+				<trans>race struggling with each other</trans>
+				<domain></domain>
+				<sem_class>물리적충돌행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 ~을 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 일으키다</form>
+					<frame>X-이 ~을 일으키다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 막다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">국가|종족</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>해마다 ~이 있는 6월이 되고 이렇게 비라도 오는 날이면 그때 그 시절이 더욱 생각난다.</eg>
+				<trans>race struggling with each other</trans>
+				<domain></domain>
+				<sem_class>물리적충돌</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-에서 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form>
+					<frame>X-에서 ~이 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 벌어지다</form>
+					<frame>X-에서 ~이 벌어지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 터지다</form>
+					<frame>X-에서 ~이 터지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 나다</form>
+					<frame>X-에서 ~이 나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>X-에서 ~이 발생하다</frame>
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str>
+				<sel_rst arg="X">지역</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

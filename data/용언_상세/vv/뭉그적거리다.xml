@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뭉그적거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">뭉긋거리다</var>
+			<var type="etc">몽그작거리다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>dawdle</trans>
+				<lr>
+					<syn type="perfect">빈둥거리다</syn>
+					<syn type="perfect">뭉개다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>집에서만 뭉그적거리지 말고 밖에 좀 나가.</eg>
+					<eg>어찌나 게으른지 제자리에서 몇 시간 째 뭉그적거리고만 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>엉덩이를 뭉그적거리기만 할 뿐 좀처럼 자리를 뜨려하지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

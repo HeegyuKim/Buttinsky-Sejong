@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>까매지다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/18</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/12</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/30</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">꺼메지다</var>
+			<cntr opt="obl" type="i"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>sunburn</trans>
+				<lr>
+					<syn type="perfect">그을리다</syn>
+					<ant type="compl">하얘지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|살갗|피부)</sel_rst>
+					<eg>요즘 얼굴이 까매져서 뭘 입어도 안 어울릴 것이다.</eg>
+					<eg>여름에는 피부가 금방 까매진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>become blace</trans>
+				<lr>
+					<ant type="compl">하얘지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>연탄광에 들어갔다 나왔더니 흰옷이 까매졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>become dirty</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>요즘 먼지 때문에 옷이 금방 깨매진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

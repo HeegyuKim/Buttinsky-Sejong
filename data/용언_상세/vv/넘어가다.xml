@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넘어가다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V-어V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="perfect">지나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>올해가 이렇게 넘어가는구나.</eg>
+					<eg>두 시가 막 넘어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="perfect">지나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(순서|차례)</sel_rst>
+					<eg>화장실 갔다 온 사이에 네 차례는 벌써 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>fall down</trans>
+				<lr>
+					<syn type="perfect">넘어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>나무가 넘어간다, 조심해라.</eg>
+					<eg>강풍에 입간판들이 모두 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">(한방|업어치기)</sel_rst>
+					<eg>집채만한 거구가 어퍼컷 한방에 그대로 넘어갔다.</eg>
+					<eg>엎어치기 한판에 상대 선수는 그대로 넘어가 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>stop</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(숨)</sel_rst>
+					<eg>철수가 숨이 넘어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>turn</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(책장)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">(바람)</sel_rst>
+					<eg>바람에 책장이 넘어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="perfect">지나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<sel_rst arg="ADV">(무사히|잘)</sel_rst>
+					<eg>오늘도 무사히 넘어갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|추상적대상</sel_rst>
+					<eg>철수의 발표는 잘 넘어갔냐?</eg>
+					<eg>용수가 선생님에게 혼이 안 나고 잘 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>accept everything</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-면 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF"/>
+					<sel_rst arg="ADV">(끔뻑)</sel_rst>
+					<eg>그는 자식이라면 끔뻑 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(쪽|편)|인간</sel_rst>
+					<eg>철수가 기어이 좌익진영으로 넘어갔다.</eg>
+					<eg>심리전에 말려서 적편으로 넘어간 우리 병사들은 얼마나 되는가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">추상적대상(안건|의제|문제)</sel_rst>
+					<eg>다른 안건으로 넘어갑시다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(안건|의제|문제)</sel_rst>
+					<eg>이 문제는 그냥 넘어갑시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>be handed to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">권리(공격권|이권)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(쪽|편)|인간</sel_rst>
+					<eg>이권이 외국에 이미 많이 넘어갔다.</eg>
+					<eg>점수변동 없이 공격권만 상대편에게로 넘어갔다.</eg>
+					<eg>화제가 다른 쪽으로 넘어갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="GOL">(수중)|인간</sel_rst>
+					<eg>진주성도 이미 적 수중에 넘어갔습니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(쪽|편)|인간</sel_rst>
+					<eg>심리전에 말려서 적편으로 넘어간 우리 병사들은 얼마나 되는가?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-로|에게로|에|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">권리(경제권)|(사건)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">단체|인간</sel_rst>
+					<sel_rst arg="Z" tht="SRC">단체|인간</sel_rst>
+					<eg>경제권이 나에게서 아내에게 완전히 넘어갔다.</eg>
+					<eg>그 사건은 우리 경찰서에서 넘어갔습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be handed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(공|해)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(밖|진영)</sel_rst>
+					<eg>공이 상대방 진영으로 넘어갔다.</eg>
+					<eg>공이 담장 밖으로 넘어갔다.</eg>
+					<eg>해가 서산에 넘어갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식</sel_rst>
+					<sel_rst arg="Y" tht="GOL">(목|속)</sel_rst>
+					<eg>이런데도 음식이 목으로 넘어가냐?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(공|해)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(산)</sel_rst>
+					<eg>해가 서산을 넘어가고 있다.</eg>
+					<eg>공이 담장을 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>give up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|추상적대상(꼬임|단수)</sel_rst>
+					<eg>철수가 기어이 영미의 꼬임에 넘어갔다.</eg>
+					<eg>우리 병사들이 적군의 기만 전술에 자꾸 넘어갔다.</eg>
+					<eg>영미에게 안 넘어가는 사람이 있을라고?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Z=N2-에서|에게서 Y=N1-로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소|인간</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>김선생님은 헤어진 가족을 찾으러 북에서 남으로 넘어갔다.</eg>
+					<eg>우리 사람들이 그 사람에게로 자꾸 넘어갔다.</eg>
+					<eg>수많은 사람들이 자유를 찾아서 서독으로 넘어갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(고개|언덕|산)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>우리 차가 대관령 고개를 넘어가다가 갑자기 멈췄다.</eg>
+					<eg>이 언덕만 넘어가면 인가가 있을 거다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(선)</sel_rst>
+					<eg>여자를 만나는 것은 좋지만 어떤 선을 넘어가서는 안 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="sino">능가하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="CRT">추상적대상(수준)</sel_rst>
+					<eg>철수의 영어 실력은 그 수준을 넘어가지 못한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<sel_rst arg="Y" tht="CRT">시간</sel_rst>
+					<eg>시간이 두 시를 넘어가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>pass over</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>오늘은 내가 바빠서 넘어가지만 다음 번에는 어림없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그가 우리가 오지 않은 것을 그냥 넘어가지 않을 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>구렁이 담 넘어가듯 하다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

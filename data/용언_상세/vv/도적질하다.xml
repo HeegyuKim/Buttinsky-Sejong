@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도적질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도적질을 하다</var>
+			<str>N.하</str>
+			<org lg="si">盜賊_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>범죄및비행</sem_class>
+				<trans>steal</trans>
+				<lr>
+					<syn type="perfect">절도하다</syn>
+					<syn type="kor">훔치다</syn>
+					<syn type="kor">도둑질하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게서|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단|장소</sel_rst>
+					<eg>그는 부하들에게서 아이디어를 도적질하는 것이 전문이다.</eg>
+					<eg>그 아이는 배가 고파서 동네 슈퍼에서 라면을 도적질했다고 한다.</eg>
+					<eg>산적들이 밤새 동네 가축이란 가축은 모두 도적질해 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

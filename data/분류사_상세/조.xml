@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>조</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/01/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">條</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>3~의 항목을 참조하시오</eg>
+				<cl_subtype type="div"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/01/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">組</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>전체 인원을 두 ~로 나누어야 되겠다</eg>
+				<eg>3~ 사람들은 빠지세요</eg>
+				<cl_subtype type="grp"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>공구 세트가 전부 다섯 ~ 남아 있다</eg>
+				<cl_subtype type="grp"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/18</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/18</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">調</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>시의 음수율은 주로 삼사 ~와 칠오 ~ 형식을 띤다</eg>
+				<cl_subtype type="rat"/>
+				<rel_n>노래</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

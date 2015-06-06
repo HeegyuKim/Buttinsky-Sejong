@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휘늘어지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>hang down</trans>
+				<trans>droop</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물의부분|식물의부분(가지|잎|잎사귀)</sel_rst>
+					<eg>나무는 열매가 많이 열려 가지가 축축 휘늘어져 있었다.</eg>
+					<eg>이 식물은 줄기가 약하고 키만 커서 큰 잎사귀들이 화분 밖으로 휘늘어진다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner2">축축</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

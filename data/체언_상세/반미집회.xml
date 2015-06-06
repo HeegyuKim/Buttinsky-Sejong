@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>반미집회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/070/2</cre_date>
+				<cre_writer>박재연</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 의미부류 모임회의를 지속적활동으로 수정;센스2(모임회의) 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="R_N">반미+집회</str>
+			<org lg="si">反美集會</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이라크 파병 문제로 학생들이 ~를 했다.</eg>
+			    <eg>이라크 파병 문제로 학생들이 ~를 주도했다.</eg>
+				<trans>anti-American meeting</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에서 ~를 하다</frame>
+				 </comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 벌이다</form>
+					<frame>X-이 Y-에서 ~를 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--'이끌다',''막다','해산시키다'등등의 동사도 있음. 이것을 다 기술해주어야하는지..(이)--><!--다양한 동사 결합은 '집회'항목에서 이미 다루었을 것이므로 기술할 필요가 없을 듯(나)-->
+					<form vcompound="no">~를 주도하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에서의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">장소</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>올해만 이 동상 앞에서 ~가 네 차례 열렸다.</eg>
+				<trans>anti-American meeting</trans>
+				<domain></domain>
+				<sem_class>모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 개최</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>Y-에서 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 시작되다</form>
+					<frame>Y-에서 ~가 시작되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 끝나다</form>
+					<frame>Y-에서 ~가 끝나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 열리다</form>
+					<frame>Y-에서 ~가 열리다</frame>
+				</comb_v>
+				<max_n_str>Y-에서의 ~</max_n_str>
+				<sel_rst arg="Y">장소</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

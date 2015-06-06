@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>냉각되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">냉각이 되다</var>
+			<str>N.되</str>
+			<org lg="si">冷却_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get cool</trans>
+				<lr>
+					<ant type="compl">가열되다</ant>
+					<ant type="compl">뜨거워지다</ant>
+					<hyper>차가워지다</hyper><!--조금 의심스러움-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>열대해역에서 내려오던 열 공급이 끊김으로써 남극연안의 바닷물이 급속히 냉각되었다.</eg>
+					<eg>수냉식 냉각장치는 냉각된 냉각수를 펌프에 의해 순환시키는 강제 순환식이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>become estranged</trans>
+				<lr>
+					<syn type="kor">가라앉다</syn>
+					<syn type="perfect">소원해지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계</sel_rst>
+					<eg>그 불미스러운 사건 이후에 남북관계는 급속도로 냉각되었다.</eg>
+					<eg>한번 냉각된 두 사람의 사이는 다시 좋아질 기미가 전혀 보이지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>become spiritless</trans>
+				<lr>
+					<syn type="perfect">진정되다</syn>
+					<syn type="kor">가라앉다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(분위기)|상태</sel_rst>
+					<eg>부동산 대책 발표 이후 기존 아파트 시장이 안정화되면서 분양 시장의 분위기는 급속도로 냉각되었다.</eg>
+					<eg>지난해까지는 경기침체의 수렁에서 창업열기가  극도로  냉각되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

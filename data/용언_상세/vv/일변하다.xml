@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일변하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/12</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">일변을 하다</var>
+			<str>N.하</str>
+			<org lg="si">一變_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>change</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태|개체상황(표정)|사태|방법</sel_rst>
+					<eg>좀 전에 만난 사람이 사장이라는 것을 알고 나서 그의 표정이 일변하였다.</eg>
+					<eg>그의 태도가 5분만에 돌변하였다.</eg>
+					<eg>퇴직 후 생활 방식이 일변하자 그의 마음에도 여유가 생겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

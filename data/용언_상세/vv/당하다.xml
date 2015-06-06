@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>당하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/01/10</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">當_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be fairly caught</trans>
+				<trans>be fooled</trans>
+				<trans>be taken in</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|추상적대상|사태</sel_rst>
+					<eg>나는 그에게 완전히 당했다.</eg>
+					<eg>우리 팀은 적의 새로운 전술에 당하고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>be equal to</trans>
+				<trans>be capable of carrying out</trans>
+				<trans>be capable of discharging</trans>
+				<trans>be up to doing</trans>
+				<trans>cope with</trans>
+				<trans>manage</trans>
+				<trans>deal well with</trans>
+				<lr>
+					<syn type="perfect">감당하다</syn>
+					<syn type="etc">당해내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">의무(책임|책무|과제)|(일|부담)</sel_rst>
+					<eg>나 혼자서는 이 많은 일을 당할 수가 없다.</eg>
+					<eg>그는 그 많은 과제를 다 당해 냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>match</trans>
+				<trans>equal</trans>
+				<trans>rival</trans>
+				<trans>be a match for</trans>
+				<trans>keep up with</trans>
+				<lr>
+					<syn type="perfect">감당하다</syn>
+					<syn type="etc">당해내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>그는 혼자서 열 사람을 당할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>match</trans>
+				<trans>equal</trans>
+				<trans>rival</trans>
+				<trans>be a match for</trans>
+				<trans>keep up with</trans>
+				<lr>
+					<syn type="kor">견주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>그에게 당할 자가 국내에는 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be in</trans>
+				<trans>confront</trans>
+				<trans>stand in</trans>
+				<trans>be at</trans>
+				<lr>
+					<syn type="kor">맞다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성시간</sel_rst>
+					<eg>우리는 이 중요한 시기를 당하여 더욱 심기일전해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/01/10</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">當_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">우발사건(사고|교통사고|봉변|변|참변|상|일|곤란|고통|불이익|수난|환난|꼴)|처벌(사형|교수형)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그는 교통사고를 당해서 누워 있다.</eg>
+					<eg>그는 부친상을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에|에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">방향성행위(공격|습격|반격|협공|배신|사기|보복|칼부림|폭행|죽임|학살|몰살|몽둥이찜질|능지처참|박해|억압|착취|속임|모욕|농락|희롱|성희롱|강간|겁탈|문책|질책|문초|고문|매질|시험|포위|거절|거부|따돌림|소외|이용|감시|미행|추적|간섭|테러|혹사|무장해제|조치)|대칭적행위(이혼|파혼)|(멸시|무시|차별|외면|취급)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 친구에게 배신을 당했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">(창피|수모|망신|굴욕|무안)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>그는 표절을 했다가 독자들에게 망신을 톡톡히 당했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">실패(패배|참패|석패|완패|KO패)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>우리 팀은 일본 팀에 5 대 0으로 참패를 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=N3-에|에게 Z=N2-을 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">방향성행위(도난|박탈|날치기|탈취|추징|몰수|원천징수)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="W" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 도둑에게 많은 돈을 도난을 당했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">방향성행위(감시|추적|속박|추궁)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">행위(행위|행적|동향|일거수일투족)</sel_rst>
+					<sel_rst arg="W" tht="AGT">인간|인간집단</sel_rst>
+					<eg>나는 기관원에게 일거수일투족을 감시를 당하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=N3-에|에게 Z=N2-에|을 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">방향성행위(구타|가격|주먹질)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="W" tht="AGT">인간</sel_rst>
+					<eg>나는 그에게 복부를 구타를 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에|을 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(부상)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">신체부위</sel_rst>
+					<eg>그는 허리에 부상을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에서|에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">처벌(추방|방출|퇴출|퇴학|제적|제명|해고|해임|파면|파직|파문|퇴장)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간집단|직책|장소</sel_rst>
+					<eg>그는 회사에서 해고를 당했다.</eg>
+					<eg>그는 심판에게 퇴장을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=N3-에|에게 Z=N2-로|라고 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">비난욕설(놀림|모욕)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="FNS">속성인간</sel_rst>
+					<sel_rst arg="W" tht="AGT">인간</sel_rst>
+					<eg>그는 친구들에게 바보라고 놀림을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=N3-에|에게 Z=S2-고 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">비난욕설(놀림|면박|모욕)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<sel_rst arg="W" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 그런 작은 일도 못한다고 우리에게 놀림을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=N3-에|에게 Z=S2-도록 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">소통행위(설득|설복|협박)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS"/>
+					<sel_rst arg="W" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 모임에 나오도록 우리에게 설득을 당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

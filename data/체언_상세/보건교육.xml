@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보건교육</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/25</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v에서 frame 반복 기술</mod_note>
+				<mod_note>domain 삭제</mod_note>
+				<mod_note>sem '행위'에서 '지속적활동'으로 수정</mod_note>
+				<mod_note>n_n 기술</mod_note>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			 <mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>합성동사 형태 수정</mod_note>
+				<mod_note>s_n 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보건 교육</var>
+			<str type="N_N">보건+교육</str>
+			<org lg="si">保健敎育</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>보건소는 지역 주민에 대한 ~을 통해 질병을 예방하는 기능을 한다.</eg>
+				<trans>public health education</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">구강 ~</comb_n>
+				<comb_n type="compound">가족 ~</comb_n>
+				<comb_n type="compound">학교 ~</comb_n>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 담당</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form><!--합성동사 불가능이므로 수정(미현)-->
+					<frame>X-이 Y-을 ~을 하다</frame>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form> <!--합성동사 불가능이므로 수정(미현)-->
+					<frame>Y-가 X-에게 ~을 받다</frame>
+					<frame>Y-가 X-에게서 ~을 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 담당하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단(정부|학교|보건소)</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">건</cl><!--이건 어색한 듯(김이정)-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n><!--삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

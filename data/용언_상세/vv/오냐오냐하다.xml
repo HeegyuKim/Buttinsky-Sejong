@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오냐오냐하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>str 재검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>pamper</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에게|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>늦게 얻은 자식이라고 아들을 너무 오냐오냐하며 키웠더니 영 버릇이 없습니다.</eg>
+					<eg>할아버지는 어린 손자들에게 늘 오냐오냐하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>pamper</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위(요구|말|이야기)|(응석|어리광|투정)</sel_rst>
+					<eg>어머니는 큰 형의 요구에는 뭐든 오냐오냐하신다.</eg>
+					<eg>아이의 투정을 너무 오냐오냐하며 받아 주는 것은 아이의 장래를 위해서도 좋은 일이 아닙니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

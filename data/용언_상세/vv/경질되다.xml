@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경질되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경질이 되다</var>
+			<str>N.되</str>
+			<org lg="si">更迭_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be changed</trans>
+				<lr>
+					<syn type="vulgar">짤리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">직위인간</sel_rst>
+					<eg>장관이 인선 문제로 경질되는 경우가 제일 많다.</eg>
+					<eg>국영통신의 지도자가 불확실한 보도로 인해 국민을 계속해서 혼란시켰다는 이유로 돌연 경질되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

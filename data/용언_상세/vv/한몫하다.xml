@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>한몫하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">한몫을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>aid</trans>
+				<trans>assist</trans>
+				<trans>support</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">사태</sel_rst>
+					<eg>저는 여러분들이 이 사회의 발전에 한몫할 수 있는 사람들이 되리라 믿어 의심치 않습니다.</eg>
+					<eg>네가 이번 계약에 한몫했다는 소식은 이미 들었어.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것|S데</sel_rst>
+					<eg>이 선수가 우리 팀이 승리하는 데에 한몫했다.</eg>
+					<eg>은행 강도를 잡는 데에 한몫한 젊은이들의 기사가 신문에 보도되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">사태</sel_rst>
+					<eg>그의 빠른 판단과 결단력이 이번 일에 크게 한몫했다.</eg>
+					<eg>자원 봉사자들의 노력이 수해 복구 사업에 한몫했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것|S데</sel_rst>
+					<eg>여러분 모두의 관심과 격려가 이번 사업을 차질없이 마무리하는 데에 한몫했다는 것을 알고 있습니다.</eg>
+					<eg>자네의 도움이 내가 자립하는 데에 한몫했다는 건 물론 인정하네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

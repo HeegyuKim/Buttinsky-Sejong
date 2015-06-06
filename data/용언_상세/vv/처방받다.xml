@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>처방받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/07</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">처방을 받다</var>
+			<str>NV</str>
+			<org lg="si">處方_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be prescribed</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">약</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>나는 의사에게 감기약을 처방받았다.</eg>
+					<eg>나는 그에게 약을 처방받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get advice</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>나는 선배에게 여러 가지 묘책을 처방받았다.</eg>
+					<eg>나는 그에게 그 문제에 대한 해결방안을 처방받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

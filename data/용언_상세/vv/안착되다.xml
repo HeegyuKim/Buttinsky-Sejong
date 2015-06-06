@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>안착되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">안착이 되다</var>
+			<str>N.되</str>
+			<org lg="si">安着_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>arrive safely</trans>
+				<lr>
+					<hyper>착륙하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>엔진이 고장난 비행기는 바다에 일단 무사히 안착됐다.</eg>
+					<eg>400 명의 승객들은 무사히 인천항에 안착되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>settle</trans>
+				<lr>
+					<syn type="perfect">정착하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>탈북자들은 국내 모처에 무사히 안착됐다.</eg>
+					<eg>우리 가문은 300년 전에 이 지역에 안착되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be recognized</trans>
+				<lr>
+					<syn type="perfect">인정되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|장소|집단|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|추상적대상|장소|집단|사태</sel_rst>
+					<eg>그의 이전의 행적은 역사학계에서는 친일파의 행적으로 안착된 상태이다.</eg>
+					<eg>그의 죽음은 이미 기정 사실로 안착되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|장소|집단|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>그의 이전의 행적은 역사학계에서는 친일 행각을 벌인 것으로 안착된 상태이다.</eg>
+					<eg>그의 죽음은 이미 사실인 것으로 안착되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|추상적대상|장소|집단|사태</sel_rst>
+					<eg>그가 떠난 것은 이미 사실로 안착되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

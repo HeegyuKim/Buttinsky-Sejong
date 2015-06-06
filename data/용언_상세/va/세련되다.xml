@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>세련되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/12</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">洗鍊_</org>
+			<org lg="si">洗練_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be refined</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(모양|무늬|맵시|디자인)|신체착용물|구체인공물|인간</sel_rst>
+					<eg>그의 옷맵시가 아주 세련되다.</eg>
+					<eg>빛 바랜 워싱이 독특한 데님팬츠가 세련돼 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be refined in manner</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">방법|기술|몸짓및동작|소통행위|행위</sel_rst>
+					<eg>옷자락이 몸에 밀착돼 있는 것을 표현할 정도로 돌을 다루는 솜씨가 세련됐기 때문에 가능한 일이었지요.</eg>
+					<eg>본질적인 변화가 아니라 마케팅 기법만 좀 세련돼 진 것 아닌가 하는 이야기에 대해서는 어떻게 생각하세요?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

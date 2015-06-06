@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>편거리</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/21</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/21</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>편+거리</str>
+			<org lg="si">片__</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 인삼 한 근은 다섯 ~짜리이다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>인삼</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

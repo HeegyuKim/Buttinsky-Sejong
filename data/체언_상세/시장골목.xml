@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시장골목</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;의미부류를 '도로'에서 '길'로 수정함;형용사결합 유형을 일단 'min'으로 통일해둠;동사결합의 유형값을 최근 것으로 수정, 열거 방법 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj magn를 appr로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시장 골목</var>
+			<str type="N_N">시장+골목</str> <!--'골목'은 '골+목(N+N)'으로 더 분석 가능.(기).-->
+			<org lg="si">市場__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리는 온갖 물건을 파는 ~을 구석구석 돌아다니며 구경했다.</eg>
+				<trans>market alley</trans>
+				<trans>market side street</trans>
+				<domain></domain>
+				<sem_class>길</sem_class> <!--'먹자골목','카페골목','곱창골목'식으로 '특정가게가 많은/특정상품을 파는 거리(장소)'의 sense 구분 필요?-->
+				<lr>
+					<syn type="etc">시장통</syn> <!--동의어가 아니라 같은 부류('시장의[주변의] 길')인가?-->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 좁다</comb_aj>
+				<comb_aj type="appr">~이 비좁다</comb_aj> <!-- 유형값이 다른 이유는? 일단 통일해둠 -->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 걷다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 나오다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 누비다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 다니다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>겸</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/10/29(방성원)</note>
+			<note>파생어 품사 수정</note>
+			<note>기타 구문 정보 추가</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">兼</org>
+					<hom exist="yes"/>
+			<der pos="v" type="suffix">~하다</der>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>약수로 목을 축인 일행은 다리도 쉴 ~ 스님 옆에 나란히 걸터 앉았다</eg>
+				<eg>일본 유학을 준비할 ~ 해서 두 달 전부터 일본 문화원을 다니고 있습니다</eg>
+				<eg>우리는 아침 ~ 점심을 먹고 길을 나섰다.</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<comb_ida possible="no"/>
+				<pre_d yn="no"></pre_d>
+				<pre_n>N</pre_n>
+				<s_n>S을 ~</s_n>
+				<etc_cnst>S을 ~ 해서</etc_cnst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

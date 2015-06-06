@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>까뭇하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">꺼뭇하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be black</trans>
+				<lr>
+					<hyper>까맣다</hyper>
+					<hyper>검다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>치마 앞부분이 색깔이 까뭇하다.</eg>
+					<eg>김씨 얼굴은 까뭇하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

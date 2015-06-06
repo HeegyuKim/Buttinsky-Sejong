@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신랄하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/17</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">辛辣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be bitter</trans>
+				<trans>be acrid</trans>
+				<trans>be sharp</trans>
+				<trans>be harsh</trans>
+				<trans>be biting</trans>
+				<trans>be cutting</trans>
+				<trans>be poignant</trans>
+				<trans>be pungent</trans>
+				<trans>be incisive</trans>
+				<trans>be severe</trans>
+				<trans>be caustic</trans>
+				<trans>be vitriolic</trans>
+				<trans>be acrimonious</trans>
+				<trans>be mordant</trans>
+				<trans>be tart</trans>
+				<lr>
+					<syn type="kor">날카롭다</syn>
+					<syn type="kor">호되다</syn>
+					<syn type="etc">혹독하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">비난욕설(비판|비평|비난|공격)|(풍자)|방법(어조)</sel_rst>
+					<eg>그의 학설에 학계의 신랄한 비판이 쏟아졌다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="etc">신랄하게 비판하다</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>파탄내다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/10</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">파탄을 내다</var>
+			<str>NV</str>
+			<org lg="si">破綻_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화행위</sem_class>
+				<trans>ruin</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온(재정|가정|계획)</sel_rst>
+					<eg>이 법안은 국가 재정을 파탄낼 수도 있는 함정이 도사리고 있다.</eg>
+					<eg>음주는 심하면 가정을 파탄낼 수도 있다.</eg>
+					<eg>순간의 실수로 모든 계획을 파탄낼 셈이냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

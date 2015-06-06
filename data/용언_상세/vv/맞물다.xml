@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맞물다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀, 예문 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>대칭동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">마주물다</var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>make st bite each other</trans>
+				<trans>make st mesh each other</trans>
+				<lr>
+					<hyper>물다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<sel_rst arg="Z" tht="COM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<eg>입은 굳게 다물고 아랫니를 윗니와 맞물어 사이가 없도록 하며 혀는 윗천정에 붙인다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<sel_rst arg="Z" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<eg>입은 굳게 다물고 아랫니와 윗니를 맞물어 사이가 없도록 하며 혀는 윗천정에 붙인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>bite each other</trans>
+				<trans>mesh each other</trans>
+				<lr>
+					<syn type="perfect">맞닿다</syn>
+					<syn type="perfect">잇닿다</syn>
+					<hyper>물다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<sel_rst arg="Y" tht="COM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<eg>마치 시계 부품처럼 기어의 톱날이 맞물고 있는 형태를 지니고 있으며 이 기어의 움직임을 얼마만큼으로 각도로 나누어 작동하느냐에 따라 정밀도와 정확도가 차이가 난다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<sel_rst arg="Y" tht="THM">부분(이|이빨)|기계(톱니바퀴|기어)</sel_rst>
+					<eg>석영은 맑은 유리와 같은 것이고, 장석은 유백색을 띠는 것으로 이들은 서로 맞물고 있는 문상 조직을 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

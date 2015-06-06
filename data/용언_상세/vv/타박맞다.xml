@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>타박맞다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/22</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>sel_rst 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/13</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>타박당하다</see>
+		<morph_grp>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be grumbled at</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst> <!-- THM으로 볼 수도 있음. -->
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>나는 매일 엄마한테 타박맞고 지낸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=S것1-을|에대해 Z=N2-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>우리는 그에게 늦게 온 것을 타박맞았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-다고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>나는 할머니께 콩을 먹지않는다고 타박맞았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

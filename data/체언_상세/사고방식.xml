@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사고방식</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>표준사전에서 합성어로 보므로 띄어쓰기 정보는 주지 않음</mod_note>
+				<mod_note>대역어 추가</mod_note>
+				<mod_note>의미부류 수정</mod_note>
+				<mod_note>n_aj 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사정보에 '바꾸다, 전환하다' 추가;'가지다' 유형값 수정 및 프레임 정보 추가;맥스엔, 논항 의미부류 정보 추가;수식어절 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<str type="N_N">사고+방식</str>
+			<org lg="si">思考方式</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~의 차이 때문에 헤어지는 연인들이 많이 있다.</eg>
+				<trans>mind set</trans>
+				<trans>way of thinking</trans>
+				<domain></domain>
+				<sem_class>의견</sem_class> <!--(호정은)'방법'에서 '의견'으로 수정함. '인지상태'로 볼 수도 있음-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 다르다</comb_aj>
+				<comb_aj type="appr">~이 건전하다</comb_aj>
+				<comb_aj type="appr">~이 낡다</comb_aj>
+				<comb_aj type="appr" pred="no">케케묵은 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 전환하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 S는 ~을 가지다</frame>
+				</comb_v>
+				<max_n_str>X-의 S는 ~</max_n_str>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

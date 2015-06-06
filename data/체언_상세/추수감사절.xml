@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>추수감사절</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/06</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>str 정보 기호 수정;변이형 정보(띄어쓰기,준말,합성정보) 추가;예문 수정;동의어 추가;n_n 정보 추가;n_v 정보 추가;</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>vpcompound에 '추수감사절을 보내다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">추수 감사절</var>
+			<var type="abb">감사절</var>
+			<str type="N_N">추수+감사절</str><!--김성용(2004/07/15)'추수_감사절'로 나누기보다는 영어 대역어를 고려하여 '추수감사_절'로 나누었음. 그러나 표준국어대사전에서는 '추수_감사절'로 파악하는 듯함.--> <!--(호정은)표준사전에 맞추어 '추수+감사절'로 수정함.-->
+			<org lg="si">秋收感謝節</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>해마다 우리 교회에서는 ~에 큰 행사를 치른다.</eg>
+				<trans>Thanksgiving Day</trans>
+				<domain></domain>
+				<sem_class>기념일명절</sem_class>
+				<lr>
+					<syn type="perfect">감사절</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 예배</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 지키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

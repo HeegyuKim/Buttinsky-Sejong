@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시민공원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/25</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>시험기술 후 재기술</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 수정;동사결합 정보 추가;명사결합항목에서 붙여쓰여진 것을 띄어쓰기함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정 및 comment</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>'서울|한강(의) ~'은 어느 항목에?</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">시민+공원</str>
+			<org lg="si">市民公園</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>사람들은 강변에 있는 ~을 즐겨찾는다.</eg> <!-- 예문에서 '이 도시에 사는' 삭제함 --><!--'시민'의 의미를 살려보려는 의도였음!-->
+				<trans>citizen's park</trans>
+				<domain></domain>
+				<sem_class>휴양지공원</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 관리소</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 조성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

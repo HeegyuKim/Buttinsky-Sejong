@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>아무</orth> 
+  	<entry n="1" pos="md">
+    		<mnt_grp>
+      			
+				<cre>
+      					<cre_date>2001/08/15</cre_date>
+					<cre_writer>김창섭</cre_writer>
+						<cre_note></cre_note>
+				</cre>
+				<mod>
+						<mod_date>2006/12/08</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<mod>
+						<mod_date>2007/07/26</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<note></note>
+    		</mnt_grp>
+    		<see></see>
+      		<morph_grp>
+        		<allo></allo>
+				<var type="xs"></var>
+				<var type="xd"></var>
+				<var type="xx"></var>
+				<var type="kr"></var>
+				<var type="si"></var>
+				<var type="heavy"></var>
+				<var type="lgt"></var>
+				<var type="abb"></var>
+				<var type="lng"></var>
+				<str></str>
+        		<org lg="si"></org>
+        		<comp pos="np">~개</comp>
+        		<metc>아무+아무</metc>
+      		</morph_grp>
+			<idm_grp>
+				<idm></idm>
+				<prv></prv>
+			</idm_grp>
+			<sense n="1">
+      			<sem_grp>	
+        			<eg>철수는 영호에게 아무 날 아무 시 아무 곳에서 만나자고 했다.</eg>
+        			<nclass></nclass>
+					<arab></arab>
+        			<reg></reg>
+        			<con></con>
+        			<sem_rep type="dsoq">지시</sem_rep>
+					<sem_rep type="qi"></sem_rep>
+					<lr>
+        			<syn>모(某)</syn>
+        				<ant></ant>
+        				<rel type="car"></rel>
+						<rel type="qua"></rel>
+						<rel type="ord"></rel>
+					</lr>
+      			</sem_grp>
+      			<syn_grp>
+        			<comb_md_n>~ 곳</comb_md_n>
+        			<comb_md_n>~ 날</comb_md_n>
+        			<comb_md_n>~ 데</comb_md_n>
+        			<comb_md_n>~ 시(時)</comb_md_n>
+					
+        			<post_n></post_n>
+        			<synt_sub type="small"/>
+      			</syn_grp>
+    		</sense>
+    		<sense n="2">
+      			<sem_grp>	
+        			<eg>아무 차나 타자.</eg>
+        			<eg>나는 이제 아무 특별한 걱정도 없이 산다.</eg>
+        			<nclass></nclass>
+					<arab></arab>
+        			<reg></reg>
+        			<con></con>
+        			<sem_rep type="dsoq">지시</sem_rep>
+					<sem_rep type="qi">부정</sem_rep>
+					<lr>
+        			<syn>아무런</syn>
+        				<ant></ant>
+        				<rel type="car"></rel>
+						<rel type="qua"></rel>
+						<rel type="ord"></rel>
+					</lr>
+      			</sem_grp>
+      			<syn_grp>
+        			<comb_md_n>~ 걱정</comb_md_n>
+        			<comb_md_n>~ 뜻</comb_md_n>
+        			<comb_md_n>~ 산</comb_md_n>
+        			<comb_md_n>~ 생각</comb_md_n>
+        			<comb_md_n>~ 염려</comb_md_n>
+        			<comb_md_n>~ 의미</comb_md_n>
+        			<comb_md_n>~ 집</comb_md_n>
+        			<comb_md_n>~ 차</comb_md_n>
+        			<comb_md_n>~ 책</comb_md_n>
+					
+        			<post_n></post_n>
+        			<synt_sub type="big"/>
+      			</syn_grp>
+    		</sense>
+  	</entry>
+</superEntry>
+

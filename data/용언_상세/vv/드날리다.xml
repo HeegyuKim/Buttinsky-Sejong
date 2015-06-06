@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>드날리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>make oneself famous</trans>
+				<lr>
+					<syn type="perfect">들날리다</syn>
+					<hyper>날리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">(명성|이름)</sel_rst>
+					<eg>이번 수상을 계기로 그는 이름을 세상에 드날렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make it fly</trans>
+				<lr>
+					<syn type="perfect">들날리다</syn>
+					<hyper>날리다</hyper>
+					<rel>펄럭이게 한다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">기|(연)</sel_rst>
+					<eg>철수는 연을 높이 드날렸다.</eg>
+					<eg>대한민국 국기를 드날리며 선수들이 입장하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>fly</trans>
+				<lr>
+					<syn type="perfect">들날리다</syn>
+					<syn type="perfect">펄럭이다</syn>
+					<hyper>날리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(나뭇가지|치마|수염|깃발)</sel_rst>
+					<sel_rst arg="X" tht="INS">(바람)</sel_rst>
+					<eg>바람에 치마가 마구 드날려서 한 걸음 떼기조차 어려웠다.</eg>
+					<eg>긴 수염이 멋있게 드날린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

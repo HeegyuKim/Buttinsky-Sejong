@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>당차다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/26</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>적정명사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be of small but sturdy build</trans>
+				<lr>
+					<syn type="sino">당돌하다</syn>
+					<syn type="sino">대담하다</syn>
+					<ant type="grad">소심하다</ant>
+					<rel>용감하다</rel>
+					<rel>겸손하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">태도</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">말</n_appr>
+					<eg>그는 키가 작아도 당차서 아무도 함부로 하지 못한다.</eg>
+					<eg>그녀의 당찬 모습에 동료들은 모두 새 힘을 얻었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

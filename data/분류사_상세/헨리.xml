@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>헨리</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/21</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/21</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">henry</org>
+			<symb>H</symb>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 1초에 1암페어의 비율로 균일하게 변화하는 전류가 흐를 때 1볼트의 기전력이 생기는 회로의 유도 계수이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="pwr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

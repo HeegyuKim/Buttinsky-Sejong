@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>편집후기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/30</mod_date>
+				<mod_writer>백고운</mod_writer>
+				<mod_note>n_v정보추가</mod_note>
+				<mod_note>짧은 예문 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">편집 후기</var>
+			<str type="N_N">편집+후기</str>
+			<org lg="si">編輯後記</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>특히 이 책을 엮은이는 책의 말미인 ~에서 오늘날 대한민국과 중동과의 역학관계를 제3세계적 시각에서 분석하고 있다.</eg> <!--예문 축소-->
+				<eg>책의 말미에 편집자의 사적이야기랄 수 있는 ~를 집어넣는 것도 좋다.</eg>
+				<trans>editorial comments</trans>
+				<domain></domain>
+				<sem_class>이야기</sem_class>
+				<lr>
+					<syn type="etc">발행인 후기</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~를 적다</form>  <!--항목 분리-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>  
+					<frame></frame>
+				</comb_v>
+					<comb_v type="narg_vpred">
+					<form vcompound="no">~를 기록하다</form>  
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

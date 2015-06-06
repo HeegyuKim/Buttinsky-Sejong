@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조리있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/10</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">조리가 있다</var>
+			<str>NA</str>
+			<org lg="si">條理_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be reasonable</trans>
+				<trans>be logical</trans>
+				<trans>be consistent</trans>
+				<lr>
+					<ant type="etc">조리없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">언어요소(말)|언어단위(문장)|소통행위|텍스트(글)</sel_rst>
+					<eg>그의 말은 아주 조리있고 설득력 있었다.</eg>
+					<eg>그의 글은 언제나 아주 조리있어서 읽는 이의 공감을 자아낸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">단독행위|추상적행위|모양|품격속성|사실명제|관계추상적대상|작품|방송물|추상적부분|규범|추상적대상</sel_rst>
+					<eg>그의 조리있는 행동은 다른 철없는 학생들에게 귀감이 될 만했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그는 말하는 것이 조리있고 설득력이 있다.</eg>
+					<eg>기영이는 행동하는 것이 늘 조리있고 분명하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

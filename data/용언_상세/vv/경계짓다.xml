@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경계짓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경계를 짓다</var>
+			<str>NV</str>
+			<org lg="si">境界_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fix the boundary between</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간집단|장소</sel_rst>
+					<eg>왕은 정계비를 세워 변방의 국토를 청나라와 경계지었다.</eg>
+					<eg>백두산에서 뻗어내려 호남과 영남을 경계짓다 지리산에서 멈춰 선 백두 대간은 우리 산악의 기둥이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>delimit</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">온</sel_rst>
+					<eg>우리는 이 상황에서 비정함과 통찰력을 경계지어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

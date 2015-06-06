@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>몰락되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">몰락이 되다</var>
+			<str>N.되</str>
+			<org lg="si">沒落_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>get ruined</trans>
+				<lr>
+					<syn type="perfect">파멸되다</syn>
+					<ant type="compl">번영하다</ant>
+					<ant type="compl">번창하다</ant>
+					<ant type="compl">번성하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|제도|종교|사조|속성</sel_rst>
+					<eg>내 육체만 만족시키면 된다고 하는 물질만능주의, 자기향락주의에 의해 오늘날의 서구 문명은 몰락되어 가고 있는 것입니다.</eg>
+					<eg>우리는 그동안 전통문화의 보존과 발전, 그리고 재창조에 너무 무관심했고 그 결과 우리의 전통문화는 점점 옛 기억 속에만 남아있는 존재로 몰락되어 가고 있는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

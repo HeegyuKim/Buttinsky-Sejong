@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>성숙하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">成熟_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>get ripe</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame><!--"동사"로 가야 함.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">생물</sel_rst>
+					<eg>온난한 기후 때문에 식물들이 빨리 성숙한다.</eg>
+					<eg>성숙해 가는 난은 두 번 분열하는데, 그 때 염색체 수가 반으로 나뉜다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>grow into adulthood</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그 아이는 나이보다 훨씬 성숙하다.</eg>
+					<eg>내 조카딸은 고등학생이지만 성숙해서 처녀티가 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>mature</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame><!--"동사"로 가야 함.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>아직 때가 성숙하지 않았다.</eg>
+					<eg>시기가 성숙하면 내가 지시를 내리겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

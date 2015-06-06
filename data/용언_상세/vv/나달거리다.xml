@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나달거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"언행"에 대한 것은 제시하지 않았음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">나달을 거리다</var>
+			<var type="etc">너덜거리다</var>
+			<var type="etc">너털거리다</var>
+			<var type="etc">나탈거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>flutter</trans>
+				<lr>
+					<syn type="perfect">달랑거리다</syn>
+					<syn type="perfect">팔랑거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물|의복의부분|종이|천|기</sel_rst>
+					<eg>옷 소매가 찢어져서 나달거린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>호</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/21</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/21</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">戶</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그곳은 기껏해야 10여 ~가 거주하고 있는 작은 마을이었다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>가옥</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/21</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/21</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">毫</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 1리(釐)의 10분의 1로 약 0.333mm에 해당한다</eg>
+				<cl_subtype type="lnt"/>
+				<lr>
+					<syn type="etc">모</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>1~는 1리의 10분의 1로 3.75mg에 해당한다</eg>
+				<cl_subtype type="wgt"/>
+				<lr>
+					<syn type="etc">모</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/21</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/21</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">號</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>102~ 강의실이 어디입니까?</eg>
+				<cl_subtype type="odr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="etc" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그 잡지는 10년 간 총 40~를 발행했다</eg>
+				<eg>그 잡지라면 제가 창간호부터 제 99~까지 보관하고 있습니다</eg>
+				<cl_subtype type="uni"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>이 책은 9~ 활자로 인쇄해 주십시요</eg>
+				<domain>출판</domain>
+				<cl_subtype type="lrg"/>
+				<rel_n>활자</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="4">
+			<sem_grp>
+				<eg>그 분은 언제나 백 ~ 이상의 대작들만 그리십니다</eg>
+				<domain>미술</domain>
+				<cl_subtype type="lrg"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

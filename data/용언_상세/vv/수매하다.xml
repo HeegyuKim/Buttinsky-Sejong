@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>수매하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/01</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">수매를 하다</var>
+			<str>N.하</str>
+			<org lg="si">收買_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>purchase</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">자연음식물|음식|구체물</sel_rst>
+					<eg>정부에서 이번에 곡성군의 쌀을 전량 수매하였다.</eg>
+					<eg>영광군은 남아도는 보리를 군 차원에서 수매하기로 했다.</eg>
+					<eg>군청 관계자는 농협이 야적벼를 수매해 주는 방향을 모색하고 있음을 시사했다.</eg>
+					<eg>매년 2∼3회 네덜란드에서 백합구근을 수입해서 재배업자들에게 공급한 후 다시 재배업자들이 재배한 백합꽃을 수매해 일본에 수출하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

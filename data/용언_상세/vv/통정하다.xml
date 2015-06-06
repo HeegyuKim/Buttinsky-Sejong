@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통정하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">통정을 하다</var>
+			<str>N.하</str>
+			<org lg="si">通情_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>make love with someone else</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="reci" n="1">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="COM"></sel_rst>
+					<eg>그 사람은 옆집 처녀와 통정했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="reci" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="AGT"></sel_rst>
+					<eg>그 사람과 옆집 처녀는 서로 통정했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

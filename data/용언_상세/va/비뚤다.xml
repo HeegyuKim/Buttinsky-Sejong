@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비뚤다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">삐뚤다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>중간정도</sem_class>
+				<trans>be crooked</trans>
+				<lr>
+					<ant type="grad">바르다</ant>
+					<ant type="grad">똑바르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>그는 어깨가 왼쪽으로 조금 비뚤다.</eg>
+					<eg>내가 보기에는 벽의 그림이 약간 비뚠 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be crooked</trans>
+				<lr>
+					<syn type="etc">비뚤비뚤하다</syn>
+					<ant type="grad">바르다</ant>
+					<ant type="grad">똑바르다</ant>
+					<ant type="grad">곧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">길|도형(선)|(줄|행|열)</sel_rst>
+					<eg>우리는 비뚠 산길을 한참 올라갔다.</eg>
+					<eg>선이 비뚤어 다시 그려야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바동바동하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정 및 보충</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">바둥바둥하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>struggle</trans>
+				<trans>wiggle</trans>
+				<lr>
+					<syn type="perfect">아등바등하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>나는 그 녀석이 바동바동하면서 허공에 뜬 팔로 땅을 파는 게 어이없어 멀거니 쳐다보았다.</eg>
+					<eg>그는 매사에 바동바동하면서 늘 긍정적인 자세로 나가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

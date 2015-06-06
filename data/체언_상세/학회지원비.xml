@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>학회지원비</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>학술대회지원비의 줄임말도 가능함</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술자가 세 개의 엔트리로 나누어 기술하였으나, 두 번째 엔트리 학회지원비(學會志願費)는 기술의 필요성이 별로 없다고 판단하여 삭제함. 세 번째 엔트리 역시 별도 기술의 필요성은 적으나 일단 기술 내용 유지함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">학회 지원비</var><!--정보 기입(김)-->
+			<str type="N_N">학회+지원비</str><!--'학회+지원+비'로 분석가능-->
+			<org lg="si">學會支援費</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 국내의 모든 학회에 100 만원의 ~를 지급했다.</eg>
+				<trans>subsidy for a learned society</trans> <!--대역어가 맞는지 모르겠음--> <!--대역표현 수정(김)-->
+				<domain></domain>
+				<sem_class>비용</sem_class> <!--'돈'에서 '비용'으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				 <!--정보 기입(김)-->
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				 <!--정보 기입(김)-->
+				<comb_n type="compound">거액의 ~</comb_n>
+				 <!--정보 기입(김)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 주다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지급하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">원</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>학술대회지원비의 줄임말도 가능함</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see>학술대회지원비</see>
+		<morph_grp>
+			<var type="lng">학술대회지원비</var>
+			<str type="N_N">학회+지원비</str><!--'학회+지원+비'로 분석가능-->
+			<org lg="si">學會支援費</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>학술진흥재단에서는 언어학회에 500만 원의 ~를 주었다.</eg>
+				<trans>subsidy for an academic meeting</trans><!--대역어가 맞는지 모르겠음--> <!--대역표현 수정(김)-->
+				<domain></domain>
+				<sem_class>비용</sem_class> <!--'돈'에서 '비용'으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				 <!--정보 기입(김)-->
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				 <!--정보 기입(김)-->
+				<comb_n type="compound">거액의 ~</comb_n>
+				 <!--정보 기입(김)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 주다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지급하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">원</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>머무적거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>어휘 의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">머뭇거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hesitate</trans>
+				<lr>
+					<syn type="perfect">뭉그적거리다</syn>
+					<syn type="perfect">몽그작거리다</syn>
+					<syn type="perfect">주척거리다</syn>
+					<syn type="perfect">주춤거리다</syn>
+					<syn type="perfect">멈칫거리다</syn>
+					<syn type="perfect">망설이다</syn>
+					<syn type="perfect">우물쭈물거리다</syn>
+					<syn type="sino">주저하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>풀리지 않는 의문은 미국은 북조선이 적대 관계 해소하면 핵 계획을 포기할 수 있다고 공언해도 머무적거리고 있는 것이다.</eg>
+					<eg>주일날 저녁 식사 시간이 끝났는데도 그가 집에 가지 않고 자꾸 머무적거리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

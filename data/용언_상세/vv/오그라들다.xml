@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오그라들다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>contract</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>김을 굽다보면 오그라들어 버리는 통에 영 모양을 내기가 어렵다.</eg>
+					<eg>마른 바위에 붙어서 자라는데 비가 와서 물기가 있으면 새파랗게 살아나도 가물면 잎이 공처럼 둥글게 말라 오그라들어 죽은 것처럼 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>lose one's nerve</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(심장|마음|가슴|어깨|몸)|인간</sel_rst>
+					<eg>어려울 때일수록 더 오그라들지 말고 당당해야 한다.</eg>
+					<eg>많은 사람들 앞에 서니 몸이 오그라들고 말이 나오지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

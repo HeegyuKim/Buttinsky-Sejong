@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>화해시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/03</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">화해를 시키다</var>
+			<cntr opt="opt" type="i"/>
+			<str>N.시</str>
+			<org lg="si">和解_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>reconcile</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간|인간집단</sel_rst>
+					<eg>마을 이장은 나를 그와 화해시켜 보고 싶은 눈치였다.</eg>
+					<eg>학교측은 폭행을 당한 아이의 부모를 피해를 가한 아이의 부모와 화해시키려고 노력했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">인간|인간집단</sel_rst>
+					<eg>중재위원회는 노사 양측을 화해시킬 방안을 찾는 중이다.</eg>
+					<eg>나는 그 두 사람을 화해시켜 보려고 애를 썼지만 허사였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

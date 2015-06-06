@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공동선언문</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note>코멘트정보!->!!</mod_note>
+			</mod>
+			<note>2007/08/08(정아름)n_v추가</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">공동 선언문</var>
+			<str type="N_N">공동+선언문</str> <!--선언문이 더 분석될 수 있음-->
+			<org lg="si">共同宣言文</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>의사단체와 약사단체가 올바른 의약분업을 위해 함께 노력하기로 하는 ~을 발표했다.</eg>
+				<trans>joint declaration</trans>
+				<domain></domain>
+				<sem_class>문서</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~의 작성</comb_n>
+				<comb_n type="compound">~의 발표</comb_n>
+				<comb_n type="compound">~의 낭독</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 발표하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 낭독하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 채택하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

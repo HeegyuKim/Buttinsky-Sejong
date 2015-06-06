@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>저주스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">詛呪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cursed</trans>
+				<trans>be under a curse</trans>
+				<lr>
+					<syn type="perfect">가증스럽다</syn>
+					<ant type="grad">복되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-에게는|이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|행위|상황</sel_rst>
+					<eg>나는 극악무도하고 파렴치한 연쇄살인범이 저주스럽다.</eg>
+					<eg>우리는 인권을 유린하고 민주화를 방해한 역대 군사정권이 저주스럽다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S는것</sel_rst>
+					<eg>나는 무고한 시민들을 폭도로 몰아 학살한 자가 버젓이 사회의 원로를 자칭하는 것이 실로 저주스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be like to be under a curse</trans>
+				<lr>
+					<syn type="perfect"></syn>
+					<ant type="grad">복스럽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|지역|속성</sel_rst>
+					<eg>황폐한 농가 한 귀퉁이에서 말라버린 우물은 목마름처럼 저주스러웠다.</eg>
+					<eg>벼락을 맞은 듯 쓰러진 나무들 뒤로 보이는 모래밭이 사막같이 저주스럽다.</eg>
+					<eg>사면복권이 되기까지 그는 간첩이란 저주스러운 오명을 뒤집어쓰고 감옥살이를 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

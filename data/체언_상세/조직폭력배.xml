@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>조직폭력배</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>str 정보 기호 수정;변이형 정보(띄어쓰기,준말) 추가;n_v 정보 추가;n_n 정보 추가;단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">조직 폭력배</var>
+			<var type="abb">조폭</var>
+			<str type="N_N">조직+폭력배</str>
+			<org lg="si">組織暴力輩</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>지난해 구속 수감됐던 ~의 두목이 석방되어 와해된 조직을 재건하려고 하고 있다.</eg>
+				<trans>system hooligan</trans>
+				<domain></domain>
+				<sem_class>반사회적직업인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 일당</comb_n>
+				<comb_n type="compound">~ 두목</comb_n>
+				<comb_n type="compound">~ 사건</comb_n>
+				<comb_n type="compound">신흥 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 검거하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 동원하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 개입하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

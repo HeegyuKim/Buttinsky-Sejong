@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기초설계</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기초 설계</var>
+			<str type="N_N">기초+설계</str>
+			<org lg="si">基礎設計</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>폴란드 출신 건축가가 그 건물 청사를 ~를 했다.</eg>
+				<eg>남북은 이르면 내년 봄부터 ~ 등 이산면회소 건설을 시작할 예정이다.</eg>
+				<eg>우리는 결정된 디자인에 대해 ~와 구조해석을 한다.</eg>
+				<trans>basic design</trans>
+				<trans>preliminary design</trans>
+				<trans>design development</trans>
+				<domain></domain>
+				<sem_class>창조행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 자료</comb_n>
+				<comb_n type="compound">~ 작업</comb_n>
+				<comb_n type="compound">~ 도면</comb_n>
+				<comb_n type="compound">~ 단계</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+					<frame>X-이 Y-에 대해 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 착수하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|기업|기관|단체의부서</sel_rst>
+				<sel_rst arg="Y">건물|구체인공물(반도체|선박|인공습지)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>~가 단단하면 훨씬 수월하게 목적지에 도달할 수 있다.</eg>
+				<eg>이를 위해서는 관광지 재평가를 하고 ~를 튼튼히 하는 작업이 필요하다.</eg>
+				<trans>basic design</trans>
+				<trans>preliminary design</trans>
+				<trans>design development</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 튼튼하다</comb_aj>
+				<comb_aj type="appr">~가 단단하다</comb_aj>
+				<comb_n type="compound">~ 단계</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+					<frame>X-이 Y-에 대해 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">창조행위(창업)|추상적대상(제도)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

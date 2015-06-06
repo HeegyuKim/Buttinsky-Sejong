@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교도행정</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/26</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교도 행정</var>
+			<str type="N_N">교도+행정</str>
+			<org lg="si">敎導行政</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그는 서울의 한 구치소에서 ~을 보고 있다.</eg>
+				<trans>corrections administration</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 허술하다</comb_aj>
+				<comb_aj type="appr">~이 부실하다</comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 보다</form>
+					<frame>X-이 ~을 보다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 펼치다</form>
+					<frame>X-이 ~을 펼치다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>우리 학과는 일반행정은 물론 경찰행정, ~, 소방행정 등 다양한 분야의 행정전문가를 양성하고자 한다.</eg>
+				<trans>corrections administration</trans>
+				<domain></domain>
+				<sem_class>분야</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">새로운 ~</comb_aj>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 책임지다</form>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

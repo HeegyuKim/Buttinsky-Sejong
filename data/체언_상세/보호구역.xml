@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보호구역</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>n_v검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 검토했음. n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>s_n 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보호 구역</var>
+			<str type="N_N">보호+구역</str>
+			<org lg="si">保護區域</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 습지는 작년에 ~으로 지정되었다.</eg>
+				<eg>팔당댐 주변은 상수원 ~이어서 개발에 제한을 많이 받고 있다.</eg>
+				<trans>reserved zone</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">군사 시설 ~</comb_n>
+				<comb_n type="compound">상수도 ~</comb_n>
+				<comb_n type="compound">상수원 ~</comb_n>
+				<comb_n type="compound">동물 ~</comb_n>
+				<comb_n type="compound">인디언 ~</comb_n>
+				<comb_n type="compound">~ 지정</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 지정되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 묶이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설정하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n></s_n><!--삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>치올리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/19</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/03</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>lift up</trans>
+				<trans>push up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|신체부위</sel_rst>
+					<eg>맨 앞의 선봉대가 깃발을 치올리자 모두 일제히 함성을 질렀다.</eg>
+					<eg>앞에 앉은 사람이 머리를 자꾸 치올려 자막을 보기가 힘들었다.</eg>
+				</subsense>
+				</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>긴장완화</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>eg 추가</mod_note>
+				<mod_note>sem 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note의 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">긴장 완화</var>
+			<str type="N_N">긴장+완화</str>
+			<org lg="si">緊張緩和</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>현대인들은 ~를 위한 명상법에 관심이 많다.</eg>
+				<eg>전직 대통령은 남북 간의 ~에 큰 기여를 했다.</eg> <!-- 송근영 추가 -->
+				<trans>relieving tension</trans>
+				<domain></domain>
+				<sem_class>상태변화</sem_class>
+				<!-- 상태->상태변화로 의미부류 수정(송근영) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 기여하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 실현하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

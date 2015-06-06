@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잠깨다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/29</cre_date>
+				<cre_writer>박소영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/11</mod_date>
+				<mod_writer>김재욱</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">잠을 깨다</var>
+			<cntr opt="opt" type="ai"/>
+			<str>NV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>awake from one's sleep</trans>
+				<lr>
+					<syn type="etc">일어나다</syn>
+					<ant type="compl">잠들다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>재키는 아침에 자명종에 맞춰 스스로 잠깨고 세수하고 이 닦고 아침도 차려먹는다.</eg>
+					<eg>종업원이 나에게 계속 와서 콜라 먹고 잠깨고 구경하란다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

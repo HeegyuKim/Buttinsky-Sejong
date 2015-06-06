@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉허물없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">흉허물이 없다</var>
+			<str>NA</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be on familiar terms</trans>
+				<trans>be on friendly terms</trans>
+				<lr>
+					<syn type="perfect">허물없다</syn>
+					<syn type="sino">친하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>나는 그 여자와 서로 흉허물없는 사이다.</eg>
+					<eg>그와 흉허물없이 지낸 지 벌써 이십 년이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>그들은 서로 흉허물없는 사이다.</eg>
+					<eg>우리 앞으로 서로 흉허물없이 지냅시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>여기저기</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">요기조기</var>
+			<str type="N_N">여기+저기</str>
+					<img type="xp">요기조기</img>
+		</morph_grp>
+		<sense n="1" sem="etc" num="plural" ref="place">
+			<sem_grp>
+				<eg>쓰레기가 ~에 더미를 이루고 있었다</eg>
+				<eg>자리에 앉아 있던 사람들이 ~서 일어섰다</eg>
+				<lr>
+					<syn type="etc">곳곳</syn>
+					<syn type="etc">도처</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

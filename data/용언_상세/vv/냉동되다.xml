@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>냉동되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/26</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">냉동이 되다</var>
+			<str>N.되</str>
+			<org lg="si">冷凍_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be freezed</trans>
+				<lr>
+					<syn type="perfect">냉각되다</syn>
+					<syn type="kor">얼다</syn>
+					<ant type="compl">해동되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물|음식|신체부위(정자|난자)</sel_rst>
+					<eg>원양어선에서 잡은 생선들은 바로바로 냉동되어 국내로 반입된다.</eg>
+					<eg>냉동된 개조개는 살이 잘 떨어지지 않으므로 완전히 녹은 후에 손질하는 것이 좋다.</eg>
+					<eg>1984년 오스트레일리아에서 냉동된 배아로부터 첫 아기가 태어났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

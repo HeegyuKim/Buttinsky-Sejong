@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무용화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/05</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>적정명사 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">무용화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">無用化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>get useless</trans>
+				<lr>
+					<syn type="perfect">소용없어지다</syn>
+					<syn type="kor">쓸모없어지다</syn>
+					<ant type="compl">유용화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<n_appr arg="X">가치</n_appr>
+					<eg>간척지를 용도변경 하면 이미 완비된 농로용 배수로 등 농업 기반 시설이 무용화되어 막대한 국가 자원이 낭비된다.</eg>
+					<eg>책의 제목에서 심리학이라는 용어가 사라져 간다고 해서 심리학적 방법론이 무용화되어 가는 것은 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

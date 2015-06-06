@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>사사받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">사사를 받다</var>
+			<str>NV</str>
+			<org lg="si">師事_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>study under</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에게|에게서|로부터 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>심심풀이로 바둑을 가르쳤더니 흥미를 보이고 관심두더니 삼촌에게 사사받아 일개월 후 애비를 능가했다.</eg>
+					<eg>그는 당대 명창으로부터 수궁가를 사사받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

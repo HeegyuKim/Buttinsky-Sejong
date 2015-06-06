@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>쌀</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>1998/08/28</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/03/31</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/10</mod_date>
+				<mod_writer>장원철</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/23</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2000/08/31(김종명)</note>
+			<note>2003/02/10(이민우)</note>
+			<note>2003/03/22(김종명)</note>
+			<note>2003/03/31(이민우)</note>
+			<note>단위표현 추가</note>
+			<note>의미부류 변경</note>
+			<add>~로 밥을 짓다</add>
+			<add>~에 윤기가 돌다</add>
+			<add>~을 팔다|팔아오다|사다|먹다</add>
+			<add>~이 떨어지다</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="temp"></str>
+			<org lg="temp"></org>
+		
+			<hom exist="temp"></hom>
+			<der pos="n" type="suffix">~금</der>
+			<der pos="n" type="prefix">찹~</der>
+			<der pos="n" type="prefix">좁~</der>
+			<der pos="n" type="prefix">햅~</der>
+			<comp pos="n" type="suffix">~밥</comp>
+			<comp pos="n" type="suffix">~가루</comp>
+			<comp pos="n" type="suffix">~집</comp>
+			<comp pos="n" type="suffix">~가게</comp>
+			<comp pos="n" type="suffix">~떡</comp>
+			<comp pos="n" type="suffix">~강정</comp>
+			<comp pos="n" type="suffix">~가마니</comp>
+			<comp pos="n" type="suffix">~겨</comp>
+			<comp pos="n" type="suffix">~광</comp>
+			<comp pos="n" type="suffix">~깨묵</comp>
+			<comp pos="n" type="suffix">~농사</comp>
+			<comp pos="n" type="suffix">~눈</comp>
+			<comp pos="n" type="suffix">~더미</comp>
+			<comp pos="n" type="suffix">~도둑</comp>
+			<comp pos="n" type="suffix">~독</comp>
+			<comp pos="n" type="suffix">~되</comp>
+			<comp pos="n" type="suffix">~뜨물</comp>
+			<comp pos="n" type="suffix">~뒤주</comp>
+			<comp pos="n" type="suffix">~말</comp>
+			<comp pos="n" type="suffix">~미음</comp>
+			<comp pos="n" type="suffix">~바가지</comp>
+			<comp pos="n" type="suffix">~바구미</comp>
+			<comp pos="n" type="suffix">~벌레</comp>
+			<comp pos="n" type="suffix">~보리</comp>
+			<comp pos="n" type="suffix">~부대</comp>
+			<comp pos="n" type="suffix">~알</comp>
+			<comp pos="n" type="suffix">~자루</comp>
+			<comp pos="n" type="suffix">~장사</comp>
+			<comp pos="n" type="suffix">~장수</comp>
+			<comp pos="n" type="suffix">~죽</comp>
+			<comp pos="n" type="suffix">~통</comp>
+			<comp pos="v" type="suffix">~팔다</comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="temp"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>돈은 없고 ~은 떨어지고 굶게 생겼다.</eg>
+				<trans>rice</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<sem_class>곡식</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<hyper>곡식</hyper>
+					<hypo>찹</hypo>
+					<hypo>맵</hypo>
+					<hypo>햅~</hypo>
+					<coord>좁쌀</coord>
+					<coord>보리</coord>
+					<coord>밀</coord>
+					<mero>눈</mero>
+					<rel>밥</rel>
+					<rel>벼</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~에 윤기가 있다</comb_aj>
+				<comb_aj type="appr">~에 윤기가 없다</comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="temp">
+					<form vcompound="temp"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">톨</cl>
+				<cl type="uni">알</cl>
+				<cl type="qnt">줌</cl>
+				<cl type="qnt">가마니</cl>
+				<cl type="qnt">가마</cl>
+				<cl type="qnt">포대</cl>
+				<cl type="qnt">섬</cl>
+				<cl type="qnt">홉</cl>
+				<cl type="qnt">되</cl>
+				<cl type="qnt">말</cl>
+				<cl type="qnt">킬로그램</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

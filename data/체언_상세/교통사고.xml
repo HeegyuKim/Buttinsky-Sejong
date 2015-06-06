@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교통사고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정, n_n추가, n_v수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>max_n추가</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">교통+사고</str>
+			<org lg="si">交通事故</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>빗길에서는 ~가 자주 일어난다.</eg>
+				<trans>traffic accident</trans>
+				<trans>street accident</trans>
+				<domain></domain>
+				<sem_class>교통사고</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 많다</comb_aj><!--magn에서 옮김(권)-->
+				<comb_aj type="magn">~가 빈번하다</comb_aj>
+				<comb_n type="compound">~ 경험자</comb_n>
+				<comb_n type="compound">~ 발생</comb_n>
+				<comb_n type="compound">~ 부상자</comb_n>
+				<comb_n type="compound">~ 빈발</comb_n>
+				<comb_n type="compound">~ 소식</comb_n>
+				<comb_n type="compound">~ 신고</comb_n>
+				<comb_n type="compound">~ 예방</comb_n>
+				<comb_n type="compound">~ 위험</comb_n>
+				<comb_n type="compound">~ 줄이기</comb_n>
+				<comb_n type="compound">~ 피해자</comb_n>
+				<comb_n type="compound">~ 현장</comb_n>
+				<comb_n type="compound">~ 후유증</comb_n>
+				<comb_n type="compound">불의의 ~</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form>
+					<frame>X-에서 ~가 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form>
+					<frame>X-에서 ~가 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 늘다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 줄다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 일으키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 당하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-에서의 S는 ~</max_n_str>
+				<sel_rst arg="X">장소</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

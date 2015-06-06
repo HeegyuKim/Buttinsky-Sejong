@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>반사되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">반사가 되다</var>
+			<str>N.되</str>
+			<org lg="si">反射_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get reflected</trans>
+				<lr>
+					<ant type="compl">입사되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태(빛|소리)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물(거울|산|벽)</sel_rst>
+					<eg>곧게 나아가던 빛이 거울에 부딪혀서 방향이 바뀌게 되고 그 빛은 반사되어 다시 나오게 된다.</eg>
+					<eg>스피커에서 나온 음이 스피커의 뒷 벽에 반사되어 청취자로 오는 지점도 1차 반사 지점입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

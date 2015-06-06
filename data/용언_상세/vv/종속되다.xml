@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>종속되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>str에 N.되 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">종속이 되다</var>
+			<str>N.되</str>
+			<org lg="si">從屬_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be subject to</trans>
+				<lr>
+					<syn type="perfect">종속하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|행위</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>이 나라는 경제뿐 아니라 문화도 미국에 상당히 종속되어 있다.</eg>
+					<eg>그 나라는 주권이 로마에 종속되어 있었다.</eg>
+					<eg>부하 직원의 행동이 상사에게 저렇게 종속되어 있으면 곤란하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

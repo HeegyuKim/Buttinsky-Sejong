@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>횅댕그렁하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/09</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">휑뎅그렁하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hollow</trans>
+				<trans>feel empty</trans>
+				<lr>
+					<syn type="perfect">횅하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>모두가 떠나고 횅댕그렁한 운동장에 나 혼자 남아 있었다.</eg>
+					<eg>소파를 치우고 나니 거실이 너무 횅댕그렁한 느낌이 든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

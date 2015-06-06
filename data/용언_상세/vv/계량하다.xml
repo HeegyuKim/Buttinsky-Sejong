@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계량하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계량을 하다</var>
+			<str>N.하</str>
+			<org lg="si">計量_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>measure</trans>
+				<lr>
+					<hyper>재다</hyper>
+					<rel>계측하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">곡식(밀가루|쌀)|액체(물)</sel_rst>
+					<sel_rst arg="Z" tht="INS">측정도구</sel_rst>
+					<eg>요리사가 계량컵으로 밀가루를 계랑한다.</eg>
+					<eg>잣을 갈 때 비이커로 물을 5배 이상 계량해 놓고 쓰면 편리하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>express st numerically</trans>
+				<lr>
+					<syn type="perfect">수치화하다</syn>
+					<hyper>산출하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(학자)|인간집단(연구기관)</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<n_appr arg="Y"></n_appr>
+					<eg>각 은행들은 신용리스크를 계량하여서 장기적으로 관리를 하고자 한다.</eg>
+					<eg>우리 회사는 해마다 있었던 수출입 내역을 잘 계량해 놓는 편인데도, 가끔 어긋난 예측이 나오기도 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

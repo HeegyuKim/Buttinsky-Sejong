@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>모금행사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/01</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_n 타입값 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/19</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>다의 분할 후 재기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/10</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">모금 행사</var>
+			<str type="N_N">모금+행사</str>
+			<org lg="si">募金行事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>저희는 지금 우리의 문화 예술을 지키려는 ~을 벌이고 있습니다.</eg>
+				<trans>fund-raising events</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class> <!--'축제'라고 하기는 곤란하지 않나 싶어서.-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">범국민적 ~</comb_n>
+					<!--타입값을 compound로 수정-->
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 열다</form>
+					<frame>X-이 ~을 열다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 펼치다</form>
+					<frame>X-이 ~을 펼치다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 벌이다</form>
+					<frame>X-이 ~을 벌이다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이번 ~에는 연예인들의 도움이 컸다.</eg>
+				<trans>fund-raising events</trans>
+				<domain></domain>
+				<sem_class>계획사건</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">범국민적 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>Y-에서 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 시작되다</form>
+					<frame>X-에서 ~가 시작되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 끝나다</form>
+					<frame>X-에서 ~가 끝나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 펼쳐지다</form>
+					<frame>X-에서 ~가 펼쳐지다</frame>
+					</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 열리다</form>
+					<frame>X-에서 ~가 열리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 벌어지다</form>
+					<frame>X-에서 ~가 벌어지다</frame>
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str>
+				<sel_rst arg="X">장소</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

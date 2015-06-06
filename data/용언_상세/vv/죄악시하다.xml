@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>죄악시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/24</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">罪惡視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적감정</sem_class>
+				<trans>look upon as a crime or a sin</trans>
+				<trans>look upon as a vice</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>아랍사람들은 술을 죄악시한다.</eg>
+					<eg>기영이는 지나친 성취욕을 죄악시한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>인도사람들은 소고기를 먹는 것을 죄악시한다.</eg>
+					<eg>기영이는 여자가 술마시는 것과 담배 피우는 것을 죄악시하지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간집단|종교|사조|제도</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>기독교는 술과 담배를 죄악시한다.</eg>
+					<eg>한국에서는 여자의 성욕을 죄악시하는 경향이 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간집단|종교|사조|제도</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>기독교에서는 술마시는 것과 담배 피우는 것을 죄악시한다.</eg>
+					<eg>기영이는 생활의 여유 를 즐기는 것을 죄악시하는 경향이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

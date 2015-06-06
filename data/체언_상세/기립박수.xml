@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기립박수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>eg 기술</mod_note>
+				<mod_note>sem 기술</mod_note>
+				<mod_note>n_aj 기술</mod_note>
+				<mod_note>n_v 추가, 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술 방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기립 박수</var>
+			<str type="N_N">기립+박수</str>
+			<org lg="si">起立拍手</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>전원이 일어나 ~를 치기 시작했다.</eg>
+				<trans>standing up applause</trans>
+				<domain></domain>
+				<sem_class>물리적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">열렬한 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 치다</form>
+					<frame>X-이 ~를 치다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 보내다</form> <!-- 송근영 추가 -->
+					<frame>X-이 ~를 보내다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Y-이 X-에게|에게서 ~를 받다</frame> <!-- X, Y 순서 교체, 로부터->에게|에게서(송근영) -->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 터지다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

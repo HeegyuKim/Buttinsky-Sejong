@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잡아놓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<lr>
+					<syn type="perfect">잡아두다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그는 무슨 이유에서인지 우리를 잡아놓고 보내주지 않았다.</eg>
+					<eg>일단 녀석을 잡아놓았으니 얼른 오십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take</trans>
+				<trans>occupy</trans>
+				<lr>
+					<syn type="perfect">잡아두다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>우리는 벌써 한 달 전에 약속 시간을 잡아놓았었다.</eg>
+					<eg>결혼 날짜를 잡아놓고 나니 마음이 급해진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take</trans>
+				<trans>occupy</trans>
+				<lr>
+					<syn type="perfect">잡아두다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">건물|건물부분장소|자리좌석</sel_rst>
+					<eg>손님들을 위해 미리 호텔을 잡아놓는 것이 좋겠다.</eg>
+					<eg>나는 잘 보이는 곳에 자리를 잡아놓고 그녀를 기다렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

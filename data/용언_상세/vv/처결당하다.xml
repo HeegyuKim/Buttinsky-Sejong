@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>처결당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>처결하다, 처결되다는 괜찮지만 처결당하다는 표제어로 약간 이상함</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/06/24</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">처결을 당하다</var>
+			<str>N.당</str>
+			<org lg="si">處決當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be settled</trans>
+				<trans>be disposed of</trans>
+				<trans>be arranged</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사건</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그 사건은 고참들에게 일방적으로 처결당했다.</eg>
+					<eg>내무반에서 일어난 문제가 나에게 불리한 방향으로 처결당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>듯하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>look like</trans>
+				<lr>
+					<syn type="perfect">듯싶다</syn>
+					<syn type="perfect">것같다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="Aaux">
+				<frame>V|A-은|을 Aaux</frame><!--검토 요망.-->
+				<subsense>
+					<sel_rst arg="X" tht="CNT"></sel_rst>
+					<eg>밀집한 사암이 오랜 세월을 겪는 동안 풍화 침식되면서 기괴한 돌의 숲을 이루게 된 듯하다.</eg>
+					<eg>계속 느끼는 것이지만 불안감과 자신감이 문제인 듯하다.</eg>
+					<eg>내일은 몹시 무더울 듯하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

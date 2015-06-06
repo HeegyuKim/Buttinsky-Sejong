@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>현대화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/14</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/08</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">현대화를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">現代化_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>modernize</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="01">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|구체인공물|장소|추상적대상</sel_rst>
+					<eg>그녀는 전통 의상을 현대화하는 일에 노력을 기울여 왔다.</eg>
+					<eg>회사측은 올해 안에 모든 공장 설비를 현대화하겠다고 밝힌 바 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|구체인공물|장소|추상적대상</sel_rst>
+					<eg>의식의 변화만이 진정으로 사회 제도를 현대화할 수 있는 동력이 된다.</eg>
+					<eg>각종 농기계의 도입은 농촌 사회를 현대화하는 데 큰 몫을 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be modernized</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="01">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|구체인공물|장소|추상적대상</sel_rst>
+					<eg>농촌 생활이 현대화하고 있다.</eg>
+					<eg>우리 사회를 지배하는 의식과 사고가 현대화해 가는 추세에 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

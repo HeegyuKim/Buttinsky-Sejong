@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>왈가왈부하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">왈가왈부를 하다</var>
+			<str>N.하</str>
+			<org lg="si">曰可曰否_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>argue for and against</trans>
+				<trans>argue pro and con</trans>
+				<lr>
+					<syn type="perfect">가타부타하다</syn>
+					<syn type="kor">이러쿵저러쿵하다</syn>
+					<hyper>논하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>이미 끝난 문제를 이제 와서 왈가왈부하는 일은 어리석은 짓이다.</eg>
+					<eg>이번 일에 대해 우리는 왈가왈부할 자격도 없다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=Q1|S음1-을|에대해 V</frame>
+				<subsense>
+					<eg>누가 그런 소리를 했는지에 대해 왈가왈부하기 전에 왜 그런 이야기가 나왔는지를 생각해 보아야 할 것이다.</eg>
+					<eg>시작이 잘못되었음을 왈가왈부하며 시간을 보내기보다는 어떻게든 제대로 마무리를 하도록 애를 써 보아야지요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>argue for and against</trans>
+				<trans>argue pro and con</trans>
+				<lr>
+					<syn type="perfect">가타부타하다</syn>
+					<syn type="kor">이러쿵저러쿵하다</syn>
+					<hyper>논하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>서로 자신의 책임이 아니라고 왈가왈부한들 무슨 해결책이 나오겠습니까?</eg>
+					<eg>세상 사람들은 그를 사기꾼이라고 왈가왈부하기도 하지만 내게는 둘도 없는 친구입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

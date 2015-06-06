@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>금기시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">금기시를 하다</var>
+			<str>N.하</str>
+			<org lg="si">禁忌視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>taboo</trans>
+				<lr>
+					<syn type="perfect">금지하다</syn>
+					<syn type="etc">터부시하다</syn>
+					<ant type="compl">허용하다</ant>
+					<hyper>꺼리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|현상</sel_rst>
+					<eg>십 년 전만 해도 우리 나라는 공산주의에 대한 언급을 금기시했었다.</eg>
+					<eg>이슬람 국가들은 돼지의 식용 사용을 금기시하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>십 년 전만 해도 우리 나라는 공산주의에 대해 언급하는 것을 금기시했었다.</eg>
+					<eg>이슬람 국가들은 돼지고기를 먹는 것을 금기시하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

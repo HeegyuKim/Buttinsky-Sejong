@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격의없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+				<cre_note>논항구조 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">격의가 없다</var>
+			<str>R.없</str>
+			<org lg="si">隔意_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be unreserved</trans>
+				<trans>be unconstrained</trans>
+				<trans>be open-minded</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|소통행위|관계|(어투|말투)</sel_rst>
+					<eg>교수와 학생이 서로 존중하고 격의없는 대화를 나누는 분위기가 대학을 발전시킨다.</eg>
+					<eg>오랜 친구 사이인 두 사람은 격의없는 사이이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>격의없이</infl_rst><!-- 부사적으로 쓰이는 듯함, 그러나 '격이없는'도 고정되어 쓰이므로 문제가 있음. 검토 바람. -->
+				<trans>frankly</trans>
+				<defect_eg>그 두 학자는 서로 격의없이 그 주제에 대해서 토론했다.</defect_eg>
+				<defect_eg>둘은 격의없이 웃었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

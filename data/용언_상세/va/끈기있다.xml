@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끈기있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">끈기가 있다</var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be patient</trans>
+				<lr>
+					<syn type="perfect">참을성있다</syn>
+					<syn type="perfect">뚝심있다</syn>
+					<syn type="sino">인내력있다</syn>
+					<syn type="sino">강단있다</syn>
+					<ant type="grad">조급하다</ant>
+					<ant type="grad">성급하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<eg>이 사장은 끈기있게 몰아붙여 결국은 일을 성사시켰다.</eg>
+					<eg>철수는 매사에 끈기있는 아이니까 포기하지 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

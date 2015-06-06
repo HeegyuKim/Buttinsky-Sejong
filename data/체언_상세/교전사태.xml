@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교전사태</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sem 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">교전+사태</str>
+			<org lg="si">交戰事態</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서해에서 ~가 발생했다.</eg>
+				<eg>남북한은 이미 두 차례 걸쳐 ~를 겪었다.</eg>
+				<trans>situation of hostilities</trans>
+				<domain></domain>
+				<sem_class>물리적충돌</sem_class><!--'사회동요'에서 수정(권)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form>
+					<frame>X-에서 ~가 일어나다</frame>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form>
+					<frame>X-에서 ~가 발생하다</frame>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 벌어지다</form>
+					<frame>X-에서 ~가 벌어지다</frame>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 겪다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str>
+				<sel_rst arg="X">지상장소|물장소|공중장소|대륙|국가장소</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

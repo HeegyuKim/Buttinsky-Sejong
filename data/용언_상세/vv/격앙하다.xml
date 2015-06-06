@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격앙하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/04</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>"의미역" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">격앙을 하다</var>
+			<str>N.하</str>
+			<org lg="si">激昻_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>lose one's temper</trans>
+				<lr>
+					<syn type="perfect">격분하다</syn>
+					<syn type="perfect">격노하다</syn>
+					<hyper>분노하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">행위</sel_rst>
+					<eg>이에 격앙한 시민들은 그대로 시청으로 달려갔다.</eg>
+					<eg>수납직원들은 김 팀장의 휴가신청 안 받는다는 갑작스런 선언에 격앙하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

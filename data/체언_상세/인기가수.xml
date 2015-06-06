@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인기가수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;의미부류를 '직업인간'에서 '긍정적속성인간'으로 수정;명사결합정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>'~ A 씨'와 같은 사례가 들어갈 정보 항목은?</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">인기 가수</var> <!-- 추가함 -->
+			<str type="N_N">인기+가수</str>
+			<org lg="si">人氣歌手</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>어렸을 때 부터 나는 ~가 되고 싶었다.</eg>
+				<trans>famous singer</trans>
+				<domain></domain>
+				<sem_class>긍정적속성인간</sem_class> <!-- '직업인간'을 수정함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 유명하다</comb_aj>
+				 <!-- 추가함 -->
+				<comb_n type="lexfunc">최고의 ~</comb_n>
+				<comb_n type="lexfunc">한국의 ~</comb_n> <!-- 유형값이 적절한지 검토 필요 -->
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 노래하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

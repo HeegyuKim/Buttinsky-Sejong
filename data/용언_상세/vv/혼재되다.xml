@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼재되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼재가 되다</var>
+			<str>N.되</str>
+			<org lg="si">混載_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be loaded together</trans>
+			</sem_grp>
+			<frame_grp type="FIN"  cor="sym" n="01">
+				<frame>Z=N2-에 X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="COM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">교통기관</sel_rst>
+					<eg>냉동 고추가 건조 고추와 동일한 화물차에 혼재되어 운반된 사실이 드러났다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN"  cor="sym" n="01">
+				<frame>Z=N2-에 X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">교통기관</sel_rst>
+					<eg>냉동 고추와 건조 고추가 동일한 화물차에 혼재되어 운반된 사실이 드러났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

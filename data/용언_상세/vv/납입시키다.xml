@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>납입시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 및 어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>센스 추가</mod_note>
+				<mod_note>"어휘의미관계" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">납입을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">納入__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make sb pay</trans>
+				<lr>
+					<syn type="perfect">납부시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>최 과장은 사소한 공과금도 모두 직원들에게 납입시키는 나쁜 버릇이 있다.</eg>
+					<eg>철수에게 동생 등록금을 납입시켜 놨더니 모두 유흥비로 써 버리고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>pay</trans>
+				<lr>
+					<syn type="perfect">납부시키다</syn>
+					<syn type="perfect">납부하다</syn><!--"납입하다"도 동일함.-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="GOL">기관</sel_rst>
+					<eg>교육세는 국세로서 지방자치단체가 징수하여 국고에 납입시키도록 되어 있다.</eg>
+					<eg>부득이하게 보험을 해지하는 바람에 그동안 1년 정도 납입시킨 보험금을 전혀 받을 수가 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

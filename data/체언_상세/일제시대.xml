@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>일제시대</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/04</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>동사 결합 정보 기입</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">일제+시대</str>
+			<org lg="si">日帝時代</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 민족은 ~에 온갖 고난을 겪으면서 살아왔다.</eg>
+				<trans>age of Japanese imperialism</trans>
+				<domain></domain>
+				<sem_class>역사시간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				 <!-- 추가함 -->
+				<comb_n type="compound">~ 경제</comb_n>
+				<comb_n type="compound">~ 건축물</comb_n>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 살다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 경험하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="temp"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

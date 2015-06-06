@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흥청망청하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+				<mod_note>센스 구분</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">흥청망청을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>D.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>exult</trans>
+				<lr>
+					<syn type="perfect">흥청흥청하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 흥청망청하며 젊은 시절을 보낸 것이 후회스러웠다.</eg>
+					<eg>우리 사회가 전체가 이렇게 흥청망청하는 것이 걱정스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>waste</trans>
+				<trans>use wastefully</trans>
+				<trans>spend wastefully</trans>
+				<trans>dissipate</trans>
+				<lr>
+					<syn type="perfect">흥청흥청하다</syn>
+					<syn type="sino">낭비하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<eg>나도 돈이 있으면 저 사람들처럼 한 번 흥청망청하고 쓰면서 살고 싶다.</eg>
+					<eg>요즘 젊은이들은 귀한 것이 없이 뭐든 흥청망청하는 것이 걱정스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

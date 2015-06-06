@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>무슨무슨</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/13</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/01/25</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/13(김창섭);표준 사전과 연세 사전에는 없는 항목이다.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd">먼먼</var>
+			<var type="xd">뭔뭔</var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>무슨+무슨</str>
+			<org lg="temp"></org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>너는 방학 중에 무슨무슨 책을 읽었니?</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">지시</sem_rep>
+				<sem_rep type="qi">의문</sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 말</comb_md_n>
+				<comb_md_n>~ 책</comb_md_n>
+				<comb_md_n>~ 영화</comb_md_n>
+				<comb_md_n>~ 음악</comb_md_n>
+				<comb_md_n>~ 전시회</comb_md_n>
+				<comb_md_n>~ 운동</comb_md_n>				
+				
+				<post_n>~ 비인성명사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

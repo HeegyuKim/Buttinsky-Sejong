@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>노긋노긋하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">누긋누긋하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be soft</trans>
+				<lr>
+					<syn type="perfect">노근노근하다</syn>
+					<syn type="perfect">노글노글하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식(밥|떡|빵)</sel_rst>
+					<eg>빵이 노긋노긋해서 잘 넘어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be supple</trans>
+				<lr>
+					<syn type="perfect">노근노근하다</syn>
+					<syn type="perfect">노글노글하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">성질</n_appr>
+					<n_appr arg="X">태도</n_appr>
+					<n_appr arg="X">자세</n_appr>
+					<eg>오늘은 웬일인지 노긋노긋한 태도를 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보복전쟁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>frame의 Y논항 검토바람.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/05</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>Y논항 검토했음, 센스 분할('방향성행위' 추가) 및 전체 기술 수정, 수정 내용 검토 요망(</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>합성동사 형태 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보복 전쟁</var>
+			<str type="N_N">보복+전쟁</str>
+			<org lg="si">報復戰爭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>미국은 9.11 테러에 대한 응징으로 끝이 보이지 않는 ~을 하고 있다.</eg>
+				<trans>a war of retaliation</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form> <!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>X-이 Y-에 대해 ~을 하다</frame><!--권오희(2004/07/08)"Y-와"가 나을까요?--><!--'Y-와 ~을 하다'는 비문인 듯(김이정)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form> <!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>X-이 Y-에 대해 ~을 벌이다</frame><!--권오희(2004/07/08)"Y-와"가 나을까요?-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 일으키다</form><!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>X-이 ~을 일으키다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str><!--권오희(2004/07/08)"X-의 대-Y ~(미국의 대테러 보복전쟁)" 이런 구문으로도 많이 쓰이는 것 같은데... 반영할 방법이...-->
+				<sel_rst arg="X">인간집단</sel_rst>
+				<sel_rst arg="Y">인간집단|범죄및비행|물리적충돌</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이번 전쟁은 테러에 대한 ~의 성격이 짙다.</eg>
+				<eg>아프간에 대한 미국의 ~이 벌어졌다.</eg>
+				<trans>a war of retaliation</trans>
+				<domain></domain>
+				<sem_class>물리적충돌</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form>
+					<frame>Z-에서 Y-에 대해 ~이 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 벌어지다</form> <!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>Z-에서 Y-에 대해 ~이 벌어지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 시작되다</form><!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>Z-에서 Y-에 대해 ~이 시작되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 끝나다</form><!--합성동사 형태 불가능하므로 no로 수정(미현)-->
+					<frame>Z-에서 Y-에 대해 ~이 끝나다</frame>
+				</comb_v>
+				<max_n_str>Z-에서의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="Y">인간집단|범죄및비행|물리적충돌</sel_rst>
+				<sel_rst arg="Z">지역</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

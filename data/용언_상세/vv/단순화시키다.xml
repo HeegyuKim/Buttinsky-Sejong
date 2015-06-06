@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단순화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단순화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">單純化__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st simplified</trans>
+				<lr>
+					<syn type="perfect">간단화시키다</syn>
+					<ant type="compl">복잡화시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그의 연구는 상호작용을 관찰하고 예측하는 데 사용되는 계산의 일부를 크게 단순화시켰다.</eg>
+					<eg>이 센터는 정부의 프로그램과 서비스에 대한 민간부문의 접근을 단순화시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

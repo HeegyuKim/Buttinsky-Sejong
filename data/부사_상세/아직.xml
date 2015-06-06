@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>아직</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>최진영</cre_writer>
+				<cre_date>2000/08/15</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/09/21</mod_date>
+			</mod>
+			<note>동사 과거형 안 되고 '-고 있-'은 괜찮음</note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+			<der pos="av">~도</der>
+			<der pos="av">~은</der>
+			<der pos="av">~까지</der>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~ 때가 아니다</eg>
+				<trans>still</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/시간부사/지속상</sem_rep>
+				<lr>
+					<syn>여전히</syn>
+					<ant>벌써</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~달리다</comb>
+				<comb pos="adj" exist="yes">~예쁘다</comb>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="yes">~미지수</comb>
+				<comb pos="n" exist="yes">~미완성</comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood">~-(는)다</conc>
+				<conc type="mood">~-(느)냐</conc>
+				<conc type="mood">~-(는)구나</conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>~S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

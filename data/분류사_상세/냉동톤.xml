@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>냉동톤</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/01</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/05/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>냉동+톤</str>
+			<org lg="si">冷凍_</org>
+			<org lg="en">__ton</org>
+			<symb>RT</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 24시간 동안 0℃의 물 1톤을 0℃의 얼음으로 만드는 데 필요한 열량이다</eg>
+				<cl_subtype type="kal"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재등장하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/14</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재등장을 하다</var>
+			<str>PN.하</str>
+			<org lg="si">再登場_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>re-enter the stage</trans>
+				<trans>reappear</trans>
+				<lr>
+					<syn type="perfect">재출현하다</syn>
+					<ant type="compl">재퇴장하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">건물부분장소(무대|연단)|관계장소|영화|연극|방송물(드라마)|개체단위(막)</sel_rst>
+					<eg>그 잘 생긴 배우는 얼마 후 무대 위로 재등장했다.</eg>
+					<eg>그 탈렌트는 2회 방송에서 죽은 걸로 됐지만 15회에서 재등장한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|추상적대상|사태</sel_rst>
+					<eg>한 동안 안 보이던 그 상품이 백화점에 재등장했다.</eg>
+					<eg>이 소설에도 슬픈 운명을 가진 같은 이름의 여주인공이 재등장한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|사태</sel_rst>
+					<eg>작가가 꿈꾸는 무정부주의가 그 소설에도 재등장한다.</eg>
+					<eg>이번에도 자연보호라는 주제가 학회 프로그램에 재등장했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>새하얗다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">시허옇다</var>
+			<str>PA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be pure white</trans>
+				<lr>
+					<ant type="grad">새까맣다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>나는 그곳에서 새하얀 백사장을 걷다가 아름다운 낙조를 만났다.</eg>
+					<eg>한여름, 그곳의 풍경은 마치 밤새 함박눈이 내린 것처럼 새하얘 눈이 부시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

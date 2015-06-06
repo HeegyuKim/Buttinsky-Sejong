@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회항하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/08</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회항을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<org lg="si">回航_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>return</trans>
+				<trans>sail back</trans>
+				<lr>
+					<syn type="perfect">귀항하다</syn>
+					<ant type="dir">출항하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(배|유람선|비행기)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소(항구|공항)|(출발지|기지)</sel_rst>
+					<eg>유람선은 여의도에서 잠실까지 갔다가 다시 출발지로 회항했다.</eg>
+					<eg>목적을 달성한 폭격기는 기지로 회항했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>sail round</trans>
+				<trans>navigate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수상교통기관(여객선|잠수함)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지역(동남아|북미)</sel_rst>
+					<eg>여객선은 동남아 각지를 회항했다.</eg>
+					<eg>군함은 폭탄을 발견하기 위해 바다 전역을 회항했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

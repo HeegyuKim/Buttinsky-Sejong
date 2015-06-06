@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>졸립다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/10</cre_date>
+				<cre_writer>음두은</cre_writer>
+				<cre_note>'졸리다'의 잘못</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/04</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>원래 졸립다로 주어졌지만 졸리다의 잘못된 표기같음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+				<mod_note>졸립다도 표제어가 되어야 한다고 보아 새로 만듦</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>졸리다</see>
+		<morph_grp>
+			<var type="etc">졸리다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be heavy with sleep</trans>
+				<trans>feel sleepy</trans>
+				<trans>grow drowsy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<eg>이 애가 졸려서 자꾸 짜증을 낸다.</eg>
+					<eg>저 강아지는 졸리면 밥도 안먹고 제집으로 들어가 잔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이|에게 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트|작품|방송물|학문과목|예술|추상적부분|소통행위|계획사건</sel_rst>
+					<eg>기영이는 선생님의 강의가 졸립기만 했다.</eg>
+					<eg>이 소설의 첫머리는 졸립지만 중간부터는 흥미진진하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>졸리운</infl_rst>
+			<trans>be heavy with sleep</trans>
+			<trans>feel sleepy</trans>
+			<sel_rst arg="X" tht="THM">시간|시간단위|개체상황(표정)|상황(분위기)|소리(목소리)|신체부위(눈)</sel_rst>
+			<defect_eg>오늘 기영이는 졸리운 오후를 보내야 했다.</defect_eg>
+			<defect_eg>열심히 강의하다가도 학생들의 졸리운 표정을 보면 힘이 빠진다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

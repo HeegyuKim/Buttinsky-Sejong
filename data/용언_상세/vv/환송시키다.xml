@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환송시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환송을 시키다</var>
+			<cntr opt="opt" type="i"/>
+			<str>N.시</str>
+			<org lg="si">還送_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>send back</trans>
+				<lr>
+					<syn type="perfect">반송시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|단체</sel_rst>
+					<eg>그는 배달되어 온 탁자에 흠집이 있는 것을 발견하고 당장 구입처로 물건을 환송시켰다.</eg>
+					<eg>군 당국은 이번 사고로 사망한 병사들의 유해를 본국으로 환송시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

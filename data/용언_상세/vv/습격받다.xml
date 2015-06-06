@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>습격받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">습격을 받다</var>
+			<str>NV</str>
+			<org lg="si">襲擊_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be attacked</trans>
+				<lr>
+					<syn type="perfect">습격당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|동물|장소</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단|동물</sel_rst>
+					<eg>적한테 습격받은 흔적이 없는 그 두 마을은 비교적 평온해 보였다.</eg>
+					<eg>그날 식당에서 파파라치한테 습격받은 그 연예인의 사진이 신문에 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

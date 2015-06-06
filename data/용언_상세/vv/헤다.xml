@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헤다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/15</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="e"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>count</trans>
+				<trans>calculate</trans>
+				<trans>estimate</trans>
+				<lr>
+					<syn type="perfect">세다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">수</n_appr>
+					<n_appr arg="X">수효</n_appr>
+					<eg>별을 헤는 아이들의 목소리가 낭랑하게 들려온다.</eg>
+					<eg>선생님은 무사히 건물을 빠져나온 아이들의 수를 헤기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg>선생님은 무사히 빠져나온 아이들이 몇이나 되는지를 헤어 보았다.</eg>
+					<eg>노인은 그동안 거둬들인 돈이 얼마나 되는지를 헤기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>consider</trans>
+				<trans>fathom</trans>
+				<trans>understand</trans>
+				<lr>
+					<syn type="perfect">헤아리다</syn>
+					<syn type="sino">짐작하다</syn>
+					<syn type="etc">가늠하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(감정|기분)|인지상태(생각|계획|의도)|개체상황(마음)</sel_rst>
+					<eg>어머니의 생각을 헤기에 그는 아직 어렸었다.</eg>
+					<eg>나는 늘 그 사람의 꿍꿍이속을 헤기가 힘들었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg>왜 그 사람이 그런 말을 하는지를 헬 수 없어 마음이 답답했다.</eg>
+					<eg>당시 나는 아버지가 무슨 생각에 그런 행동을 하시는지를 미처 헤지 못했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

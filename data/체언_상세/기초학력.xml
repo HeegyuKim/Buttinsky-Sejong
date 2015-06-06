@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기초학력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v의 정보를 n_aj로 이동</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기초 학력</var>
+			<str type="N_N">기초+학력</str>
+			<org lg="si">基礎學力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>전반적인 학력부진의 원인은 일찍부터 ~을 갖추는 데 소홀한 탓이라는 주장이 있다.</eg>
+				<eg>인성교육은 ~의 바탕 위에 성과를 거둘 수 있다.</eg>
+				<trans>basic scholastic ability</trans>
+				<domain></domain>
+				<sem_class>능력</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 부족하다</comb_aj> <!--n_v 항목에서 이동(미현)-->
+				<comb_aj type="appr">~이 부진하다</comb_aj> <!--n_v 항목에서 이동(미현)-->
+				<comb_n type="compound">~ 부진</comb_n>
+				<comb_n type="compound">~ 평가</comb_n>
+				<comb_n type="compound">~ 진단</comb_n>
+				<comb_n type="compound">~ 점검</comb_n>
+				<comb_n type="compound">~ 저하</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 키우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 기르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 다지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 쌓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 조사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 평가하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 떨어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 낮아지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

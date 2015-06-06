@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호연하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/21</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">浩然_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be vast</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|물장소</sel_rst>
+					<eg>어린 시절 그는 호연한 바다를 바라보며 자신의 꿈과 이상을 키웠었다.</eg>
+					<eg>그의 몸 속에도 호연한 만주 벌판을 달리던 우리 선조들의 더운 피가 흐르고 있는 듯 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be magnanimous</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(성격|성품|기상|기운|기풍)</sel_rst>
+					<eg>그 스님은 호연한 성품과 예리한 통찰력을 가진 분으로 장차 불교계의 앞날을 이끌 분으로 기대되었다.</eg>
+					<eg>넓은 평야를 뒤로 높은 산이 어우러진 이곳의 지세는 보는 이들로 하여금 호연한 기상과 정겨운 감정을 함께 느끼게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

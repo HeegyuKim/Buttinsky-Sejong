@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기구하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정, 층위가 다른 의미부류 나열 재고</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">崎嶇_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be checkered</trans>
+				<trans>be vicissitudinous</trans>
+				<lr>
+					<syn type="perfect">기험하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|운|개인사</sel_rst>
+					<eg>한 가족을 책임지고 있는 할머니의 인생유전은 참으로 기구하다 못해 처절하다.</eg>
+					<eg>옛말에 재주가 많은 사람의 운명은 기구하다고들 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>추앙되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/21</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/20</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">추앙이 되다</var>
+			<str>N.되</str>
+			<org lg="si">推仰_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be adored</trans>
+				<trans>be worshiped</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">인간|추상적대상</sel_rst>
+					<eg>그 자신이 대중들에게 영웅으로 추앙되기를 원했는지 생각해 볼 때 더욱 그렇다.</eg>
+					<eg>난세에 앞서가는 사람들은 역적으로 손가락질 받다가도 결국 역사적 평가에서는 개혁의 화신으로 추앙된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>그 자신이 대중들에게 영웅이라고 추앙되기를 원했는지 생각해 볼 때 더욱 그렇다.</eg>
+					<eg>난세에 앞서가는 사람들은 역적이라고 손가락질 받다가도 결국 역사적 평가에서는 개혁의 화신으로 추앙된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

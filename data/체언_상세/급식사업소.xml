@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>급식사업소</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>동의어 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>syn삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/02(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">급식 사업소</var>
+			<str type="N_N">급식+사업소</str><!--'사업+소'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">給食事業所</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>"사랑의 식당"은 경로식당을 운영하는 ~의 고유 명칭으로 사용되고 있다.</eg>
+				<trans>food distribute establishment</trans>
+				<trans>feeding facility</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class><!--상업건물?(김이정)--><!--속성기능장소가 나은 것 같습니다(권)-->
+				<lr>
+					<syn type="perfect"></syn><!--'급식사업장'의 쓰임은 더욱 경제적인 것 같네요. 즉, 영리 목적이 없는 데에는 '급식사업장'을 거의 쓰지 않습니다. 동의어로 보기 어려울 듯(권)-->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">무료 ~</comb_n>
+				<comb_n type="compound">위탁 ~</comb_n>
+				<comb_n type="compound">단체 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지원하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">곳</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

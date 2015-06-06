@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>인사받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">인사를 받다</var>
+			<str>NV</str>
+			<org lg="si">人事</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>receive a bow</trans>
+				<lr>
+					<ant type="conv">인사하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>자기보다 나이가 많은 학생에게 앉아서 인사받기가 어색한 탓인지 김선생은 엉거주춤 허리를 들며 인사에 답했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>say</trans>
+				<trans>express</trans>
+				<lr>
+					<ant type="conv">인사하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 Z=N2-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="THM">사태</sel_rst>
+					<eg>그녀는 사람들에게서 남편의 승진에 대해 인사받기가 민망하기도 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>그녀는 요즘 이웃들에게 남편의 승진을 축하한다고 인사받기에도 바쁜 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

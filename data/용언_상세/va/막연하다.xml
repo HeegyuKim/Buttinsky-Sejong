@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>막연하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">漠然_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be unclear</trans>
+				<lr>
+					<syn type="perfect">불분명하다</syn>
+					<ant type="grad">분명하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|추상적대상</sel_rst>
+					<eg>나는 그 사람의 주장이 좀 막연하다.</eg>
+					<eg>고전 물리학자들에게는 상대성 이론이 막연할 수밖에 없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>나는 그 사람이 주장하는 것이 좀 막연하다.</eg>
+					<eg>고전 물리학자들에게는 상대성 이론에서 말하는 것이 막연할 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be unclear</trans>
+				<lr>
+					<syn type="perfect">불분명하다</syn>
+					<ant type="grad">분명하다</ant>
+					<ant type="grad">뚜렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|추상적대상</sel_rst>
+					<eg>그 사람의 주장은 어딘지 모르게 좀 막연하다.</eg>
+					<eg>상대성 이론은 워낙 새로운 주장이기에 막연할 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

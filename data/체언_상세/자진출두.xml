@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>자진출두</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">자진 출두</var>
+			<str type="N_N">자진+출두</str>
+			<org lg="etc">自進出頭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>비자금 조성 및 정치자금법 위반 혐의를 받고 있는 김 사장측은 변호사 입회하의 약식조사는 받겠지만 강제 연행은 일단 거부하겠으며 1일 공식 기자회견 후 감사원에 ~할 방침이라고 말했다</eg>
+				<eg>검찰 측은 혐의자의 신분이 확실한 만큼 강제구인하기 보다 스스로 ~할 때까지 기다릴 전망이다.</eg> <!--예문 추가; 목 -->
+				<trans>voluntary appearance</trans>
+				<domain></domain>
+				<sem_class>이동행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-로 ~을 하다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">법원</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

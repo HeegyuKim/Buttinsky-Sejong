@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>선두주자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/13</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스1을 일시적역할인간에서 결과행위인간으로 수정;동사에 '나서다' 추가;센스2를 순서에서 결과행위인간으로 수정;맥스엔, 선택제약 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">선두 주자</var>
+			<str type="N_N">선두+주자</str>
+			<org lg="si">先頭走者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>12번 선수가 ~를 따라잡았다.</eg>
+				<trans>front-runner</trans>
+				<domain></domain>
+				<sem_class>결과행위인간</sem_class> <!--운동경기역할인간에서 일시적역할인간으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">후속주자</ant> <!--'후발주자'가 가능한지?(이민우);후속주자 기입(김)-->
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form> <!--추가(미현)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>이 회사는 신기술 개발로 의약업계의 ~가 되었다.</eg>
+				<trans>leader</trans>
+				<domain></domain>
+				<sem_class>결과행위인간</sem_class> <!--의미부류 설정이 어려움(이민우);추상적대상으로 보고 관계추상적대상의 하위부류인 '순서'를 기입(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form> <!--추가(미현)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">산업|분야|국가|지역인간|종족|기업|군대|반사회적단체</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통지받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">통지를 받다</var>
+			<str>NV</str>
+			<org lg="si">通知_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be notified</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에서|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>정부 당국은 사건의 전모를 통지받고는 곧바로 대응책 마련에 심혈을 기울였다.</eg>
+					<eg>참가자들은 판정 결과를 통지받는 순간 모든 일정을 마치고 귀가하게 된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>나는 형이 죽었다는 것을 엄마에게서 통지받았다.</eg>
+					<eg>나는 결국 협상이 결렬되었다는 것을 회사로부터 통지받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

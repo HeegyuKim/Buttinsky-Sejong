@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>애꿎다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/05</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>애?와 같이 깨진 글자 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<defect>
+			<infl_rst>애꿎은|애꿎게</infl_rst>
+			<trans>be innocent</trans>
+			<sel_rst arg="X" tht="THM">구체물</sel_rst>
+			<defect_eg>너는 왜 애꿎게 아이들만 야단치냐?</defect_eg>
+			<defect_eg>그 일로 애꿎은 선생들만 경찰서에 가서 조사를 받고 왔다.</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>애꿎은|애꿎게</infl_rst>
+			<trans>have no relation with</trans>
+			<sel_rst arg="X" tht="THM">구체물</sel_rst>
+			<defect_eg>너는 왜 애꿎은 종이만 찢어 대냐?</defect_eg>
+			<defect_eg>애꿎게 소주만 들이키지 말고 나랑 바람이나 쐬러 나가자.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

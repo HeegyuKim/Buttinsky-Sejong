@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>껌껌하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"깜깜"을 둘이 아닌 하나의 어근으로 간주했음</cre_note>
+				<cre_note>"감감하다"가 변이형인지에 대한 검토 요망</cre_note>
+				<cre_note>두 번째 센스 기술에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>장소에 대한 적정명사는 삭제함이 어떨지</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">깜깜하다</var>
+			<var type="etc">컴컴하다</var>
+			<var type="etc">캄캄하다</var>
+			<var type="etc">감감하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be very dark</trans>
+				<lr>
+					<hyper>어둡다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">조명</n_appr>
+					<eg>동굴 속은 너무 껌껌해서 한치 앞도 보이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be wicked and treacherous</trans>
+				<lr>
+					<syn type="sino">음흉하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(속|속마음)</sel_rst>
+					<eg>그 사람의 속은 아주 껌껌하다.</eg>
+					<eg>그 사람은 속이 아주 껌껌한 사람이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

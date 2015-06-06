@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흔들흔들하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>swing</trans>
+				<trans>shake</trans>
+				<trans>be swayed</trans>
+				<lr>
+					<syn type="perfect">흔들거리다</syn>
+					<syn type="perfect">흔들대다</syn>
+					<syn type="perfect">흔들리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>낡은 책상이 만지기만 해도 흔들흔들한다.</eg>
+					<eg>그는 나사가 빠져 흔들흔들하는 문고리를 고치기 위해 연장통을 찾고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>swing</trans>
+				<trans>sway</trans>
+				<lr>
+					<syn type="perfect">흔들다</syn>
+					<syn type="perfect">흔들거리다</syn>
+					<syn type="perfect">흔들대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위(몸|엉덩이|팔|다리)</sel_rst>
+					<eg>그는 엉덩이를 흔들흔들하며 걸어가는 아낙네의 뒷모습을 바라보았다.</eg>
+					<eg>그는 불안할 때면 다리를 흔들흔들하는 버릇이 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

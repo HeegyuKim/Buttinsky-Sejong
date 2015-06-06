@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덮씌우다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>영어대역어 부분 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미역 부분 수정</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VV</str><!--"V.우2"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>포장행위</sem_class>
+				<trans>recover</trans>
+				<lr>
+					<hyper>덮다</hyper>
+					<hyper>씌우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물의부분|용기</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물</sel_rst>
+					<eg>나는 국물이 흐르지 않도록 마개를 비닐로 덮씌웠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물의부분|용기</sel_rst>
+					<eg>나는 국물이 흐르지 않도록 마개에 비닐을 덮씌웠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간</sel_rst>
+					<eg>나는 엄마 등에 엎여서 자는 아이에게 담요를 덮씌웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>have blame shifted on to oneself</trans>
+				<lr>
+					<syn type="sino">덤터기씌우다</syn>
+					<syn type="sino">누명씌우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간</sel_rst>
+					<eg>그는 나에게 모든 잘못을 덮씌웠다.</eg>
+					<eg>그들은 그간 우리에게 온갖 불행과 고통을 덮씌워 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

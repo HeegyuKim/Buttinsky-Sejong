@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>순조롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/08</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">順調_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be smooth</trans>
+				<trans>be favorable</trans>
+				<trans>be satisfactory</trans>
+				<lr>
+					<rel>난항</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획사건|지속적활동(일|사업|만사)|행위(항해)|부분시간(시작|출발)|(날씨|기후)|상태변화(이행|성장)</sel_rst>
+					<eg>행사가 순조롭게 진행되고 있다.</eg>
+					<eg>올해는 사업이 순조롭게 풀릴 것이다.</eg>
+					<eg>회의의 시작은 순조로웠는데 마지막에 가서 난항에 부딪혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

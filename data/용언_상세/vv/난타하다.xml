@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>난타하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">난타를 하다</var>
+			<str>N.하</str>
+			<org lg="si">亂打_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>strike blow after blow</trans>
+				<lr>
+					<hyper>치다</hyper>
+					<hyper>때리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>이윽고 그들은 중년부부를 난타하기 시작했다.</eg>
+					<eg>그 선배는 화를 참지 못하고 나를 나오라고 하여 주먹으로 내 얼굴을 난타했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">기상현상(태풍|폭설)</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<eg>기상청에 따르면 태풍 "메아리"가 일본을 난타했다고 한다.</eg>
+					<eg>한반도 상공에서 찍은 위성사진을 보면 폭설은 중부, 그 가운데 충청지역만 집중적으로 난타했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>make successive hits</trans>
+				<lr>
+					<hyper>공격하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>우리팀 타선은 상대팀의 선발투수를 철저하게 난타했다．</eg>
+					<eg>결승전에서는 전년도 우승팀이 16안타를 쏟아내며 라이벌팀을 난타했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

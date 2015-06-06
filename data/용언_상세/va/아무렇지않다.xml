@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>아무렇지않다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/06</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/31</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">아무러하지않다</var>
+			<str>AA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>have nothing happened</trans>
+				<lr>
+					<syn type="perfect">탈없다</syn>
+					<syn type="perfect">문제없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>그 약은 나도 먹었는데, 나는 아무렇지않다.</eg>
+					<eg>이제껏 아무렇지않던 녹음기가 왜 오늘따라 말썽이냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be nothing</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+				<eg>나에게는 그 말이 아무렇지않았다.</eg>
+				<eg>그는 그 일이 아무렇지않은 듯 태연해 보였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+				<eg>그는 영희랑 헤어진 것이 아무렇지않은 듯 일에만 열심히 몰두했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

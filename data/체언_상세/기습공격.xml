@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기습공격</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>sense 둘로 구별(행위, 사건)</mod_note>
+				<mod_note>sense1 n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+				<mod_note>sense1 max_n 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>n_v의 frame 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기습 공격</var>
+			<str type="N_N">기습+공격</str>
+			<org lg="si">奇襲攻擊</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>적들의 ~으로 성안은 아비규환이었다.</eg>
+				<trans>surprise attack</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 받다</form>
+					    <frame>Y-이 X-에게 ~을 받다</frame><!-- 로부터->에게|에게서(송근영) -->
+					    <frame>Y-이 X-에게서 ~을 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가하다</form>
+					<frame>X-이 Y-에게 ~을 가하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 퍼붓다</form>
+					<frame>X-이 Y-에게 ~을 퍼붓다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 개시하다</form>
+					<frame>X-이 Y-에게 ~을 개시하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 감행하다</form> <!-- 송근영 추가 -->
+					<frame>X-이 Y-에게 ~을 감행하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단|장소</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>이 곳에서 여러 차례 ~이 발생했었다.</eg>
+				<trans>surprise attack</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

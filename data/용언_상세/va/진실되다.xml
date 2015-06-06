@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>진실되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">眞實_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be true</trans>
+				<trans>be truthful</trans>
+				<trans>be sincere</trans>
+				<trans>be honest</trans>
+				<trans>be faithful</trans>
+				<lr>
+					<ant type="compl">거짓되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|추상적대상|행위</sel_rst>
+					<eg>기영이는 진실되고 성실해서 직장에서 칭찬을 받는다.</eg>
+					<eg>기영이의 그 같은 진실된 행동은 언젠가는 인정받을 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>기영이가 사람을 대하는 것이 진실돼 보인다.</eg>
+					<eg>기영이가 미영이를 사랑하는 것이 참으로 진실되다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

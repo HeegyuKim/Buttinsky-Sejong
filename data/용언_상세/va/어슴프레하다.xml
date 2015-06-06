@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>어슴프레하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>어슴푸레하다의 잘못이므로 see에 어슴푸레하다 기입했음. 아래의 기술내용은 일단 그대로 두고 잘못된 부분은 수정하였음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>어슴푸레하다</see>
+		<morph_grp>
+			<var type="etc">어슴푸레하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be dim</trans>
+				<lr>
+					<syn type="perfect">어두침침하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|빛</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>방 안에 촛불 하나가 어슴프레하다.</eg>
+					<eg>강당에 불빛이 어슴프레하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be dim</trans>
+				<lr>
+					<syn type="perfect">어두침침하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>방 안이 어슴프레하다.</eg>
+					<eg>밖은 아직도 어슴프레하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(모습)|소리속성</sel_rst>
+					<eg>멀리 그의 모습이 어슴프레하게 보인다.</eg>
+					<eg>얼마나 멀리 갔는지 그의 목소리가 어슴프레하게 들린다.</eg>
+					<eg>어둠 속에 그의 모습이 어슴프레하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(기억)</sel_rst>
+					<eg>그 때 기억은 어슴프레하다.</eg>
+					<eg>그 사람을 만난 기억이 어슴프레하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

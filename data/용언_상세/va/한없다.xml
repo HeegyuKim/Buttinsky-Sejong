@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>한없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">한이 없다</var>
+			<str>NA</str>
+			<org lg="si">限_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be unlimited</trans>
+				<trans>be endless</trans>
+				<lr>
+					<syn type="kor">끝없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(감동|기쁨|행복|존경심)|심리행위(절망|좌절)</sel_rst>
+					<eg>그는 가족들의 품 안에서 한없는 행복을 느꼈다.</eg>
+					<eg>자식에 대한 부모의 사랑은 한없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>한없이</infl_rst>
+			<trans>endlessly</trans>
+			<defect_eg>그는 그녀의 도움이 한없이 고마웠다.</defect_eg>
+			<defect_eg>그 장면을 보고 있으려니 눈물이 한없이 흘렀다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

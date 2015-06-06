@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>움직이다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/02/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀구획수정</mod_note>
+				<mod_note>영어대역어수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/31</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>R.이3</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="3">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>헤라클레스는 커다란 바위를 왼쪽으로 조금씩 움직였다.</eg>
+					<eg>그 철제 캐비닛을 왼쪽 벽쪽으로 움직여 주세요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="3">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>정차되어 있던 차가 갑자기 움직이기 시작했다.</eg>
+					<eg>여러 사람이 밀어도 꿈쩍도 안 하던 바위가 마법사가 주문에 저절로 움직이기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>be in motion</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>정신을 차린 환자는 입술을 조금씩 움직이면서 뭔가 말을 하려고 했다.</eg>
+					<eg>회사에서 밤늦게 돌아온 아버지는 손가락 하나 움직일 힘도 없다고 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>run</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기계|(공장)</sel_rst>
+					<eg>우리는 파업으로 한 달 간 공장을 움직이지 못하고 있다.</eg>
+					<eg>이제 동력만 공급되면 이 기계를 움직일 수 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기계|(공장)</sel_rst>
+					<eg>파업으로 공장이 움직이지 못하고 있다.</eg>
+					<eg>이제 동력만 공급되면 이 기계는 움직일 것입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>get affected</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="2">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">(마음)</sel_rst>
+					<eg>우리의 끈질긴 권고가 그의 마음을 마침내 움직였다.</eg>
+					<eg>누가 그녀의 마음을 움직인 것일까?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="2">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(마음)</sel_rst>
+					<n_appr>마음</n_appr>
+					<eg>우리의 권고로 그의 마음이 움직이기 시작했다.</eg>
+					<eg>네 덕분에 그들의 마음이 움직였구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>work</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>공장을 살리기 위해 직원들이 열심히 움직였다.</eg>
+					<eg>부하직원들이 움직이지 않으면 간부들은 아무 일도 되게 할 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>fluctuate</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(사실)|상황(현상|정세)</sel_rst>
+					<eg>그 당시 국제 정세는 급격하게 움직이고 있었다.</eg>
+					<eg>그런 상황이 쉽게 움직일까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>be stirring</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(결정|자리|부서)</sel_rst>
+					<eg>우리는 이사회 결정을 결코 움직일 수 없었다.</eg>
+					<eg>이 자리는 아주 중요해서 절대로 움직일 수 없습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

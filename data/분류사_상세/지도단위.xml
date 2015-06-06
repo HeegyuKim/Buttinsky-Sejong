@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>지도단위</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/18</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/18</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>지도+단위</str>
+			<org lg="si">地圖單位</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 이중 교차나 염색체 간섭의 영향을 고려하여 재조합한 값을 수정한 교차율이 1%인 거리이다</eg>
+				<domain>생물</domain>
+				<cl_subtype type="lnt"/>
+				<lr>
+					<syn type="etc">지도거리</syn>
+					<syn type="etc">모르간단위</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

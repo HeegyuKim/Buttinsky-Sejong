@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>못하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>보조형용사 용법 기술 방법 재고 필요 - 편하지 못한, 안심하지 못한 등</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+				<mod_note>보조형용사 격틀 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be inferior to</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온</sel_rst>
+					<n_appr arg="X">정도속성값|능력</n_appr>
+					<eg>성룡은 무술 실력이 이소룡에 못하다.</eg>
+					<eg>아마 나는 재력이 너에 못할 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be inferior to</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">정도속성값|능력</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온</sel_rst>
+					<eg>성룡의 무술 실력은 이소룡에 못하다.</eg>
+					<eg>아마 내 재력은 너에 못할 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="Aaux">
+				<frame>A-지 Aaux</frame>
+				<subsense>
+					<eg>지금 내 상태는 전혀 편하지 못하다</eg>
+					<eg>그 장소는 안전하지 못하다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>폭넓게</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/07/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/08</mod_date>
+			</mod>
+			<note></note>
+			<see></see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>폭+넓-게</str>
+			<org lg="si">幅__</org>
+			<hom exist="temp"></hom>
+		</morph_grp>
+		<idm_grp>
+			<idm type="na">보다 ~</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>사춘기를 벗어나 보다 ~ 세상을 배우고 자연스럽게 남녀 교제를 해야한다</eg>
+				<eg>새롭고 다양한 패러다임의 변동체계를 ~ 수용해야 한다</eg>
+				<eg>수학과 과학 이외에도 다양한 사회사상을 ~ 접할 수 있었다</eg>
+				<eg>영역과 같은 현대 사회의 모든 영역에 ~ 확산되어 있다</eg>
+				<eg>잡지, 문학작품, 교양도서 등의 책들을 ~ 읽어야 한다</eg>
+				<eg>전통적인 교양이 훨씬 ~ 투영되어 있다고 해야 하겠다</eg>
+				<eg>사군자 등 다양한 소재를 ~ 다루었다</eg>
+				<trans>widely</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>다양하게</syn>
+					<ant>협소하게</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel>폭넓다</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~이해하다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt></prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>SO~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시시덕대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/31</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>talk nonsense</trans>
+				<lr>
+					<syn type="sino">잡담하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<eg>그는 일은 하지 않고 계속 옆 사람과 시시덕댔다.</eg>
+					<eg>아들놈은 지쳤는지 친구와 시시덕대지도 않았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그와 그 옆 사람은 일은 하지 않고 계속 시시덕댔다.</eg>
+					<eg>아들놈과 친구는 지쳤는지 시시덕대지도 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

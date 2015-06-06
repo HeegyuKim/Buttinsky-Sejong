@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무장단체</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/02</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_n의 타입값 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '반사회적단체'를 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">무장 단체</var>
+			<str type="N_N">무장+단체</str>
+			<org lg="si">武裝團體</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>3.1 운동 후 연해주 각지에 한인으로 구성된 ~가 대거 결성되었다.</eg>
+				<trans>militant group</trans>
+				<trans>military wing</trans>
+				<domain></domain>
+				<sem_class>단체</sem_class> <!--100% '반사회적단체'라고 할 수는 없는 듯-->
+				<lr>
+					<syn type="etc">무장집단</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<!--타입값을 ',lexfunc'에서 'compound'로 수정-->
+				<comb_n type="compound">불법 ~</comb_n>
+				<comb_n type="compound">항일 ~</comb_n>
+				<comb_n type="compound">반미 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조직하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 창설하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 굴복하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

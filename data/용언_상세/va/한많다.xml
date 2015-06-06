@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>한많다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">한이 많다</var>
+			<str>N.많</str>
+			<org lg="si">恨_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be regrettable as well as sorrow</trans>
+				<lr>
+					<syn type="etc">한맺히다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그 사람은 남편과 자식들을 먼저 저 세상으로 보내고 평생을 산 한많은 사람이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(세상|세월)</sel_rst>
+					<eg>그 사람은 한많은 세월을 살다가 갔다.</eg>
+					<eg>한많은 이 세상 야속한 님아, 정을 두고 몸만 가니 난 못 살겠네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>한많은</infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

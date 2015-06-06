@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>드문드문하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">다문다문하다</var>
+			<var type="etc">뜨문뜨문하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>happen from time to time</trans>
+				<lr>
+					<syn type="perfect">드물다</syn>
+					<ant type="grad">흔하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|(인적|손님)</sel_rst>
+					<eg>유리창 너머로 온 사방이 오늘따라 음울하게 느껴져 오고가는 인적 또한 드문드문하다. </eg>
+					<eg>이곳은 사람이나 자동차의 왕래가 드문드문해서 매우 한적하고 조용하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be sparse</trans>
+				<lr>
+					<syn type="perfect">띄엄띄엄하다</syn>
+					<syn type="perfect">듬성듬성하다</syn>
+					<ant type="grad">빽빽하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>술집은 인가가 드문드문한 마을 끝에 자리하고 있었다.</eg>
+					<eg>세월이 지나고 이제 그의 머리칼들도 드문드문하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지나다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/06/29</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/11</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/17</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>pass by</trans>
+				<trans>go past</trans>
+				<trans>pass through</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="01"><!--하나의 격틀에서 기술할 때 이런 variable을 표시해야 하는 것이 아닌지?-->
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>우리가 탄 차는 방금 시청을 지나 종로로 접어들었다.</eg>
+					<eg>저쪽 모퉁이를 지나 오른쪽으로 십분 정도 걸어가면 우체국이 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>pass</trans>
+				<trans>elapse</trans>
+				<trans>pass by</trans>
+				<trans>expire</trans>
+				<lr>
+					<syn type="perfect">보내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="02"><!--하나의 격틀에서 기술할 때 이런 variable을 표시해야하는 것이 아닌지?-->
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">시간</sel_rst>
+					<eg>이제 우리 회사는 힘든 시기를 지나 안정기에 접어들었다.</eg>
+					<eg>설을 지났으니 너도 이제 서른이구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>exceed</trans>
+				<trans>be more than</trans>
+				<trans>go beyond</trans>
+				<trans>go too far</trans>
+				<lr>
+					<syn type="perfect">넘어서다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태|심리행위</sel_rst>
+					<sel_rst arg="Y" tht="CRT">심리상태|심리행위</sel_rst>
+					<eg>이제 그 일에 대한 느낌은 슬픔을 지나 고통으로 내 마음의 한 부분을 이루고 있다.</eg>
+					<eg>그는 이제 그 여자에 대해서 미움을 지나 무관심한 단계에 이르렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be no more than</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="01"><!--하나의 격틀에서 기술할 때 이런 variable을 표시해야 하는 것이 아닌지?-->
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>시청이 방금 지났습니다.</eg>
+					<eg>이제 은행을 지났습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+					<ad_rel>지나지 않다</ad_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>exceed</trans>
+				<trans>be more than</trans>
+				<trans>go beyond</trans>
+				<trans>go too far</trans>
+				<lr>
+					<syn type="perfect">넘기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="02"><!--하나의 격틀에서 기술할 때 이런 variable을 표시해야하는 것이 아닌지?-->
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CRT">시간</sel_rst>
+					<eg>이제 위험한 고비는 지났다.</eg>
+					<eg>12시가 지나자 갑자기 싸늘한 바람이 불며 방 안의 촛불이 저절로 꺼졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be no more than</trans>
+				<lr>
+					<syn type="sino">불과하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온</sel_rst>
+					<eg>정치인들의 공약은 공수표에 지나지 않는다.</eg>
+					<eg>저는 일개 병사에 지나지 않습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+					<ad_rel>지나지 않다</ad_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

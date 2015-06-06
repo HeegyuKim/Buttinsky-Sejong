@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>급부상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">급부상을 하다</var>
+			<str>N.하</str>
+			<org lg="si">急浮上_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>rise to the surface suddenly</trans>
+				<lr>
+					<syn type="kor">떠오르다</syn>
+					<hyper>올라오다</hyper>
+					<hyper>오르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수상교통기관(잠수정|잠수함)</sel_rst>
+					<eg>잠수정이 갑자기 급부상하더니 파도가 일었다.</eg>
+					<eg>총성과 함께 잠수정이 갑자기 수면 위로 급부상했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>come to the fore rapidly</trans>
+				<lr>
+					<syn type="kor">떠오르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">분야</sel_rst>
+					<eg>요즘에는 네일 아트가 새로운 미용산업으로 급부상하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>철수가 급부상함으로써 연예계에 일대 지각변동이 일었다.</eg>
+					<eg>유능한 학자들의 영입으로 우리 학회가 급부상하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

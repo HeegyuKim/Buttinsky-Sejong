@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>요</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2003/06/21</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/06/20</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jx</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst></phn_rst>
+			<mor_rst></mor_rst>
+			<str></str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>존대</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<frame>Adv-J</frame>
+				<frame>J-J</frame>
+				<frame>Ef-J</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그런데요, 학교요 꼭 가야 돼요?</eg>
+				<eg>잘 보고 따라하세요. 예, 그렇게요.</eg>
+				<eg>과장님, 사장실에서요 과장님을 찾으세요.</eg>
+				<eg>나무꾼은 살금살금 다가가서요, 선녀의 옷을 훔쳤대요.</eg>
+				<!--해요체 종결어미에 쓰이는 '요'는 따로 조사로 분석하여 기술하지 않음.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>겸양</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>Ef-J</frame>
+				<sel_rst>Ef=합쇼체종결어미</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그것은 제가 한 일이 아닙니다요.</eg>
+				<eg>나으리, 이제 오십니까요?</eg>
+				<eg>자, 일을 시작하십시다요.</eg>
+				<!--특정 계층이나 방언에서만 쓰임. 명령, 감탄문에는 쓰이기 어려움. 청유문에는 제한적으로 쓰임.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

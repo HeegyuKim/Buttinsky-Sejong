@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>징수되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">징수가 되다</var>
+			<str>N.되</str>
+			<org lg="si">徵收_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>(taxes) be collected</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간|장소</sel_rst>
+					<eg>물이용 부담금은 부산, 경남, 대구, 경북, 강원, 울산 등 낙동강 수계 전체에 2004년도에 1,331억원이 징수될 것으로 예상하고 있다.</eg>
+					<eg>관리위원회는 우선 오는 3월 1일부터 농가 거출금이 징수될 수 있도록 전국 111개 도축장 영업자들에게 양돈자조금 위탁징수관련 협조요청 공문을 발송했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

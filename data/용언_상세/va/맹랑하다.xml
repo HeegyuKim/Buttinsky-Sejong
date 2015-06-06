@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맹랑하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>격틀 및 적정명사 수정</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">孟浪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be astonished</trans>
+				<lr>
+					<syn type="perfect">황당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<eg>나는 그 친구가 참 맹랑하다.</eg>
+					<eg>어머니는 막내 아들이 맹랑한 듯 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>나는 그 친구가 그렇게 말하는 것이 참 맹랑하다.</eg>
+					<eg>어머니는 막내 아들이 말하는 것이 맹랑한 듯 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

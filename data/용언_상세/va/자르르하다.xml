@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자르르하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/01</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be glossy</trans>
+				<lr>
+					<syn type="perfect">반지르르하다</syn>
+					<syn type="perfect">번지르르하다</syn>
+					<ant type="grad">메마르다</ant>
+					<ant type="grad">푸석푸석하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체</sel_rst> <!--'윤기'를 포괄하는 범주는 찾을 수 없음-->
+					<sel_rst arg="Y" tht="LOC">부분(신체부위|구체물의부분)</sel_rst> <!--'신체부위' 및 '구체물의부분'을 '부분'에 통합하여 대표함-->
+					<eg>저 아저씨는 얼굴에 기름기가 자르르하다.</eg>
+					<eg>광택제를 뿌려 놓은 가구 표면에 윤기가 자르르하다.</eg>
+					<eg>방금 닦은 식탁 위에 물기가 자르르하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

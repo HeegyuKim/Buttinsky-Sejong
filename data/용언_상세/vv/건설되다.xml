@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>건설되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/27</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/27</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/25</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시</mod_note>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">건설이 되다</var>
+			<str>N.되</str>
+			<org lg="si">建設_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be constructed</trans>
+				<trans>be built</trans>
+				<lr>
+					<syn type="perfect">건립되다</syn>
+					<syn type="perfect">건조되다</syn>
+					<syn type="perfect">건축되다</syn>
+					<syn type="kor">세워지다</syn>
+					<syn type="kor">지어지다</syn>
+					<hyper>만들어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(건물|다리|길|철로)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>서해대교가 건설된 지 몇 년이 지났다.</eg>
+					<eg>수도권에 수많은 아파트들이 건설되었으나 아직도 공급이 수요에 못 미친다.</eg>
+					<eg>여러 불행한 사건을 거친 뒤 1948년에 드디어 팔레스타인에 새로운 국가가 건설되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be organized</trans>
+				<trans>be founded</trans>
+				<lr>
+					<syn type="perfect">건립되다</syn>
+					<syn type="perfect">조직되다</syn>
+					<syn type="kor">세워지다</syn>
+					<ant type="compl">와해되다</ant>
+					<hyper>만들어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계인간|단체</sel_rst>
+					<eg>망명지에서 새로운 정부가 건립된지 꼭 100년만에 국권을 회복하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

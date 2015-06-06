@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>떠밀려다니다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>float</trans>
+				<trans>drift</trans>
+				<lr>
+					<syn type="sino">표류하다</syn>
+					<hyper>떠다니다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|구체물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">자연현상</sel_rst>
+					<eg>요트는 거센 바람에 이리저리 떠밀려다니다 한 조그마한 무인도에 도착했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>wander</trans>
+				<lr>
+					<syn type="perfect">휩쓸려다니다</syn>
+					<syn type="perfect">어슬렁거리다</syn>
+					<syn type="perfect">헤매다</syn>
+					<hyper>다니다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|구체물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">구체물|인간</sel_rst>
+					<eg>인파에 떠밀려다니다 혹시라도 놓치게 될까봐 걱정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

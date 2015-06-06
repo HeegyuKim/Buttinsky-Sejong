@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가늠되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">가늠이 되다</var>
+			<str>R.되</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be presumed</trans>
+				<lr>
+					<syn type="sino">짐작되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|속성|방향|범위|경로|관계추상적대상|개념|기준|상황|사태</sel_rst>
+					<eg>저 멀리 노고단으로 꿈틀거리듯 이어지는 주능선을 따라 북쪽 멀리에 가늠되는 덕유산으로 이어지는 백두대간의 산줄기를 바라보았다.</eg>
+					<eg>순간적으로 세 명의 괴한에 대한 정체가 여러 가지로 가늠되었다.</eg>
+					<eg>도대체 일의 진행상황이 가늠되지 않아 답답하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be judged</trans>
+				<trans>be estimated</trans>
+				<lr>
+					<syn type="sino">짐작되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성</sel_rst>
+					<sel_rst arg="Y" tht="INS">온</sel_rst>
+					<eg>미인도 이젠 만든 듯한 이목구비보다는 자연스런 균형미로 가늠되는 경향이 생겼다.</eg>
+					<eg>우리는 일에 대한 사회적 중요도의 여부가 돈으로 가늠되는 사회에 살고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

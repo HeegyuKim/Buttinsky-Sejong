@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>펄럭대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/20</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">팔락대다</var>
+			<str>D.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(치마|깃발|촛불)</sel_rst>
+					<eg>치마가 바람에 펄럭댄다.</eg>
+				    <eg>창문 틈으로 바람이 들어와서 촛불이 펄럭댄다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(치마|깃발)</sel_rst>
+					<eg>유관순 열사는 태극기를 펄럭대며 목놓아 우리나라의 독립을 외쳤다.</eg>
+				    <eg>어머니가 멀리서 치마를 펄럭대며 바삐 걷고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,74 @@
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, morph_grp?, idm_grp?, sense+)>
+<!ATTLIST entry n NMTOKEN #IMPLIED>
+<!ATTLIST entry pos (av) #REQUIRED>		
+
+<!ELEMENT mnt_grp (cre, mod*, note*, see*)>
+<!ELEMENT cre (cre_writer*, cre_date*, cre_note*)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_note (#PCDATA)>
+<!ELEMENT mod (mod_date*, mod_writer*, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+<!ELEMENT see (#PCDATA)>
+
+<!ELEMENT morph_grp (var*, str?, org*, hom?, der*, comp*, metc*, img*)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (xs|xd|xx|abb|lng|sht|temp) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (si|ko|si_ko|ko_si|ko_si_ko|si_ko_si_ko|ko_si_ko_si|en|gr_si_ko|etc|temp) #REQUIRED>
+<!ELEMENT hom EMPTY>
+<!ATTLIST hom exist (yes|temp) #REQUIRED>
+<!ELEMENT der (#PCDATA)>
+<!ATTLIST der pos (n|v|a|av|temp) #REQUIRED>								
+<!ELEMENT comp (#PCDATA)>
+<!ATTLIST comp pos (n|v|a|av|temp) #REQUIRED>						
+<!ELEMENT metc (#PCDATA)>
+<!ELEMENT img (#PCDATA)>
+<!ATTLIST img type (xt|xl|xg|xc|temp) #REQUIRED>	
+
+<!ELEMENT idm_grp (idm*)>
+<!ELEMENT idm (#PCDATA)>
+<!ATTLIST idm type (np|na|nv|da|prv|etc|temp) #REQUIRED>
+
+<!ELEMENT sense (sem_grp, syn_grp)>
+<!ATTLIST sense n NMTOKEN #IMPLIED>
+
+<!ELEMENT sem_grp (eg+, trans+, domain*, reg*, con*, sem_rep, lr?)>
+<!ELEMENT eg (#PCDATA)>
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT domain (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT con (#PCDATA)>
+<!ELEMENT sem_rep (#PCDATA)>
+
+<!ELEMENT lr (syn*, ant*, hyper*, cohyp*, hypo*, holo*, mero*, rel*)>
+<!ELEMENT syn (#PCDATA)>
+<!ELEMENT ant (#PCDATA)>
+<!ELEMENT hyper (#PCDATA)>
+<!ELEMENT cohyp (#PCDATA)>
+<!ELEMENT hypo (#PCDATA)>
+<!ELEMENT holo (#PCDATA)>
+<!ELEMENT mero (#PCDATA)>
+<!ELEMENT rel (#PCDATA)>
+
+<!ELEMENT syn_grp (comb*, prt*, argdist*, col*, conc*, distr*)>
+
+<!ELEMENT comb (#PCDATA)>
+<!ATTLIST comb pos (v|adj|det|av|n) #REQUIRED>
+<!ATTLIST comb exist (yes|no|temp) #REQUIRED>		
+<!ELEMENT prt (#PCDATA)>
+<!ELEMENT argdist (#PCDATA)>
+<!ATTLIST argdist type (np|vp|ap|temp) #REQUIRED>
+<!ELEMENT col (#PCDATA)>
+
+<!ELEMENT conc (#PCDATA)>
+<!ATTLIST conc type (conj|mood|mod|ta|neg|agr|temp) #REQUIRED>
+
+<!ELEMENT distr (#PCDATA)>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>곰살맞다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be gentle and good</trans>
+				<lr>
+					<syn type="perfect">곰살궂다</syn>
+					<ant type="grad">무뚝뚝하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|품격속성|몸짓및동작|소통행위|(말씨|버릇|습관)</sel_rst>
+					<eg>나의 오빠는 어렸을 때도 자상하고 곰살맞은 성격이 있어 가끔 나를 놀래주곤 했다.</eg>
+					<eg>체험에 바탕한 짙은 호소력, 술술 읽히는 쉬운 사례들, 여성특유의 곰살맞은 설명방식이 책의 가장 큰 미덕이 되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

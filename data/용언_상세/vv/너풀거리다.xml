@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>너풀거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(머리|머리카락)|신체착용물|식물</sel_rst>
+					<eg>그의 긴 머리카락이 너풀거린다.</eg>
+					<eg>그의 치마가 너풀거린다.</eg>
+					<eg>수양버들이 산들바람에 너풀거린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|식물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(머리|머리카락)|신체착용물|부분</sel_rst>
+					<eg>그는 긴 머리카락을 너풀거리며 달려왔다.</eg>
+					<eg>그는 치마를 너풀거린다.</eg>
+					<eg>수양버들이 산들바람에 가지를 너풀거리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

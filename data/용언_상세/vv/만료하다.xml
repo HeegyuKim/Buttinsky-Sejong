@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>만료하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">滿了_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>expire</trans>
+				<lr>
+					<syn type="perfect">만기되다</syn>
+					<syn type="perfect">실효하다</syn>
+					<syn type="kor">끝나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태(대출|인증)|시간(기간)|증명서|권리증</sel_rst>
+					<eg>이번에 우리 회사는 5명의 사외이사가 임기 만료해 대거 교체될 전망이다.</eg>
+					<eg>임차인에게 전세권 설정을 해 주었는데 기간이 만료해 보증금을 돌려준 상태에서 전세권 설정이 말소되지 않았다는 것을 발견했습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

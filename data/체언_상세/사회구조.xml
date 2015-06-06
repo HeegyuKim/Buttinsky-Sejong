@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사회구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>의미부류 수정</mod_note>
+				<mod_note>n_aj 정보 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>속성에서 관계추상적대상으로 수정;명사연어에서 '~ 개편' 삭제, 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사회 구조</var>
+			<str type="N_N">사회+구조</str>
+			<org lg="si">社會構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>산업화의 영향으로 도시와 농촌지역 모두에서 ~가 전면적으로 해체되면서 문화적 정체성이 위협받게 되었다.</eg>
+				<eg>그는 미국이 지난 200년 동안 유럽과는 다른 ~를 발전시켰다고 주장한다.</eg>
+				<trans>social structure</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class> <!--(호정은)'속성'에서 '추상적부분'으로 수정함. 여전히 논란의 여지가 있음-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 바람직하다</comb_aj>
+				<comb_n type="compound">현대의 ~</comb_n>
+				<comb_n type="compound">고대의 ~</comb_n>
+				<comb_n type="compound">아시아의 ~</comb_n>
+				<comb_n type="compound">농촌(의) ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개편하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 발전시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 바뀌다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 변하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">국가|종족|지역집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

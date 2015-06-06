@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오락가락하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come and go</trans>
+				<trans>go back and forth</trans>
+				<lr>
+					<syn type="perfect">왔다갔다하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>전화가 오기를 기다리는 동안 그는 초조하게 거실을 오락가락했다.</eg>
+					<eg>며칠 전부터 우리 집 앞을 오락가락하는 저 남자가 누군지 알고 있니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>fluctuate</trans>
+				<lr>
+					<syn type="perfect">왔다갔다하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(정신|기억|기억력|의식)</sel_rst>
+					<eg>어제 교통 사고로 입원한 환자는 아직도 의식이 오락가락하는 모양이다.</eg>
+					<eg>오십을 넘기면서 차츰 기억력이 오락가락하는 것을 그녀 자신도 느끼고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>rain off and on</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">강우|강설</sel_rst>
+					<eg>며칠째 비가 오락가락한 탓에 빨래가 밀려 큰일이다.</eg>
+					<eg>하루 종일 싸락눈이 오락가락하더니 저녁에는 함박눈이 쏟아졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come and go</trans>
+				<trans>be exchanged</trans>
+				<lr>
+					<syn type="perfect">오고가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">소통행위(말|이야기|대화|욕설)</sel_rst>
+					<eg>두 사람 사이에 욕설이 오락가락하더니 급기야는 치고받는 싸움이 시작되었다.</eg>
+					<eg>이야기가 몇 마디 오락가락하더니 두 젊은이는 함께 일어나 밖으로 나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

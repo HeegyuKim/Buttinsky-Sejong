@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신분상승</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>한자가 두 가지 종류임</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;센스1의 의미부류를 '인간관련현상'에서 '상태변화'로 수정;센스1의 형용사결합에 '빠른 ~' 추가;센스1의 명사결합정보 일부 추가;센스1의 동사결합정보 일부 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스2 삭제('신분제 존재하는 과거 사회의 현상'의 뜻이므로 불필요한 듯)</mod_note>
+			</mod>
+				<mod>
+				<mod_date>2007/10/17</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신분 상승</var>
+			<str type="N_N">신분+상승</str>
+			<org lg="si">身分上昇</org>
+			<org lg="si">身分上升</org> <!-- '__上升'과 같이 표기하는 것은 아닌지 확인 요망 -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>사람들은 돈만 있으면 ~이 된다고 생각한다.</eg>
+				<trans>rise in social standing</trans>
+				<domain></domain>
+				<sem_class>상태변화</sem_class> <!--'증가'('상태변화' 하위부류)?-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn" pred="no">급격한 ~</comb_aj>
+				<comb_aj type="appr">~이 빠르다</comb_aj>
+				<comb_n type="compound">~ 욕구</comb_n>
+				<comb_n type="compound">~의 도구</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-로 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form>
+					<frame>X-이 Y-로 ~이 되다</frame> <!-- 'Y-로' 추가함 -->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">긍정적속성인간|사회계급인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

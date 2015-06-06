@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>멸시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 부분 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">멸시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">蔑視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be held in contempt</trans>
+				<trans>be treated with contempt</trans>
+				<lr>
+					<syn type="perfect">천시되다</syn>
+					<syn type="perfect">냉대되다</syn>
+					<syn type="perfect">모멸당하다</syn>
+					<ant type="compl">존중되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<eg>이역의 땅에서 주변 사람들과 다른 종교를 신앙한다고 하는 사실만으로 멸시되어 왔음에도 불구하고, 유대인들이 집요하게 수호해 온 종교가 유대교다.</eg>
+					<eg>조선시대 동안 유교적 가치관에 따른 사농공상적 신분제도에 의해 상공업은 어용화되고 멸시되어 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

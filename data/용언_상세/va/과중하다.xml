@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>과중하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">過重_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be too heavy</trans>
+				<lr>
+					<ant type="compl">적당하다</ant>
+					<ant type="compl">알맞다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">무게|수량</n_appr>
+					<eg>쌓인 눈의 무게가 과중하여 지붕이 무너졌다.</eg>
+					<eg>짐이 과중한 바람에 자동차가 언덕을 올라가지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>be burdensome</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈|의무|사태</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간</sel_rst>
+					<eg>그 업무는 신입사원에게는 과중하다.</eg>
+					<eg>그 피고인만이 양형이 과중하다고 하여 항소하였으나 2심에서도 결국 패소하고 말았다.</eg>
+					<eg>세금이 불공정하거나 과중하면 사회불안이 생긴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

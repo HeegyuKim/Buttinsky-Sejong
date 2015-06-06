@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도란대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>"SEE" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<see></see><!--이미 기술되어 있었기 때문에 "SEE" 처리 하지 않음.-->
+		<morph_grp>
+			<var type="etc">두런대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상호적언술행위</sem_class>
+				<trans>whisper together</trans>
+				<lr>
+					<syn type="perfect">속삭대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>다들 잠을 자는 데 아이는 자기 엄마와 뭐라고 도란대고 있었다.</eg>
+					<eg>그 여자는 오랜만에 만난 초등학교 동창들과 정겹게 도란대었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>다들 잠을 자는 데 아이와 엄마는 뭐라고 서로 도란대고 있었다.</eg>
+					<eg>그 여자와 오랜만에 만난 초등학교 동창들이 서로 정겹게 도란대었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>produce a tender sound</trans>
+				<lr>
+					<syn type="perfect">졸졸대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(개울물)</sel_rst>
+					<eg>개울물이 도란대며 흘러간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

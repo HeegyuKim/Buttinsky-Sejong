@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시건방지다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/10</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be saucy</trans>
+				<trans>be pert</trans>
+				<trans>be impudent</trans>
+				<lr>
+					<syn type="perfect">건방지다</syn>
+					<syn type="sino">오만하다</syn>
+					<syn type="sino">교만하다</syn>
+					<ant type="grad">겸손하다</ant>
+					<rel>건방</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">태도</n_appr>
+					<eg>저 녀석 되게 시건방지네.</eg>
+					<eg>저런 시건방진 놈하고는 같이 일 못하겠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(짓)</sel_rst>
+					<eg>걔가 그렇게 하는 것은 시건방진 짓이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>걔가 그렇게 하는 것은 시건방지다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

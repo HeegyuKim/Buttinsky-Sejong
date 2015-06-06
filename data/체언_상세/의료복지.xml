@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료복지</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 복지</var>
+			<!--변이형 정보 추가(미현)-->
+			<str type="N_N">의료+복지</str>
+			<org lg="si">醫療福祉</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>보건복지부에서는 국민들의 ~의 향상에 힘쓰고 있다.</eg>
+				<trans>medical welfare</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_n type="compound">~ 시설</comb_n>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_n type="compound">~ 시설</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 향상시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

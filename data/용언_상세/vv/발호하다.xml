@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발호하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/01</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발호를 하다</var>
+			<str>N.하</str>
+			<org lg="si">跋扈_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>be rampant</trans>
+				<trans>run rampant</trans>
+				<trans>prevail</trans>
+				<trans>be dominant</trans>
+				<trans>dominate</trans>
+				<trans>domineer over</trans>
+				<trans>reign supreme</trans>
+				<trans>lord it over</trans>
+				<trans>ride triumphantly over</trans>
+				<lr>
+					<syn type="etc">횡행하다</syn>
+					<rel>대두하다</rel>
+					<rel>준동하다</rel>
+					<rel>날뛰다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst> <!--THM인지도?-->
+					<eg>왕비를 등에 업은 세력이 발호하여 갖은 못된 짓을 일삼고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사조|종교|제도</sel_rst>
+					<eg>일본에서 신군국주의가 발호하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

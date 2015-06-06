@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>반대되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀예문구조수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">반대가 되다</var>
+			<str>N.되</str>
+			<org lg="si">反對_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get opposed</trans>
+				<lr>
+					<ant type="compl">동의받다</ant>
+					<ant type="compl">동조받다</ant>
+					<ant type="compl">찬성받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|사태(의견)|추상적대상(제도|행위)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>이렇게 당연히 이루어 져야 하는 유아교육법이 왜 학원과 비교되어 반대되어야 하는 것인지 잘 모르겠습니다.</eg>
+					<eg>전쟁은 반대되어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be reverse to</trans>
+				<lr>
+					<syn type="perfect">대립되다</syn>
+					<ant type="compl">동일하다</ant>
+					<ant type="compl">유사하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="COM">온</sel_rst>
+					<eg>그녀가 볼 때 그는 자기와 반대되어 끌렸고 그래서 그들은 결혼을 하게 되었습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>아이러니는 겉과 실상이 반대되어 표현의 효과를 증대시키는 방법이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온</sel_rst>
+					<eg>그녀가 볼 때 그는 자기 성격에 반대되어 끌렸고 그래서 그들은 결혼을 하게 되었습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

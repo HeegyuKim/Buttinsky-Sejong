@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>유통판매</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var 기술;n_aj 수정;의미부류 방향성행위를 수정;n_v 수정 및 추가;Y의 선택제약 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>max_n 정보 및 논항 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">유통 판매</var>
+			<str type="N_N">유통+판매</str>
+			<org lg="si">流通販賣</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 회사는 중국에 자동차를 ~를 한다.</eg>
+				<eg>한국은 물류의 중심지로서 ~가 점점 중요해지고 있다.</eg>
+				<trans>circulation and marketing</trans>
+				<domain></domain>
+				<sem_class>수여</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn" pred="no">빠른 ~</comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 Z-에 ~를 하다</frame>
+					<frame>X-이 Y-을 Z-로 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>Y-이 X-에의해 Z-에 ~가 되다</frame>
+					<frame>Y-이 X-에의해 Z-로 ~가 되다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 Z-로의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">자연음식물|구체인공물</sel_rst>
+				<sel_rst arg="Z">장소</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

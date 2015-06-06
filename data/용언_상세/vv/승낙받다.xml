@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>승낙받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">승낙을 받다</var>
+			<str>N.V</str>
+			<org lg="si">承諾_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>허락</sem_class>
+				<trans>be admitted</trans>
+				<lr>
+					<syn type="perfect">허락받다</syn>
+					<ant type="dir">승낙하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 외출을 매번 경찰에게 승낙받아야 했다.</eg>
+					<eg>아버지는 출국을 정부에 승낙받아야 한다고 버텼다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 밖에 나가는 것도 매번 경찰에게 승낙받아야 했다.</eg>
+					<eg>아버니는 출국하시는 것도 정부에 승낙받아야 한다고 버텼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

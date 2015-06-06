@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신비롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/20</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">신비하다</var>
+			<str>NS</str>
+			<org lg="si">神秘_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be mysterious</trans>
+				<trans>be mystic</trans>
+				<trans>be mystical</trans>
+				<trans>be miraculous</trans>
+				<trans>be occult</trans>
+				<trans>be oracular</trans>
+				<trans>be enigmatic</trans>
+				<trans>be esoteric</trans>
+				<trans>be cabalistic</trans>
+				<trans>be uncouth</trans>
+				<lr>
+					<syn type="etc">신비하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">현상|사건|구체물|장소|추상적대상</sel_rst>
+					<eg>이 우주에는 신비로운 현상이 많이 있다.</eg>
+					<eg>그는 우리에게 신비로운 이미지로 남아 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

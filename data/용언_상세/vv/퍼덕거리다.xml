@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>퍼덕거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">파닥거리다</var>
+			<var type="etc">퍼떡거리다</var>
+			<var type="etc">파딱거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>flap</trans>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">새</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물신체부위(날개|깃|꼬리)</sel_rst>
+					<eg>아이들이 다가가자 비둘기는 날개를 퍼덕거리며 날아갔다.</eg>
+					<eg>먹이를 낚아챈 독수리는 큰 깃을 퍼덕거리며 하늘 높이 솟아올랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">물고기</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물신체부위(꼬리|지느러미)</sel_rst>
+					<eg>갓 잡아올린 잉어는 꼬리를 퍼덕거리며 몸을 틀어댔다.</eg>
+					<eg>낚시에 걸린 물고기는 반짝이는 비늘을 퍼덕거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>flap</trans>
+				<trans>flutter</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물신체부위(날개|깃|꼬리)</sel_rst>
+					<eg>아이의 손에 잡힌 병아리의 날개가 퍼덕거렸다.</eg>
+					<eg>닭의 날개가 퍼덕거리자 아이는 놀라서 뒷걸음질을 쳤다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물신체부위(꼬리|지느러미)</sel_rst>
+					<eg>접시에 놓인 생선의 꼬리가 아직도 퍼덕거렸다.</eg>
+					<eg>퍼덕거리는 잉어의 지느러미가 햇빛을 받아 반짝였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

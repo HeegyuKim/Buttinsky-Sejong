@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>정중하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/26</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/05</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">鄭重_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적태도</sem_class>
+				<trans>be polite</trans>
+				<trans>be courteous</trans>
+				<trans>be civil</trans>
+				<trans>be careful</trans>
+				<lr>
+					<syn type="etc">예의바르다</syn>
+					<ant type="grad">예의없다</ant>
+					<ant type="grad">무례하다</ant>
+					<ant type="grad">버릇없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그 신사는 정중했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적태도</sem_class>
+				<trans>be polite</trans>
+				<trans>be courteous</trans>
+				<trans>be civil</trans>
+				<trans>be careful</trans>
+				<lr>
+					<syn type="etc">예의바르다</syn>
+					<ant type="grad">예의없다</ant>
+					<ant type="grad">무례하다</ant>
+					<ant type="grad">버릇없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>새로 이사온 옆집 여자는 우리 가족에게 정중했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

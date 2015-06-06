@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>세습구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note>의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>합성동사 정보 수정</mod_note>
+				<mod_note>str 정보 기술</mod_note>
+				<mod_note>var 정보 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/17</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사에 '타파하다, 고착되다' 추가;맥스엔, 선택제약 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">세습 구조</var>
+			<str type="N_N">세습+구조</str>
+			<org lg="si">世襲構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>재계의 불법적인 ~가 문제가 되고 있다.</eg>
+				<eg>조선시대의 ~에 대한 연구 논문이 발표되었다.</eg>
+				<trans>hereditary structure</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 타파하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 드러나다</form> <!--합성동사 형태 no로 수정(미현)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 고착되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

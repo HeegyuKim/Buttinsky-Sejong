@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간증하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/27</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>의미부류, 격틀 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>빠진 의미부류 삽입</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">干證_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>make a confession</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상태|소통행위|내재적심리행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>김선생은 중생할 때의 체험을 간증하였다.</eg>
+					<eg>김집사는 은혜를 받은 후 변화된 생활을 간증하였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그 자리에 모인 수많은 환자들이 치료받은 것을 간증하기 시작하였다.</eg>
+					<eg>그녀는 신의 은총으로 자기 가족이 다 살아났음을 간증하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>그의 설교 후에 천국을 경험했노라고 간증하는 사람들이 생겨나기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

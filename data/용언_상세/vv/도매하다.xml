@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도매하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도매를 하다</var>
+			<str>N.하</str>
+			<org lg="si">都買_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>buy at a wholesale store</trans>
+				<lr>
+					<ant type="grad">소매하다</ant>
+					<hyper>사다</hyper>
+					<hyper>구매하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단|상업건물</sel_rst>
+					<eg>그 가게에서 필요한 물품을 도매하는 것이 경제적이다.</eg>
+					<eg>그 소매상은 그 가게에서 문구류를 도매해서 가지고 온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도매를 하다</var>
+			<str>N.하</str>
+			<org lg="si">都賣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>wholesale</trans>
+				<lr>
+					<ant type="grad">소매하다</ant>
+					<hyper>팔다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|상업건물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그는 상품을 문구류를 도매하는 곳에서 사가지고 왔다.</eg>
+					<eg>이 골목의 가게들은 모두 도매상이어서 의류를 주로 소매상들에게 도매하는 가게들이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도매를 하다</var>
+			<str>N.하</str>
+			<org lg="si">盜賣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>sell stolen goods</trans>
+				<lr>
+					<syn type="kor">훔쳐팔다</syn>
+					<hyper>팔다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|상업건물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>이 골목에는 전자 제품을 도매하는 가게들이 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

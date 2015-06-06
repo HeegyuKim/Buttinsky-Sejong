@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>멈칫멈칫하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘 의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>hesitate</trans>
+				<lr>
+					<syn type="perfect">뭉그적뭉그적하다</syn>
+					<syn type="perfect">몽그작몽그작하다</syn>
+					<syn type="perfect">머무적머무적하다</syn>
+					<syn type="perfect">주척주척하다</syn>
+					<syn type="perfect">주춤주춤하다</syn>
+					<syn type="perfect">망설망설하다</syn>
+					<syn type="perfect">우물쭈물하다</syn>
+					<syn type="sino">주저하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<eg>그녀가 무섭다며 멈칫멈칫하자 강사는 가차없이 구명조끼 양 어깨 부분을 잡아 그녀를 물속으로 담갔다.</eg>
+					<eg>어디서 와서 어디로 가는지 모를 차들은 길의 중간 중간에 놓인 신호대 앞에서 멈칫멈칫하더니만 줄행랑을 놓고 그 뒤를 따라 신나게 달리는 속도의 행렬은 끝이 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

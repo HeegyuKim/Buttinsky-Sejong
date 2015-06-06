@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가련하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김윤신</cre_writer>
+				<cre_note>동의관계 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">可憐_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be poor</trans>
+				<trans>be miserable</trans>
+				<lr>
+					<syn type="kor">가엾다</syn>
+					<syn type="kor">불쌍하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|모양|(기원|기구)|상황|개체상황</sel_rst>
+					<eg>어깨를 떨군 그 아이의 모습이 가련하기 그지 없었다.</eg>
+					<eg>그런 말을 자신있게 할 수 없는 내 자신이 가련하기만 했다.</eg>
+					<eg>그 불쌍한 부모의 가련한 기도는 허사가 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

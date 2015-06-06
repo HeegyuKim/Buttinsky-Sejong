@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>역력하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var><!--변이형이 없으면 아무 값도 넣지 말아야 합니다-->
+			<str>R.하</str> <!--'N.하'는 지침에 없지만 가능할 수도 있을 듯. -->
+			<org lg="si">歷歷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be obvious</trans>
+				<trans>be clear</trans>
+				<trans>be plain</trans>
+				<lr>
+					<syn type="perfect">확연하다</syn>
+					<syn type="perfect">분명하다</syn>
+					<syn type="kor">또렷하다</syn>
+					<ant type="grad">모호하다</ant>
+					<ant type="grad">아리송하다</ant> <!-- kor, sino 등과 같은 어원관련정보를 반의어의 경우 명시할 수 없음 -->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태|상황|개체상황</sel_rst>
+					<eg>김사장은 쏟아지는 기자들의 질문공세에 피곤한 기색이 역력했다.</eg>
+					<eg>식품위생법 개정안이 국회를 통과함에 따라 관련업계는 긴장한 분위기가 역력하다.</eg>
+					<eg>여당 의원들은 이번 사건으로 충격과 당혹감이 역력한 가운데 철저한 진상규명과 책임자 처벌을 촉구했다.</eg>
+					<eg>답안지를 살펴보니 그 학생이 그동안 애쓴 흔적이 역력했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

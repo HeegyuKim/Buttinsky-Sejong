@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>역내</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/05</cre_date>
+				<cre_writer>최지임</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/05</mod_date>
+				<mod_writer>최지임</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/09/23</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note>수정및보충내용없음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/31</mod_date>
+				<mod_writer>나윤희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 보충</mod_note>
+				<mod_note>명사결합 정보 추가</mod_note>
+				<mod_note>엔트리2 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>합성어, 동사결합 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">域內</org>
+			<hom exist="yes"/>
+			<comp pos="n" type="suffix">~무역</comp>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>연구 결과 중소기업이 ~의 고용 창출에 크게 기여하는 것으로 나타났다.</eg> <!-- 추가 -->
+				<trans>within the area</trans>
+				<sem_class>관계장소</sem_class>
+				<lr>
+				<ant type="etc">역외</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/12/28</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<org lg="si">驛內</org>
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~에서는 흡연이 금지되어 있습니다.</eg>
+				<trans>inside the station</trans>
+				<domain></domain>
+				<sem_class>교통기관관련건물</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들어서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 빠져나가다</form>
+					<frame></frame>
+				</comb_v>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

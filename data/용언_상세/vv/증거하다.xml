@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>증거하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/26</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">증거를 하다</var>
+			<str>N.하</str>
+			<org lg="si">證據_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사실명제</sem_class>
+				<trans>witness</trans>
+				<trans>prove</trans>
+				<trans>give evidence</trans>
+				<trans>testify</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>그 목사는 일경에게 신문을 받으면서 당당하게 자신의 신앙을 증거했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그 책의 내용은 그 정치가의 역사 지식이 별로 높지 않았음을 증거 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>문이 잠겨있다는 것은 기영이가 아직도 집에 안 돌아왔다는 것을 증거한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

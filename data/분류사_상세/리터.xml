@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>리터</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">리타</var>
+			<org lg="en">liter</org>
+			<symb>l;lit</symb>
+					<hom exist="yes"/>
+			<der pos="n" type="suffix">~들이</der>
+			<comp pos="n" type="prefix">밀리~</comp>
+			<comp pos="n" type="prefix">데시~</comp>
+			<comp pos="n" type="prefix">킬로~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1 ~들이 생수를 두 병 샀다</eg>
+				<cl_subtype type="blk"/>
+				<lr>
+					<rel>들이</rel>
+					<rel>시시</rel>
+					<rel>홉</rel>
+					<rel>말</rel>
+					<rel>되</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

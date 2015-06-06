@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>열세하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">劣勢_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be weak</trans>
+				<trans>be left behind</trans>
+				<trans>be inferior in numbers</trans>
+				<lr>
+					<syn type="perfect">약하다</syn>
+					<syn type="perfect">취약하다</syn>
+					<syn type="kor">뒤떨어지다</syn>
+					<syn type="kor">뒤처지다</syn>
+					<ant type="grad">우세하다</ant>
+					<ant type="grad">강하다</ant>
+					<ant type="grad">우월하다</ant>
+					<ant type="grad">월등하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-보다 A</frame> <!--N1-'에비해'-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">집단(단체|팀)|힘|비율|능력(기술력)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">집단(단체|팀)</sel_rst>
+					<eg>선수 개인의 기량은 뛰어나지만, 아직 상대편에 비해 대표팀의 조직력이 열세하다.</eg>
+					<eg>청소년 축구 대표팀이 브라질팀에 승률은 열세하지만, 최근들어 향상된 경기력과 선수들의 사기로 볼 때 아무도 승부를 예측하기 힘듭니다.</eg>
+					<eg>중국 기업들의 기술력이 우리보다 열세하다고 해도, 그 격차가 갈수록 줄어들고 있다는 분석이 지배적이다.</eg>
+					<eg>수적으로는 아군이 적군에 비해 열세하다.</eg>
+					<eg>비록 선수 한 명의 퇴장으로 한국팀이 상대팀보다 열세하지만, 잘 싸우고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>암산되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">암산이 되다</var>
+			<str>N.되</str>
+			<org lg="si">暗算_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be calculated mentally</trans>
+				<lr>
+					<hyper>계산되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">금전|시간|단위|수|수량</sel_rst>
+					<eg>우리가 내야 할 비용이 암산된다니 대단하네.</eg>
+					<eg>전체적인 소요 시간은 쉽게 암산되지 않을 것 같은데.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">Q</sel_rst>
+					<eg>전체적인 비용이 얼마가 나올지 암산된다니 대단하네.</eg>
+					<eg>소요 시간이 얼마나 될지는 암산되지 않을 것 같은데.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>싸돌다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/11</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>hang over</trans>
+				<trans>linger</trans>
+				<lr>
+					<syn type="perfect">감돌다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">빛|불|냄새|연기|기상현상|기운|물관련현상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소</sel_rst>
+					<eg>연기가 마을을 싸돌고 있었다.</eg>
+					<eg>맛있는 음식 냄새가 집안을 싸돌았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>circle around</trans>
+				<lr>
+					<syn type="perfect">감돌다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소</sel_rst>
+					<eg>형사는 조용히 담장을 싸돌면서 범인을 추적해 나갔다.</eg>
+					<eg>이스라엘 병사들은 여리고 성벽을 싸돌았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>protect</trans>
+				<trans>take care of</trans>
+				<lr>
+					<syn type="perfect">감싸다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>어머니가 맨날 애를 싸도니까 애가 버릇이 없지.</eg>
+					<eg>선생이라고 해서 제자를 그렇게 싸도는 것은 잘못된 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

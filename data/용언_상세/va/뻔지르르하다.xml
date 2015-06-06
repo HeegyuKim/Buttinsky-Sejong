@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뻔지르르하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">번지르르하다</var>
+			<var type="etc">반지르르하다</var>
+			<var type="etc">빤지르르하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be sleek</trans>
+				<trans>be smooth</trans>
+				<lr>
+					<syn type="etc">반들반들하다</syn>
+					<syn type="etc">빤드르르하다</syn>
+					<syn type="etc">빤질빤질하다</syn>
+					<syn type="etc">매끈하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>얼마나 청소를 열심히 했는지 바닥이 정말 뻔지르르하구나!</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be plausible</trans>
+				<trans>be specious</trans>
+				<lr>
+					<syn type="perfect">그럴듯하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(겉모습|옷차림|차림새)</sel_rst>
+					<eg>차림새만 뻔지르르하면 뭐해?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(말)</sel_rst>
+					<eg>말만 뻔지르르해가지구 도대체 뭘 하겠다는 건지 모르겠네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

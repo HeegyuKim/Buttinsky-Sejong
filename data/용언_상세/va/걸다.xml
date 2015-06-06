@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걸다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/25</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>형태정보 태그 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be fertile</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소</sel_rst>
+					<eg>이 지역은 논이 걸어서 농사가 잘 된다.</eg>
+					<eg>거름을 충분히 주면 땅이 걸게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be thick</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식(국|죽)|(풀)</sel_rst>
+					<eg>풀을 쑤되 너무 걸게 쑤면 종이가 잘 붙지 않는다.</eg>
+					<eg>죽이 너무 걸어서 먹기에 좀 뻑뻑하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be heavy</trans>
+				<trans>be rich</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식</sel_rst>
+					<eg>이 식당은 음식이 걸게 나와 먹을 것이 많다.</eg>
+					<eg>김 사장의 술대접은 늘 걸고 푸짐해서 손님들이 좋아한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be foulmouthed</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(입|말)</sel_rst>
+					<eg>옆집 여자는 입이 걸어서 다른 사람이 잘 상대하지 않는다.</eg>
+					<eg>그는 입이 걸어 다른 사람에 대한 험담을 잘 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

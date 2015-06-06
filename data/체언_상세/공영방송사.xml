@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공영방송사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note>코멘트정보!->!!</mod_note>
+			</mod>
+			<note>2007/08/09(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">공영 방송사</var>
+			<str type="N_N">공영+방송사</str> <!--방송사는 더 분석될 수 있음-->
+			<org lg="si">公營放送社</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>강력한 ~는 지금 경쟁적이고 복잡한 방송 시장에서 중요한 역할을 수행하고 있다.</eg>
+				<trans>public broadcasting</trans>
+				<domain></domain>
+				<sem_class>기관건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">상업방송사</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳|군데|개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시민사회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스1, 2에 동사결합 정보 추가함;센스1에 명사결합 정보 추가함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>'한국|영국의 ~' 등과 같은 사례는 어느 항목에?</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시민 사회</var>
+			<str type="N_N">시민+사회</str>
+			<org lg="si">市民社會</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~의 가장 큰 문제점은 빈부격차를 해소하지 못하는 것에 있다.</eg>
+				<eg>전쟁 참여 반대와 적극적인 평화 염원 속에 성숙해진 우리 ~의 역량을 확인할 수 있었다.</eg>
+				<trans>civil society</trans>
+				<domain></domain>
+				<sem_class>인간집단</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 단체</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 활성화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 발전하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 성장하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>유럽에서 혁명을 계기로 왕정이 무너지면서 시민들이 주도하는 ~가 성립되었다.</eg>
+				<eg>역사적으로 근대사회는 ~의 성립에서 시작되었다고 본다.</eg>
+				<trans>bourgeois society</trans>
+				<trans>civil society</trans>
+				<domain>사회</domain> <!-- 정보 기술 지침이 있는지? -->
+				<sem_class>인간집단</sem_class>
+				<lr>
+					<syn type="etc">부르주아사회</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">근대 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 성립되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 발전하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 성장하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꿈벅거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">꿈벅을 거리다</var>
+			<var type="etc">끔벅거리다</var>
+			<var type="etc">깜박거리다</var>
+			<var type="etc">껌벅거리다</var>
+			<var type="etc">꿈뻑거리다</var>
+			<var type="etc">끔뻑거리다</var>
+			<var type="etc">깜빡거리다</var>
+			<var type="etc">껌뻑거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>blink</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈)</sel_rst>
+					<eg>수진이는 긴장하면 눈을 꿈벅거린다.</eg>
+					<eg>어미 소가 눈을 꿈벅거리면 나도 모르게 잠이 온다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈)</sel_rst>
+					<eg>긴장했는지 수진이의 눈이 꿈벅거리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>탈락되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>탈락하다</see>
+		<morph_grp>
+			<var type="spr">탈락이 되다</var>
+			<str>N.되</str>
+			<org lg="si">脫落_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be left out</trans>
+				<lr>
+					<syn type="kor">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|보고제안(안건)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">운동경기|모임회의</sel_rst>
+					<eg>우리나라 대표팀은 준결승전에서 아깝게 탈락되었다.</eg>
+					<eg>제가 제출한 안건이 회의 의제에서 탈락된 이유를 알고 싶습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

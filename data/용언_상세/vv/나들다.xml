@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">드나들다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come in and go out</trans>
+				<trans>go often</trans>
+				<lr>
+					<syn type="perfect">드나들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>이 거리는 사람들이 많이 나드는 곳이라서 너무 복잡하다.</eg>
+					<eg>이 나라로 수입되거나 수출되는 물품들은 반드시 몇몇 항구를 나들어야만 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>come in and go out</trans>
+				<trans>go often</trans>
+				<lr>
+					<syn type="perfect">드나들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>아이가 이방 저방으로 나들면서 어른들에게 재롱을 부리고 있다.</eg>
+					<eg>이 세계적인 문화유산은 전 세계의 각지로 나들며 전시되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

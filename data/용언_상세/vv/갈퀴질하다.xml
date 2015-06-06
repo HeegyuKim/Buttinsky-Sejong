@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갈퀴질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>rake up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">식물</sel_rst>
+					<eg>우리는 베어 낸 잡풀들을 갈퀴질해서 한쪽에 모아놓았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">농경지(논|밭|농토)</sel_rst>
+					<eg>이앙하기 전에 논을 빨리 갈퀴질해서 골고루 펴 줘야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>extort</trans>
+				<trans>blackmail sb for</trans>
+				<lr>
+					<syn type="sino">토색질하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게서|로부터 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|긍정적속성구체물(귀중품|진상품|진품)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간</sel_rst>
+					<eg>그 정치인 부부와 친인척들이 10년동안 서민들에게서 갈퀴질한 돈은 어마어마하다.</eg>
+					<eg>탐관오리들은 왕한테 잘보이기 위해 순진한 팔도의 백성들로부터 진상품을 갈퀴질하는 데만 힘을 쏟고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

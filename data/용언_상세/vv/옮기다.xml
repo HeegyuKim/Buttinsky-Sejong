@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옮기다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/15</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<note>형태정보,표기정보 수정,형식 통일</note>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>VS</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>shift</trans>
+				<trans>transfer</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(짐|가구|상자|가방)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>우리는 이사를 하기 위해, 집 안에 있는 모든 짐들을 밖으로 옮겼다.</eg>
+					<eg>벽을 새로 도배하려고, 방 안에 있던 모든 가구들을 마루로 옮겼다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(발걸음)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>철수는 장모님댁으로 무거운 발걸음을 옮겼다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(시선|눈길)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>선생님께서 오시는 것을 보고, 경아는 눈길을 다른 곳으로 옮겼다.</eg>
+					<eg>나의 재촉에 할아버지는 먼산으로 시선을 옮겼다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(주소|국적|호적)|장소(직장|집|숙소)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>경아가 다른 곳으로 주소를 옮기는 바람에, 나는 몇년 동안 그녀와 연락하지 못했다.</eg>
+					<eg>이번 전세값 폭등으로 우리 가족은 봉천동으로 집을 옮겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>tell</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(비밀|말|글)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>명호가 경아의 비밀을 친구들에게 옮기는 바람에, 모든 아이들이 그것을 알게 되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q|S는것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>명호가 경아가 뭐라고 말했는지를 친구들에게 옮기는 바람에, 모든 아이들이 경아를 오해했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">질병및증세(감기|에이즈|병)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>우리 집 꼬마가 감기를 식구들에게 옮기는 바람에, 온 식구들이 이번 겨울 고생했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>translate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(언어|말|글)</sel_rst>
+					<sel_rst arg="Z" tht="FNS">추상적대상(언어|말|글)</sel_rst>
+					<eg>다음 일본어 문장을 한국어로 옮기시오.</eg>
+					<eg>문화관광부에서는 한국 문화 소개의 일환으로 심청전을 영어로 옮기는 데에 힘쓰고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

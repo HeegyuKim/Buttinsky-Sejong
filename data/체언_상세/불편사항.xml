@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>불편사항</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>의미부류 확인 요망; 센스 구분을 속성값으로 할 필요가 있는지 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>'관계추상적대상'에서 '추상적장애물'로 수정;동사정보에서 기능동사로 기술된 '있다, 없다, ~이다' 삭제;동사정보에 '건의하다, 신고하다, 접수하다, 처리하다, 해결하다' 추가;맥스엔, 논항 의미부류 정보 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>수식어절 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">불편 사항</var>
+			<str type="N_N">불편+사항</str>
+			<org lg="etc">不便事項</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 회사의 고객 센터에서는 제품에 대한 ~이 많이 접수되고 있다.</eg>
+				<trans>inconvenience</trans>
+				<trans>subject matter of the inconvenience</trans> <!--김성용(2004/07/02)영어대역어 확인 요망-->
+				<domain></domain>
+				<sem_class>추상적장애물</sem_class> <!--김성용(2004/07/02)의미부류 확인 요망-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc">최대의 ~</comb_n>
+				<comb_n type="lexfunc">최대 ~</comb_n>
+				<comb_n type="lexfunc">주요 ~</comb_n>
+				<comb_n type="compound">고객 ~</comb_n>
+				<comb_n type="compound">~ 신고</comb_n>
+				<comb_n type="compound">~ 접수</comb_n>
+				 <!--김성용(2004/07/02)서술성 명사로 볼 수 있는지 확인 요망-->
+				<!-- n_v type="narg_vpred">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 S다는 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이다</form>
+					<frame>S것-이 X-의 ~이다</frame>
+				</n_v -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 건의하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 접수하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 신고하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 처리하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 해결하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<!-- max_n>S다는 X-에 대한 ~</max_n -->
+				<sel_rst arg="X"></sel_rst><!--김성용(2004/07/02)논항 확인 요망-->
+				<cl type="uni">가지</cl><!--김성용(2004/07/02)적절한 분류사를 설정할 수 있는지 확인요망-->
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

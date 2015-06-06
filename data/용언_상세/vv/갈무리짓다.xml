@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갈무리짓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">갈무리를 짓다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>finish up</trans>
+				<trans>complete</trans>
+				<lr>
+					<syn type="perfect">갈무리하다</syn>
+					<syn type="perfect">끝내다</syn>
+					<ant type="compl">시작하다</ant>
+					<hyper>끝내다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물|추상적대상|사태</sel_rst>
+					<eg>긴 유배에서 다시 여유당으로 돌아온 다산은 못다한 학문을 조용히 갈무리지었다.</eg>
+					<eg>지금 우리에게는 일을 벌리기보다는 벌려놓은 일들을 잘 갈무리짓는 것이 더욱 필요하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

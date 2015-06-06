@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>독립선언</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>sense 구분</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">독립 선언</var>
+			<str type="N_N">독립+선언</str>
+			<org lg="si">獨立宣言</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어느날 갑작스런 아들의 ~이 내겐 정말 충격이었다.</eg>
+				<trans>declaration of independence</trans>
+				<domain></domain>
+				<sem_class>소통행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>1919년 일제의 침략을 규탄하기 위해 민족 대표들이 ~을 발표했다.</eg>
+				<trans>declaration of independence</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구상하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="temp"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

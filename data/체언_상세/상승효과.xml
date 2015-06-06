@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상승효과</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>의미부류, 통사정보 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사정보에 '있다' 정보 추가 및 이후 기술 내용 수정;맥스엔 정보 수정;논항 의미부류 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상승 효과</var>
+			<str type="N_N">상승+효과</str>
+			<org lg="si">相乘效果</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>국제 경기 회복과 환율의 안정이 한국의 수출 신장에 ~를 일으켰다</eg> <!--예문 수정(김)-->
+				<trans>synergy effect</trans>
+				<domain></domain>
+				<sem_class>현상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir"></ant> <!--하강효과가 있는지?(이민우)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 뚜렷하다</comb_aj> <!--추가(김)--><!--'이'->'가'로 조사 교체(미현)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>X-이 Y-에 ~가 있다</frame>
+					<frame>X-이 S는 ~가 있다</frame>
+					<frame>S것-이 Y-에 ~가 있다</frame>
+					<frame>S것-이 S는 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 나타나다</form> <!--추가(김)--><!--'이'->'가'로 조사 교체(미현)-->
+					<frame>Y-에 ~가 나타나다</frame>
+					<frame>Y-에서 ~가 나타나다</frame>
+					<frame>S는 ~가 나타나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form><!--'이'->'가'로 조사 교체(미현)-->
+					<frame>Y-에 ~가 일어다</frame>
+					<frame>Y-에서 ~가 일어나다</frame>
+					<frame>S는 ~가 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form> <!--분리 기술(김)--><!--'이'->'가'로 조사 교체(미현)-->
+					<frame>Y-에 ~가 발생하다</frame>
+					<frame>Y-에서 ~가 발생하다</frame>
+					<frame>S는 ~가 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!--이성헌 선생 질답노트 참조(이민우) -->
+					<form vcompound="no">~을 일으키다</form> <!--기능동사나 기능동사변이형일 때만 frame 적어 주며, form에는 논항이 등장할 수 없음(김)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 S는 ~</max_n_str>
+				<max_n_str>Y-에서의 ~</max_n_str>
+				<max_n_str>Y-의 ~</max_n_str>
+				<max_n_str>Y ~</max_n_str>
+				<max_n_str>S는 ~</max_n_str>
+				<sel_rst arg="X">온</sel_rst>
+				<sel_rst arg="Y">사태|크기|수량</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교육기관</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>센스1의 n_v 추가</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교육 기관</var>
+			<str type="N_N">교육+기관</str>
+			<org lg="si">敎育機關</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 교육원은 기술 인재를 양성하기 위한 ~이다.</eg>
+				<trans>educational institution</trans>
+				<domain></domain>
+				<sem_class>교육기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">영재~</comb_n>
+				<comb_n type="compound">고등~</comb_n>
+				<comb_n type="compound">특수~</comb_n>
+				<comb_n type="compound">위탁~</comb_n>
+				<comb_n type="compound">전문~</comb_n>
+				<comb_n type="compound">사설~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 운영하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">곳</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그들은 뉴욕의 ~을 견학했다.</eg>
+				<trans>educational institution</trans>
+				<domain></domain>
+				<sem_class>기관건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">영재~</comb_n>
+				<comb_n type="compound">고등~</comb_n>
+				<comb_n type="compound">특수~</comb_n>
+				<comb_n type="compound">위탁~</comb_n>
+				<comb_n type="compound">전문~</comb_n>
+				<comb_n type="compound">사설~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 나오다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 근무하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">곳</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

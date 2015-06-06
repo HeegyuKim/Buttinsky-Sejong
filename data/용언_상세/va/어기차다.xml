@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>어기차다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/08/01</cre_date>
+				<cre_writer>안소진</cre_writer>
+				<cre_note>'어기차다'의 '차다'는 동사? 표준국어대사전에는 동사 '차다'만 있음.</cre_note>
+				<cre_note>주로 '어기차게'의 꼴로 쓰임.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/07/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be obstinate</trans>
+				<trans>be stubborn</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|행위|속성값</sel_rst>
+					<sel_rst arg="Y" tht="THM"></sel_rst>
+					<eg>철수는 성격이 어기차다.</eg>
+					<eg>그는 아주 어기차다.</eg>
+					<eg>철수는 일하는 것이 어기차다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

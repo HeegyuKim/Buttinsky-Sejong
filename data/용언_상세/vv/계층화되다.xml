@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계층화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>예문 보충 및 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계층화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">階層化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be classified</trans>
+				<lr>
+					<syn type="perfect">계급화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간(구성원)|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS">사회계급인간|계층계급</sel_rst>
+					<eg>우리 나라도 이제 상류층과 하류층으로 극명하게 계층화되게 되었다.</eg>
+					<eg>일개 팬클럽이라도 그 내부는 회장부터 일반 회원까지 계층화되는 법이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be organized</trans>
+				<lr>
+					<syn type="perfect">구조화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|추상적대상</sel_rst>
+					<eg>인간의 지능은 일반요소와 특수요소로 계층화되어 있다.</eg>
+					<eg>지구의 지각은 대륙지각과 해양지각으로 계층화되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

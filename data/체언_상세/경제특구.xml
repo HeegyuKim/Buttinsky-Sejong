@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경제특구</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>센스1 n_v 수정;센스2 trans 누락 정보 기입;n_v 수정, 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경제 특구</var>
+			<var type="lng">경제특별구역</var>
+			<str type="N_N">경제+특구</str>
+			<org lg="si">經濟特區</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>영종도에 ~를 설치하여 동북아 경제거점으로 성장시키는 것이 좋다.</eg>
+				<trans>special economic zone</trans>
+				<domain></domain>
+				<sem_class>기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설치하다</form>
+					<frame></frame>
+						<!-- 을->를, frame 삭제(송근영) -->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 신설하다</form>
+					<frame></frame>
+						<!-- 을->를, frame 삭제(송근영) -->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>~에 많은 기업들이 입주를 서두르고 있다.</eg>
+				<trans>special economic zone</trans>
+				<domain></domain>
+				<sem_class>행정구역</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입주하다</form>
+					<frame></frame>
+						<!-- frame 삭제(송근영) -->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 지정하다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

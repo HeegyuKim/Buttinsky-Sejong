@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맹렬하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">猛烈_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>be wild and strong</trans>
+				<lr>
+					<syn type="perfect">격렬하다</syn>
+					<syn type="kor">사납다</syn>
+					<syn type="kor">세차다</syn>
+					<syn type="kor">거세다</syn>
+					<syn type="kor">드세다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">현상|우발사건|상태변화</sel_rst>
+					<eg>바람이 참 맹렬하다.</eg>
+					<eg>태풍이 몰려 오는지 비가 맹렬하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

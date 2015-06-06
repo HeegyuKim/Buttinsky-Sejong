@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>구텁지근하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>변이형으로 제시한 것들을 변이형으로 볼 것인지 유의어로 볼 것인지에 대한 검토 요망</cre_note>
+				<cre_note>변이형 배열 순서에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">고탑지근하다</var>
+			<var type="etc">구텁텁하다</var>
+			<var type="etc">고탑탑하다</var>
+			<var type="etc">구리터분하다</var>
+			<var type="etc">고리타분하다</var>
+			<var type="etc">쿠리터분하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>냄새속성값</sem_class>
+				<trans>smell bad</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<!--"추상적대상"에 대해서는 쓰이지 않는 듯함.-->
+					<n_appr arg="X">냄새</n_appr>
+					<eg>음식이 냄새가 구텁지근하다.</eg>
+					<eg>음식이 구텁지근하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일소되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">일소가 되다</var>
+			<str>N.되</str>
+			<org lg="si">一掃_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>be cleared away</trans>
+				<lr>
+					<syn type="perfect">제거되다</syn>
+					<syn type="kor">사라지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="EFF">추상적대상|사태</sel_rst>
+					<eg>이번 조치로 교육계의 악습들이 일소될 수 있기만을 바란다.</eg>
+					<eg>그의 한 마디에 우리의 모든 의심이 일소되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

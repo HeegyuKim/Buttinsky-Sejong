@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신장되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/05</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">신장이 되다</var>
+			<str>N.되</str>
+			<org lg="si">伸張_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be extended</trans>
+				<trans>be expanded</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">권력|권리|능력|분야|산업</sel_rst>
+					<eg>이전에 비해 국민의 권리가 많이 신장된 건 사실이다.</eg>
+					<eg>제조업이 신장되기는 했지만 아직도 멀었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/05</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">신장이 되다</var>
+			<str>N.되</str>
+			<org lg="si">伸長_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be elongated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">크기</sel_rst>
+					<eg>이전에 비해 학생들의 키가 많이 신장된 건 사실이다.</eg>
+					<eg>신형 열차의 길이는 많이 신장되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대절하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대절을 하다</var>
+			<str>N.하</str>
+			<org lg="si">貸切_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>hire</trans>
+				<trans>rent</trans>
+				<lr>
+					<syn type="perfect">세내다</syn>
+					<syn type="kor">빌리다</syn>
+					<ant type="conv">세주다</ant>
+					<ant type="conv">빌려주다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">교통기관</sel_rst>
+					<eg>우리는 할아버지의 입원을 위해서 택시를 대절했다.</eg>
+					<eg>얼마 전 둘째 언니의 결혼식을 치르며 부모님은 관광버스 2대를 대절했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

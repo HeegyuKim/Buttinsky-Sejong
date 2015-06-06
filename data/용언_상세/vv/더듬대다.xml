@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>더듬대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">다듬대다</var>
+			<var type="etc">떠듬대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>stammer</trans>
+				<lr>
+					<syn type="perfect">우물대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그는 자꾸 더듬대는 것이 아주 수상쩍다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">소통행위</sel_rst>
+					<eg>그는 어려서부터 당황하면 말을 더듬대는 습관이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>조사</sem_class>
+				<trans>grope</trans>
+				<lr>
+					<syn type="perfect">훑다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<eg>그는 앞이 잘 안 보이는 지 바닥을 더듬댄다.</eg>
+					<eg>그는 안경만 벗으면 사방을 더듬댄다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>그는 어둠 속에서 안경을 찾으려고 더듬댄다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>loiter</trans>
+				<lr>
+					<syn type="perfect">지정대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<eg>그는 이 골목 저 골목을 더듬대다 겨우 그 집을 찾았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>be clumsy</trans>
+				<lr>
+					<syn type="perfect">서툴다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>그는 입사한 지 5개월이 되었지만 아직도 일을 시키면 더듬거리기 일쑤이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

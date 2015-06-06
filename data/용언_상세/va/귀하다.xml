@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>귀하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈, 적정명사 수정, infl 영역 내용 삭제해도 될 듯</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">貴_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be noble</trans>
+				<lr>
+					<ant type="grad">천하다</ant>
+					<hypo>고귀하다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">신분</n_appr>
+					<n_appr arg="X">지위</n_appr>
+					<eg>피부 색깔로 사람을 귀하고 천한 것을 구별하는 행동을 삼가야 한다.</eg>
+					<eg>귀한 집안 출신이라고 해서 사람들에게 함부로 대해서는 안된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be valuable</trans>
+				<trans>be precious</trans>
+				<lr>
+					<syn type="kor">소중하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>세상에 어떤 것이 아무리 귀하다고 한들 목숨만큼 귀한 것이 어디 있겠소.</eg>
+					<eg>금은 은보다 귀하다고 생각하는 것은 단지 사람들의 하찮은 생각일 뿐이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be rare</trans>
+				<lr>
+					<syn type="kor">드물다</syn>
+					<ant type="grad">흔하다</ant>
+					<hypo>희귀하다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>우리 집안에는 딸은 많고 아들은 귀하다.</eg>
+					<eg>전쟁 직후, 서적들은 귀하고 값이 비쌌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>귀한</infl_rst>
+			<infl_rst>귀하게</infl_rst>
+			<trans>be honorable</trans>
+			<defect_eg>귀한 손님께서 멀리서 오셨으니 잘 대접해 드려야 한다.</defect_eg>
+			<defect_eg>그 여자는 너무 귀하게 자라서 흙 한번 밟아본 적이 없다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

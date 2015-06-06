@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>곤궁하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">困窮_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be destitute</trans>
+				<trans>be poor</trans>
+				<lr>
+					<syn type="kor">가난하다</syn>
+					<ant type="grad">부유하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|지속적활동(생활|살림)</sel_rst>
+					<eg>내가 아무리 곤궁하다 하더라도 너의 도움을 받을 수 없다.</eg>
+					<eg>현재 그의 처지가 몹시 곤궁하므로 누구든 도와야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be difficult</trans>
+				<trans>be awkward</trans>
+				<lr>
+					<syn type="perfect">난처하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|몸짓및동작|소통행위|(입장)</sel_rst>
+					<eg>여러 가지 상황이 갑자기 돌변해서 그의 입장이 곤궁하다.</eg>
+					<eg>갑작스러운 질문에 대한 그의 답변은 곤궁하기 이를 데 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

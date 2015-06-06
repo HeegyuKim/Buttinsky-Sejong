@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>가지고</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/17</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/03</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jkb</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>가지+고</str>
+			<var type="abb">갖고</var>
+			<!--구어체에서 쓰임.-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>수단</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|인간|동물|생물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>단돈 이천 원가지고 식사를 하라고?</eg>
+				<eg>그 애들가지고 일이 되겠어?</eg>
+				<eg>걸레가지고 방 좀 닦아다오.</eg>
+				<!--두 번째 용례는 속어적 용법.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>재료</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이 묵은 보리가지고 떡을 만들라고?</eg>
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>행위대상</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<frame>S것-J</frame>
+				<sel_rst>N=구체물|인간|동물|생물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>음식가지고 장난치지 마라.</eg>
+				<eg>네 이놈, 어른가지고 놀리는 거냐?</eg>
+				<eg>용돈 좀 쓰는 것가지고 뭘 그러니?</eg>
+				<!--항상 부정문이나 의문문과 공기.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

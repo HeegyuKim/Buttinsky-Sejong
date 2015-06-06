@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>카이저</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/14</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="de">Keiser</org>
+			<symb>K</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 진공 상태에서 1cm－1의 주파수이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="fqn"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

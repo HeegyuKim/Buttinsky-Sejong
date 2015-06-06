@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>수배전단</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/0/</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>var 정보 기술</mod_note>
+				<mod_note>str 정보 기술</mod_note>
+				<mod_note>n_v 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/17</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">수배 전단</var>
+			<str type="N_N">수배+전단</str>
+			<org lg="si">手配傳單</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경찰은 그를 잡기 위하여 ~을 뿌렸다.</eg>
+				<eg>우리는 ~을 보고 그가 범인이라는 것을 알았다.</eg>
+				<trans>leaflet of a wanted criminal</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 배포하다</form> <!--합성동사형이 불가능하므로 no로 수정(미현)-->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 뿌리다</form> <!--합성동사형이 불가능하므로 no로 수정(미현)-->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보다</form> <!--합성동사형이 불가능하므로 no로 수정(미현)-->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>신</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">臣</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1" sem="1" num="singular" ref="human">
+			<sem_grp>
+				<eg>~이 한 가지 일을 예로 들어 자세히 아뢰겠사옵니다</eg>
+				<eg>어려움이 있으시다면 ~들을 불러 의견을 구하도록 하옵소서</eg>
+				<reg>겸양</reg>
+				<lr>
+					<syn type="etc">소신</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>절실하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+			<org lg="si">切實_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be urgent</trans>
+				<lr>
+					<syn type="perfect">절박하다</syn>
+					<ant type="grad">여유롭다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태|행위</sel_rst>
+					<eg>침체된 경제를 회생시키기 위한 정치권의 의지와 국민적 노력이 절실하다.</eg>
+					<eg>환자에게는 이럴 때일수록 살아날 수 있다는 희망과 믿음이 무엇보다 절실하다.</eg>
+					<eg>합의에 이르기 위하여 대화 상대를 인정하는 기본적인 태도가 절실하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be suitable for</trans>
+				<lr>
+					<syn type="perfect">적합하다</syn>
+					<ant type="grad">부적합하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|행위|사건|현상|상태변화</sel_rst>
+					<eg>난마처럼 꼬인 문제를 해결하는 데는 때마침 그의 조언과 협력이 절실했다.</eg>
+					<eg>이 단서는 이번 사건 해결의 열쇠라 할 만큼 아주 절실했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

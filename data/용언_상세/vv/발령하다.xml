@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발령하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발령을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<org lg="si">發令_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>announce an appointment</trans>
+				<lr>
+					<syn type="perfect">임명하다</syn>
+					<syn type="perfect">파견하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="FNS">직위인간</sel_rst>
+					<eg>대통령은 차관을 승진시켜 장관으로 발령했다.</eg>
+					<eg>우리 회사에서 이번에 대리를 이사로 발령하여 화제가 되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>새 장관은 그 동안 고속 승진을 하던 김 국장을 지방으로 발령하였다.</eg>
+					<eg>사장은 유능한 사람을 기획실로 발령한다고 회사 전체에 알렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>announce an appointment</trans>
+				<lr>
+					<syn type="perfect">공포하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(경보|호우주의보)</sel_rst>
+					<eg>화제 경보를 발령하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

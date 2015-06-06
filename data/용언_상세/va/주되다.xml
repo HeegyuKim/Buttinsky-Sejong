@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>주되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note>동사로 기술한 것을 형용사로 고침</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var> <!--'주가 되다'라는 표현이 가능하지만 그것은 동사구-->
+			<str>NS</str> <!--여기서 '되-'는 기능동사가 아니라 접미사-->
+			<org lg="si">主_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be the head of</trans>
+				<trans>take the lead of</trans>
+				<trans>lead others</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>그 날의 주된 요리는 갈비찜이었다.</eg>
+					<eg>기독교의 주된 사상은 사랑이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

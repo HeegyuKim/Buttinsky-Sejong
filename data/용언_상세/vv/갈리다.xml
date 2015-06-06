@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갈리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 추가</mod_note>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>의미 역할 수정(GOL->FNS)</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be devided</trans>
+				<lr>
+					<syn type="perfect">나뉘다</syn>
+					<syn type="perfect">갈라지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS">인간|부분(편|파|팀|조)|수</sel_rst>
+					<eg>그 당파는 훗날 노론과 소론으로 갈렸다.</eg>
+					<eg>반 번호에 따라 그 학생들은 청군과 백군으로 갈렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(의견|생각|결정)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">부분(편|파|쪽)|수</sel_rst>
+					<eg>교복 자율화에 대한 의견은 찬성과 반대로 갈렸다.</eg>
+					<eg>그 사안에 대한 의원들의 의견이 둘로 갈렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be devided</trans>
+				<lr>
+					<syn type="perfect">나뉘다</syn>
+					<syn type="perfect">갈라지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="FNS">장소</sel_rst>
+					<eg>우리 나라는 남한과 북한으로 갈려 있다.</eg>
+					<eg>강원도는 대관령을 기준으로 영동지방과 영서지방으로 갈려 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>branch off</trans>
+				<lr>
+					<syn type="perfect">나뉘다</syn>
+					<syn type="perfect">갈라지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(길)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">(길)|(방향)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>정선 읍내에서 이 길은 아우라지 쪽과 동면 쪽으로 갈린다.</eg>
+					<eg>1번 고속도로는 회덕에서 호남고속도로와 경부고속도로로 갈린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+				<cre_note>태그 수정</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 추가</mod_note>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>의미 역할 수정(GOL->FNS)</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be ground</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">과일|채소|곡식(콩)</sel_rst>
+					<sel_rst arg="Y" tht="INS">(강판|맷돌)</sel_rst>
+					<eg>콩을 맷돌로 갈면 잘 갈리지는 않지만 맛은 더 좋다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">과일|채소|곡식(콩)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(강판|맷돌)</sel_rst>
+					<eg>이 강판에는 감자가 잘 갈리는군.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be ground</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(칼|먹)</sel_rst>
+					<sel_rst arg="Y" tht="INS">(벼루|숫돌)</sel_rst>
+					<eg>그 낡은 숫돌로는 칼이 좀처럼 갈리지를 않는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(칼|먹)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(벼루|숫돌)</sel_rst>
+					<eg>이 벼루에는 먹이 잘 갈린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be ground</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="INS">(강판|맷돌|믹서)</sel_rst>
+					<eg>역시 우리 나라 돌로 만든 맷돌이 제일 잘 갈린다.</eg>
+					<eg>새로 산 믹서 보다는 이전에 쓰던 것이 더 잘 갈린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>이가 갈리다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 추가</mod_note>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>의미 역할 수정(GOL->FNS)</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be replaced by</trans>
+				<lr>
+					<syn type="perfect">바뀌다</syn>
+					<syn type="sino">교체되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물</sel_rst>
+					<eg>이번 개각에서 교육부총리가 새로운 인물로 갈렸다.</eg>
+					<eg>학교 표지가 새로운 아이콘으로 모두 갈렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

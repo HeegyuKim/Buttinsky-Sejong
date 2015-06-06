@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>추인하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">추인을 하다</var>
+			<str>N.하</str>
+			<org lg="si">追認_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>추상적행위</sem_class>
+				<trans>ratify</trans>
+				<trans>confirm</trans>
+				<domain>법률</domain>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">국가기관(법원)</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제|행위</sel_rst>
+					<eg>고등법원은 1심 판결을 추인했다.</eg>
+					<eg>당법원은, 특허법 35조의 상기 취지에 비추어 피항소인이 항소인에게 재직중의 모든 직무 발명으로 인해 사용자 등이 받아야 할 이익 및 사용자 등의 공헌도를 별지대로 추인했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>느껍다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/24</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정 및 보충</mod_note>
+				<mod_note>하위센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>feel a lump in the one's throat</trans>
+				<lr>
+					<syn type="perfect">벅차다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<n_appr arg="X">감정</n_appr>
+					<n_appr arg="X">마음</n_appr>
+					<eg>사람들의 따뜻한 격려에 느꺼운 무엇인가가 목젖을 타고 올라왔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<n_appr arg="X">감정</n_appr>
+					<n_appr arg="X">마음</n_appr>
+					<eg>나는 사람들이 격려해 준 것이 너무 느꺼워 눈물이 다 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

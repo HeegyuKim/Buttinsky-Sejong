@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대보다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비교</sem_class>
+				<trans>compare</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">온</sel_rst>
+					<eg>그는 그 옷을 영희의 옷과 대보았다.</eg>
+					<eg>그는 이 책상의 길이를 저 탁자의 길이와 서로 대보았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>길고 짧은 것은 대봐야 안다.</eg>
+					<eg>그는 그 옷과 영희의 옷을 대보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비교</sem_class>
+				<trans>compare</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물</sel_rst>
+					<eg>그는 바지를 자기 몸에 대봤다.</eg>
+					<eg>그는 그 옷을 영희에게 대봤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

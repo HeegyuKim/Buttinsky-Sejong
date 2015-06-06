@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>특출나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">특출이 나다</var>
+			<str>N.나</str>
+			<org lg="si">特出_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가</sem_class>
+				<trans>be outstanding</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 Z=N2-으로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">행위|상태|구체물</sel_rst>
+					<eg>그 아이는 우리 반에서 우등생으로 특출났다.</eg>
+					<eg>그 아이는 우리 반에서 특출난 우등생이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">S것|S기</sel_rst>
+					<eg>그 마을은 온 마을 사람들이 모두 음식 솜씨가 좋기로 특출났다.</eg>
+					<eg>그 의사 선생님은 독한 약을 잘 쓰지 않는 것으로 특출났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>노동시간</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">노동 시간</var>
+			<str type="N_N">노동+시간</str>
+			<org lg="si">勞動時間</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리나라는 ~이 주당 40 시간을 훨씬 상회하는 것으로 나타났다.</eg>
+				<eg>노조는 ~을 단축할 것을 요구했다.</eg>
+				<trans>working hours</trans>
+				<trans>hours of labor</trans>
+				<domain></domain>
+				<sem_class>수량</sem_class> <!-- '크기'와 '수량' 사이의 구분이 어려움 -->
+				<lr>
+					<syn type="perfect">근로시간</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 길다</comb_aj>
+				<comb_aj type="magn">~이 많다</comb_aj>
+				<comb_aj type="min">~이 짧다</comb_aj>
+				<comb_aj type="min">~이 적다</comb_aj>
+				<comb_n type="lexfunc">한국의 ~</comb_n>
+				<comb_n type="lexfunc">한국 노동자의 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 단축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 줄이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 연장하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 줄다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 늘다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">시간</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

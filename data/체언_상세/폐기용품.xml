@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>폐기용품</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/31</mod_date>
+				<mod_writer>백고운</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">폐기 용품</var>
+			<var type="abb">폐기품</var>
+			<str type="N_N">폐기+용품</str>
+			<org lg="si">廢棄用品</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정화조관, 폐타이어, 자동차 휠 등의 산업폐기물과 바가지, 그릇, 대야와 같은 생활 ~들을 무단으로 버린 업자들이 관계당국에 의해 적발되었다.</eg>
+				<trans>disuse supplies</trans>
+				<domain></domain>
+				<sem_class>폐기물</sem_class>
+				<lr>
+					<syn type="etc">폐기물</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">생활 ~</comb_n>	<!--(임근석) 수정-->
+				<comb_n type="compound">산업 ~</comb_n>  <!--항목 추가--><!--(임근석) 수정-->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 수거하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 재활용하다</form>
+					<frame></frame>     <!--항목 분리-->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>원인제공자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>str 부분 검토 필요;의미부류 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 '행위인간'으로. 특별히 행위 완료후 결과하는 상태가 없으므로</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">원인 제공자</var>
+			<str type="N_N">원인+제공자</str> <!-- 제공자를 더 분석할 수 있음 -->
+			<org lg="si">原因提供者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>손해 배상 책임은 당연히 ~에게 있다.</eg>
+				<trans>substance of the cause</trans>
+				<domain></domain>
+				<sem_class>행위인간</sem_class><!-- 그냥 행위인간으로 보는 것이 더 나을까? -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

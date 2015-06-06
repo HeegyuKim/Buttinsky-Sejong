@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전산시스템</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj 기술, n_v 추가, 영어대역어 수정했으나 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전산 시스템</var>
+			<str type="N_N">전산+시스템</str>
+			<org lg="si">電算___</org>
+			<org lg="en">__system</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>최근 들어 국내 ~이 외국 해커들의 공격을 많이 받고 있다.</eg>
+				<eg>인터넷으로 거래를 하려는 사람들이 늘어나자 증권 감독원은 많은 예산을 투입하여 ~을 추가로 설치하였다.</eg>
+				<eg>대학 ~의 오류로 오늘 자정까지는 성적을 확인할 수 없다.</eg>
+				<trans>computational system</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class> <!--방법은 어떨지(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 효율적이다</comb_aj>
+				<comb_n type="compound">차세대 ~</comb_n>
+				<comb_n type="compound">중앙 ~</comb_n>
+				<comb_n type="compound">대형 ~</comb_n>
+				<comb_n type="compound">~ 개발</comb_n>
+				<comb_n type="compound">~ 구축</comb_n>
+				<comb_n type="compound">~ 도입</comb_n>
+				<comb_n type="compound">~ 보완</comb_n>
+				<comb_n type="compound">~ 설치</comb_n>
+				<comb_n type="compound">~ 오류</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 작동하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개발하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 가동하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보완하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

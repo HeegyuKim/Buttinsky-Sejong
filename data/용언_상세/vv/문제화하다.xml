@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문제화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_note>'N(국제|사회|자기) 문제화하다' 따위의 구성은 표상할 방법이 없다</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문제화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">問題化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>make st become an issue</trans>
+				<trans>make st come into a question</trans>
+				<lr>
+					<syn type="etc">이슈화하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제|사태|S것</sel_rst>
+					<eg>일본 교육을 책임지는 거대 회사가 확인도 안 된 사실을 문제화해 파장을 일으켰다.</eg>
+					<eg>미국은 북한이 만들어내고 있는 위험을 세계적 차원에서 문제화해 왔다고 말한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>become an issue</trans>
+				<trans>come into a question</trans>
+				<lr>
+					<syn type="perfect">문제되다</syn>
+					<syn type="perfect">논란되다</syn>
+					<syn type="etc">이슈화하다</syn>
+					<ant type="compl">대수롭잖다</ant>
+					<rel>문제시되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제|사태|S것</sel_rst>
+					<eg>그 일이 문제화하기 전에 진화해야 한다.</eg>
+					<eg>그 사건으로 인터넷 등으로 녹화 프로그램의 부정 유통 되는 것이 문제화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

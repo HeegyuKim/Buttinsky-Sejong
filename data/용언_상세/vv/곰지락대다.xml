@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>곰지락대다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/12</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/12</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>형태정보, 의미정보 추가</mod_note>
+				<mod_note>"곰지락거리다" SEE로 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>곰지락거리다</see>
+		<morph_grp>
+			<var type="abb">곰질대다</var>
+			<var type="etc">굼지럭대다</var>
+			<var type="etc">꼼지락대다</var>
+			<str>I.대</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

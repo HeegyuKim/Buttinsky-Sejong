@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환산되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환산이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">換算_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be changed</trans>
+				<trans>be converted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량|단위</sel_rst>
+					<sel_rst arg="Y" tht="INS">수량|단위</sel_rst>
+					<eg>고기 한 근은 킬로그램으로 환산되어 얼마나 됩니까?</eg>
+					<eg>그 가게에서는 모든 제품의 가격이 달러로 환산되어 표기되어 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>change</trans>
+				<trans>convert</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|행위</sel_rst>
+					<sel_rst arg="Y" tht="INS">돈(돈|화폐)|단위|수량</sel_rst>
+					<eg>인간의 재능이 돈으로 환산될 수는 없다.</eg>
+					<eg>요즘 우리 사회에서 모든 것이 돈으로 환산되어 받아들여지는 것은 참 슬픈 현실이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

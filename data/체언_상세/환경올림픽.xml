@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>환경올림픽</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/25</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>spr 추가, n_v 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<var type="spr">환경 올림픽</var>
+			<str type="N_N">환경+올림픽</str>
+			<org lg="si">環境___</org>
+			<org lg="en">__Olympic</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>제 27회 시드니 올림픽은 ~을 내걸고 친환경적인 정책을 선보였다.</eg>
+				<eg>많은 운동대회가 환경를 파괴하기 때문에 날이 갈수록 ~이 각광을 받고 있다.</eg>
+				<trans>Green Olympic</trans><!--검토요망-->
+				<domain></domain>
+				<sem_class>운동대회</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">개최</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 개최하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~이 개최되다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 열다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~이 열리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

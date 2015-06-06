@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매끈거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">미끈거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>feel slippery</trans>
+				<lr>
+					<syn type="perfect">매끌거리다</syn>
+					<syn type="perfect">미끌거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(피부|종이)</sel_rst>
+					<eg>욕조에 뜨거운 물을 담고 우유를 넣어서 목욕을 해도 피부가 매끈거려 미용제로 좋다.</eg>
+					<eg>우리 나라 책들의 종이는 너무 매끈거려 실내에서 책을 읽을 때 형광등 빛을 반사해 읽는 사람이 금방 피로해진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>부주의하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/22</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">不注意_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적속성값</sem_class>
+				<trans>be careless</trans>
+				<trans>be heedless</trans>
+				<trans>be inattentive</trans>
+				<lr>
+					<syn type="perfect">조심성없다</syn>
+					<ant type="grad">조심성있다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>이번 사고는 전적으로 운전자가 부주의했던 탓이다.</eg>
+					<eg>그녀는 자신이 믿고 의지해 왔던 사람이 그토록 부주의한 인물이었나 회의가 일기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적속성값</sem_class>
+				<trans>be careless</trans>
+				<trans>be heedless</trans>
+				<trans>be inattentive</trans>
+				<lr>
+					<syn type="perfect">조심성없다</syn>
+					<ant type="grad">조심성있다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그는 무엇보다도 우리의 부주의한 말과 행동을 꾸짖었다.</eg>
+					<eg>어제 한 교사의 부주의한 태도에 많은 어린 학생들이 아까운 목숨을 잃을 뻔한 아찔한 사건이 일어났었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적속성값</sem_class>
+				<trans>be negligent</trans>
+				<trans>be heedless</trans>
+				<trans>be inattentive</trans>
+				<lr>
+					<syn type="perfect">무심하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|사태</sel_rst>
+					<eg>우리 모두는 자신의 건강에 부주의한 경우가 많다.</eg>
+					<eg>자신의 업무에 부주의한 사람이 동료들의 신뢰를 받기란 쉽지 않다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=S것1|S데1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC"/>
+					<eg>아이들을 돌보는 데에 부주의한 교사라면 그 자격을 의심받아 마땅하다.</eg>
+					<eg>이번 사건은 해당 관청에서 업소들의 위생 상태를 점검하는 데에 얼마나 부주의했던가를 보여주는 한 예라 할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

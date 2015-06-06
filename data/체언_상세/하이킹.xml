@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>하이킹</orth>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/16</cre_date>
+				<cre_writer>서진숙</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/13</mod_date>
+				<mod_writer>서진숙</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '건물'을 '속성기능장소'로 수정;add를 n_v로 수정 및 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/11/01</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/17</mod_date>
+				<mod_writer>전미현</mod_writer>
+				<mod_note>하이킹의 본래 사전적 의미는 자전거와는 관련이 없는 '걷다'라는 의미인데, 실제 통용되는 의미와 달라 굉장히 애매고 예문 수정</mod_note>
+			</mod>
+			<add>~을 나서다</add>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">hiking</org>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 동네에 있는 산책로는 ~을 하기에 좋은 코스이다.</eg>
+				<trans>hiking</trans>
+				<sem_class>돌아다니기</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 즐기다</form>
+					<frame></frame>
+				</comb_v>
+				<sel_rst arg="X">인간</sel_rst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

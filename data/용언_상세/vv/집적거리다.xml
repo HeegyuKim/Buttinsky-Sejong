@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>집적거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>'추근거리다'란 뜻의 집적거리다말고 '어떤 물건을 만지다'란 뜻도 있는 것 같은 데요.</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">집적대다</var>
+			<str>R.거리</str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">집적대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물</sel_rst>
+					<eg>철수는 가게에 진열되어 있는 장난감을 탐이 나는 듯 집적거렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>annoy</trans>
+				<lr>
+					<syn type="perfect">집적대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>처음부터 녀석은 넉살좋게 교실을 마구 설치고 다니며 아이들을 집적거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>make advance to someone</trans>
+				<lr>
+					<syn type="perfect">집적대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>업무중에 쓸데없이 여자들에게나 집적거리지 말고, 당신이 하는 일에 집중하시오.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

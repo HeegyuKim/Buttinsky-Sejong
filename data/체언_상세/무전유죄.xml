@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무전유죄</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note>주로 인용형으로 쓰인다는 점에서 관용표현에 가까움; 속성값과 비슷하지만 논항을 취하지 않음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">무전+유죄</str> <!--표준사전에 '무전'을 명사로 잡고 있어 명사로 기입함 -->
+			<org lg="si">無錢有罪</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">유전무죄 ~</idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 재판은 ~를 분명히 보여 준다.</eg>
+				<eg>새로운 세상을 만들기 위해서는 ~를 해소하고 각종 악법을 철폐해야 한다.</eg>
+				<trans>have-nots are guilty</trans>
+				<domain></domain>
+				<sem_class>속성값</sem_class> <!--마땅한 의미부류 없음--><!--'속성'에서 '속성값'으로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc"></comb_n><!--유전무죄 무전유죄는 위 idm 구획에 기록하였으므로, 여기서는 삭제(미현)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

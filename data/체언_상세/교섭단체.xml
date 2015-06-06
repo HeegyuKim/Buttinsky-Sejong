@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교섭단체</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/26</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>검토했음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_n의 '비~'를 der로 옮김</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교섭 단체</var>
+			<str type="N_N">교섭+단체</str>
+			<org lg="si">交涉團體</org>
+			<der pos="n" type="prefix">비~</der>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 당은 ~를 구성하지 못했다.</eg>
+				<trans>negotiation body</trans>
+				<domain></domain>
+				<sem_class>단체</sem_class><!--'정당'으로 분류할 수는 없는 듯(김이정)--><!--동감입니다.(권)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">원내 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 구성하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 이루다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 해산하다</form>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

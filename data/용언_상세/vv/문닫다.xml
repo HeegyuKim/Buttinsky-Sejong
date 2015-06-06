@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문닫다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/16</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/17</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+			<note>2002/10/16(허용)</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문을 닫다</var>
+			<org lg="si">門_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>close the door</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>누가 문닫고 왔니?</eg>
+					<eg>현관에서 문닫자마자 나를 맞아주는 건 뽀삐였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>close</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">건물</sel_rst>
+					<eg>상점이 문닫을 시간이니 서둘려야겠다.</eg>
+					<eg>박물관은 6시에 문닫는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>close down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단</sel_rst>
+					<eg>그 회사는 부도로 문닫을 위기에 놓여 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="magn">완전히</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

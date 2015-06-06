@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>생활양식</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/10</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사연어 정보 추가;동사정보에 '바뀌다, 변하다' 추가;맥스엔, 선택제약 정보 추가;수식어절 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">생활 양식</var> <!--정보 기입(김)-->
+			<str type="N_N">생활+양식</str>
+			<org lg="si">生活樣式</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>현대인들은 ~이 모두 비슷하다.</eg>
+				<eg>그의 집안은 전통적인 ~을 고수하고 있다.</eg> <!--예문 수정(김)-->
+				<trans>modus vivendi</trans>
+				<domain></domain>
+				<sem_class>방법</sem_class> <!--추상적대상에서 방법으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 같다</comb_aj>
+				<comb_aj type="appr">~이 다르다</comb_aj>
+				<comb_aj type="appr">~이 전통적이다</comb_aj>
+				<comb_n type="compound">주거 ~</comb_n>
+				<comb_n type="compound">전통 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 취하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 바뀌다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 변하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">인간|국가|종족|계층계급|지역집단|혈연집단|군대</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

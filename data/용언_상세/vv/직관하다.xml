@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>직관하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/26</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">직관을 하다</var>
+			<str>N.하</str>
+			<org lg="si">直觀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지추상적행위</sem_class>
+				<trans>know by instinct</trans>
+				<lr>
+					<syn type="perfect">직각하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>기영이는 그 회사의 사정을 들으면서 구조조정의 필요성을 직관했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음|Q</sel_rst>
+					<eg>기영이는 간 밤에 꾼 꿈이 좋지 않은 꿈임을 직관했다.</eg>
+					<eg>주시경은 한문을 공부하면서 남의 말과 글로 학문을 한다는 것이 얼마나 헛되고 낭비적인 일인가를 직관했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

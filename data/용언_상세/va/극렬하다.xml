@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극렬하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">極烈_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be violent</trans>
+				<trans>be severe</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|속성|사태</sel_rst>
+					<eg>새로운 법안은 의원 대다수의 극렬한 반대로 국회를 통과하지 못했다.</eg>
+					<eg>초기의 두통은 통증이 극렬하고 신체적·정신적인 스트레스를 동반한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>극렬하게</infl_rst>
+			<trans>severly</trans>
+			<defect_eg>그 작가와 작품을 극렬하게 욕하던 사람도 작가의 구속에 반대한다는 서명에 동참하였다.</defect_eg>
+			<defect_eg>많은 계몽주의자들은 봉건적인 인습에 극렬하게 반발했다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

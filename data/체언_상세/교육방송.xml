@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교육방송</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>고유명사 용법도 있음(한국교육방송공사 EBS)</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>예문추가</mod_note>
+				<mod_note>cl기술</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>참고: 방송 교육</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교육 방송</var>
+			<str type="N_N">교육+방송</str>
+			<org lg="si">敎育放送</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>아무리 좋은 ~이라도 두 살 미만의 아기들에게 보이는 것은 좋지 않다.</eg><!--추가함(권오희)-->
+				<eg>요즘 인터넷으로 ~을 보려고 컴퓨터를 사려는 학생들 많아졌다.</eg>
+				<eg>이번 수능 모의고사에는 ~에서 다룬 문제가 나왔다.</eg>
+				<eg>나는 ~을 듣지는 않고 교재만 풀어왔다.</eg>
+				<trans>educational broadcasting</trans>
+				<domain></domain>
+				<sem_class>방송물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 사업</comb_n>
+				<comb_n type="compound">~ 교재</comb_n>
+				<comb_n type="compound">~ 시청</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 듣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 녹화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 시작하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 시청하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

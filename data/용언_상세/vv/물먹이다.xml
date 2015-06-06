@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>물먹이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">물을 먹이다</var>
+			<str>NV</str><!--"V.이1"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>cheat sb into worse thing</trans>
+				<lr>
+					<syn type="perfect">골탕먹이다</syn>
+					<hyper>속이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>부처관료들은 일부러 빠뜨린 정보를 장관을 통해 대통령에게 직접 보고케 함으로써 청와대 참모진들을 물먹이고 자신들에 대한 의존도를 점점 높이게 하는 방법을 잘 알고 있다.</eg>
+					<eg>소비자 물먹이는 악덕상인 몰아내자.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통탄스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.스럽</str>
+			<org lg="si">痛歎_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be lamentable</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|인간관련현상|상태|행위|인간</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>조광조는 거짓 공훈을 내세우는 벼슬아치들이 통탄스러웠다.</eg>
+					<eg>조광조는 간신들의 모함이 통탄스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>조광조는 간신들이 자신을 모함하는 것이 통탄스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

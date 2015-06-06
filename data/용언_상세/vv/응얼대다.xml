@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>응얼대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>응얼거리다</see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>hum</trans>
+				<trans>murmur</trans>
+				<lr>
+					<syn type="perfect">응얼거리다</syn>
+					<syn type="perfect">응얼응얼하다</syn>
+					<syn type="perfect">흥얼대다다</syn>
+					<syn type="perfect">흥얼거리다</syn>
+					<syn type="perfect">흥얼흥얼하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡(노래|가요|유행가|동요)|텍스트(시|시조|기도문)</sel_rst>
+					<eg>요즘 아들 녀석이 늘 응얼대는 노래가 무슨 노래인지 그녀로서는 알 수가 없었다.</eg>
+					<eg>할머니는 양지 바른 곳에 앉아 기도문을 응얼대며 시간을 보내기를 좋아하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>murmur</trans>
+				<trans>mutter</trans>
+				<lr>
+					<syn type="perfect">응얼거리다</syn>
+					<syn type="perfect">응얼응얼하다</syn>
+					<syn type="perfect">중얼대다</syn>
+					<syn type="perfect">중얼거리다</syn>
+					<syn type="perfect">중얼중얼하다</syn>
+					<hyper>말하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT">소통행위(말|이야기|불평|변명)</sel_rst>
+					<eg>못난 사람들은 제 할 일은 않고 그렇게 불평만 응얼대기 마련이다.</eg>
+					<eg>겁에 질린 그녀는 몇 마디 변명을 응얼대다가 마침내 울음보를 터뜨리고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>아이들이 빨리 나가자고 응얼대는 사이에도 그녀는 방안과 마루를 오락가락하며 뭔가를 찾고 있었다.</eg>
+					<eg>그는 기죽은 목소리로 자신은 모르는 일이라고 응얼댔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

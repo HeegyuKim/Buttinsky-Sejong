@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>파탄나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/10</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">파탄이 나다</var>
+			<str>NV</str>
+			<org lg="si">破綻_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>become bankrupt</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온(재정|가정|계획)</sel_rst>
+					<eg>국가 재정이 파탄나는 일은 없다.</eg>
+					<eg>도박으로 가정이 파탄나는 일이 많다.</eg>
+					<eg>너무 일찍 언론에 알려지는 바람에 모든 계획이 파탄날 지경이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

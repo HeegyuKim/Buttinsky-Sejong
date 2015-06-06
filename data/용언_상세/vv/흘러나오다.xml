@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흘러나오다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="eo"/>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>flow out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물(연기|빗물|기름)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">부분장소(방|경비실|천장|벽|굴뚝)</sel_rst>
+					<eg>방에서 빗물이 흘러나온다는 게 말이 되느냐?</eg>
+					<eg>휴일인데도 공장의 굴뚝에서 연기가 흘러나오고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(달빛|불빛|전등불)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">부분장소(방|경비실|천장|벽|굴뚝)</sel_rst>
+					<eg>밤늦은 시간이어서 무서웠지만 경비실에서 희미한 전등불이 흘러나오는 것을 보니 마음이 가벼워졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리(소음|노랫소리|말소리|음악소리)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(방|건물)</sel_rst>
+					<eg>파티가 있는 날인지 늦은 시간에도 음악소리가 옆집에서 흘러나오고 있다.</eg>
+					<eg>음악소리가 공연장에서 도로까지 흘러나온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>run out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소통행위(소문|욕설|전망|예상)</sel_rst>
+					<eg>경기가 회복될 것이라는 낙관적인 전망이 흘러나왔다.</eg>
+					<eg>지혜가 일등이라는 이야기는 도대체 어디서 흘러나왔는가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간질간질하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/04/09</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">근질근질하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>질병및증세</sem_class>
+				<trans>be tickling</trans>
+				<trans>be tickish</trans>
+				<lr>
+					<syn type="perfect">간지럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>목구멍이 간질간질하고 기침이 나는 것이 감기가 오려는가 보다.</eg>
+					<eg>기분좋게 수영장에 다녀온 다음날 눈이 간질간질하고 빨개지더니 덜컥 눈병에 걸려 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>입이 간질간질하다</idm>
+			<idm>귀가 간질간질하다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

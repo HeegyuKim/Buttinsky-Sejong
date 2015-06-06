@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>탈러</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/14</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="de">Taler</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>독일의 옛 화폐단위인 ~와 현재 화폐 단위인 마르크의 가치를 비교하면, 1~가 3마르크에 해당된다</eg>
+				<domain>경제</domain>
+				
+				<cl_subtype type="sum"/>
+				<rel_n>마르크</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

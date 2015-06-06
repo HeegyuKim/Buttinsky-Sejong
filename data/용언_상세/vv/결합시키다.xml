@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>결합시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>의미부류 검토 및 격틀 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어원 제시 식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>상호동사 격틀 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">결합을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">結合__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>combine</trans>
+				<lr>
+					<syn type="perfect">결속시키다</syn>
+					<syn type="perfect">연결시키다</syn>
+					<ant type="compl">분리시키다</ant>
+					<ant type="compl">절단시키다</ant>
+					<hyper>붙이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="COM">구체물</sel_rst>
+					<eg>기술자들은 잘라진 판을 보강재와 결합시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물</sel_rst>
+					<eg>기술자들은 보강재와 잘라진 판을 결합시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물</sel_rst>
+					<eg>그 기계는 기존 스피커에 헤드폰 앰프를 결합시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>make a union</trans>
+				<lr>
+					<syn type="perfect">연합시키다</syn>
+					<syn type="perfect">결부시키다</syn>
+					<ant type="compl">분리시키다</ant>
+					<hyper>섞다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="2">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="COM">추상적대상</sel_rst>
+					<eg>그 사상가는 프로이드 이론을 마르쿠스 이론과 교묘히 결합시켜 자기의 주장을 펴고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="2">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="THM">추상적대상</sel_rst>
+					<eg>그 사상가는 마르쿠스 이론과 프로이드 이론을 교묘히 결합시켜 자기의 주장을 펴고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">추상적대상</sel_rst>
+					<eg>요즘 서점에는 기존 생각에 자신의 생각을 약간 결합시켜 내놓은 책들 일색이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>bond together</trans>
+				<lr>
+					<syn type="perfect">결속시키다</syn>
+					<ant type="compl">해체시키다</ant>
+					<hyper>모으다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>아나바다 운동은 마을 사람들을 하나로 결합시키기에 충분했다.</eg>
+					<eg>어려운 회사를 돕자는 마음이 그들을 결합시켜 오늘의 화합된 노사관계를 이룩한 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

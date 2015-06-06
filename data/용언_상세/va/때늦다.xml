@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>때늦다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/29</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속도속성값</sem_class>
+				<trans>be late</trans>
+				<lr>
+					<ant type="grad">때이르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|기상관련물</sel_rst>
+					<eg>그의 행동은 너무 때늦은 감이 있다.</eg>
+					<eg>그가 때늦게 나에게 인사를 온다고 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>나는 네가 지금 그에게 그 말은 하는 것은 너무 때늦다고 생각한다.</eg>
+					<eg>그를 이제 돕는 것은 이미 때늦었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

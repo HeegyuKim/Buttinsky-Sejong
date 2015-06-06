@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>매매가격</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/22</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>domain  삭제;수량표현 삭제;형용사 자유 구성, 명사 자유구성 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정</mod_note>
+				<mod_note>cl복원</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">매매 가격</var>
+			<var type="abb">매매가</var>
+			<str type="N_N">매매+가격</str>
+			<org lg="si">賣買價格</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>인근의 유사 토지를 보고 ~을 결정하였으니 터무니없는 가격은 아니다.</eg>
+				<eg>이 아파트는 ~이 얼마나 됩니까?</eg>
+				<trans>sale price</trans>
+				<domain>경제</domain>
+                <!--domain 의 '경제'를 삭제(미현)-->
+				<sem_class>값</sem_class>
+				<lr>
+				    <syn type="etc">실가</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<!--비싸다, 싸다, 높다, 낮다의 경우 magn로 수정(미현)--><!--극대나 극소에 해당하는 것이 아니므로 appr로 재기술(권오희)-->
+				<comb_aj type="appr">~이 비싸다</comb_aj>
+				<comb_aj type="appr">~이 싸다</comb_aj>
+				<comb_aj type="appr">~이 높다</comb_aj>
+				<comb_aj type="appr">~이 낮다</comb_aj>
+				<comb_aj type="appr">~이 적절하다</comb_aj>
+				<!--"lexfunc" 대신 "compound"로 수정-->
+				<comb_n type="compound">적정 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 결정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 낮추다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">원</cl>
+				<!--수량표현 '원' 삭제(미현)--><!--삭제하지 않아도 될 듯(권오희)-->
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

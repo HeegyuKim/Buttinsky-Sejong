@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>난다긴다하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>형태론적 내부구조에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var><!--"격조사에 의한 분리형"은 쓰이는 일이 없는 듯하여 제시하지 않음.-->
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>be excellent</trans>
+				<lr>
+					<hyper>뛰어나다</hyper>
+					<hyper>잘하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N2-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물|인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">분야</sel_rst>
+					<eg>달리기에서 난다긴다하는 동물들은 여기 다 모여 있다.</eg>
+					<eg>아무리 난다긴다하는 사람도 그한테는 당할 수 없을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

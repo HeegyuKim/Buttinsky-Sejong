@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간여하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">간여를 하다</var>
+			<str>N.하</str>
+			<org lg="si">干與_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>간섭</sem_class>
+				<trans>participate in</trans>
+				<trans>be concerned in</trans>
+				<lr>
+					<syn type="perfect">관여하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">사건</sel_rst>
+					<eg>조선시대의 많은 선비들은 국가의 중요한 정치적 문제에 주도적으로 간여하였다.</eg>
+					<eg>그는 문학부장의 직책으로 편집에 직접적으로 간여했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

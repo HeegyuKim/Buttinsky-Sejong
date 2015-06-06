@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시국사범</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/25</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>시험기술 후 재기술</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기형 정보 추가;센스1이 적절한지 모르겠음, 일반적으로 '범인'의 의미로 쓰이나, '범죄'를 지칭하는데 쓰이는지 확인 필요;센스2의 명사결합에서 '~ 석방|사면|복권'은 삭제함;센스2의 의미부류를 '결과행위인간'에서 '행위인간'으로 수정함;센스2에 동사결합 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 default 정보 형식수정;센스(법률상 위법행위) 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/26</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시국 사범</var> <!-- 표준사전의 용례를 보고 추가함 -->
+			<str type="N_N">시국+사범</str>
+			<org lg="si">時局事犯</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>민주화운동으로 수감되었던 ~들이 이번에 사면되었다.</eg>
+				<trans>conscientious offender in particular political situation</trans>
+				<domain></domain>
+				<sem_class>행위인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 사면하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 석방하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 구속하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

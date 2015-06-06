@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>담배꽁초</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>원어정보 검토 요망;단위사 정보 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>단위사 OK; 원어정보 불필요. 전자사전은 인식에 필요한 원어정보를 요구할 뿐, 어원정보를 필요로하지 않으므로</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">담배 꽁초</var>
+			<str type="N_N">담배+꽁초</str>
+			<org lg="si"></org>
+			<!-- 담배의 원어정보를 주어야 하는지? -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>거리에 ~를 버리지 맙시다.</eg>
+				<trans>cigarette butt</trans>
+				<domain></domain>
+				<sem_class>담배</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 피우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 버리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 비벼끄다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 줍다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

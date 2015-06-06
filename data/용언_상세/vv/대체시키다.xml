@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대체시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대체를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">代替__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>replace</trans>
+				<trans>substitute</trans>
+				<lr>
+					<syn type="perfect">대치시키다</syn>
+					<syn type="perfect">환치시키다</syn>
+					<hyper>바꾸다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>정부는 수입 기차를 국산 기차로 내년부터 대체시키기로 결정했다.</eg>
+					<eg>선생님은 수업 중 발표와 과제물로 중간시험을 대체시킨다고 하셨다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>이번 기술 개발은 그간 전적으로 수입에 의존하던 핵심 부품을 국산 부품으로 대체시키는 효과를 가져온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>transfer</trans>
+				<lr>
+					<hyper>바꾸다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">금전</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상</sel_rst>
+					<eg>우리는 직원들의 가불금을 손익 계정에 대체시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

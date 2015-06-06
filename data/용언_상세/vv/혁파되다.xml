@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혁파되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/10</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혁파가 되다</var>
+			<str>N.되</str>
+			<org lg="si">革罷_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense >
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be abolished</trans>
+				<lr>
+					<hyper>없어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단|규범|관습|제도|산업|분야|개념</sel_rst>
+					<eg>혈연 관계나 지연 관계를 중심으로 한 인물의 등용은 이제 혁파되어야 한다.</eg>
+					<eg>우리는 이번 사건을 계기로 정치계의 낡은 악습이 혁파되기를 기원한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

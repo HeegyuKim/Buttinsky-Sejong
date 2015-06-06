@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉포하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">凶暴_</org>
+			<org lg="si">兇暴_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be atrocious</trans>
+				<trans>be ferocious</trans>
+				<trans>be brutal</trans>
+				<lr>
+					<syn type="perfect">흉폭하다</syn>
+					<syn type="kor">사납다</syn>
+					<ant type="grad">선량하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">성질</n_appr>
+					<eg>동네 사람들은 그를 흉포한 인간이라며 멀리했다.</eg>
+					<eg>그것은 흉포한 동물들이 지배하는 밀림에서 살아남기 위한 약한 동물들의 몸부림과도 같았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

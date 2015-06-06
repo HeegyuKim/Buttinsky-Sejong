@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>골프연습장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/07(정아름)명사결합정보추가 </note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">골프 연습장</var>
+			<str type="N_N">골프+연습장</str>
+			<org lg="en">golf___</org>
+			<org lg="en">__鍊習場</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>요사이는 도시 근교 농촌에도 ~이 들어서기 시작하였다.</eg>
+				<trans>golf practice range</trans>
+				<domain></domain>
+				<sem_class>상업건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">실내 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 건설하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 이용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳|군데|개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

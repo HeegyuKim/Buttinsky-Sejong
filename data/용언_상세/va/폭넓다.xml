@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>폭넓다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/23</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">폭이 넓다</var>
+			<str>NA</str>
+			<org lg="si">幅_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be broad</trans>
+				<trans>be vast</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>스코티쉬 테리어는 가슴이 깊고 갈비뼈가 충분히 발달되어 폭넓다.</eg>
+					<eg>우리는 폭넓은 함지박에 여러가지 채소를 넓고 밥을 비벼먹었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be extensive</trans>
+				<trans>be wide</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>시스템 관리자의 업무영역은 매우 폭넓다.</eg>
+					<eg>음역은 기본 음정에서 2옥타브 아래까지 그들의 음악성만큼이나 폭넓다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be large-hearted</trans>
+				<trans>be broadminded</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">관계</n_appr>
+					<n_appr arg="X">교제</n_appr>
+					<eg>폭넓은 그는 까마득하게 나이 많은 선배부터 어린 후배들까지 챙긴다.</eg>
+					<eg>그는 사람이 참 폭넓다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

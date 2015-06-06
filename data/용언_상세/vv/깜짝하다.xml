@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깜짝하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">깜작을 하다</var>
+			<var type="etc">깜작하다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>blink</trans>
+				<lr>
+					<syn type="perfect">깜박하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈)</sel_rst>
+					<eg>감독이 눈을 한 번 깜짝하면 작전 들어가는 거야.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈)</sel_rst>
+					<eg>감독 눈이 깜짝하는 것처럼 보여서 도루를 시도한 것뿐이에요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">끔쩍하다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>깜짝하고</infl_rst>
+			<trans>be startled</trans>
+			<sel_rst arg="X" tht="EXP">인간</sel_rst>
+			<sel_rst arg="Y" tht="EFF">구체물|추상적대상|사태</sel_rst>
+			<defect_eg>영희는 아이들의 장난에 깜짝하고 놀라서 뒤로 자빠졌다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

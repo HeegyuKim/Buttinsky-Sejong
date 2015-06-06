@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>윤락업소</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>명사_형용사 연쇄, 명사_동사 연쇄, 단위표현 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>str 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>동사 결합 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">윤락+업소</str>
+			<org lg="si">淪落業所</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>청소년들의 ~ 출입은 금지되어야 한다.</eg>
+				<trans>brothel</trans>
+				<domain></domain>
+				<sem_class>상업건물</sem_class>
+				<lr>
+					<syn type="perfect">매춘업소</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<!--'~이 많다|적다'는 많이 공기하는 형용사로 보기 힘들어 삭제(미현)-->
+				<comb_aj type="temp"></comb_aj>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="compound">~ 단속</comb_n>
+				<comb_v type="narg_vpred"><!--'~가 적발되다'보다 능동형으로 수정(미현)-->
+					<form vcompound="no">~를 적발하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 단속하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">곳</cl> <!--'개'보다 '곳|군데'를 쓰는게 더 적절하므로 수정(미현)-->
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

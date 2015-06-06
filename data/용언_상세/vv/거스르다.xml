@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>거스르다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/28</cre_date>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go against</trans>
+				<lr>
+					<syn type="sino">역행하다</syn>
+					<ant type="dir">따르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(흐름|순리|대세|이치|운명)</sel_rst>
+					<eg>그는 개혁을 절실히 원했지만 대세를 거스르기는 힘들었다.</eg>
+					<eg>오빠는 여자친구와 헤어지는 일이 운명에 거스르는 일이라고 믿고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go against</trans>
+				<lr>
+					<syn type="sino">역행하다</syn>
+					<ant type="dir">따르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(바람|강|길|바다)</sel_rst>
+					<eg>삼촌은 물살을 거슬러 수영할 수가 없어서 떨어뜨린 모자를 그냥 보고 있을 수밖에 없었다.</eg>
+					<eg>연어는 물살을 거슬러 상류로 올라와 번식을 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<end_rst1>거슬러</end_rst1>
+					<end_rst1>거스르며</end_rst1>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go against</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(뜻|의지)</sel_rst>
+					<eg>형은 부모님의 뜻을 거스르고, 의대에 진학하지 않았다.</eg>
+					<eg>그 여자는 부모님의 뜻과 주변의 의견을 거스르고 그 가난한 화가와 결혼하고야 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>irritate</trans>
+				<trans>incite</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황|개체상황(비위|기분|신경)</sel_rst>
+					<eg>오늘은 누나 기분이 좋지 않으니 누나의 신경을 거스르지 않도록 조심해라.</eg>
+					<eg>아까부터 저 녀석이 내 비위를 거스르는 말과 행동을 내내 하고 있어서 기분이 몹시 언짢았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/28</cre_date>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>give change</trans>
+				<trans>make change</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<eg>가게 아주머니는 돈을 거슬러 주시면서 새로 나온 사탕을 먹어 보라고 주셨다.</eg>
+					<eg>나는 잔돈을 잘못 거슬러 와서 가게로 다시 발걸음을 해야 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<end_rst1>거슬러</end_rst1>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

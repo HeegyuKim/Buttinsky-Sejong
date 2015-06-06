@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>준법투쟁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정;명사_동사 연쇄 수정;선택제약 기술;단위표현 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">준법+투쟁</str>
+			<org lg="si">遵法鬪爭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>노조는 회사와의 교섭을 촉구하기 위해 ~에 들어갔다.</eg>
+				<trans>lawabiding struggle</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<!--준법투쟁의 경우는 우발적인 사건이 아니므로 의미부류를 '갈등상황'으로 두는 것은 틀림. 집단행동의 의미에서 행위의 하위부류에서 '지속적활동'으로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 돌입</comb_n>
+				    <comb_v type="npred_vsup"><!--기능동사 구문 추가(미현)-->
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"><!--기능동사 변이형으로 수정(미현)-->
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 ~을 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 들어가다</form>
+					<frame>X-이 ~에 들어가다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame>X-이 ~에 나서다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간집단(노동자)</sel_rst><!--선택제약기술(미현)-->
+				<!--단위표현 '차례,번,회' 기술(미현)-->
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

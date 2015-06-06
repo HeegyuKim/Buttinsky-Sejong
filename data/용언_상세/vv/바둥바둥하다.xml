@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바둥바둥하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정 및 보충</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">바동바동하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>struggle</trans>
+				<trans>wiggle</trans>
+				<lr>
+					<syn type="perfect">아등바등하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>물건을 사는데 그저 바둥바둥해 가면서, 주인이 손해보면서 팔 수 있게끔 하는 것이 사는 사람의 소원이고, 파는 사람은 그 반대이지요.</eg>
+					<eg>끝까지 살아 보겠다고 바둥바둥하면서 있는 방법 다 동원하다가 죽는 것을 보면 민망하기 짝이 없습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

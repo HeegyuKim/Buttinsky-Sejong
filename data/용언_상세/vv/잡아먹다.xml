@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잡아먹다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>devour</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물</sel_rst>
+					<eg>고양이가 쥐를 잡아먹는 광경은 정말 소름끼치게 무서웠다.</eg>
+					<eg>개구리는 파리를 잡아먹고 산다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>butcher and eat</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물</sel_rst>
+					<eg>동네 청년들이 이번 복날 개를 한 마리 잡아먹기로 한 모양이다.</eg>
+					<eg>언제쯤 저 병아리를 키워 잡아먹을 수 있을까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>torture</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>사장은 뭐가 못 마땅한 지 나만 보면 잡아먹으려 든다.</eg>
+					<eg>그녀는 나를 잡아먹을 듯 몰아세웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>occupy</trans>
+				<lr>
+					<syn type="kor">차지하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<eg>이 가구는 장소를 너무 많이 잡아먹는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take</trans>
+				<trans>consume</trans>
+				<lr>
+					<syn type="sino">소비하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">재료성분|물리학적대상|돈</sel_rst>
+					<eg>이 고물 냉장고는 제대로 작동도 못 하면서 전기만 잡아먹는다.</eg>
+					<eg>차체가 크면 당연히 기름을 많이 잡아먹지요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>need</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(시간|힘|노력)</sel_rst>
+					<eg>이 일은 시간을 많이 잡아먹는다.</eg>
+					<eg>별로 성과는 없으면서 노력만 잡아먹는 사업은 이제 그만두고 싶다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

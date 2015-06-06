@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계집질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계집질을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>범죄및비행</sem_class>
+				<trans>commit adultery</trans>
+				<lr>
+					<syn type="de_vulgar">바람피우다</syn>
+					<ant type="conv">서방질하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">남성인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">여성인간</sel_rst>
+					<eg>그 남자는 그때 이 여자 저 여자와 계집질하느라 정신이 팔려 있었다.</eg>
+					<eg>아내가 그 모양이니 남편이 계집질하고 돌아다니는 게지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

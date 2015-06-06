@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>겨울바람</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>eg 수정;n_v 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/28</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">겨울 바람</var>
+			<str type="N_N">겨울+바람</str>
+			<org lg="etc"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~에 감기 들겠다</eg>
+				<!--표제어 ~ 처리(송근영)-->
+				<trans>winter wind</trans>
+				<domain></domain>
+				<sem_class>바람</sem_class>
+				<lr>
+					<syn type="sino">동풍</syn>
+					<ant type="grad">여름바람</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 차다</comb_aj>
+				<comb_aj type="appr">~이 싸늘하다</comb_aj>
+				<comb_aj type="appr">~이 거세다</comb_aj>
+				<comb_aj type="appr">~이 잦다</comb_aj>
+				<comb_aj type="magn">~이 매섭다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 불다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!-- narg->npred(송근영) -->
+					<form vcompound="no">~을 쐬다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 맞다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 불다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 몰아치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 불어닥치다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">점</cl>
+				<cl type="uni">줄기</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>다</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/18</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jc</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">이다</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>등위접속</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep>필수</rep>
+					<sms></sms>
+				</fol_s>
+				<eg>철수는 야구다 배구다 못 하는 운동이 없다.</eg>
+				<!--J의 반복=필수.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/18</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jx</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="etc">다가</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>강조</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>먹다 남은 빵을 버리기는 아까워서 냉장고에다 처박아두었지.</eg>
+				<eg>돌멩이로다 못을 박았다.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

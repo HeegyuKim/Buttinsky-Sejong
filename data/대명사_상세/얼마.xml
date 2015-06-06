@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>얼마</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<comp pos="n" type="suffix">~간</comp>
+			<comp pos="av" type="suffix">~나</comp>
+		</morph_grp>
+		<sense n="1" sem="interrogative" num="etc" ref="etc">
+			<sem_grp>
+				<eg>선생은 이 사업에 ~를 투자하셨소?</eg>
+				<eg>이 석상의 크기는 ~입니까?</eg>
+				<eg>이 집의 하루 매상이 ~나 될까?</eg>
+			</sem_grp>
+			<syn_grp>
+				<comb_ida>~이다</comb_ida>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="indefinite" num="etc" ref="etc">
+			<sem_grp>
+				<eg>네가 ~를 요구하든 다 대 주마</eg>
+				<eg>당신이 도움을 청하면 ~든지 들어줄 겁니다</eg>
+				<eg>비용은 ~가 들든지 받지 않겠습니다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+			</syn_grp>
+		</sense>
+		<sense n="3" sem="indefinite" num="etc" ref="thing">
+			<sem_grp>
+				<eg>~ 전에 내린 비로 물이 좀 불었다</eg>
+				<eg>시간이 ~ 없으니 서둘러라</eg>
+				<eg>이 돈 ~ 안 되지만 받아 가요</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

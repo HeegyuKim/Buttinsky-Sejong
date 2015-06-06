@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넙죽거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>X 논항의 의미역에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">넙죽을 거리다</var>
+			<var type="etc">납죽거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>open the mouth big and close repeatedly</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물|인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(입)</sel_rst>
+					<eg>참새가 입을 넙죽거리며 먹이를 받아먹는 모습은 정말 귀엽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

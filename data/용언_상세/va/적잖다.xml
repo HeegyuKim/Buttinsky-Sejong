@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>적잖다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A.잖</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be not a few</trans>
+				<lr>
+					<syn type="perfect">많다</syn>
+					<ant type="grad">적다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">일|단위|구체물|인간|인간집단</sel_rst>
+					<eg>그날 공연장에 모인 관객수가 적잖았다.</eg>
+					<eg>아직도 우리는 극복해야 할 난제들이 적잖다.</eg>
+					<eg>수많은 야생동물들의 서식지로 알려진 비무장지대에는 위험한 지역이 적잖다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be not a few</trans>
+				<trans>be remarkable</trans>
+				<lr>
+					<syn type="sino">현저하다</syn>
+					<ant type="grad">미미하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|결과행위|추상적대상|금전|권력|시간</sel_rst>
+					<eg>일시에 거꾸로 된 민주화의 시계를 바로잡는 데 드는 사회적 비용이 적잖다.</eg>
+					<eg>이 지방 토호로 알려진 그의 영향력이 적잖다.</eg>
+					<eg>이 일이 성공한 데에는 많은 분들의 숨은 노력과 도움이 적잖았습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

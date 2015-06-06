@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내려쬐다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 보충</mod_note>
+				<mod_note>"변이형" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내려쪼이다</var><!--표준에 의하면 "내려쬐다"는 "내리쬐다"의 북한식 표현이라고 함.-->
+			<var type="etc">내리쬐다</var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>빛</sem_class>
+				<trans>shine down</trans>
+				<lr>
+					<syn type="perfect">내리비치다</syn>
+					<hyper>쬐다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(햇빛|햇볕|햇살)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>햇볕이 대지에 따스하게 내려쬔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(햇빛|햇볕|햇살)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>소년이 앉아 있는 쓰레기통 위로 따사로운 햇살이 내려쬐고 있었다.</eg>
+					<eg>햇빛이 벌집 위로 내려쬐자 벌집 구멍이 모두 드러나 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

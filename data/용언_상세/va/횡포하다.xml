@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>횡포하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/06/01</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">橫暴_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be violent</trans>
+				<trans>be tyrannical</trans>
+				<trans>be despotic</trans>
+				<lr>
+					<syn type="perfect">난폭하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">성질</n_appr>
+					<eg>그는 본시 성격이 횡포하여 주변 사람들에게는 두려움의 대상이 되었다.</eg>
+					<eg>우리는 그가 이리도 횡포한 사람인 줄 몰랐었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>대기업의 횡포한 압력 속에 중소기업이 제대로 살아남기란 쉽지 않았다.</eg>
+					<eg>북한측은 미국의 이번 조치가 조선의 자주권에 대한 횡포한 침해라고 비난했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

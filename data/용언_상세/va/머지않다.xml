@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>머지않다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/31</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A.A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>be not too far</trans>
+				<lr>
+					<syn type="perfect">가깝다</syn>
+					<ant type="grad">멀다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>그가 올 날이 머지않다.</eg>
+					<eg>통일의 그 날이 머지않다.</eg>
+					<eg>머지않아 그가 돌아올 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>그가 오는 것이 머지않다.</eg>
+					<eg>통일의 날이 오는 것이 머지않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

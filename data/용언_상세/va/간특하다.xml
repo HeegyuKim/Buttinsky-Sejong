@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간특하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+		</mnt_grp>
+		<see>간특스럽다</see>
+		<morph_grp>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">奸慝_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>거르다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>skip</trans>
+				<lr>
+					<syn type="perfect">빼먹다</syn>
+					<syn type="sino">생략하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(식사|밥|끼니|때)|</sel_rst>
+					<eg>기말 보고서를 제출하느라고 며칠 끼니를 걸렀더니 하늘이 노랗게 보인다.</eg>
+					<eg>식사 거르지 말고 제 때 제 때 먹어라.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위(운동|출근|미사|예배)</sel_rst>
+					<eg>회사는 봉급지급을 한 달 걸러서 했다.</eg>
+					<eg>그 여자는 보통 한 달에 서너 번 정도는 운동을 거른다.</eg>
+					<eg>그 양반은 신앙이 무척 독실해 미사를 단 일주일도 거르지 않는다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S는것</sel_rst>
+					<eg>회사는 봉급을 지불하는 것을 한 달 걸렀다.</eg>
+					<eg>그 여자는 한 달에 서너 번 정도 운동하는 것을 걸렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(집)</sel_rst>
+					<eg>이곳에서는 두 집을 걸러 나오는 집이 우리 나라 사람의 집이다.</eg>
+					<eg>이 거리에서는 한 집 걸러 나오는 병원이 성형외과이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>filter</trans>
+				<lr>
+					<syn type="sino">여과하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">액체(물|술)|(찌꺼기)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체인공물(체|여과기|정수기)</sel_rst>
+					<eg>요즘은 수돗물이 안 좋아서인지 사람들이 물을 정수기에 걸러 마신다.</eg>
+					<eg>누룩과 쌀을 잘 섞어 다시 저온 발효시켜 숙성된 술을 체에 걸러 탁주를 만든다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">액체(물|술)|(찌꺼기)</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체인공물(체)</sel_rst>
+					<eg>누룩과 쌀을 잘 섞어 다시 저온 발효시켜 숙성된 술을 체로 걸러 탁주를 만든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>filter</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">행위</sel_rst>
+					<eg>입시관리처는 지원자들을 서류심사에서 일차적으로 거른 뒤 면접을 실시하였다.</eg>
+					<eg>부정확하게 기입한 서류들은 한 번 걸러서 넘겨 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

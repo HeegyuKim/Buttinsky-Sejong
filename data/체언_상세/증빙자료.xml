@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>증빙자료</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/28</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 정보 기술;의미부류 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">증빙 자료</var>
+			<!--띄어쓰기 변이형 기술(미현)-->
+			<str type="N_N">증빙+자료</str>
+			<org lg="si">證憑資料</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>취업을 위해 해당 기업에 학력 ~를 제출해야 한다.</eg>
+				<trans>documentary materials</trans>
+				<domain></domain>
+				<sem_class>관계구체물</sem_class><!--구체물이 나은 듯(권오희)-->
+				<!--의미부류를 '구체물'과 '문서' 둘 중에서 어떤게 나을지 고민중(미현)-->
+				<lr>
+					<syn type="perfect">증거자료</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 첨부</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 첨부하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

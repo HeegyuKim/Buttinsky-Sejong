@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확고부동하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">確固不動_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be firm</trans>
+				<trans>be fixed</trans>
+				<trans>be determined</trans>
+				<trans>be resolute</trans>
+				<lr>
+					<syn type="perfect">확고하다</syn>
+					<syn type="perfect">확고불발하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지적행위(결정|결심)|의견(생각|견해|믿음)|계획(의지|목표)</sel_rst>
+					<eg>선수들을 향한 감독의 신뢰가 확고부동하다.</eg>
+					<eg>누구도 그의 확고부동한 결심을 바꿀 수는 없었다.</eg>
+					<eg>너의 신념이 확고부동하니 머지않아 뜻을 이루게 될 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

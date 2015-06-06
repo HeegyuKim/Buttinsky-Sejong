@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>음성정보서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;의미부류를 '추상적대상'에서 '방향성행위'로 수정;명사결합 정보 추가;동사결합에 '~를 하다, 받다' 추가;동사결합의 명사유형을 술어명사로 수정;논항명사구 정보 추가;논항 의미정보 추가;단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 방향성행위를 수정;frame 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">음성정보 서비스</var>
+			<var type="spr">음성 정보 서비스</var>
+			<str type="N_N">음성정보+서비스</str> <!--'음성+정보' 추가분석 가능-->
+			<org lg="si">音聲情報___</org>
+			<org lg="en">____service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>컴퓨터가 통신망에 접속하면 ~를 통해 '어서오세요'라는 말이 나온다.</eg>
+				<eg>그 홈페이지는 시각장애인을 위한 ~를 제공하고 있다.</eg>
+				<trans>audiotex service</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">전화 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form> <!-- 구문이 적절한지 검토 필요 -->
+					<frame>X-이 Z-에게 Y-을|에대해 ~를 하다</frame>
+					<frame>X-이 Y-을|에대해 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form> <!-- 구문이 적절한지 검토 필요 -->
+					<frame>Z-이 X-에게|에게서 Y-을|에대해 ~를 받다</frame>
+					<frame>Z-이 Y-을|에대해 ~를 받다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 이용하다</form><!--추가(김이정)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개발하다</form><!--추가(김이정)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">단체</sel_rst>
+				<sel_rst arg="Y">온</sel_rst>
+				<sel_rst arg="Z">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

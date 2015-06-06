@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발단하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">발단되다</var>
+			<str>N.되</str>
+			<org lg="si">發端_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>원인</sem_class>
+				<trans>get begun from</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|로부터 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|행위</sel_rst>
+					<sel_rst arg="Y" tht="SRC">구체물|사건|행위|의견|계획|S것|S데</sel_rst>
+					<eg>그 일은 애초 당 대표의 발언에서 발단한 것이었다.</eg>
+					<eg>이 문제는 1952년 우리 정부가 인접 해양에 대한 주권선언, 즉 평화선을 선포하자 이 수역 내의 독도는 일본의 영토라고 항의한 데서 발단해 양국 간의 외교 쟁점으로 부각되기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

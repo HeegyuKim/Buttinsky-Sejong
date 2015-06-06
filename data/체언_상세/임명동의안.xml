@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>임명동의안</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem 검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 그대로 둠, n_n 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">임명 동의안</var>
+			<str type="N_N">임명+동의안</str><!--'동의+안'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">任命同意案</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>새 국무총리 후보에 대한 ~이 국회에서 가결되었다.</eg>
+				<trans>formal appointment</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">총리 ~</comb_n>
+				<comb_n type="compound">~ 표결</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 가결되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 부결되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제출하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

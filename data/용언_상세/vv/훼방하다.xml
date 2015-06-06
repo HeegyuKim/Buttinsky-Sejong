@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훼방하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/19</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">훼방을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">毁謗_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>slander</trans>
+				<trans>defame</trans>
+				<lr>
+					<syn type="perfect">비방하다</syn>
+					<syn type="perfect">훼방놓다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>그는 틈만 나면 나를 훼방하고 다닌다.</eg>
+					<eg>그렇게 친구를 훼방하는 것은 부끄러운 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>interfere</trans>
+				<trans>interrupt</trans>
+				<lr>
+					<syn type="perfect">방해하다</syn>
+					<syn type="perfect">훼방놓다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>그는 우리가 하는 일을 사사건건 훼방했다.</eg>
+					<eg>누구든 이번 행사를 훼방하는 사람이 있으면 가만 두지 않겠어.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>아이는 같이 놀아 달라며 누나가 숙제하는 것을 훼방했다.</eg>
+					<eg>그는 무슨 심보 때문인지 내가 그 여자를 만나는 것을 훼방하려 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>날씨조차도 우리 행사를 훼방하는군.</eg>
+					<eg>그의 존재 내 일을 훼방하는 것 같다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그런 행동은 우리가 이 계획을 실행하는 것을 훼방하는 거야.</eg>
+					<eg>갑작스런 소나기가 우리가 모처럼 여행을 떠나는 것을 훼방했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

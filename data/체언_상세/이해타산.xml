@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이해타산</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;예문 수정;의미부류 수정;형용사결합, 동사결합 정보 추가;논항명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>프레임 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">이해 타산</var> <!-- 띄어쓰기 정보 추가 -->
+			<str type="N_N">이해+타산</str>
+			<org lg="si">利害打算</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~이 빠르다고 쉽게 돈을 버는 것은 아니다.</eg> <!-- '매사에 ~적인 습관을 지닌 사람은 어떻게 보면 꼼꼼하다고도 할 수 있을 것이다.'는 예문으로 문제 있어 수정함 -->
+				<eg>그는 ~을 잘 따져 수지가 맞을 것 같은 장사를 시작했다.</eg>
+				<trans>calculation of the loss and gain</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class> <!--'단독행위'를 수정함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 빠르다</comb_aj>
+				<comb_aj type="appr">~이 밝다</comb_aj>
+				<comb_aj type="appr">~에 밝다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 따지다</form>
+					<frame>X-이 Y-에대해 ~을 따지다</frame>
+					<frame>X-이 S것-에 대해 ~을 따지다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 얽매이다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<max_n_str>X-의 S것-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">행위|사건|추상적대상</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

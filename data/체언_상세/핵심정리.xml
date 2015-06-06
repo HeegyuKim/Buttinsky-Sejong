@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>핵심정리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">핵심 정리</var><!--(임근석) 수정-->
+			<str type="N_N">핵심+정리</str>
+			<org lg="si">核心整理</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>본 학원에서는 막바지 점수 올리기를 위한 교과 단원별 ~와 함께 독자 개발한 수능예상문제를 수강생에게 제공합니다.</eg>
+				<trans>arrange the core</trans>
+				<domain></domain>
+				<sem_class>계획사건</sem_class>
+				<lr>
+					<syn type="etc">핵심요약</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">텍스트담지물</sel_rst>
+				<cl type="uni">장</cl>
+				<cl type="uni">권</cl> <!--항목 추가-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

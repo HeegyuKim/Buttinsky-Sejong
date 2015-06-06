@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>곱상스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/08</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>사전들과 말뭉치에서도 나오지 않음</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>곱상하다</see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.스</str>
+			<org lg="si">_相_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be pretty and sweet</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame></frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

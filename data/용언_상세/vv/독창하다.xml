@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>독창하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">독창을 하다</var>
+			<str>N.하</str>
+			<org lg="si">獨唱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적행위</sem_class>
+				<trans>sing a solo</trans>
+				<lr>
+					<ant type="compl">합창하다</ant>
+					<ant type="compl">중창하다</ant>
+					<hyper>노래하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡</sel_rst>
+					<eg>철수는 이번 대회에서 독창하기로 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">독창을 하다</var>
+			<str>N.하</str>
+			<org lg="si">獨創_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>create uniquely</trans>
+				<lr>
+					<syn type="perfect">창조하다</syn>
+					<ant type="compl">모방하다</ant>
+					<ant type="compl">답습하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소|집단|추상적대상</sel_rst>
+					<eg>무언가를 독창한다는 것은 쉬운 일이 아니다.</eg>
+					<eg>이번에 독창한 기계가 인정받기까지는 시간이 걸릴 것으로 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

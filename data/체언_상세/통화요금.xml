@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>통화요금</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/08</mod_date>
+				<mod_writer>전미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">통화 요금</var>
+			<str type="N_N">통화+요금</str>
+			<org lg="si">通話料金</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>한국통신은 실질적인 114 안내 서비스의 제공 여부와는 상관없이 전화 연결만으로 이용자에게 ~을 부과해 온 사실이 드러났다.</eg>
+				<trans>The fee for a telephone call</trans>
+				<domain></domain>
+				<sem_class>돈</sem_class>
+				<lr>
+					<syn type="perfect">전화요금</syn> <!--의미관계 수정; 목-->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 쎄다</comb_aj>
+				<comb_aj type="magn">~이 많다</comb_aj>
+				<comb_aj type="magn">~이 싸다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">원</cl>	<!--(임근석) 추가-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

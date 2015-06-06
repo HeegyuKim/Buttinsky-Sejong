@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상호작용</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/18</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>현상, 대칭적행위의 기술 내용이 동일하여 수정함</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상호 작용</var>
+			<str type="R_N">상호+작용</str>
+			<org lg="si">相互作用</org> <!--한자 수정(김)-->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>규범적 행동 질서는 인간의 ~을 기초로 형성된 사회적 행동 과정이다.</eg>
+				<trans>interaction</trans>
+				<domain></domain>
+				<sem_class>대칭적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-와 Y-이 ~을 하다</frame>
+					<frame>X-이 Y-와 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<sel_rst arg="X">생물|집단</sel_rst> <!--한정시키기 어려워보임.(이민우)-->
+				<sel_rst arg="Y">생물|집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>사회체계와 가족체계의 ~은 집단 생활의 변화를 가져온다.</eg>
+				<eg>상황은 유기체와 환경의 ~이 일어나는 영역이다.</eg>
+				<trans>interaction</trans>
+				<domain></domain>
+				<sem_class>자연현상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-와 Y-이 ~을 하다</frame>
+					<frame>X-이 Y-와 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form> <!--'사건'부류로 생각해야 하는지?(이민우)-->
+					<frame>X-와 Y-에 ~이 일어나다</frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<sel_rst arg="X">무생물|추상적대상|사태</sel_rst> <!--한정시키기 어려워보임.(이민우)-->
+				<sel_rst arg="Y">무생물|추상적대상|사태</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>융단폭격</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정;기능동사 구문 수정 및 추가 기술;단위표현 수정;선택제약 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 정보 수정 및 변이형 정보 기입</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">융단 폭격</var>
+			<str type="N_N">융단+폭격</str>
+			<org lg="si">絨緞爆擊</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>노르망디 상륙작전과 6.25 전쟁에서 ~을 실시했다.</eg>
+				<trans>carpet bombing</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<!--'사건' 하위부류의 '물리적충동'보다는 '행위' 하위의 '방향성행위'가 더 나을 듯(미현)-->
+				<lr>
+					<syn type="perfect">양자탄폭격</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에 ~을 하다</frame><!--'X-에 ~하다'라고 하면, 행위의 주체가 없으므로 수정(미현)-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form> <!--'~을 받다'구문을 추가기술(미현)-->
+					<frame>Y-이 X-에 ~을 받다</frame>
+					<frame>Y-이 X-로부터 ~을 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 당하다</form>
+					<frame>Y-이 X-에 ~을 당하다</frame>
+					<frame>Y-이 X-로부터 ~을 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가하다</form>
+					<frame>X-이 Y-에 ~을 가하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 퍼붓다</form>
+					<frame>X-이 Y-에 ~을 퍼붓다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<sel_rst arg="Y">장소|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl><!--추가기술(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

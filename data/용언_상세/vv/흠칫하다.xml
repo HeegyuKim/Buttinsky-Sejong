@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흠칫하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/24</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense >
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>recoil</trans>
+				<trans>shrink</trans>
+				<trans>pull back in surprise</trans>
+				<lr>
+					<syn type="perfect">흠칫거리다</syn>
+					<syn type="perfect">흠칫대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위(몸)</sel_rst>
+					<eg>여자는 나를 보자 놀란 듯 몸을 흠칫했다.</eg>
+					<eg>금고 문을 열고 있던 사내는 우리가 들어서자 몸을 흠칫하며 뒤로 물러섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

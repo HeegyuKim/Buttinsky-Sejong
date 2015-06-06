@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발동하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/29</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">發動_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>be put in motion</trans>
+				<trans>move</trans>
+				<lr>
+					<syn type="etc">발동걸리다</syn>
+					<syn type="etc">발동되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(호기심|욕구|마음|의식|자의식|복수심|시기심)|품격속성(기질|근성|성격)|능력(상상력|창의력)</sel_rst>
+					<eg>그는 옆방에서 들려오는 소리에 호기심이 발동해서 귀를 기울였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>invoke</trans>
+				<trans>exercise</trans>
+				<trans>bring to bear</trans>
+				<trans>put in action</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">권리(조사권|국정조사권|긴급조정권)|명령(긴급명령|긴급재정명령|체포령)|물리적행위(조치|긴급조치)|(조항|조)</sel_rst>
+					<eg>정부는 이번 파업 사태에 대해 긴급조정권을 발동할 것을 고려하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

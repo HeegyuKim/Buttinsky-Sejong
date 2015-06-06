@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자긍하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/15</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">자긍을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">自矜_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적감정</sem_class>
+				<trans>pride oneself</trans>
+				<lr>
+					<ant type="grad">자괴하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위|추상적대상|사태</sel_rst>
+					<eg>그녀는 자신의 예쁜 얼굴을 자긍하는 마음에서 고개를 번쩍 쳐들고 앞으로 걸어갔다.</eg>
+					<eg>긍정적 사고는 자신의 존재와 삶을 자긍하는 마음에서 시작된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그는 세상 사람들이 다 타락을 해도 자기는 그렇지 않다는 것을 늘 자긍했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>디피아이</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/02</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/22</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">dot per inch</var>
+			<org lg="en">dpi</org>
+			<symb>dpi</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~</eg>
+				<domain>컴퓨</domain>
+				<cl_subtype type="dgr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이전하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/04/02</mod_date>
+				<mod_writer>조원형</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/04/07</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">이전을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">移轉_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="01">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>우리 회사는 지난 달에 강남에서 여의도로 이전했다.</eg>
+					<eg>부천에 있던 공장이 인천으로 이전하고 나면 부천 공장 부지에는 아파트를 지을 계획이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>운반</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 W=N3-에서|에게서 Z=N2-로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상(명의|소유권|등기)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">인간|인간집단</sel_rst>
+					<sel_rst arg="W" tht="SRC">인간|인간집단</sel_rst>
+					<eg>아버지는 우리 집의 소유권을 형에게서 나에게로 이전하기로 하셨다.</eg>
+					<eg>나는 분당 집을 아내 명의로 이전할까 생각 중이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="DIR">시간|속성|역사</sel_rst>
+					<sel_rst arg="Z" tht="SRC">시간|속성|역사</sel_rst>
+					<eg>요즘 우리 나라는 산업화 사회에서 정보화 사회로 이전하고 있다.</eg>
+					<eg>유럽 사회가 봉건제에서 자본주의로 이전한 지도 수백 년이 지났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="01">
+				<frame>X=N0-이 Y=N1-을 W=N3-에서 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<sel_rst arg="W" tht="DIR">장소</sel_rst>
+					<eg>정부는 공장들을 수도권에서 지방으로 이전하는 것을 적극 권장하고 있다.</eg>
+					<eg>나는 가게를 시내 중심가로 이전할 계획이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

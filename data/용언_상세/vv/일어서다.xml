@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일어서다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/02/24</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="eo"/>
+			<str>R-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>revive</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<eg>그 회사는 경제위기에 따른 부도를 딛고 화려하게 다시 일어섰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">추상적대상(경제|사업|경기)</sel_rst>
+					<eg>정부는 우리 나라 경제가 1년 반 뒤에 다시 일어설 것이라고 전망했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>stand up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(자리|좌석|침대|방바닥|마루)</sel_rst>
+					<eg>남춘천역이 다가오자 대부분의 승객들은 열차 좌석에서 일어섰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(풀|잔디|나뭇가지|머리카락)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<eg>바람이 그치자 누웠던 풀들이 땅바닥에서 다시 일어섰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>새로운 빌딩들이 수도권 신도시에 하루가 다르게 일어섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>set himself</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(봉기|반란)</sel_rst>
+					<eg>농민들은 전봉준이 일으킨 봉기에 함께 일어섰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="GOL">(억압|탄압)</sel_rst>
+					<eg>일제의 탄압에 대해 모든 사람들이 일어서 독립만세 운동을 벌였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

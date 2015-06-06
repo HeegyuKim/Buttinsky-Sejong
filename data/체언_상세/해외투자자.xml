@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>해외투자자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">해외 투자자</var><!--정보 기입(김)-->
+			<str type="N_N">해외+투자자</str><!--'해외+투자+자'로 분석가능-->
+			<org lg="si">海外投資者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>한반도 긴장 완화로 ~들이 많은 투자를 하고 있다.</eg>
+				<trans>investor in foreign country</trans>
+				<domain></domain>
+				<sem_class>행위인간</sem_class>
+				<lr>
+					<syn type="etc">해외투자가</syn>
+					<ant type="etc"></ant><!--국내투자자?-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				 <!--정보 기입(김)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 모으다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 모집하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl> <!--'인, 사람' 추가(김)-->
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

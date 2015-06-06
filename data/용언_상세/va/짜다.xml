@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짜다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/09/21</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>적정 명사 수정</mod_note>
+				<mod_note>sense 분할</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be salty</trans>
+				<lr>
+					<ant type="grad">싱겁다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(바닷물|땀|눈물)|자연음식물|음식</sel_rst>
+					<n_appr>맛</n_appr>
+					<eg>밥은 설익고 국은 짜고 그녀의 음식 솜씨는 한마디로 엉망이었다.</eg>
+					<eg>짠 반찬이 많으니 밥을 좀 넉넉히 해야 할 게다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be grudging</trans>
+				<trans>be stingy</trans>
+				<lr>
+					<syn type="perfect">인색하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그는 친구들 사이에서도 짜기로 유명하다.</eg>
+					<eg>원래 부자들이 더 짜다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be scarce</trans>
+				<lr>
+					<syn type="perfect">적다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소득(월급|봉급|임금|급료|보너스)</sel_rst>
+					<eg>물가는 오르고 월급은 너무 짜고 서민들이 살기에 너무 힘든 세상이다.</eg>
+					<eg>그 회사는 다른 조건은 괜찮지만 월급이 너무 짜다며 그녀는 결정을 망설였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

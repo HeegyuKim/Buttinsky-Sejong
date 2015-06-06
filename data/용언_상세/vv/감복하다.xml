@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감복하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감복을 하다</var>
+			<str>N.하</str>
+			<org lg="si">感服_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>admire</trans>
+				<trans>be impressed by</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">구체물|장소|추상적대상|사태</sel_rst>
+					<eg>신학과 종교와 정치적 이념을 초월해서 모든 사람들이 그의 사랑에 감복하고 그를 생각하며 감격의 눈물을 흘리곤 했다.</eg>
+					<eg>사람들은 그의 말에 감복하고 그의 사려 깊음을 찬탄했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>참다못하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-다DV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>cannot afford to bear</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">감정|몸짓및동작(웃음|울음)|(눈물)</sel_rst>
+					<eg>그 사람은 슬픔을 참다못하여 울음을 터뜨렸다.</eg>
+					<eg>그 사람은 울음을 참다못하여 대성통곡을 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<end_rst1>참다못하여</end_rst1>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

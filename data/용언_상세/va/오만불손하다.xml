@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오만불손하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">傲慢不遜_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be arrogant</trans>
+				<trans>insolent</trans>
+				<lr>
+					<syn type="perfect">교만하다</syn>
+					<syn type="perfect">오만하다</syn>
+					<ant type="grad">겸손하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>그 청년은 웃어른들에게 오만불손하다.</eg>
+					<eg>일부 학생들이 부모와 스승에게 오만불손하다.</eg>
+					<eg>재벌 2세라고 그는 직장 상사들에게 꽤나 오만불손하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>feel insolent</trans>
+				<lr>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|행위|속성|(태도)</sel_rst>
+					<eg>건성으로 하는 인사는 노인 어른들께 오히려 오만불손하게 보일 수 있다.</eg>
+					<eg>그 사람은 대단히 오만불손하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>그 취지가 좋더라도 정부가 정책 집행을 일방적으로 강행하는 것은 국민들에게 오만불손하게 보일 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

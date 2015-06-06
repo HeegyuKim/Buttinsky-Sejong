@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>유명상표</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>명사_명사 결합 연쇄 추가 기술;명사_동사 결합 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str, 동의어 기술;의미부류 긍정적속성구체물을 수정;긍정적속성구체물로 다의 분할 가능할 듯</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">유명 상표</var>
+			<str type="R_N">유명+상표</str>
+			<org lg="si">有名商標</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>요즘은 누구나 ~를 선호한다.</eg>
+				<trans>renowned brand</trans>
+				<domain></domain>
+				<sem_class>이름</sem_class>
+				<lr>
+					<syn type="etc">유명브랜드</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">해외 ~</comb_n>
+				<comb_n type="compound">국내 ~</comb_n>
+				<comb_n type="compound">~ 제품</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 부착하다</form>
+						<!--'가 부착되다'라는 '피동형'보다 '부착하다'라는 '능동형'이 더 자연스러움.(미현)-->
+					<frame></frame>
+					</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 떼다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 좋아하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

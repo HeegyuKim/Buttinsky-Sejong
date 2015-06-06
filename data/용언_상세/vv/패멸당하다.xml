@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>패멸당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/25</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>패멸하다</see>
+		<morph_grp>
+			<var type="spr">패멸을 당하다</var>
+			<str>N.당</str>
+			<org lg="si">敗滅當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be destroyed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">국가|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(전쟁|전투)</sel_rst>
+					<eg>저 국가는 전쟁에서 패멸당한 경험이 있기 때문에 경거망동하지는 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꾸부리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">구부리다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>bend</trans>
+				<lr>
+					<ant type="compl">펴다</ant>
+					<hyper>굽히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>마법사를 따라했더니 정말로 숟가락을 꾸부릴 수 있었다.</eg>
+					<eg>철수가 쇠몽둥이를 꾸부리는 모습에 모두들 기겁을 해서 도망갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">동물신체부위(허리|무릎)</sel_rst>
+					<eg>영진이는 선생님만 보면 허리를 있는 대로 꾸부려 인사를 한다.</eg>
+					<eg>성주 어머니는 꾸부리고 빨래를 해야 빨래한 맛이 난다고 하신다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

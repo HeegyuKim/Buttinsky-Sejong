@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>난데없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">갑작스럽다</syn>
+					<syn type="perfect">뜻밖이다</syn>
+					<syn type="perfect">엉뚱하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>난데없는</infl_rst>
+			<infl_rst>난데없이</infl_rst>
+			<trans>unexpected</trans>
+			<sel_rst arg="X" tht="THM">상황|사태</sel_rst>
+			<defect_eg>난데없는 비에 우리는 정신없이 뛰었다.</defect_eg>
+			<defect_eg>난데없이 비가 내리는 바람에 우리는 정신없이 뛸 수밖에 없었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

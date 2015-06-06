@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경시대회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>trans 형식 수정;sense2 추가(행위);sense1 n_v, sel_res 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/28</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경시 대회</var>
+			<str type="N_N">경시+대회</str>
+			<org lg="si">競試大會</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>요즘 대학에서 영어 ~가 자주 열린다.</eg>
+				<trans>concours</trans>
+				<trans>contest</trans>
+				<trans>competitive examination</trans>
+				<!-- 대역어가 복수인 경우는 element를 반복하여 제시(송근영) -->
+				<domain></domain>
+				<sem_class>경연대회</sem_class>
+				<lr>
+					<syn type="etc">경연대회</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 열리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 개최되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 열다</form>
+					<frame>X-이 ~를 열다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 개최하다</form>
+					<frame>X-이 ~를 개최하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참가하다</form>
+					<frame></frame> <!-- frame 정보 불필요하여 삭제(송근영) -->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 나가다</form>
+					<frame></frame> <!-- frame 정보 불필요하여 삭제(송근영) -->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst> <!-- 논항정보 불필요하여 선택제약 정보 삭제(송근영) -->
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

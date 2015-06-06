@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고도화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"정도"를 적정명사로 처리</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">고도화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">高度化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>degree get higher</trans>
+				<lr>
+					<hyper>심화하다</hyper><!--"심화되다"는 제시하지 않음.-->
+					<hyper>심해지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(기술|구조)</sel_rst>
+					<n_appr arg="X">정도</n_appr>
+					<eg>범죄의 잔인성이 점점 고도화하고 있다.</eg>
+					<eg>현대에 들어오면서 IT 기술 수준이 많이 고도화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>make degree get higher</trans>
+				<lr>
+					<hyper>심화하다</hyper><!--"심화시키다"는 제시하지 않음.-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(기술|구조)</sel_rst>
+					<eg>이기주의가 범죄의 잔인성을 점점 고도화하고 있다.</eg>
+					<eg>편리함을 추구하는 현대인들의 습성이 IT 기술 수준을 고도화하는 결과를 낳았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

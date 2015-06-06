@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>질금거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/26</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사태</sem_class>
+				<trans>trickle</trans>
+				<trans>fall off and on</trans>
+				<trans>dribble</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분비물(눈물)|액체|배설물</sel_rst>
+					<eg>사람이 늙으면 저절로 눈물이 질금거려서 자꾸 눈을 닦게 된다.</eg>
+					<eg>수도가 끊어지려는지 물이 질금거리며 나온다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">분비물(눈물)|액체|배설물</sel_rst>
+					<eg>기영이는 억울하다며 눈물을 질금거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

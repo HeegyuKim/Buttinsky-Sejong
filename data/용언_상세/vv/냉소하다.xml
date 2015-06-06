@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>냉소하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/26</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">냉소를 하다</var>
+			<str>N.하</str>
+			<org lg="si">冷笑_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>sneer</trans>
+				<lr>
+					<syn type="perfect">냉조하다</syn>
+					<syn type="kor">비웃다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소|집단|추상적대상</sel_rst>
+					<eg>그는 세상을 냉소하다가 외롭게 살다 갔다.</eg>
+					<eg>내가 이렇게 말하는 것이 네 노력을 냉소하려는 것은 절대 아니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-라고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>그는 다른 사람의 노력을 항상 보잘것 없는 것이라고 냉소했다.</eg>
+					<eg>세상은 그가 하는 일이 성공하지 못할 것이라고 냉소했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

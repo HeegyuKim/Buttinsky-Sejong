@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흩날리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/24</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>VV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>scatter</trans>
+				<trans>blow away</trans>
+				<lr>
+					<hyper>날리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물|구체물</sel_rst>
+					<eg>우리는 낙엽이 흩날리는 거리를 말없이 걸었다.</eg>
+					<eg>할머니의 부채질에 화로 속의 재들이 방안 이리저리로 흩날렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">강우|강설</sel_rst>
+					<eg>그날은 아침부터 눈발이 흩날렸다.</eg>
+					<eg>그는 이슬비가 흩날리는 거리로 뛰쳐나갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물|의복의부분|신체부위(머리|머리카락|수염)</sel_rst>
+					<eg>그 여자의 머플러가 바람에 흩날렸다.</eg>
+					<eg>자전거를 타고 가는 아이의 머리카락이 바람에 흩날렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>scatter</trans>
+				<trans>blow away</trans>
+				<lr>
+					<hyper>날리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체착용물|의복의부분|신체부위(머리|머리카락|수염)</sel_rst>
+					<eg>그는 긴 외투자락을 흩날리며 어둠 속으로 사라졌다.</eg>
+					<eg>그 소녀는 바람에 긴 머리카락을 흩날리며 지나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

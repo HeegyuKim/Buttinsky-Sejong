@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넘어오다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="o"/>
+			<str>V-어V</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass over</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로|에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(공|나뭇가지)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(밖|진영)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(안|진영)</sel_rst>
+					<eg>공이 상대방 진영에서 우리 진영으로 넘어왔다.</eg>
+					<eg>이 공이 저 담으로 넘어왔다.</eg>
+					<eg>나뭇가지가 그 새 자라서 옆집 마당에서 우리 집 마당에 넘어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>pass over</trans>
+				<lr>
+					<syn type="perfect">무너지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(나무|벽돌)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|인간</sel_rst>
+					<eg>쌓아 논 벽돌이 갑자기 내 쪽으로 넘어오는 바람에 크게 다칠 뻔했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass over</trans>
+				<lr>
+					<syn type="sino">이월되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈(이월금|잔액)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">(올해|금년|올해_회계)</sel_rst>
+					<eg>작년의 이월금이 올해로 넘어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass over</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(공격권|상속권|발언권|사건|일)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(쪽|편)|인간</sel_rst>
+					<sel_rst arg="Z" tht="SRC">추상적대상(쪽|편)|인간</sel_rst>
+					<eg>점수변동 없이 공격권만 우리에게 넘어왔다.</eg>
+					<eg>발언권이 우리 측으로 넘어왔다.</eg>
+					<eg>그 일은 결국 우리에게로 넘어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(쪽|편)|인간</sel_rst>
+					<eg>철수가 기어이 우리 진영으로 넘어왔다.</eg>
+					<eg>심리전에 말려서 우리 편으로 넘어온 우리 병사들은 얼마나 되는가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>pass over</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Z=N2-에서 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>간첩 이철진은 수퍼돼지를 구하러 남으로 넘어왔다.</eg>
+					<eg>공산 진영에서 자유 진영에 넘어온 적군 병사들은 얼마나 되는가?</eg>
+					<eg>적군 병사 한명이 밤에 임진강으로 우리 측에 넘어왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(고개|언덕|산)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>우리 차가 대관령 고개를 넘어오다가 갑자기 멈췄다.</eg>
+					<eg>이 언덕을 넘어오다가 곰을 봤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>pass</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="DIR">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">추상적대상</sel_rst>
+					<eg>한국 사회는 군사독재 시절에서 민주시민 사회로 넘어오면서 그간 내재되었던 많은 문제들이 표출되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

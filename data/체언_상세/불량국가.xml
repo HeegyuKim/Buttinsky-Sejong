@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>불량국가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>n_v검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 추가, cl 추가, n_n 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미부류를 '속성'에서 '국가'로 수정;수식어절 정보에서 'S는 ~' 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">불량 국가</var>
+			<str type="N_N">불량+국가</str>
+			<org lg="si"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>미국은 이 보고서에서 ~로 이라크와 이란, 북한 등을 지목하였다.</eg>
+				<trans>rogue states</trans>
+				<domain></domain>
+				<sem_class>국가</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">인권 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 규정되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 분류되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 지목되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 낙인 찍히다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 규정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 지정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 지목하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 분류하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

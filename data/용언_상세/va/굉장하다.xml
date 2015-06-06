@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>굉장하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">宏壯_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be grand</trans>
+				<trans>be magnificient</trans>
+				<trans>be great</trans>
+				<lr>
+					<syn type="kor">대단하다</syn>
+					<ant type="compl">초라하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>배우들의 연기와 거기에서 느껴지는 감정 동일화의 에너지는 굉장하다.</eg>
+					<eg>그녀의 어머니는 젊었을 때 굉장한 미인이셨다.</eg>
+					<eg>도시가 내려다 보이는 언덕 위에 있는 부자들의 저택은 굉장했다.</eg>
+					<eg>이 나라 국민들의 신앙심은 상상할 수 없을 만큼 굉장하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

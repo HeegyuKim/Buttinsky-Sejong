@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단정내리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/06</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단정을 내리다</var>
+			<str>NV</str>
+			<org lg="si">斷定_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>draw a conclusion</trans>
+				<trans>form a conclusion</trans>
+				<trans>conclude</trans>
+				<lr>
+					<syn type="perfect">결단하다</syn>
+					<syn type="perfect">결정짓다</syn>
+					<syn type="perfect">결론짓다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>많은 사람들은 외모만 보고 그녀를 멍청하고 헤프다고 단정내리곤 한다.</eg>
+					<eg>미국의 코넬대학 연구팀은 남녀 간에 애정이 지속되는 기간은 18개월에서 길어야 30개월이라고 단정내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

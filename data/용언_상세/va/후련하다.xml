@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후련하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/02/24</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>feel relieved</trans>
+				<trans>feel better</trans>
+				<trans>feel easier</trans>
+				<lr>
+					<syn type="perfect">시원하다</syn>
+					<ant type="grad">거북하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">신체부위(속|뱃속|가슴)|인간</sel_rst>
+					<eg>차멀미 때문인지 계속 거북했는데, 그 물 한 잔을 마시고 나니 속이 다 후련하다.</eg>
+					<eg>뭔가 불편하고 답답했는데, 그 약을 먹고 나니 가슴이 후련하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>feel unburdened</trans>
+				<trans>feel easier</trans>
+				<lr>
+					<syn type="perfect">시원하다</syn>
+					<syn type="perfect">편안하다</syn>
+					<ant type="grad">답답하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<n_appr arg="X">가슴</n_appr>
+					<n_appr arg="X">마음</n_appr>
+					<n_appr arg="X">속</n_appr>
+					<eg>그 사람과의 불편했던 관계를 풀고 나니 후련하다.</eg>
+					<eg>노처녀로 남아 있던 막내딸을 시집 보내고 나니 속이 다 후련합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

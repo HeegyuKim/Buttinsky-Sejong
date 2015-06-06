@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼몽하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+				<cre_note>한자(몽) 없음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">昏몽_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be half-asleep</trans>
+				<trans>be confused</trans>
+				<lr>
+					<syn type="perfect">혼미하다</syn>
+					<ant type="grad">뚜렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(정신|의식|상태)|인간</sel_rst>
+					<eg>나는 의식이 혼몽한 상태에서 멀리서 들려오는 친구의 목소리를 들었다.</eg>
+					<eg>눈을 뜨기는 했지만 정신이 혼몽해서 아무런 생각도 할 수 없었다.</eg>
+					<eg>그는 약 기운 때문에 혼몽한 지 침대에 누운 채 움직이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

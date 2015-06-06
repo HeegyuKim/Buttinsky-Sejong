@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>알싸하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/08/01</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>taste hot</trans>
+				<trans>be irritatingly strong to the smell</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물|담배|음식</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<n_appr arg="X">냄새</n_appr>
+					<n_appr arg="X">내음</n_appr>
+					<n_appr arg="X">향기</n_appr>
+					<n_appr arg="X">향</n_appr>
+					<eg>소주가 알싸하다.</eg>
+					<eg>고추 냄새가 알싸하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be tingling</trans>
+				<trans>be smarting</trans>
+				<trans>be smart</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">신체부위(코|콧구멍|입|목)</sel_rst>
+					<eg>영희는 꽃향기에 코가 알싸했다.</eg>
+					<eg>매운 고추를 먹었더니 입안이 알싸하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

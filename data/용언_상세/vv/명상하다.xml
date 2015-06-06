@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>명상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>자/타동사 값 수정</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">명상을 하다</var>
+			<str>N.하</str>
+			<org lg="si">瞑想_</org>
+			<org lg="si">冥想_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>meditate on</trans>
+				<lr>
+					<syn type="perfect">묵상하다</syn>
+					<syn type="perfect">사색하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<eg>그가 명상하고 있을 때는 방해하면 안 된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>문명에 대해, 자연에 대해, 그리고 인간 정신의 정수에 대해 고요히 명상해 볼 수 있는 기회가 될 것이다.</eg>
+					<eg>우리 모두 이번 여행 동안 자연을 벗삼아 행복의 실체에 대해서 명상해 보자.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

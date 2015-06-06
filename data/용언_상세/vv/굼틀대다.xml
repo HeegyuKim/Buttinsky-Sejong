@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>굼틀대다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/14</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>형태정보, 의미정보, 격틀 조정</mod_note>
+				<mod_note>"굼틀거리다" see로 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>굼틀거리다</see>
+		<morph_grp>
+			<var type="etc">꿈틀대다</var>
+			<var type="etc">꼼틀대다</var>
+			<str>I.대</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

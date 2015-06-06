@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>복안</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/17</cre_date>
+				<cre_writer>남길임</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/09/15</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/09/01</mod_date>
+				<mod_writer>장원철</mod_writer>
+				<mod_note>add 이동</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '의견'을 수정</mod_note>
+				<mod_note>n_v 수정</mod_note>
+				<mod_note>s_n 삭제</mod_note>
+				<mod_note>'있다/없다'를 n_aj에서 n_v로 이동</mod_note>
+				<mod_note>최대논항구조 기술</mod_note>
+			</mod>
+			<note>2002/07/17(이병규)</note>
+			<note>2002/08/01(고길수)단위표현에 '개'를 추가</note>
+			<note>형용사결합에 '~이 없다|적절하다'를 추가</note>
+			<note>add에 '~을 만들다|세우다|짜다</note>
+			<note>~이 있다'를 추가</note>
+			<note>2003/05/23(류희선)uni추가</note>
+			<note>형요사 자유구성에 ~있다 추가</note>
+			<note>2003/09/15(박진호)add 수정</note>
+			<add>동사결합으로 '~을 만들다|세우다|짜다'를 추가</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="temp"></str>
+			<org lg="si">腹案</org>
+		
+			<hom exist="temp"></hom>
+			<der pos="temp" type="temp"></der>
+			<comp pos="temp" type="temp"></comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="temp"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>넌 이 문제에 대해 좋은 ~이라도 가지고 있니?</eg>
+				<trans>design carried in the mind</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<sem_class>계획</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 좋다</comb_aj>
+				<comb_aj type="appr">~이 훌륭하다</comb_aj>
+				<comb_aj type="appr">~이 적절하다</comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame>
+					<frame>X-이 S다는 ~이 있다</frame>
+					<frame>X-이 S을 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame>
+					<frame>X-이 S다는 ~이 없다</frame>
+					<frame>X-이 S을 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 만들다</form>
+					<frame>X-이 ~을 만들다</frame>
+					<frame>X-이 S다는~을 만들다</frame>
+					<frame>X-이 S을~을 만들다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 세우다</form>
+					<frame>X-이 ~을 세우다</frame>
+					<frame>X-이 S다는 ~을 세우다</frame>
+					<frame>X-이 S을 ~을 세우다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 짜다</form>
+					<frame>X-이 ~을 짜다</frame>
+					<frame>X-이 S다는~을 짜다</frame>
+					<frame>X-이 S을~을 짜다</frame>
+				</comb_v>
+				<max_n_str>X-의 S다는 ~</max_n_str>
+				<max_n_str>X-의 S을 ~</max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/09/01</cre_date>
+				<cre_writer>장원철</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2007/09/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+		    <var type="temp"></var>
+		    <str type="temp"></str>
+	    	<org lg="si">複眼</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<eg>잠자리의 ~은 움직임에 매우 민감하여 생존에 유리하다.</eg>
+				<trans>compound eye</trans>
+				<sem_class>동물신체부위</sem_class>
+	            <lr>
+					<syn type="kor">겹눈</syn>
+					<ant type="etc">단안</ant>
+                    <ant type="etc">홑눈</ant>
+                 	<rel></rel>
+			    </lr>		
+			</sem_grp>
+			
+			<syn_grp>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

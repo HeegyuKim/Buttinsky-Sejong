@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>더부살이하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/16</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/16</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">더부살이를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>체류</sem_class>
+				<trans>live in servant</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단(가족)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>아이는 삼촌에게 더부살이하면서 부엌일을 도왔다.</eg>
+					<eg>덩굴식물이 다른 식물의 줄기로 눈을 옮기며 더부살이를 하고 있는 모습을 직접 관찰할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단(가족)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>전에 악공 이한이라는 사람 집에서 머슴으로 더부살이한 적이 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>체류</sem_class>
+				<trans>live off</trans>
+				<lr>
+					<syn type="perfect">얹혀살다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단(가족)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>아이는 삼촌에게 더부살이하면서 천덕꾸러기 취급을 받았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단(가족)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>전에 악공 이한이라는 사람 집에서 한달을 더부살이한 적이 있었다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class>
+				<trans>be a parasite on</trans>
+				<lr>
+					<syn type="sino">기생하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">식물|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">식물|동물</sel_rst>
+					<eg>산에 가면 소나무에 더부살이하는 버섯을 볼 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

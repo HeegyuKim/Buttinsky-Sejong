@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>도</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>신서인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">度</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>오늘 날씨가 영하 이십 ~까지 내려간다고 한다</eg>
+				<eg>물은 백 ~가 되어야 끓기 시작한다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="dgr"/>
+				<rel_n>화씨)</rel_n>
+				<lr>
+					<rel>날씨</rel>
+					<rel>온도</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>직각은 구십 ~이다</eg>
+				<domain>수학</domain>
+				<cl_subtype type="dgr"/>
+				<rel_n>각도</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>삼 ~ 화음에 맞추어 합창을 했다</eg>
+				<domain>음악</domain>
+				<cl_subtype type="dgr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="4">
+			<sem_grp>
+				<eg>북위 삼십팔 ~에 삼팔선이 그어졌다</eg>
+				<domain>지리</domain>
+				<cl_subtype type="dgr"/>
+				<rel_n>동경)</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="5">
+			<sem_grp>
+				<eg>소주는 보통 알콜 이십오 ~이다</eg>
+				<eg>그는 사십 ~가 넘는 술을 마셨다</eg>
+				<domain>화학</domain>
+				<cl_subtype type="rat"/>
+				<rel_n>도수</rel_n>
+				<lr>
+					<syn type="etc">퍼센트</syn>
+					<syn type="etc">프로</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

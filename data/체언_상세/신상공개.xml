@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신상공개</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;명사결합정보 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/17</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신상 공개</var>
+			<str type="N_N">신상+공개</str>
+			<org lg="si">身上公開</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>청소년을 대상으로 성범죄를 저지른 사람들은 ~를 당한다.</eg>
+				<trans>public disclosure of personal information</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class> <!--'개시행위'?-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 여부</comb_n>
+				<comb_n type="compound">~ 대상</comb_n>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_n type="compound">~ 조항</comb_n>
+				<comb_n type="compound">~ 수준</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame><!--'Y-의'를 수정(김이정)-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>X-에의해 Y-이 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 당하다</form>
+					<frame>Y-이 X-에의해 ~를 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<!-- '정부의 범죄자 ~'와 같은 형태는 어떻게 표상할 것인지? 또 '범죄자에 대한 정부의 ~'와 같은 순서 변이는 어떻게 할 것인지? -->
+				<sel_rst arg="X">인간|기관</sel_rst>
+				<sel_rst arg="Y">인간|결과행위인간|부정적도덕속성인간|반사회적직업인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

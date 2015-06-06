@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>눅다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be soft</trans>
+				<trans>be tender</trans>
+				<lr>
+					<syn type="perfect">무르다</syn>
+					<ant type="grad">딱딱하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA"> 
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물|식물(미역|호박|다시마)|(반죽|떡)</sel_rst>
+					<eg>푹 살었더니 호박이 많이 눅어 졌다.</eg>
+					<eg>반죽이 눅으면 끓는 물에 넣는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be damp</trans>
+				<lr>
+					<syn type="perfect">눅눅하다</syn>
+					<syn type="perfect">누지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">천(옷감)|옷|(빨래)|(과자|성냥|담배)</sel_rst>
+					<eg>눅은 옷들에 냄새가 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be placid</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(목소리|음성|언성)</sel_rst>
+					<eg>전화기에선 눅은 음성이 들려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

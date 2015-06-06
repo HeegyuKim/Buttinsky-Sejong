@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>분방하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>분방은 어근인지 명사인지? 체언분과 목록 참조가 필요합니다.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Ru.하</str>
+			<org lg="si">奔放_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wild</trans>
+				<trans>be free-spirited</trans>
+				<trans>be unrestrained</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>연애 시절 그녀는 자유롭고 분방한 남편이 멋있어 보였었다.</eg>
+					<eg>그가 아무리 매사에 분방한 사람이라도 이런 일을 쉽게 받아들이기는 어려울 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wild</trans>
+				<trans>be free-spirited</trans>
+				<trans>be unrestrained</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">품격속성(성격|기질)|행위(태도|행동|자세)</sel_rst>
+					<eg>그는 밖으로 보이는 분방한 성격과는 달리 자신이 하는 일에는 매우 꼼꼼하고 빈틈이 없다.</eg>
+					<eg>가끔 나는 젊은이들의 지나치게 분방한 태도에 당혹스러움을 느끼기도 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

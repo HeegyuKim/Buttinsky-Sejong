@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>물컹물컹하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">말캉말캉하다</var>
+			<var type="etc">몰캉몰캉하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be soft</trans>
+				<lr>
+					<syn type="perfect">물렁물렁하다</syn>
+					<ant type="grad">딱딱하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체자연물|구체인공물|장소</sel_rst>
+					<eg>이 감이 물컹물컹해서 노인들 먹기에 좋다.</eg>
+					<eg>그의 살은 만져보니 아주 물컹물컹했다.</eg>
+					<eg>진흙 땅이 물컹물컹해서 걷기가 아주 힘들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

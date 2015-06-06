@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헐하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">歇_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cheap</trans>
+				<lr>
+					<syn type="kor">싸다</syn>
+					<ant type="grad">비싸다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">값|금전</sel_rst>
+					<eg>그는 헐한 가격으로라도 남은 물건은 다 처분하고 싶은 심정이었다.</eg>
+					<eg>이 동네에서는 이렇게 헐한 값에 집을 구하기가 쉽진 않을 것입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be easy</trans>
+				<lr>
+					<syn type="kor">쉽다</syn>
+					<ant type="grad">어렵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(일)</sel_rst>
+					<eg>아이를 보는 일이 결코 헐한 일은 아니지요.</eg>
+					<eg>생각보다 일이 헐해서 금방 끝났습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be light</trans>
+				<lr>
+					<syn type="kor">가볍다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">범죄및비행(죄|실수|잘못)|처벌(벌|처벌)</sel_rst>
+					<eg>처벌이 헐해서 범죄 예방 효과가 거의 없다.</eg>
+					<eg>이 정도로 넘어간다고 해서 네 잘못이 헐하다는 뜻은 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>헐하게</infl_rst>
+				<trans>be unkindly</trans>
+				<defect_eg>힘없는 사람이라고 그렇게 헐하게 대우해서는 안되지요.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

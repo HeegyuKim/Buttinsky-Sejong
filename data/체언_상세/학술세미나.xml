@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>학술세미나</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">학술 세미나</var>
+			<str type="N_N">학술+세미나</str>
+			<org lg="si">學術___</org>
+			<org lg="en">__seminar</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>한국어학회에서 말뭉치 연구를 주제로 ~를 열었다.</eg>
+				<trans>scholarship seminar</trans>
+				<domain></domain>
+				<sem_class>학술모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup"> <!--태그 수정;격틀에서 조사 '에서' 삭제;격틀에 Y논항 추가(김)-->
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에서 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 열다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에서의 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst><!--학술세미나는 학술집단에서만 할 수 있는 것이 아니므로-->
+				<sel_rst arg="Y">장소</sel_rst> <!--Y논항 추가(김)-->
+				<cl type="uni">번</cl> <!--분리 기술(김)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

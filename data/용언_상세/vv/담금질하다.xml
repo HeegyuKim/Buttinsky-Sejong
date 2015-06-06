@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>담금질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">담금질을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>anneal</trans>
+				<lr>
+					<syn type="sino">단련하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(쇠)|칼|칼창|용기</sel_rst>
+					<eg>대장장이는 보통 우김질이 끝나면 숟가락을 섭씨 400도 정도의 숯불에 달구었다가 찬물 속에 넣고 담금질한다.</eg>
+					<eg>탄소강은 800~900℃에서 담금질하는 경우가 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>anneal</trans>
+				<trans>train</trans>
+				<trans>harden</trans>
+				<lr>
+					<syn type="perfect">다잡다</syn>
+					<syn type="sino">단련하다</syn>
+					<syn type="sino">훈련하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상</sel_rst>
+					<eg>우리나라 축구 대표팀은 경주를 거쳐 울산에서 앞으로 일주일 동안 강도높은 전지훈련으로 전력을 담금질합니다.</eg>
+					<eg>그는 이런 주위의 끊임없는 불신여론에 굴하지 않고 자신만의 독특한 스타일로 대표팀을 담금질했다.</eg>
+					<eg>시련을 맞은 후 그는 스스로를 담금질했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

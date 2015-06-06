@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>들고일어나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-고V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반대</sem_class>
+				<trans>rise to action</trans>
+				<trans>against</trans>
+				<lr>
+					<syn type="perfect">들고일어서다</syn>
+					<syn type="sino">봉기하다</syn>
+					<syn type="sino">궐기하다</syn>
+					<syn type="sino">항의하다</syn>
+					<hyper>일어나다</hyper>
+					<hyper>일어서다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>주거 환경 보호를 위해 주민들이 드디어 들고일어났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

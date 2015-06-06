@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>거기</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/05</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">고기</var>
+			<var type="abb">게</var>
+			<var type="abb">거</var>
+					<hom exist="yes"/>
+			<img type="xp">고기</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="place">
+			<sem_grp>
+				<eg>우리집에서 ~까지 가는 데 얼마나 걸릴까?</eg>
+				<eg>이 글의 초점은 ~에 있는 게 아니다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

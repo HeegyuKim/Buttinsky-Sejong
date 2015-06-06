@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉기스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/16</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">兇氣_</org>
+			<infl type="b"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be ominous</trans>
+				<trans>be portentous</trans>
+				<trans>be ill-omen</trans>
+				<trans>be sinister</trans>
+				<lr>
+					<syn type="perfect">흉물스럽다</syn>
+					<hyper>흉하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>그 사람은 무엇인지 흉기스러운 구석이 있다.</eg>
+					<eg>거실 중앙에 걸린 그림이 왠지 모르게 흉기스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

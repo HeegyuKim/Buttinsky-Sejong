@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쩨쩨하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>대부분의 사전에서 쩨쩨하다가 표준형으로 나옴, 째째하다는 오기</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Ru.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be stingy</trans>
+				<trans>be niggardly</trans>
+				<lr>
+					<syn type="sino">인색하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그런 푼돈까지 계산해서 챙기다니, 그 사람 정말 쩨쩨하다.</eg>
+					<eg>그렇게 쩨쩨한 인간과 어울리다 보면 너까지도 이상해 질 게다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be trifles</trans>
+				<trans>be unworthy</trans>
+				<lr>
+					<syn type="etc">시시하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|행위</sel_rst>
+					<eg>그런 쩨쩨한 거래는 아무리 많아도 돈벌이에 전혀 도움이 되지 않는다.</eg>
+					<eg>그런 쩨쩨한 선물로 그녀의 마음을 사로잡겠다는 거냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

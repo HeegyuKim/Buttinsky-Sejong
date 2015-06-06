@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훌쭉하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">홀쪽하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be long and slim</trans>
+				<lr>
+					<ant type="grad">뚱뚱하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">몸</n_appr>
+					<n_appr arg="X">키</n_appr>
+					<n_appr arg="X">체격</n_appr>
+					<eg>키가 훌쭉한 청년이 사무실에 들어섰다.</eg>
+					<eg>어리고 작은 아이로만 생각하고 있었는데 그 녀석은 이미 몸이 훌쭉하게 자란 청년이 되어 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<eg>그 여자는 훌쭉한 유리컵을 가지고 와서 내가 내민 장미 한 송이를 거기에 꽂았다.</eg>
+					<eg>내 상상과는 달리 배달된 상자는 모양이 길고 훌쭉했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hollow</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(배)</sel_rst>
+					<eg>두 끼를 굶었더니 배가 훌쭉하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sunken</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|볼)</sel_rst>
+					<eg>오래 앓고 나서 거울을 보니 볼이 훌쭉하다.</eg>
+					<eg>그 여자는 무슨 좋지 않은 일이 있었는지 얼굴이 평소보다 훌쭉하고 생기없어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

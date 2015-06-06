@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>1998/05/03</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/05</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>A</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>proceed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(버스|기차|비행기)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소|방향</sel_rst>
+					<eg>철수는 무작정 부산으로 가는 버스를 탔다.</eg>
+					<eg>다음 열차는 어디로 갑니까?</eg>
+					<eg>이 버스도 그리 갑니까?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">길</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소|방향</sel_rst>
+					<eg>구청으로 가는 길이 어느 쪽입니까?</eg>
+					<eg>이 길은 어디로 갑니까?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(버스|기차|비행기)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|방향</sel_rst>
+					<eg>철수는 무작정 부산에 가는 버스를 탔다.</eg>
+					<eg>이 버스도 거기에 갑니까?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">길</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|방향</sel_rst>
+					<eg>구청에 가는 길이 이 쪽 맞습니까?</eg>
+					<eg>이 길은 어디에 갑니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>lead</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소통행위(이야기|대화)|상황(풍조|분위기)|일</sel_rst>
+					<sel_rst arg="Y" tht="DIR">방향|(쪽|데)</sel_rst>
+					<eg>이야기가 자꾸 엉뚱한 방향으로 간다.</eg>
+					<eg>요즈음 사회 풍조가 점차 개인주의 쪽으로 가고 있다.</eg>
+					<eg>우리 나라의 산업 구조는 점차 선진국형으로 가고 있다.</eg>
+					<eg>민주주의로 가는 길은 험난하기만 하다.</eg>
+					<eg>선진국으로 가는 길목에서 머뭇거리고만 있을 수는 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>죽음</sem_class>
+				<trans>die</trans>
+				<trans>pass away</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">상상적장소(저승|하늘나라)</sel_rst>
+					<eg>어머니는 작년에 하늘 나라에 가셨다.</eg>
+					<eg>할멈은 작년에 먼저 갔고 이제 내 차례지.</eg>
+					<eg>건강했던 사람이 졸지에 갔다.</eg>
+					<eg>가고 없는 사람 원망해서 무엇 하겠냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>function using smth</trans>
+				<trans>operate using smth</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(차)|기계(시계)</sel_rst>
+					<eg>내 차는 산 지 5년이 넘었는데 아직 잘 간다.</eg>
+					<eg>이 시계는 아직도 잘 간다.</eg>
+					<eg>이 시계 가고 있는 거야, 죽은 거야?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(자동차|전차|배|지하철)|기계(시계)</sel_rst>
+					<sel_rst arg="Y" tht="INS">연료(휘발유|중유|가스)|힘|(전기|전지|태양열)</sel_rst>
+					<eg>이 차는 기름이 아니라 전기로 간다.</eg>
+					<eg>일본에서는 태양열로 가는 자동차가 개발되었다고 한다.</eg>
+					<eg>이 시계는 수은 전지로 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>belong to</trans>
+				<trans>be attached to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(그림|재산|책)|돈(자금)|(뇌물)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그 상이 누구에게 갈지는 지금 아무도 모른다.</eg>
+					<eg>그의 재산은 모두 큰아들한테 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be inclined</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시선|눈길)|신체부위(눈|손)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|인간|구체물(옷|신발|장갑|개|새)</sel_rst>
+					<eg>사람들의 시선이 미인에게 가는 것은 당연하다.</eg>
+					<eg>나는 경희의 옷에 자꾸 시선이 가는 것을 어쩔 수가 없었다.</eg>
+					<eg>나도 모르게 나는 그 과자에 자꾸 손이 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>출발</sem_class>
+				<trans>go</trans>
+				<trans>leave</trans>
+				<trans>start</trans>
+				<lr>
+					<syn type="perfect">떠나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|교통기관(버스|기차|비행기)</sel_rst>
+					<eg>나 이제 그만 갈게.</eg>
+					<eg>철수는 기다리다 가 버렸어.</eg>
+					<eg>헐레벌떡 뛰어갔지만 버스는 이미 가 버린 뒤였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>pass</trans>
+				<trans>elapse</trans>
+				<trans>go by</trans>
+				<lr>
+					<syn type="perfect">지나다</syn>
+					<syn type="perfect">지나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량시간(날|달|시간)|시간(봄|여름|시절)</sel_rst>
+					<eg>시간 가는 줄 모르고 재미있게 놀았다.</eg>
+					<eg>날이 갈수록 서울의 교통 문제가 심각해지고 있다.</eg>
+					<eg>10월도 이제 다 갔다.</eg>
+					<eg>겨울이 가고 봄이 왔다.</eg>
+					<eg>좋은 시절 다 가고 이제 죽는 일만 남았구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>be knocked down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그는 상대 선수의 어퍼컷 한 방에 완전히 갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">완전히</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>loose one's conscience</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<eg>나는 어제 소주 3병 마시고 완전히 갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간</sel_rst>
+					<eg>그는 영희에게 갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">뿅</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>maintain</trans>
+				<trans>keep up</trans>
+				<lr>
+					<syn type="perfect">버티다</syn>
+					<syn type="sino">지속하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체인공물(담배|신발|옷)|추상적대상(유행|일|행동)</sel_rst>
+					<sel_rst arg="ADV">수량시간(하루|일주일|한달)|(오래)</sel_rst>
+					<eg>너 그렇게 몸을 혹사하다가는 오래 못 간다.</eg>
+					<eg>그는 1 주일도 못 가서 마음을 고쳐 먹었다.</eg>
+					<eg>그런 유행은 그리 오래 가지 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>grade</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="ADV">정도속성값(으뜸|첫째|둘째|중간|정도)|단위(등|원)</sel_rst>
+					<eg>그는 당대의 으뜸 가는 명필이었다.</eg>
+					<eg>이 차는 1000만 원쯤 간다.</eg>
+					<eg>준섭이의 성적은 반에서 중간 정도는 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>get creased</trans>
+				<trans>be wrinkled</trans>
+				<trans>be cracked</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양속성값(금|주름|흠|흠집|줄)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|신체부위(얼굴|이마)|장소(곳|땅)</sel_rst>
+					<eg>영희는 치마에 주름이 갈까 봐 조심해서 앉았다.</eg>
+					<eg>아버지의 이마에도 어느덧 하나둘씩 주름이 가기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양속성값(금|주름|흠|흠집|줄)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">이름(명성|명예|이름)</sel_rst>
+					<eg>아버지의 명성에 흠이 가는 일은 없도록 하겠습니다.</eg>
+					<eg>그런 괜한 일을 저질러서 스스로의 명성에 흠집이 가지 않도록 해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+				<lr>
+					<ant type="dir">오다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Z=N2-에서|에게서 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|인간</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소|인간</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>아버지는 아들을 만나러 한국에서 미국으로 가겠다.</eg>
+					<eg>그 시위에 가담하러 서울에서 간 사람들도 많았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+				<trans>walk</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">길(산길|길)|장소(숲속|강가)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>철수는 동생을 찾으러 산길을 가다가 이상한 버섯을 발견했다.</eg>
+					<eg>철수는 길을 가다가 우연히 옛 친구를 만났다.</eg>
+					<eg>우리가 가는 길이 아무리 험할지라도 힘을 합쳐서 노력하면 목적지에 닿을 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>pay</trans>
+				<trans>advance</trans>
+				<trans>deposit</trans>
+				<lr>
+					<syn type="perfect">걸다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="GOL">(방향|쪽|곳|데)|인간</sel_rst>
+					<eg>나는 이 쪽에 1만 원을 가겠어.</eg>
+					<eg>철수는 패가 좋다고 5만 원이나 갔는데 영수는 더 좋은 패를 들고 있어서 다 잃었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="19">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+				<lr>
+					<ant type="dir">오다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|에게|로|에게로|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(학교|도서관|집)|인간</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>민기는 참고 문헌을 찾아보러 국회도서관에 갔다.</eg>
+					<eg>그는 선생님을 뵈러 학교를 간다.</eg>
+					<eg>정희는 그 문제를 따지러 당장 태환이에게로 가겠다고 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>go</trans>
+				<lr>
+					<ant type="dir">오다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|에게|로|에게로|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(박물관|역|시청앞)|인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>소형버스가 학생들을 데리러 8시까지 박물관 입구로 갈 거야.</eg>
+					<eg>택시가 너를 태우러 학교 앞에 10시까지 갈테니 그것을 타고 와라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>frequent</trans>
+				<lr>
+					<syn type="sino">참석하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간집단(동창회|음악회|체육대회)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>창수도 오랫만에 친구들을 만나러 동창회에 갔었다.</eg>
+					<eg>동창회를 갈까 음악회를 갈까 망설이는 중이야.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>attend</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">단체(학교|군대|대학원|유치원)</sel_rst>
+					<eg>그는 대학원 진학을 미루고 군대에 갔다.</eg>
+					<eg>우리 애는 유치원에 가기를 싫어해요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>한물 가다</idm>
+			<idm>맛이 가다</idm>
+			<idm>손이 가다</idm>
+			<idm>품이 가다</idm>
+			<idm>금이 가다</idm>
+			<idm>간에 기별이 가다</idm>
+			<idm>갈 데까지 가다</idm>
+			<idm>몸에 축이 가다</idm>
+			<idm>가시밭길을 가다</idm>
+			<idm>시집을 가다</idm>
+			<idm>장가를 가다</idm>
+			<idm>마실을 가다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>1998/05/03</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사태</sem_class>
+				<trans>suffer</trans>
+				<lr>
+					<syn type="perfect">미치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|에게 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(손해|재해|피해)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<eg>이 일로 회사에 큰 피해가 갈 것 같다.</eg>
+					<eg>너의 잘못된 말 한 마디로 그들에게 어떤 손해가 갔는지는 아마 상상도 못할 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">(무리|부담)</sel_rst>
+					<sel_rst arg="X" tht="GOL">온</sel_rst>
+					<eg>이번 뇌물 사건으로 신당에 부담이 갈 것이다.</eg>
+					<eg>무리한 작동은 이 기계에 큰 무리가 가게 됩니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">결과행위(충격|영향)</sel_rst>
+					<sel_rst arg="X" tht="GOL">온</sel_rst>
+					<eg>황장엽의 탈북으로 북한에 영향이 갈 것이다.</eg>
+					<eg>이런 우발적인 행동은 너의 회사 생활에 좋지 못한 영향이 갈 것이니 앞으로 조심해라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사태</sem_class>
+				<trans>connect with</trans>
+				<trans>telephone</trans>
+				<trans>phone</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Y=N2-에서|에게서 X=N1-에|에게|에게로 Z=S3-고 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">소통행위(연락|소식|전화|전보)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>철수에게서 영미에게로 만나자고 전화가 갔다.</eg>
+					<eg>나에게서 아무런 연락이 가지 않자 결국 그 사람이 전화를 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>sympathize</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=N2-에|에게|에대해|이 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상</sel_rst>
+					<eg>나는 철수의 처사에 전혀 납득이 안 간다.</eg>
+					<eg>내가 영미에게 전혀 수긍이 가지 않는 것은 아니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S데</sel_rst>
+					<eg>나는 철수가 그런 말을 한 것이 전혀 공감이 안 간다.</eg>
+					<eg>나는 영미가 오지 않은 데에 대해서 전혀 수긍이 안 간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=Q2-에|에대해|이 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM"/>
+					<eg>나는 철수가 그런 주장을 왜 했는지가 납득이 안 간다.</eg>
+					<eg>나는 네가 추석에 집에 왜 내려 오지 않았는지 도저히 이해가 가지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN">
+				<frame>Y=N1-에게|이 X=N0-이 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 철수의 처사가 전혀 납득이 안 간다.</eg>
+					<eg>내에게는 영미가 전혀 수긍이 가지 않는 것은 아니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 철수가 그런 말을 한 것이 전혀 공감이 안 간다.</eg>
+					<eg>나에게는 영미가 오지 않은 것이 전혀 수긍이 안 간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN">
+				<frame>Y=N1-에게|이 Y=Q0-이 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(납득|이해|수긍|공감)</sel_rst>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 철수가 그런 주장을 왜 했는지가 납득이 안 간다.</eg>
+					<eg>나는 네가 추석에 집에 왜 내려 오지 않았는지 도저히 이해가 가지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>trust</trans>
+				<trans>become attached</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=N2-에|에게|에대해|이 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">심리상태(정|관심|믿음|호감|애착)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|구체물|추상적대상</sel_rst>
+					<eg>나는 철수에게 전혀 믿음이 안 간다.</eg>
+					<eg>나는 그 물건에 자꾸 호감이 간다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">심리상태(정|관심|믿음|호감|애착)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">S것|S데</sel_rst>
+					<eg>나는 한국어를 공부하는 데에 애착이 간다.</eg>
+					<eg>우리는 언어를 공부하는 것에 늘 관심이 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>come to form an idea of</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=S2-고 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">인지적행위(짐작)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>나는 철수가 그런 주장을 했으리라고 짐작이 간다.</eg>
+					<eg>그는 분명히 저 녀석이 그런 짓을 했다고 짐작은 가지만 물증이 없어 강하게 주장하지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>move</trans>
+				<trans>leave</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N3-에서 Y=N2-에|로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">이동행위(도망|이사|전학|이민|유학|출장)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<eg>나는 한국에서 캐나다로 이민을 갔다.</eg>
+					<eg>우리는 사당동에서 응암동으로 이사를 갔다.</eg>
+					<eg>철수는 서울로 도망을 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>go</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Y=N2-에|에게|로|에게로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">행위(사냥|소풍|산보|여행|구경)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(태백산|극장)</sel_rst>
+					<eg>그들은 태백산으로 사냥을 갔다.</eg>
+					<eg>우리 학교는 도봉산으로 소풍을 갔다.</eg>
+					<eg>우리는 어제 국립 극장에 발레 구경을 갔었다.</eg>
+					<eg>우리도 어제 저녁에 영화 구경을 갔었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>1998/05/03</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/08</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>의미 역할 수정(GOL->DIR)</mod_note>
+				<mod_note>의미 부류 수정 및 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>의미 부류 수정</mod_note>
+				<mod_note>엔트리 통합조정</mod_note>
+				<mod_note>센스 통합조정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>기술이 부정확하여 전체적으로 다시 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>go</trans>
+				<trans>become</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="V">(읽다|죽다|식다)</sel_rst>
+					<eg>나는 그 책을 다 읽어 간다.</eg>
+					<eg>그 환자가 죽어 간다.</eg>
+					<eg>음식이 식어 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>go</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="V">(읽다|하다|쉬다|일하다)</sel_rst>
+					<eg>지금까지 해 온 것처럼 앞으로도 잘 해 갑시다.</eg>
+					<eg>처음엔 어려워도 읽어 가다 보면 쉬워질 거야.</eg>
+					<eg>쉬어 가면서 일해라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>become</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>A-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="A">(어둡다|깊다)</sel_rst>
+					<eg>날이 점점 어두워 간다.</eg>
+					<eg>가을 밤이 깊어 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

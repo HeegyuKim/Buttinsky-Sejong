@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>목마르다</orth>
+	<entry pos="va"><!--동사적 용법도 있으므로 예문에 신경써야 할 듯함.-->
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/31</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>"품사" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">목이 마르다</var> <!--분리형이 센스1에는 가능하고 센스2의 경우는 가능하지 않은 것으로 여겨짐-->
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>feel thirsty</trans>
+				<lr>
+					<syn type="sino">갈증나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>계속 그렇게 목마르면 물을 먹지 말고 과일을 먹어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>feel a craving for</trans>
+				<lr>
+					<syn type="sino">갈망하다</syn>
+					<syn type="sino">열망하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|행위|추상적대상</sel_rst>
+					<eg>생명의 말씀에 목마른 무리들이 그를 따랐다.</eg>
+					<eg>그 아이들이 사랑에 무척 목마른 것 같다.</eg>
+					<eg>영화계는 지금 새로운 인물을 목마르게 찾고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

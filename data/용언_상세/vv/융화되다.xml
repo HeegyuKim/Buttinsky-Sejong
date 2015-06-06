@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>융화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">융화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">融化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>deliquesce</trans>
+				<trans>soften</trans>
+				<lr>
+					<syn type="perfect">융화하다</syn>
+					<syn type="perfect">용해되다</syn>
+					<syn type="kor">녹다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>아이들은 금속이 산에 융화되는 과정을 실험을 통해 관찰하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">융화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">融和_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>harmonize</trans>
+				<trans>be reconciled</trans>
+				<lr>
+					<syn type="perfect">화합되다</syn>
+					<syn type="perfect">화합하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단|추상적대상|사태</sel_rst>
+					<eg>나는 그와 서로 융화되기 어려운 관계에 있다.</eg>
+					<eg>우리 문화와 서구의 문화가 서로 융화되어 새로운 삶의 모습이 이루어져 가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|사태</sel_rst>
+					<eg>그와 나는 서로 융화되기 어려운 관계에 있다.</eg>
+					<eg>상이한 두 문화가 서로 융화되어 새로운 삶의 모습이 이루어져 가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

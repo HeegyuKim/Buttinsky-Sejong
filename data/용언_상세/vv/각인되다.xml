@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>각인되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">각인이 되다</var>
+			<str>N.되</str>
+			<org lg="si">刻印_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be carved as a seal</trans>
+				<trans>be engraved as a seal</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단|신체부위|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="FNS">온</sel_rst>
+					<eg>어머니는 이 세상에서 가장 아름다운 존재로 모든 인간들의 머리 속에 각인되어 있다.</eg>
+					<eg>모든 행동은 또다시 마음에 각인되므로 명상을 위해서는 생활태도상의 큰 변화가 필요하다.</eg>
+					<eg>십대 후반은, 그의 기억에서 가장 아름다운 시절로 각인되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

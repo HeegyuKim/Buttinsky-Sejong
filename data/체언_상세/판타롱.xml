@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>판타롱</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/20</cre_date>
+				<cre_writer>김성용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/31</mod_date>
+				<mod_writer>이홍식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/06</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>원어 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>신선옥</mod_writer>
+				<mod_note>comb_v 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>판탈롱</see>
+		<morph_grp>
+			<var type="xs">판탈롱</var>
+			<org lg="etc">판타롱</org>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그녀는 ~을 입고 신촌 거리를 활보하고 다녔다.</eg>
+				<trans>pantaloons</trans>
+				<sem_class>옷</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 입다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 벗다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">벌</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>생기있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">생기가 있다</var>
+			<var type="etc"></var>
+			<str></str>
+			<org lg="si">生氣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>기색</sem_class>
+				<trans>be animated</trans>
+				<trans>be lively</trans>
+				<lr>
+					<syn type="perfect">기운차다</syn>
+					<syn type="kor">싱싱하다</syn>
+					<ant type="grad">생기없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|(얼굴|피부|표정)</sel_rst>
+					<eg>그녀의 얼굴은 항상 물에 씻은 달처럼 맑고 생기있다.</eg>
+					<eg>선명한 칼라의 립스틱을 바르니 생기있어 보인다.</eg>
+					<eg>몸이 건강해야 피부도 생기있는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

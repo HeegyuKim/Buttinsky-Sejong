@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흡사하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/15</mod_date>
+				<mod_writer>강정연</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>D.하</str>
+			<org lg="si">恰似_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be alike</trans>
+				<lr>
+					<syn type="kor">비슷하다</syn>
+					<ant type="grad">다르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="COM">온</sel_rst>
+					<eg>수미는 어머니와 흡사하다.</eg>
+					<eg>준오의 성격은 아버지의 성격과 서로 흡사하다.</eg>
+					<eg>이 시계는 그녀가 내게 선물한 시계와 흡사하다.</eg>
+					<eg>이 모조품은 진품과 거의 흡사하다.</eg>
+					<eg>고양이의 울음 소리는 때로 갓난아기의 울음 소리와 흡사하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>수미와 어머니는 서로 흡사하다.</eg>
+					<eg>준오의 성격과 아버지의 성격은 서로 흡사하다.</eg>
+					<eg>이 두 시계는 서로 흡사하다.</eg>
+					<eg>모조품과 진품이 거의 서로 흡사하다.</eg>
+					<eg>고양이의 울음 소리와 갓난아기의 울음소리는서로 흡사하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

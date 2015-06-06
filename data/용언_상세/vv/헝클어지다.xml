@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헝클어지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/24</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>get tangled</trans>
+				<trans>get entangled</trans>
+				<trans>get disheveled</trans>
+				<trans>get kinked</trans>
+				<trans>get raveled</trans>
+				<lr>
+					<syn type="perfect">헝클리다</syn>
+					<syn type="perfect">엉클어지다</syn>
+					<ant type="dir">정돈되다</ant>
+					<hyper>흐트러지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성구체물(실|실타래|끈|머리카락)</sel_rst> <!--모양속성구체물. 특히 가늘고 긴 모양의 것이 다발로 있는 것-->
+					<sel_rst arg="Y" tht="EFF">사태</sel_rst> <!--논항인지 불확실-->
+					<eg>곱게 빗어 넘긴 머리가 바람에 헝클어져 버렸다.</eg>
+					<eg>아이의 장난으로 실타래가 헝클어져 실이 제대로 풀리지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>get disheveled</trans>
+				<trans>get messed up</trans>
+				<lr>
+					<syn type="perfect">헝클리다</syn>
+					<syn type="perfect">엉클어지다</syn>
+					<ant type="dir">정돈되다</ant> <!--복원적-->
+					<hyper>흐트러지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame> <!--'Y=N1-에의해'를 넣어야 할지?-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|건물|건물부분장소</sel_rst>
+					<eg>그는 헝클어진 옷들을 주섬주섬 주워 빨래 바구니에 담았다.</eg>
+					<eg>식탁은 남은 음식물과 빈 술병들로 지저분하게 헝클어져 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>go wrong</trans>
+				<trans>go amiss</trans>
+				<trans>go awry</trans>
+				<trans>get fouled up</trans>
+				<trans>get raveled</trans>
+				<lr>
+					<syn type="perfect">헝클리다</syn>
+					<syn type="perfect">엉클어지다</syn>
+					<syn type="perfect">꼬이다</syn>
+					<ant type="dir">풀리다</ant> <!--reversive-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(생각|구상|계획|질서|일|생활|삶|인생)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">온</sel_rst>
+					<eg>뜻하지 않던 불행으로 한번 헝클어진 삶을 다시 바로잡기란 쉽지가 않았다.</eg>
+					<eg>이혼으로 그 여자의 모든 꿈과 계획은 헝클어져 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>get confused</trans>
+				<trans>get tangled</trans>
+				<lr>
+					<syn type="perfect">헝클리다</syn>
+					<syn type="perfect">엉클어지다</syn>
+					<syn type="sino">동요되다</syn> <!--자신없음-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(마음|머릿속)</sel_rst> <!--[추상적대상/개체상황]의 하위부류로 [심리상황] 필요-->
+					<sel_rst arg="Y" tht="EFF">온</sel_rst>
+					<eg>그는 어떤 일로든 마음이 한 번 헝클어지면 다른 일은 아무 것도 할 수 없는 성격이었다.</eg>
+					<eg>느닷없는 그 소식에 머릿속이 헝클어져 아무런 생각도 할 수 없는 지경이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

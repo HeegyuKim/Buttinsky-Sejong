@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>생명공학</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">생명 공학</var>
+			<str type="N_N">생명+공학</str>
+			<org lg="si">生命工學</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>김 교수는 ~을 이용해 하수 처리 시설을 개발하였다.</eg>
+				<eg>오늘날 ~은 의료와 농업 분야에 큰 기여를 하고 있다.</eg> <!--예문 수정(김)-->
+				<trans>biothechnology</trans>
+				<domain></domain>
+				<sem_class>학문과목</sem_class> <!--'범주'로 볼 수도 있는지?(이민우);'기술'에서 '학문과목'으로 수정(김)-->
+				<lr>
+					<syn type="etc">바이오테크놀로지</syn> <!--외래어 동의어(이민우)-->
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 기술</comb_n> <!--분리 기술(김)-->
+				<comb_n type="compound">~ 분야</comb_n>
+				<comb_n type="compound">~ 산업</comb_n>
+				<comb_n type="compound">~ 사업</comb_n>
+				<comb_n type="compound">~ 연구소</comb_n>
+				<comb_n type="compound">~ 제품</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 전공하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

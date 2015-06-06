@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옮겨앉다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 W=N3-에서 Z=N2-에|로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(자리)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<sel_rst arg="W" tht="SRC">장소</sel_rst>
+					<eg>극장에서 나는 모자를 쓴 여자가 앞에 앉아 화면을 가리는 바람에 어쩔 수 없이 옆 좌석으로 자리를 옮겨앉아야 했다.</eg>
+					<eg>그는 내가 추워 보였는지 햇볕이 드는 창가로 옮겨앉으라고 권했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>change</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 W=N3-에서 Z=N2-에|로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(자리)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">단체의부서|직책</sel_rst>
+					<sel_rst arg="W" tht="SRC">단체의부서|직책</sel_rst>
+					<eg>그녀는 최근 기획실에서 인사과로 자리를 옮겨앉았다고 한다.</eg>
+					<eg>이번 일이 잘 마무리되면 그는 영업직에서 본사의 관리직으로 옮겨앉게 될 지도 모른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

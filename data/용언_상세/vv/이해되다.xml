@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이해되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/11</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/05</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<note>8월 9일 전체 모여서 수정한 내용 반영</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">이해가 되다</var>
+			<cntr opt="obl" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">理解_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get understood</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트(책|논문)|추상적대상(이론|학설|말)</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>상대성 이론은 일반인들에게 쉽게 이해되지 않는다.</eg>
+					<eg>들뢰즈의 의미의 논리는 철학을 오래 공부한 사람들에게도 잘 이해되지 않는다.</eg>
+					<eg>그 작가는 아이들에게도 쉽게 이해되는 철학 이야기 책을 쓰고 싶어했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>consent</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(사정|처지|마음)</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>탈주범의 딱한 처지는 경찰에서도 이해되었다.</eg>
+					<eg>철수의 절박한 사정은 동네 주민들에게 이해되기에 이르렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>interpret</trans>
+				<trans>be thought</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(이론|학설|말)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상(이론|학설|말)</sel_rst>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>오랫동안 자연주의는 사람들에게 사실주의의 한 분파로 이해되어 왔다.</eg>
+					<eg>과거에 문헌학이 언어학으로 이해되던 시절이 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">인간|구체물</sel_rst>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>그는 정치인들 사이에서 진보진영의 대변자로 이해되었다.</eg>
+					<eg>그는 지인들 사이에서 재사로 이해되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에|에게 Y=S는것1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(이론|학설|말)</sel_rst>
+					<sel_rst arg="Y" tht="FNS"></sel_rst>
+					<sel_rst arg="Z" tht="MAG">인간</sel_rst>
+					<eg>데카르트의 철학은 서양의 이성주의를 대변하는 것으로 이해되어 왔다.</eg>
+					<eg>그의 입장은 동학들에게 너무 앞서 나가는 것으로 이해되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

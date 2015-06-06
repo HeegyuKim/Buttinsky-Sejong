@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>균형잡히다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/05/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">균형이 잡히다</var>
+			<cntr opt="obl" type="i"/>
+			<str>NV</str>
+			<org lg="si">均衡_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be balanced</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>수출입이 이제 점차 균형잡혔다.</eg>
+					<eg>수요와 공급이 균형잡힌 시장이 되어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>be balanced</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|신체부위(몸매)</sel_rst>
+					<eg>아가씨는 균형잡힌 몸매를 가졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

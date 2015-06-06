@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사채업자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>내부구성 정보 수정</mod_note>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사채 업자</var>
+			<str type="N_N">사채+업자</str>  <!--(호정은)'사채업+자'를 '사채(N)+업자(N)'로 수정함-->
+			<org lg="si">社債業者</org> <!--김성용(2004/07/04)'사채업+자'로 일차 분석, '자'를 접사로 처리할 가능성은 없는지 확인 요망-->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>실명제가 정착되면 ~가 어음을 빌려주는 방식은 사라질 것이다.</eg>
+				<trans>private money lender</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">악덕 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>농익다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+			<org lg="si">濃_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>be overripe</trans>
+				<lr>
+					<syn type="kor">무르익다</syn>
+					<ant type="dir">설익다</ant>
+					<hyper>익다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">과일</sel_rst>
+					<eg>따가운 가을햇살에 농익은 홍시가 나뭇가지에 매달려 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">알콜음료(술|과일주)</sel_rst>
+					<eg>농익은 진달래주가 내 코를 찔렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>become matured</trans>
+				<lr>
+					<syn type="kor">무르익다</syn>
+					<ant type="dir"></ant>
+					<hyper>익다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(분위기|흥)</sel_rst>
+					<eg>소고잽이가 떼를 지어 자반 뒤집기를 하면 장터의 흥은 걷잡을 수 없이 농익어 간다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛|소리</sel_rst>
+					<eg>만추의 농익은 노을빛이 황홀할 지경으로 서편 하늘을 물들여 나갔다.</eg>
+					<eg>농익은 태평소 소리는 아마 세상을 불태우는 소리일 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>become matured</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(몸|가슴|엉덩이)</sel_rst>
+					<eg>농익은 육체가 금방이라도 터질 것 같았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

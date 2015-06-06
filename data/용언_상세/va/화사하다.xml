@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>화사하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/15</cre_date>
+				<cre_writer>강정연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">華奢_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be splendid</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>정원을 가득 채운 화사한 꽃들이 보는 이의 눈을 즐겁게 했다.</eg>
+					<eg>고궁은 화사한 봄옷을 차려 입은 젊은이들로 가득했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(색|색깔|색상)|색속성값</sel_rst>
+					<eg>그 방은 흰색으로 칠한 벽에 화사한 분홍빛의 커튼이 조화를 이루고 있었다.</eg>
+					<eg>봄에는 화사한 색의 립스틱이 바르고 싶어진다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">몸짓및동작(미소|웃음|표정)</sel_rst>
+					<eg>그 여자의 화사한 미소가 내 긴장감을 풀어 주었다.</eg>
+					<eg>그 여자의 웃는 모습이 참 화사해 보였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(햇살|빛)</sel_rst>
+					<eg>감미로운 음악과 함께 창을 통해 들어오는 화사한 햇살이 분위기를 한층 밝게 해 주었다.</eg>
+					<eg>봄빛이 참 화사하기도 하구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

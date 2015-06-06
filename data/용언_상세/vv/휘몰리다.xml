@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휘몰리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.리2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be driven</trans>
+				<trans>be pressed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|상황</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|추상적대상|사태</sel_rst>
+					<eg>그는 일시적인 열정에 휘몰려 가족들에게 큰 상처를 남길 짓을 하고 말았다.</eg>
+					<eg>그는 물질주의에 휘몰려 진정한 가치를 잃어 가는 우리 사회를 개탄했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be driven</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상관련재해|기상현상</sel_rst>
+					<sel_rst arg="Y" tht="DIR">지상장소|방향</sel_rst>
+					<eg>감작스런 돌풍이 마을로 휘몰려 왔다.</eg>
+					<eg>눈보라는 산간지방을 거쳐 동쪽 바다로 휘몰려 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

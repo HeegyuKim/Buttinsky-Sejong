@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>직업의식</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sem 수정</mod_note><!--추상적대상에서 인지상태로-->
+				<mod_note>기능동사구문(있다/없다) 및 관련정보 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">직업 의식</var>
+			<str type="N_N">직업+의식</str>
+			<org lg="si">職業意識</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>진정한 서비스 정신은 기계적인 훈련이나 감시보다 각자의 ~에서 비롯된다.</eg>
+				<eg>스튜어디스인 그녀는 ~이 강해서 승객이 보고 있지 않을 때에도 늘 웃는 표정을 유지한다.</eg>
+				<eg>김부장은 지난 83년에 입사하여 투철한 ~과 장인 정신으로 회사의 발전과 후배를 양성하는 일에 주력해 왔다.</eg>
+				<trans>professional consciousness</trans>
+				<domain></domain>
+				<sem_class>의견</sem_class><!--'인지상태'가 아닐지. 그렇다면 npred로 고쳐야 함.(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 강하다</comb_aj>
+				<comb_aj type="appr">~이 철저하다</comb_aj>
+				<comb_aj type="magn">~이 투철하다</comb_aj>
+				<comb_aj type="min">~이 희박하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 갖다</form>
+					<frame>X-이 ~을 갖다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 발동하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 발휘하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

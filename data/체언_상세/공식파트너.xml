@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공식파트너</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/09(정아름)n_v추가</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">공식 파트너</var>
+			<str type="N_N">공식+파트너</str>
+			<org lg="si">公式___</org>
+			<org lg="en">__partner</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>현대자동차가 유로2004에 ~로 참여키로 했다.</eg>
+				<trans>official partner</trans>
+				<domain></domain>
+				<sem_class>단체</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 선정되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격감되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/04</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">격감이 되다</var>
+			<str>N.되</str>
+			<org lg="si">激減_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>be sharply decreased</trans>
+				<lr>
+					<syn type="perfect">급감되다</syn>
+					<ant type="dir">급증되다</ant>
+					<hyper>감소되다</hyper>
+					<hyper>줄어들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">크기(넓이|길이)|수량(비율|값)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">단위</sel_rst>
+					<sel_rst arg="Y" tht="FNS">단위</sel_rst>
+					<eg>무스탕 높은 지대와 돌파 높은 지역에서 촬영할 경우 비용은 $40000에서 $5000으로 격감되었다.</eg>
+					<eg>미국 정부가 1980년 7월 발표한 2000년의 지구에 따르면 지구상의 삼림 면적은 1960년 전후에 40억ha에서 1978년에는 25억6천3백만ha로 격감되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>be sharply decreased</trans>
+				<lr>
+					<syn type="perfect">급감되다</syn>
+					<ant type="compl">급증되다</ant>
+					<ant type="compl">늘어나다</ant>
+					<hyper>감소되다</hyper>
+					<hyper>줄어들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리행위|심리상태</sel_rst>
+					<eg>이제 독일은 통일되었고, 핵대결의 위협은 격감되었다.</eg>
+					<eg>냉전의 종식으로 생긴 행복감은 1990년 8월 2일의 이라크의 쿠웨이트 침공으로 해서 격감되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

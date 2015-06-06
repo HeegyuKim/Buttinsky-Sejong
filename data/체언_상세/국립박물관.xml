@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국립박물관</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/01(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국립 박물관</var>
+			<str type="N_N">국립+박물관</str>
+			<org lg="si">國立博物館</org><!--'박물+관'으로 더 분석할 수 있음(권오희)-->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>외국 여행을 할 때는 그 나라의 ~은 꼭 한 번 가봐야 한다.</eg>
+				<eg>고미술의 공간인 ~에서 현대 미술 초대전을 열 예정이다.</eg>
+				<trans>National Museum</trans>
+				<domain></domain>
+				<sem_class>문화행사건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 크다</comb_aj>
+				<comb_aj type="appr">~이 작다</comb_aj>
+				<comb_n type="compound">~ 개관</comb_n>
+				<comb_n type="compound">~ 관람</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 전시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 관람하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개방하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

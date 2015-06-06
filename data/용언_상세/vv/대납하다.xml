@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대납하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대납을 하다</var>
+			<str>N.하</str>
+			<org lg="si">代納_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>pay for sb</trans>
+				<lr>
+					<hyper>납부하다</hyper>
+					<hyper>내다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">세금|비용</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>내가 시간이 없어서 그러는데 전기요금을 좀 은행에 대납해 줄 수 있을까?</eg>
+					<eg>주택공사는 가구당 11만여원씩 2004년도 재산세 9000만원을 화성시에 대납했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>pay in kind</trans>
+				<lr>
+					<hyper>납부하다</hyper>
+					<hyper>내다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">세금|비용</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물</sel_rst>
+					<eg>그는 카드비용을 현금으로 대납했다.</eg>
+					<eg>1973년 피카소의 상속자들은 피카소의 사후 엄청난 상속세 대신 피카소의 작품으로 상속세를 대납했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

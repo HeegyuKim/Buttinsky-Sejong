@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달달거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/13</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">덜덜거리다</var>
+			<var type="etc">딸딸거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be trembling</trans>
+				<lr>
+					<syn type="perfect">떨리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>배도 떨리고 발도 달달거린다.</eg>
+					<eg>너무 놀라 심장이 터질듯 울려대고 문고리를 잡은 두 손이 달달거려 슬금슬금 뒷걸음질을 쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>make st trembling</trans>
+				<lr>
+					<syn type="perfect">떨다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|짐승</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>그는 따뜻한 물 한 그릇 없이 밥 한그릇을 이빨을 달달거려 가면서 비웠다.</eg>
+					<eg>그 여자는 두려워서 온 몸을 달달거리며 문 앞에 서 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be rattling</trans>
+				<lr>
+					<syn type="perfect">덜컹거리다</syn>
+					<syn type="perfect">덜걱거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="2">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관|기기</sel_rst>
+					<eg>흙먼지 속에서 자전거 한 대가 달달거리며 달려오고 있다.</eg>
+					<eg>내 차는 너무 오래되어서 고속으로 달리면 달달거리기 시작한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>make st rattling</trans>
+				<lr>
+					<syn type="perfect">덜컹거리다</syn>
+					<syn type="perfect">덜걱거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="2">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">교통기관|기기</sel_rst>
+					<eg>멀리서 농부 한사람이 흙먼지 속에서 자전거를 달달거리며 달려오고 있다.</eg>
+					<eg>그 아이는 장난감 총을 달달거리면서 혼자사 잘 놀고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

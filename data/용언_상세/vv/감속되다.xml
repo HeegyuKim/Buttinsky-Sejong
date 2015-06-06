@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감속되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감속이 되다</var>
+			<str>N.되</str>
+			<org lg="si">減速_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get to slow down</trans>
+				<lr>
+					<ant type="grad">가속되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|사건|현상|상태변화</sel_rst>
+					<n_appr arg="X">속도</n_appr>
+					<eg>실제로는 중력이 공의 운동 방향과 반대 방향으로 작용하므로 공은 감속된다.</eg>
+					<eg>실재적인 진화는 조금이라도 가속되거나 감속되기만 하면 내적으로 완전히 수정된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>get to slow down</trans>
+				<lr>
+					<ant type="grad">가속되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속도</sel_rst>
+					<eg>주차 브레이크 사용은 차량의 회전에 의한 사고를 유발할 수 있으므로 속도가 충분히 감속된 상태에서 사용해야 한다.</eg>
+					<eg>사망률이 안정되고 출산율의 감소가 감속되면 인구증가체제에 도달한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

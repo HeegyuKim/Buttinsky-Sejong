@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>너부죽하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 추가</mod_note>
+				<mod_note>적정명사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">나부죽하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be somewhat flattish</trans>
+				<lr>
+					<syn type="perfect">너부데데하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|턱)|구체물(바위|잎사귀)</sel_rst>
+					<eg>이마는 널찍하고 귀는 너부죽하고 입술은 두툼하다.</eg>
+					<eg>물구덕을 얹어 두는 물팡돌이 너부죽해서 품격이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>take a low posture</trans>
+				<lr>
+					<hyper>낮다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">모습</n_appr>
+					<n_appr arg="X">자세</n_appr>
+					<eg>변사또는 비단보료 위에 너부죽하니 앉아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>너부죽하게</infl_rst>
+			<trans>with a low posture</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>너부죽하게 엎드리다</defect_eg>
+		</defect>
+			<defect>
+			<infl_rst>너부죽하니</infl_rst>
+			<trans>with a low posture</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>너부죽하니 엎드리다</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

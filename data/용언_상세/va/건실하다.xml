@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>건실하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀에서 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">健實_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be steady</trans>
+				<trans>be sound</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|신체부위|품격속성|사조|개념|규범|관습|상황|개체상황|인지적행위</sel_rst>
+					<eg>이번에 새로 들어온 신입사원은 건실하고 정확해 보인다.</eg>
+					<eg>학문적인 독창성도 기대되지만 그보다도 기존학문에 대해서 통달했느냐, 학문하는 태도가 건실하냐, 학문연구방법을 올바르게 터득했느냐 하는 것이 가장 중요한 문제이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

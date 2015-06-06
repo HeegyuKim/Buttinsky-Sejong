@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이중소유</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>표제어 자격이 있는지?;의미부류 추가;어휘적으로 가능한 정보들이 있겠으나, 실제 쓰이는지 여부가 불투명하여 추가 기술을 하지 않음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>표제어 자격이 있는지? 서술성명사로 봐야 하는데 실제 예를 찾기가 어려움</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">이중+소유</str>
+			<org lg="si">二重所有</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>토지는 국유지인데 그 위에 지은 건물은 개인이 소유를 하는 경우 ~가 된다.</eg>
+				<trans>dual ownership</trans> <!--센스 구분 필요 검토요망-->
+				<trans>dual property</trans>
+				<domain>법률</domain>
+				<sem_class>획득행위</sem_class> <!-- 추가함, 검토 필요 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame> <!-- 'X-이 Z-와 Y-을 ~를 하다'와 같은 구문이 쓰일지? -->
+				</comb_v>
+				<max_n_str></max_n_str> <!-- 'Y-에 대한 X-와 Z-의 ~'와 같은 명사구가 가능할지? -->
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

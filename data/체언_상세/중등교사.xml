@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>중등교사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>ant검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">중등 교사</var>
+			<str type="N_N">중등+교사</str>
+			<org lg="si">中等敎師</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서울시 교육청은 오늘 13명의 ~를 교감으로 승진시켰다.</eg>
+				<eg>우리 아버지는 독학으로 ~가 되어 지금은 고등학교 물리 선생님을 하고 계신다.</eg>
+				<trans>secondary school teacher</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="perfect">중등교원</syn>
+					<ant type="grad">초등교사</ant><!--가능할 것 같기는 한데 잘 모르겠네요...(김이정)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 공채</comb_n>
+				<comb_n type="compound">~ 시험</comb_n>
+				<comb_n type="compound">~ 연수</comb_n>
+				<comb_n type="compound">~ 임용</comb_n>
+				<comb_n type="compound">~ 자격증</comb_n>
+				<comb_n type="compound">공립 ~</comb_n>
+				<comb_n type="compound">사립 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 일하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>교태스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/08</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>적정명사로 처리해야 할지</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">嬌態_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be coquettishly</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리(목소리|음성)</sel_rst>
+					<eg>그녀의 목소리는 가느다랗고 교태스러웠다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(눈웃음)</sel_rst>
+					<eg>그녀는 눈웃음이 교태스러운 매력적인 여자다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">몸짓및동작(몸짓|손짓)</sel_rst>
+					<eg>그녀는 교태스러운 몸짓으로 주변의 이목을 집중시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>인가되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">인가가 되다</var>
+			<str></str>
+			<org lg="si">認可_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be authorized</trans>
+				<trans>be accredited</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단</sel_rst>
+					<sel_rst arg="X" tht="AGT">국가|단체</sel_rst>
+					<eg>이 집단은 당국에서 인가되지 않은 불법 집단입니다.</eg>
+					<eg>그 학교는 아직 교육부에서 인가되지 않은 상태에 있어 졸업 후에 학력을 인정받기 힘들다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be authorized</trans>
+				<trans>be accredited</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(설립|구성)</sel_rst>
+					<sel_rst arg="X" tht="AGT">국가|단체</sel_rst>
+					<eg>그 재단은 아직 학교의 설립이 인가되지 않은 상태에서 학교 부지부터 사들였다.</eg>
+					<eg>법인의 구성이 인가되기 위해서는 어떤 조건이 필요합니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

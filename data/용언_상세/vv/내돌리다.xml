@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내돌리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/21</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충 및 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내어돌리다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>pass st round</trans>
+				<lr>
+					<hyper>내놓다</hyper>
+					<hyper>돌리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간|인간집단|부분장소|관계장소</sel_rst>
+					<eg>행여 저 아가씨를 험한 세상에 내돌렸다가 몸이라도 상할까 싶어서 내가 돌봐주기로 했다.</eg>
+					<eg>소중한 물건일수록 다른 사람들에게 내돌리고 싶지 않은 것이 인지상정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>wave</trans>
+				<trans>wag</trans>
+				<lr>
+					<syn type="perfect">내두르다</syn>
+					<hyper>돌리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(혀|머리)</sel_rst>
+					<eg>저기서 머리를 내돌리면서 오는 사람이 네 오빠 아니니?</eg>
+					<eg>상투를 잡아 훼훼 내돌리고 수염을 잡아챈들 누가 감히 원망을 늘어놓겠습니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>범죄및비행</sem_class>
+				<trans>neglect</trans>
+				<trans>disregard</trans>
+				<lr>
+					<syn type="perfect">따돌리다</syn>
+					<syn type="vulgar">왕따시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>어느 집단에나 묘한 텃세가 있어서 새로 오는 사람들을 내돌리는 경향이 있다.</eg>
+					<eg>그 눈치 없는 인사는 모든 사람들이 다 내돌려도 아무 것도 느끼지 못하는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>혀를 내돌리다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

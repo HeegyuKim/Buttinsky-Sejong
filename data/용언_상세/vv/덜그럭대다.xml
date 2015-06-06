@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덜그럭대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"SEE" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<see></see><!--이미 기술되어 있었기 때문에 "SEE" 처리 하지 않음.-->
+		<morph_grp>
+			<var type="etc">달그락대다</var>
+			<var type="etc">딸그락대다</var>
+			<var type="etc">떨그럭대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be rattled</trans>
+				<trans>be clattered</trans>
+				<lr>
+					<syn type="perfect">달가닥대다</syn>
+					<syn type="perfect">달까닥대다</syn>
+					<syn type="perfect">달카닥대다</syn>
+					<syn type="perfect">딸가닥대다</syn>
+					<syn type="perfect">딸까닥대다</syn>
+					<syn type="perfect">딸카닥대다</syn>
+					<syn type="perfect">탈가닥대다</syn>
+					<syn type="perfect">탈까닥대다</syn>
+					<syn type="perfect">덜거덕대다</syn>
+					<hyper>움직이다</hyper>
+					<hyper>소리내다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>빈 도시락이 가방 속에서 덜그럭댄다.</eg>
+					<eg>차 트렁크 속에 물건들이 서로 부딪혀서 덜그럭댄다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>rattle</trans>
+				<trans>clatter</trans>
+				<lr>
+					<syn type="perfect">달가닥대다</syn>
+					<syn type="perfect">달까닥대다</syn>
+					<syn type="perfect">달카닥대다</syn>
+					<syn type="perfect">딸가닥대다</syn>
+					<syn type="perfect">딸까닥대다</syn>
+					<syn type="perfect">딸카닥대다</syn>
+					<syn type="perfect">탈가닥대다</syn>
+					<syn type="perfect">탈까닥대다</syn>
+					<syn type="perfect">덜거덕대다</syn>
+					<hyper>움직이다</hyper>
+					<hyper>소리내다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>너는 무엇을 그렇게 덜그럭대면서 뛰냐?</eg>
+					<eg>그는 빈 도시락을 덜그럭대면서 집까지 걸어갔다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

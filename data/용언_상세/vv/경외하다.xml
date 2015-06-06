@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경외하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경외를 하다</var>
+			<str>N.하</str>
+			<org lg="si">敬畏_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>awe</trans>
+				<lr>
+					<syn type="perfect">인외하다</syn>
+					<ant type="compl">경시하다</ant>
+					<ant type="compl">무시하다</ant>
+					<ant type="compl">홀대하다</ant>
+					<rel>공경하다</rel>
+					<rel>추앙하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">상상적인간(신|하나님|예수)</sel_rst>
+					<eg>아벨은 하나님을 경외하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지추상적행위</sem_class>
+				<trans>respect</trans>
+				<lr>
+					<syn type="perfect">존중하다</syn>
+					<ant type="compl">경시하다</ant>
+					<ant type="compl">무시하다</ant>
+					<ant type="compl">홀대하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>본성적인 법률가인 그는 자연의 법칙까지도 경외하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

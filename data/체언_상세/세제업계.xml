@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>세제업계</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>var 정보 기술</mod_note>
+				<mod_note>str 정보 기술</mod_note>
+				<mod_note>합성동사 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/17</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">세제 업계</var>
+			<str type="N_N">세제+업계</str>
+			<org lg="si">洗劑業界</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그녀는 ~에 진출해서 큰 성공을 거두었다.</eg>
+				<eg>환경평가의 강화로 ~는 크게 위축되었다.</eg>
+				<trans>business of cleanser</trans>
+				<domain></domain>
+				<sem_class>분야</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="min">~이 위축되다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 진출하다</form> <!--합성동사 형태 불가능 no로 수정(미현)-->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 나가다</form> <!--합성동사 형태 불가능 no로 수정(미현)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

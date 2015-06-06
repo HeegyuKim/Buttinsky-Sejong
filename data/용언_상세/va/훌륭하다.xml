@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훌륭하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be nice</trans>
+				<trans>be fine</trans>
+				<trans>be excellent</trans>
+				<lr>
+					<syn type="perfect">좋다</syn>
+					<syn type="perfect">멋지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물|속성(기능|성능|외관)</sel_rst>
+					<eg>길 건너 보이는 저 건물은 무척 웅장하고 훌륭하다.</eg>
+					<eg>새로 수입된 이 기계는 모든 면에서 훌륭하지만 값이 좀 비싼게 흠이다.</eg>
+					<eg>내 자동차는 작지만 성능은 훌륭하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>우리 어머니의 바느질 솜씨는 누구도 흉내낼 수 없을 만큼 훌륭하다.</eg>
+					<eg>이 집 설렁탕 맛은 나무랄 데 없이 훌륭하다.</eg>
+					<eg>그의 이번 작품은 아주 훌륭하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be respectable</trans>
+				<trans>be admirable</trans>
+				<trans>be worthy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|품격속성</sel_rst>
+					<eg>그 사람은 인품이 훌륭하여 모든 이들의 존경을 받았다.</eg>
+					<eg>너는 훌륭한 어머니를 둔 것을 늘 고맙고 자랑스럽게 생각해야 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<eg>친구를 끝까지 돕겠다는 그의 생각은 아름답고 훌륭하다.</eg>
+					<eg>모든 일을 숨김 없이 이야기한 그의 용기는 훌륭하다.</eg>
+					<eg>우리는 당신의 훌륭한 결정을 따르겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be great</trans>
+				<trans>be prominent</trans>
+				<trans>be eminent</trans>
+				<lr>
+					<syn type="sino">가치있다</syn>
+					<syn type="sino">대단하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|추상적대상</sel_rst>
+					<eg>여러분은 모두 이 나라를 빛낼 훌륭한 사람들이 되기를 바랍니다.</eg>
+					<eg>훌륭한 인물들 중에는 외로운 어린 시절을 보낸 사람들이 많다.</eg>
+					<eg>역사에 길이 남을 훌륭한 영화를 만드는 것이 제 꿈입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

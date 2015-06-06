@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희끗희끗하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be grizzled</trans>
+				<lr>
+					<syn type="etc">희끗하다</syn>
+					<hyper>희다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(머리|머리카락|눈썹)</sel_rst>
+					<eg>그녀는 머리가 희끗희끗한 아버지의 모습에 눈물이 났다.</eg>
+					<eg>백발에 눈썹까지 희끗희끗한 한 노인이 내 곁으로 다가왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>희끗희끗하게</infl_rst>
+			<trans>be gently</trans>
+			<trans>be softly</trans>
+			<sel_rst arg="X" tht="THM">강우(비|보슬비)|강설(눈|눈발)</sel_rst>
+			<defect_eg>그는 비가 희끗희끗하게 내리는 길을 혼자 걷고 있었다.</defect_eg>
+			<defect_eg>날이 흐리더니 밖에 눈발이 희끗희끗하게 날리고 있다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

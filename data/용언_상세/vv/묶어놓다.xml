@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>묶어놓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>confine sb to</trans>
+				<lr>
+					<ant type="compl">풀어놓다</ant>
+					<ant type="compl">자유화하다</ant>
+					<hyper>묶다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>제우스가 사신을 시시포스에게 보냈을 때 사신을 속여 꼼짝못하게 묶어놓아 군신 아레스가 사신을 구출할 때까지 아무도 죽지 않았다고 한다.</eg>
+					<eg>그 수비수는 상대편 공격수를 하프라인 밖에 철저히 묶어놓아 팀의 대승의 주역이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

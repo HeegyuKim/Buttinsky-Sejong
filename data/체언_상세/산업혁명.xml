@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>산업혁명</orth> <!--표제어 정보 기입(김)-->
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/28</cre_date><!--재기술(2004/07/01)-->
+				<cre_writer>이민우</cre_writer>
+				<cre_note>통사정보 확인해 주시기 바랍니다.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/06/28</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>고유명사로 처리해야 함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>사건에서 사회동요로 수정;맥스엔에 'X-의 ~' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">산업 혁명</var>
+			<str type="N_N">산업+혁명</str>
+			<org lg="si">産業革命</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>증기기관의 발명으로 ~이 일어났다.</eg> <!--문장부호 기입(김진형)-->
+				<eg>서구 국가들은 ~을 통하여 공업화를 이루었다.</eg> <!--문장부호 기입(김)-->
+				<trans>Industrial Revolution</trans>
+				<domain></domain>
+				<sem_class>사회동요</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form> <!--yes를 no로 수정하고 form 정보 기입(김)-->
+					<frame>X-에서 ~이 일어나다</frame> <!--'술어명사+기능동사변이형'의 경우이므로 frame 기술함. 이 경우 'X-에서'를 논항으로 인정할 수 있는가가 문제임. 일단 회의 때 논의된 바에 따라 부가어로 보지 않고 논항으로 기술(김)-->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 일으키다</form><!--이성헌 선생 질답노트 참조(이민우);동사가 vpred일 때에는 frame을 기술하지 않음. 따라서 아래 frame 정보 삭제(김)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str> <!--정보 기입(김)-->
+				<max_n_str>X-의 ~</max_n_str> <!--정보 기입(김)-->
+				<sel_rst arg="X">지역</sel_rst> <!--위의 frame 정보에 따라 논항 선택제약 수정. '사건|인간집단'에서 '지역'으로 수정(김)-->
+				<cl type="uni">번</cl> <!--단위표현 정보 태그 분리 기술(김)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

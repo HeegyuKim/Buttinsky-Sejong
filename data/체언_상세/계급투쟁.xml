@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>계급투쟁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>trans 형식 수정;n_n 수정;max_n 수정</mod_note>
+			</mod>
+			<mod>
+                <mod_date>2007/07/29</mod_date>
+                <mod_writer>이홍식</mod_writer>
+                <mod_note></mod_note>
+            </mod>
+			<add>~론|론자</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">계급 투쟁</var>
+			<str type="N_N">계급+투쟁</str>
+			<org lg="si">階級鬪爭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>공산주의는 ~ 이론에 기초하고 있다.</eg>
+				<trans>struggle of classes</trans>
+				<trans>a class strife</trans>
+				<!-- 복수 정보는 element 반복하여 기술(송근영) -->
+				<domain></domain>
+				<sem_class>갈등상황</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 치열하다</comb_aj>
+				<comb_aj type="magn">~이 가열차다</comb_aj>
+				<comb_n type="compound">~이론</comb_n>
+					<!-- 론|론자를 add로 이동(송근영) -->
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame>
+					<frame>X-와 Y-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame>X-이 Y-와 ~을 벌이다</frame>
+					<frame>X-와 Y-이 ~을 벌이다</frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str> <!-- 불필요한 논항 Z 삭제(송근영) -->
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<sel_rst arg="X">계층계급</sel_rst>
+				<sel_rst arg="Y">계층계급</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>노화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">노화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">老化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>grow old and senile</trans>
+				<trans>become aging</trans>
+				<lr>
+					<syn type="perfect">퇴모하다</syn>
+					<syn type="perfect">노쇠하다</syn>
+					<syn type="kor">늙다</syn>
+					<ant type="grad">젊어지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">생물|신체부위(몸|조직|세포)|식물의부분</sel_rst>
+					<eg>신체가 노화되었다고 해서 반드시 기억력이 감퇴하지는 않는다.</eg>
+					<eg>수분을 충분히 공급해 주지 않으면 피부가 노화된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

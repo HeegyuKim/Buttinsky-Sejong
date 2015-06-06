@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>편제되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">편제가 되다</var>
+			<str>N.되</str>
+			<org lg="si">編制_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be organized</trans>
+				<trans>be formed</trans>
+				<trans>be composed</trans>
+				<lr>
+					<syn type="perfect">편성되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">단체|추상적대상(조직|기구|체계)|행정구역</sel_rst>
+					<eg>회사의 기구가 새로이 편제되면서 크고 작은 갈등이 생기기 시작했다.</eg>
+					<eg>새롭게 편제될 교육 체계로 인해 생겨날 문제점과 그 해결 방안을 논의하기 위한 공청회가 열렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

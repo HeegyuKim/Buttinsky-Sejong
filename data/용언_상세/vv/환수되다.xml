@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환수되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/05</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환수가 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">還收_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be repaid</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈|금전</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>이런 상황 아래에서는 기업들로부터 대금이 제대로 환수되기가 어려워 보인다.</eg>
+					<eg>그가 불법적으로 모은 모든 재산은 정부로 환수될 예정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be repossessed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">권리</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>군사 작전 통제권이 미국에서 한국으로 환수될 시기를 놓고 엇갈린 입장이 맞서고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

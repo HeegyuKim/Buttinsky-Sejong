@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끌다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/13</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/02/15</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/15</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 수정</mod_note>
+				<mod_note>선택 제약 수정</mod_note>
+				<mod_note>동일 서브센스 삭제</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pull</trans>
+				<lr>
+					<ant type="dir">밀다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>그는 내 소매를 잡아 끌었다.</eg>
+					<eg>그는 내 머리채를 끌었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>운반</sem_class>
+				<trans>pull</trans>
+				<lr>
+					<ant type="dir">밀다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">교통기관(마차|수레|자전거|쟁기|차)</sel_rst>
+					<eg>조랑말이 짐이 가득 실린 마차를 끌고 간다.</eg>
+					<eg>힘이 없어서 더 이상 수레를 끌지 못하겠다.</eg>
+					<eg>자전거가 펑크나서 할 수 없이 그것을 끌고 갈 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>lead</trans>
+				<lr>
+					<syn type="perfect">이끌다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(졸개|부하|하인|종|직원)|인간집단</sel_rst>
+					<eg>사람을 그렇게 끌고 다니지 마시요.</eg>
+					<eg>그가 끄는 대로 따라 갔더니 이웃 아낙네의 집이 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>drag</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(신발|옷자락|치마|바지)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소(바닥|땅)</sel_rst>
+					<eg>신발을 땅바닥에 그렇게 끌지 마라.</eg>
+					<eg>옷자락을 질질 땅에 끌고 다니면 못 써.</eg>
+					<eg>의자가 무거워 방바닥에 그것을 질질 끌었더니 장판이 다 벗겨졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>prolong</trans>
+				<lr>
+					<syn type="sino">연장하다</syn>
+					<syn type="perfect">늘이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">일|계획사건(사업|회의|경기|시합|계약)</sel_rst>
+					<sel_rst arg="ADV">Adv(오래)|Adj-게(길게)</sel_rst>
+					<eg>부장은 오늘따라 회의를 길게 끌고 있네.</eg>
+					<eg>그 일을 오래 끌지 말고 빨리 끝내시오.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(시간|날짜)</sel_rst>
+					<sel_rst arg="ADV">Adv(오래)|Adj-게(길게)</sel_rst>
+					<eg>이 일은 시간을 오래 끌지 말고 조속히 해결하세요.</eg>
+					<eg>이 문제로 한 달을 질질 끌었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(얘기|말|대화)</sel_rst>
+					<sel_rst arg="ADV">Adv(오래)|Adj-게(길게)</sel_rst>
+					<eg>얘기를 더 이상 길게 끌지 맙시다.</eg>
+					<eg>아무리 대화를 끌어 봤자 그 문제에 대해서는 결론이 나지 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>prolong</trans>
+				<lr>
+					<syn type="sino">연장하다</syn>
+					<syn type="perfect">늘이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리(목소리)|(여운|노래)</sel_rst>
+					<sel_rst arg="ADV">Adv(오래)|Adj-게(길게)</sel_rst>
+					<eg>기적 소리를 길게 끌며 기차가 달린다.</eg>
+					<eg>여운을 끌면서 말을 맺었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>운반</sem_class>
+				<trans>install</trans>
+				<trans>pipe</trans>
+				<trans>lay on</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 W=N3-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">시설물(수도)|(물)|(전기)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<sel_rst arg="W" tht="GOL">장소</sel_rst>
+					<eg>이 곳까지 전기를 끌어 오려면 돈이 많이 든다.</eg>
+					<eg>여기는 고지대라서 이 곳으로 물을 끌어 쓸 수 없다.</eg>
+					<eg>저수지에서 물을 끌어 올리는 펌프가 필요하다.</eg>
+					<eg>저 곳 정수장에서 물을 끌어 왔지요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>induce</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간집단|단체(회사)</sel_rst>
+					<eg>김 상무가 회사에 자금을 많이 끌어 대었다.</eg>
+					<eg>이번 회장은 여기저기서 동창회에 기금을 많이 끌어 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>attract</trans>
+				<lr>
+					<syn type="perfect">모으다</syn>
+					<syn type="sino">집중시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(손님|관객|관람객)|(시선|이목)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<eg>기념품 가게들은 자기 가게에 외국 손님들을 무지막지하게 끌어 들인다.</eg>
+					<eg>호객꾼들은 자기들의 술집에 손님을 많이 끌기 위해서 별짓을 다한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>cite</trans>
+				<lr>
+					<syn type="sino">인용하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트(글|인용문)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">텍스트|작품</sel_rst>
+					<eg>그는 이 문장을 그의 소설에서 끌어 왔다.</eg>
+					<eg>그는 자주 이백의 시에서 이 구절을 끌어다가 쓴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>cite</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">언어행위(이야기)</sel_rst>
+					<eg>그는 자기 변명을 하려고 그 이야기를 끌어다 붙였다.</eg>
+					<eg>그는 그 일을 정당화하려고 이상한 논리를 끌어다 댔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>lead</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단|행위</sel_rst>
+					<eg>철수가 혼자가 이 모임을 지금까지 끌고 왔다고 해도 과언이 아니다.</eg>
+					<eg>그는 이 기업을 지금까지 끌고 왔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단|행위</sel_rst>
+					<eg>신앙심이 나를 지금까지 끌고 왔다고 할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>prolong</trans>
+				<trans>grow longer</trans>
+				<lr>
+					<syn type="perfect">길어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(장마|늦더위)</sel_rst>
+					<sel_rst arg="ADV">Adv(계속)|Adj-게(길게)</sel_rst>
+					<eg>장마가 길게 끄는데요.</eg>
+					<eg>더위가 제법 길게 끌어서 가을이 온 줄 몰랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(경기|시합)</sel_rst>
+					<sel_rst arg="ADV">Adv(계속)|Adj-게(길게)</sel_rst>
+					<eg>이 경기가 9회 이후에도 계속 끌겠는데요.</eg>
+					<eg>그 모임이 너무 길게 끄는 바람에 다음 약속에 늦고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/13</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/02/15</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/15</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 수정</mod_note>
+				<mod_note>선택 제약 수정</mod_note>
+				<mod_note>격틀 및 의미역 수정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>attract</trans>
+				<lr>
+					<syn type="perfect">모으다</syn>
+					<syn type="sino">집중시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N3-에게서|에게 Y=N2-로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(관심|주목|흥미|시선|주의)</sel_rst>
+					<sel_rst arg="X" tht="EFF">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="INS">인간|행위|사건|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>대통령은 이번 개혁 정책으로 국민들에게서 아무런 관심을 끌지 못했다.</eg>
+					<eg>그 여자는 이상한 옷차림으로 사람들에게서 늘 시선을 끈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">(관심|주목|흥미|시선|주의)</sel_rst>
+					<sel_rst arg="X" tht="EFF">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>대통령은 수도를 이전하는 것으로 국민들에게서 아무런 관심을 끌지 못했다.</eg>
+					<eg>그 여자는 이상하게 옷을 입는 것으로 사람들에게서 늘 시선을 끈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

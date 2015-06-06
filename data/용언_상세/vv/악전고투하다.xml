@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>악전고투하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">악전고투를 하다</var>
+			<str>N.하</str>
+			<org lg="si">惡戰苦鬪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>fight desperately</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>이 모든 부담을 가뜩이나 상대적으로 적은 시장에서 악전고투하고 있는 중소규모 소프트웨어 개발사에게 지울 수는 없다.</eg>
+					<eg>뒤를 돌아보니 몇 척의 배가 흐름에 거슬려서 어떻게든 되올라 가려고 악전고투하고 있는 것이 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

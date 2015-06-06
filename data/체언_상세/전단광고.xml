@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전단광고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>sense2 추가;sense 1 sem 수정;add기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/17</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>파생어:~지</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전단 광고</var>
+			<str type="N_N">전단+광고</str>
+			<org lg="si">全段廣告</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 회사는 ~를 통해 이번 신제품을 소개했다.</eg>
+				<trans>whole page advertisement</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class> <!-- 지속적활동->방향성행위:광고는 방향성이 있는 행위로 볼 수 있을 듯(송근영) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 S다고 ~를 하다</frame>
+				</comb_v>
+				<max_n_str>X-의  Y-에 대한 S다는~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">구체인공물</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense> <!-- 송근영 추가: 다의어 분할 원칙 지침에 따라 텍스트담지물로만 분리하고 텍스트로서의 의미분할은 따로 하지 않음(둘의 구별이 관습화되지는 않은 것으로 보고) -->
+			<sem_grp>
+				<eg>~를 제작해서 배포하는 데까지 걸리는 시간을 잘 계산해 보았다.</eg>
+				<trans>whole page advertisement</trans>
+				<domain>텍스트담지물</domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="perfect">전단광고지</syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 제작하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 배포하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 읽다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 보다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">장</cl>
+				<cl type="uni">부</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

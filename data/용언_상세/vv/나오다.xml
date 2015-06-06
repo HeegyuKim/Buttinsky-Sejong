@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나오다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="eo"/>
+			<str>VV</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>project</trans>
+				<trans>protrude</trans>
+				<lr>
+					<syn type="sino">돌출하다</syn>
+					<syn type="sino">돌기하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(이마|가슴|엉덩이)</sel_rst>
+					<eg>그녀의 이마는 앞으로 좀 나와서 아주 지적으로 보인다.</eg>
+					<eg>조카가 중학생이 되더니 가슴이 제법 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="magn">불룩</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>고장</sem_class>
+				<trans>operate well</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">전기전자기구(텔레비전|라디오)|(소리|화면)</sel_rst>
+					<eg>고장이 났는지 텔레비전 화면이 잘 나오지 않는다.</eg>
+					<eg>산 지 10년이 되었는데도 라디오 소리가 잘 나온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>get out of</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(말|웃음|소리)</sel_rst>
+					<eg>하도 기가 막혀서 말도 잘 안 나온다.</eg>
+					<eg>감기로 목이 쉬어서 소리가 잘 안 나온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>show oneself</trans>
+				<lr>
+					<syn type="sino">출시되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(신문|책|상품)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>그 책은 벌써 시중에 나왔다.</eg>
+					<eg>새 상품이 시장에 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>shoot</trans>
+				<trans>bud</trans>
+				<lr>
+					<syn type="perfect">나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(싹|순)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<eg>씨를 뿌린 곳에서 싹이 나왔다.</eg>
+					<eg>나뭇가지에 새순이 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(소식|뉴스)|인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">전기전자기구(텔레비전)|방송물(영화|방송)</sel_rst>
+					<eg>입후보자들은 개표 결과가 방송에 나오기를 초조하게 기다렸다.</eg>
+					<eg>오늘 내 동생이 텔레비전에 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(단어|말|내용)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">텍스트(사전|책)|텍스트담지물</sel_rst>
+					<eg>이 단어는 사전에도 안 나온다.</eg>
+					<eg>그런 내용은 이 책에도 나와 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>flow out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물)|기체(가스)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소|구체물</sel_rst>
+					<eg>수도꼭지에서 물이 잘 나온다.</eg>
+					<eg>노즐에서 가스가 나오는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>spring from</trans>
+				<lr>
+					<syn type="sino">기인하다</syn>
+					<syn type="sino">기인되다</syn>
+					<syn type="sino">연유하다</syn>
+					<syn type="sino">연유되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(생각|견해)|행위</sel_rst>
+					<sel_rst arg="Y" tht="SRC">추상적대상(오해|오류)</sel_rst>
+					<eg>그의 행동은 오해에서 나온 것이다.</eg>
+					<eg>이와 같은 결론은 논리적인 비약에서 나온 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(생각)|행위</sel_rst>
+					<sel_rst arg="Y" tht="SRC">S데|S것</sel_rst>
+					<eg>그의 행동은 자신의 처지를 잘 알지 못하는 데에서 나온 것이다.</eg>
+					<eg>실패는 언제나 자신을 과대 평가하는 것에서 나온다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>assume</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="INS">(태도|자세)|방법</sel_rst>
+					<eg>그렇게 불손한 태도로 나오면 더 이상 할 말이 없어.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="ADV">Adj-게</sel_rst>
+					<sel_rst arg="Adj">(뻣뻣하다|불손하다|겸손하다)</sel_rst>
+					<eg>네가 그렇게 뻣뻣하게 나오면 나도 다 수가 있어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go out of</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="vmt" n="01">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|인간</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>밥 먹으러 밖으로 나오도록 해라.</eg>
+					<eg>너를 만나러 종로로 나오라니 너무하지 않니?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="vmt" n="01">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에서|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>산골 마을에서 도회지로 나오니 생활비가 아주 많이 든다.</eg>
+					<eg>공처가들은 회사에서 나오면 곧장 집으로 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>graduate from</trans>
+				<lr>
+					<syn type="sino">졸업하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">단체(학교|대학원|연구소)</sel_rst>
+					<eg>그는 대학원을 나왔다.</eg>
+					<eg>그는 미국에서 대학교를 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>탈퇴</sem_class>
+				<trans>resign</trans>
+				<lr>
+					<syn type="perfect">떠나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(집)</sel_rst>
+					<eg>그는 부모님과의 불화로 집을 나왔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">단체(회사)</sel_rst>
+					<eg>그는 회사를 나온 뒤 할 일이 없어 빈둥거리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="eo"/>
+			<str>VV</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>질문</sem_class>
+				<trans>be given</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(질문|비판|야유|분석)</sel_rst>
+					<eg>어떠한 질문이 나와도 답변할 수 있다.</eg>
+					<eg>이에 대한 비판이 나오면 그 내용을 잘 기록해 두어라.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Y=N2-에|로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(출장|산책|강의|감시)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>나는 공원에 산책을 나왔다.</eg>
+					<eg>경찰에서 우리 집에 감시를 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

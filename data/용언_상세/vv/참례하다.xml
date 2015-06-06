@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>참례하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">참례를 하다</var>
+			<str>N.하</str>
+			<org lg="si">參禮_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종교및의례행위</sem_class>
+				<trans>attend a ceremony</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">종교및의례행위</sel_rst>
+					<eg>수많은 하객들이 최 진사 댁 셋째 딸 결혼식에 참례했다.</eg>
+					<eg>나는 일요일마다 미사에 참례한다.</eg>
+					<eg>어머니께서 예불에 참례하지 못하신 지도 벌써 반 년이나 지났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>오존주의보</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토요;술어명사로 보는 것이 맞는지?</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류는 problematic하나 '명령'의 적정술어들과 어울리므로 '명령'으로 수정함.</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str, n_n 기술;n_v 수정;선택제약 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">오존 주의보</var>
+			<str type="N_N">오존+주의보</str> <!-- 주의보를 더 분석할 수 있음 -->
+			<org lg="en">ozone___</org>
+			<org lg="si">__注意報</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>서울에 ~가 발령된 것은 올들어 처음이다.</eg>
+				<trans>ozone warning</trans>
+				<domain></domain>
+				<sem_class>명령</sem_class> <!-- 소통행위? -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 발령</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 내리다</form>
+					<frame>X-이 Y-에 ~를 내리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 발령하다</form>
+					<frame>X-이 Y-에 ~를 발령하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 내려지다</form>
+					<frame>Y-에 ~가 내려지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발령되다</form>
+					<frame>Y-에 ~가 발령되다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 해제하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|국가기관|행정구역</sel_rst>
+				<sel_rst arg="Y">지역</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

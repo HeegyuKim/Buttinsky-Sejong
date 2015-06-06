@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>모집광고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/0/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">모집 광고</var>
+			<str type="N_N">모집+광고</str>
+			<org lg="si">募集廣告</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그들은 체인점 ~를 하여 본격적인 사업을 진행시켰다.</eg>
+				<trans>advertisement</trans>
+				<trans>advertisement for operatives</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">훈련생 ~</comb_n>
+				<comb_n type="compound">교육생 ~</comb_n>
+				<comb_n type="compound">인턴직 ~</comb_n>
+				<comb_n type="compound">학생 ~</comb_n>
+				<comb_n type="compound">사원 ~</comb_n>
+				<comb_n type="compound">직원 ~</comb_n>
+				<comb_n type="compound">대리점 ~</comb_n>
+				<comb_n type="compound">체인점 ~</comb_n>
+				<comb_n type="compound">가맹점 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 전개하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">직업인간|행위인간|단체의부서</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>27일자 신문의 안내란에는 여러 중학의 학생 ~가 제법 많이 실렸다.</eg>
+				<eg>대한상공회의소가 이름을 밝히지 않고 인턴직 ~를 냈다.</eg>
+				<eg>가게 앞에 직원 ~를 붙이면서 벼룩신문에 광고하는 것이 좋다.</eg>
+				<trans>advertisement</trans>
+				<trans>advertisement for operatives</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 많다</comb_aj>
+				<comb_aj type="appr">~가 적다</comb_aj>
+				<comb_n type="compound">훈련생 ~</comb_n>
+				<comb_n type="compound">교육생 ~</comb_n>
+				<comb_n type="compound">인턴직 ~</comb_n>
+				<comb_n type="compound">학생 ~</comb_n>
+				<comb_n type="compound">사원 ~</comb_n>
+				<comb_n type="compound">직원 ~</comb_n>
+				<comb_n type="compound">대리점 ~</comb_n>
+				<comb_n type="compound">체인점 ~</comb_n>
+				<comb_n type="compound">가맹점 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 읽다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 싣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 붙이다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">장</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시장바닥</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>센스 추가구분 여부 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가함;센스1에 형용사, 동사결합 정보 추가함;센스2에서 '사람이 많이 모이는 ~은 항상 시끌벅적하다. 그들은 살던 집에서도 쫓겨나 ~에 나앉고 말았다.' 예문 삭제함;센스2에 '~과 같다' 추가함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/05</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/08</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xs">장바닥</var>
+			<var type="spr">시장 바닥</var>
+			<str type="N_N">시장+바닥</str>
+			<org lg="si">市場__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 할머니가 ~에 좌판을 깔고 나물을 팔아온지도 벌써 이십년이 된다.</eg>
+				<eg>비가 온 뒤라서 ~이 질척거렸다.</eg>
+				<trans>market place</trans>
+				<domain></domain>
+				<sem_class>부분장소</sem_class>
+				<lr>
+					<syn type="perfect">장바닥</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 지저분하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 치우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 앉다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>온갖 고함과 삿대질이 난무하는 회의장은 ~에 가까웠다.</eg>
+				<eg>교실은 북적대고 소란스러운 아이들로 ~ 그 자체였다.</eg>
+				<trans>marketplace</trans>
+				<domain></domain>
+				<sem_class>속성기능장소</sem_class>
+				<lr>
+					<syn type="de_vulgar">시장</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 거칠다</comb_aj>
+				<comb_aj type="appr">~이 소란스럽다</comb_aj>
+				<comb_aj type="appr">~이 시끌벅적하다</comb_aj>
+				<comb_aj type="appr">~이 왁자지껄하다</comb_aj>
+				<comb_aj type="appr">~이 분주하다</comb_aj>
+				<comb_aj type="appr">~과 같다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

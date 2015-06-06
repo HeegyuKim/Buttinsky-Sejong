@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>능숙하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>의미역수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/12/18</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/24</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>하위센스로 분리</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">能熟_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be skillful</trans>
+				<lr>
+					<syn type="perfect">능란하다</syn>
+					<syn type="perfect">능하다</syn>
+					<syn type="kor">잘하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame><!--"N0-이 N1-이 능숙하다"도 가능함.-->
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">행위</sel_rst>
+					<eg>그는 영어 회화에 능숙하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>그는 농촌에서 자라 농사와 관련된 일을 하는 데 능숙하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

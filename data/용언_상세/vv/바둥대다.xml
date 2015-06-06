@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바둥대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정 및 보충</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">바동대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>struggle</trans>
+				<trans>wiggle</trans>
+				<lr>
+					<syn type="perfect">아등바등대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>이 실력으로 아이를 가르쳐 보겠다고 바둥대는 불쌍한 엄마를 좀 도와주세요.</eg>
+					<eg>신생아의 검사 때 따로 재우는 약을 먹이지는 않지만 바둥대는 것보다는 얌전히 자는 것이 검사에 유리하므로 검사 시간에 맞춰 자연스럽게 재우거나 아이가 좋아하는 장난감을 가지고 오면 많은 도움이 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

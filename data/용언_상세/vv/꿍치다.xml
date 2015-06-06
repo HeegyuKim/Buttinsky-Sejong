@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꿍치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>bind tightly</trans>
+				<lr>
+					<syn type="perfect">동여매다</syn>
+					<hyper>묶다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체착용물|천|기|줄</sel_rst>
+					<eg>유괴범은 천을 꿍쳐서 어린이의 손을 고정시켜 놓곤 달아났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense><!--이 의미로 쓰일 때는 전라도 방언이라고 함.-->
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hide</trans>
+				<lr>
+					<syn type="perfect">꼬불치다</syn>
+					<hyper>감추다</hyper>
+					<hyper>숨기다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물|금전</sel_rst>
+					<eg>영희 남편은 영희 몰래 비상금을 꿍쳐 놓곤 한다.</eg>
+					<eg>여기 있던 사탕 꿍친 사람 누구야?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

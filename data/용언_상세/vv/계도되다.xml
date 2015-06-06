@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계도되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>"격틀 조사" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계도가 되다</var>
+			<str>N.되</str>
+			<org lg="si">啓導_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be guided</trans>
+				<lr>
+					<syn type="perfect">지도되다</syn>
+					<syn type="perfect">계몽되다</syn>
+					<syn type="perfect">교화되다</syn>
+					<hyper>일깨워지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간(학생)|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간(선생)|인간집단</sel_rst>
+					<eg>소년원의 많은 아이들에 김목사에게 계도되었다.</eg>
+					<eg>이번 수련으로 그는 계도되어 5년 후에는 부지도자의 자리에 오르게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

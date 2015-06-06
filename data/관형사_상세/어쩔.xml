@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>어쩔</orth> 
+  	<entry n="1" pos="md">
+    		<mnt_grp>
+      			
+				<cre>
+      					<cre_date>2001/08/15</cre_date>
+					<cre_writer>김창섭</cre_writer>
+						<cre_note>2001/08/13(김창섭);표준 사전과 연세 사전에서는 모두 등재하지 않았다. 즉 모든 ‘어쩔’을 동사 ‘어쩌다’의 관형형으로 처리한 것이다. 그러나 ‘어쩔 셈이냐’의 ‘어쩔’은 ‘어쩌다’의 관형형이지만 ‘어쩔 때는 나도 그래’의 ‘어쩔’은 독립된 관형사로 처리되어야 한다.</cre_note>
+				</cre>
+				<mod>
+						<mod_date>2006/12/08</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<mod>
+						<mod_date>2007/07/26</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<note></note>
+    		</mnt_grp>
+    		<see></see>
+      		<morph_grp>
+        		<allo></allo>
+				<var type="xs"></var>
+				<var type="xd"></var>
+				<var type="xx"></var>
+				<var type="kr"></var>
+				<var type="si"></var>
+				<var type="heavy"></var>
+				<var type="lgt"></var>
+				<var type="abb"></var>
+				<var type="lng"></var>
+				<str>어쩌-+-ㄹ</str>
+        		<org lg="si"></org>
+        		<comp pos="n"></comp>
+        		<metc></metc>
+      		</morph_grp>
+			<idm_grp>
+				<idm></idm>
+				<prv></prv>
+			</idm_grp>
+			<sense n="1">
+      			<sem_grp>	
+        			<eg>어쩔 때는 비도 내리지만 겨울에는 보통 눈이 옵니다.</eg>
+        			<nclass></nclass>
+					<arab></arab>
+        			<reg></reg>
+        			<con></con>
+        			<sem_rep type="dsoq">지시</sem_rep>
+					<sem_rep type="qi">부정</sem_rep>
+					<lr>
+        			<syn>어떤</syn>
+        				<ant></ant>
+        				<rel type="car"></rel>
+						<rel type="qua"></rel>
+						<rel type="ord"></rel>
+					</lr>
+      			</sem_grp>
+      			<syn_grp>
+        			<comb_md_n>~ 경우</comb_md_n>
+        			<comb_md_n>~ 때</comb_md_n>
+					
+        			<post_n></post_n>
+        			<synt_sub type="small"/>
+      			</syn_grp>
+    		</sense>
+  	</entry>
+</superEntry>
+

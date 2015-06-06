@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가맹하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">가맹을 하다</var>
+			<str>N.하</str>
+			<org lg="si">加盟_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>join in</trans>
+				<trans>take part in</trans>
+				<lr>
+					<ant type="compl">탈퇴하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">단체</sel_rst>
+					<eg>우리 회사의 노조도 곧 전국지부에 가맹할 것이라고 한다.</eg>
+					<eg>방송사가 전국 네트워크 방송에 가맹하는데 주요 고려 사항은 시청자의 숫자이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

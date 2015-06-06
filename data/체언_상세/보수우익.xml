@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보수우익</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>cl검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>영어대역어 관사 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>cl 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보수 우익</var>
+			<str type="N_N">보수+우익</str>
+			<org lg="si">保守右翼</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 단체는 ~의 권리 보호를 위해 결성되었다.</eg>
+				<trans>conservatives</trans>
+				<trans>party of conservative and right wing</trans>
+				<domain></domain>
+				<sem_class>정치유파</sem_class>
+				<lr>
+					<syn type="perfect">보수우파</syn>
+					<ant type="grad">진보좌익</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 성향</comb_n>
+				<comb_n type="compound">~ 세력</comb_n>
+				<comb_n type="compound">~ 인사</comb_n>
+				<comb_n type="compound">~ 정치</comb_n>
+				<comb_n type="compound">~ 진영</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="grp"></cl><!--삭제하는 게 나을 것 같아요(김이정)--><!--'무리' 삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

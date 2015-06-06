@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대비시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미역 부분 수정</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대비를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">對比__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st constrated with</trans>
+				<trans>make st compared with</trans>
+				<lr>
+					<syn type="perfect">비교시키다</syn>
+					<syn type="perfect">대조시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">온</sel_rst>
+					<eg>그는 셰익스피어적인 뒤얽힌 과장을 남부 지방의 유머와 대비시켰다.</eg>
+					<eg>화가는 그림 속의 젊은 여인을 통해, 수련인의 선량함을 경찰의 잔인함과 아주 선명하게 대비시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>그는 셰익스피어적인 뒤얽힌 과장과 남부 지방의 유머를 대비시켰다.</eg>
+					<eg>화가는 그림 속의 젊은 여인을 통해, 수련인의 선량함과 경찰의 잔인함을 아주 선명하게 대비시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="2">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">텍스트|예술|작품|방송물</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">온</sel_rst>
+					<eg>이 광고는 아이들의 피부색을 제품의 선명한 색상과 대비시켰다.</eg>
+					<eg>논어에서는 여러 부분에서 군자를 소인과 대비시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="2">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">텍스트|예술|작품|방송물</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>이 광고는 아이들의 피부색과 제품의 선명한 색상을 대비시킴으로서 인종평등주의와 민주주의의 테마를 호소하고자 했다.</eg>
+					<eg>논어에서는 군자와 소인을 여러 곳에서 대비시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="CRT">온</sel_rst>
+					<eg>그는 전통적인 것을 현대적인 것에, 단순한 것을 복잡한 것에,혹은 불필요할 정도로 애매한 것에 대비시켰다.</eg>
+					<eg>그들은 그들 자신의 시대를 스콜라 철학의 시대에 대비시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">텍스트|예술|작품|방송물</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="CRT">온</sel_rst>
+					<eg>신문은 그 사건을 솔로몬의 판결에 대비시켰다.</eg>
+					<eg>건물의 기본 구조는 철 골조를 채택하여 그 철골기둥과 보를 외부에 노출시킴으로써 그것을 단조로운 박스의 시멘트 블록 벽에 대비시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>그녀는 주방가구를 주황색과 군청색으로 눈에 띄게 대비시켰다.</eg>
+					<eg>결국 성서의 기록자들은 이 대결을 선택된 아브라함과 저주받은 롯의 이미지로 대비시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">텍스트|예술|작품|방송물</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>많은 계몽주의 작품들은 인간의 본성을 선과 악으로 대비시키고 선이 악을 이긴다는 것을 강조하고 있다.</eg>
+					<eg>이 사진은 이미지를 흑과 백으로 대비시켜 강한 인상을 준다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대비를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">對備__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make sb prepare for st</trans>
+				<lr>
+					<syn type="perfect">준비시키다</syn>
+					<syn type="perfect">예비시키다</syn>
+					<syn type="perfect">대응시키다</syn>
+					<syn type="perfect">대처시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="GOL">질병및증세|상황값|실패|사건</sel_rst>
+					<eg>항공사에서는 비상사태에 승무원들을 대비시키기 위해 사전에 철저한 교육을 한다.</eg>
+					<eg>아이들이 아직 어린 부모들은 이사등으로 초래되는 갑작스러운 환경변화에 아이들을 대비시키기 위해 많은 주의를 기울여야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

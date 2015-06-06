@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>여러</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/20</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/08/31</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/04/26</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/20(김창섭);다의어로 분석한다. sense n=1: 양수관형사. sense n=2: 2인칭 복수의 지시관형사.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="temp"></org>
+			<comp pos="np">~분</comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm>~ 말 말고</idm>
+			<idm>~ 말 할 것 없이</idm>
+			<idm>~ 소리 말고</idm>
+			<idm>~ 소리 할 것 없이</idm>
+			<idm>~ 말 하다</idm>
+			<idm>~ 소리 하다</idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>여러 학생이 나를 도와 주었다.</eg>
+				<nclass>기타</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">양수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car">여럿</rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 가지</comb_md_n>
+				<comb_md_n>~ 개(個)</comb_md_n>
+				<comb_md_n>~ 걸음</comb_md_n>
+				<comb_md_n>~ 권(卷)</comb_md_n>
+				<comb_md_n>~ 동네</comb_md_n>
+				<comb_md_n>~ 마리</comb_md_n>
+				<comb_md_n>~ 마을</comb_md_n>
+				<comb_md_n>~ 면(面)</comb_md_n>
+				<comb_md_n>~ 명(名)</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 번째/부(部)</comb_md_n>
+				<comb_md_n>~ 사람</comb_md_n>
+				<comb_md_n>~ 살</comb_md_n>
+				<comb_md_n>~ 어른</comb_md_n>
+				<comb_md_n>~ 자루</comb_md_n>
+				<comb_md_n>~ 장(張)</comb_md_n>
+				<comb_md_n>~ 조각</comb_md_n>
+				<comb_md_n>~ 쪽</comb_md_n>
+				<comb_md_n>~ 친구</comb_md_n>
+				<comb_md_n>~ 학교</comb_md_n>
+				<comb_md_n>~ 회사</comb_md_n>
+				
+				<post_n>~ 가산명사</post_n>
+				<synt_sub type="big"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>여러 어른들께서 저를 도와 주십시오.</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">지시</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 선생님</comb_md_n>
+				<comb_md_n>~ 어른</comb_md_n>
+				<comb_md_n>~ 학생</comb_md_n>
+				
+				<post_n>~ 인성명사</post_n>
+				<synt_sub type="big"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

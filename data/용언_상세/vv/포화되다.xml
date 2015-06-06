@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>포화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">포화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">飽和_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get charged</trans>
+				<trans>be no demand for</trans>
+				<lr>
+					<rel>포화상태</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>도로에 차량이 포화되어 오도가도 못하고 있다.</eg>
+					<eg>강의실이 포화돼 오프라인 강좌를 증설하기는 어려움이 따르는 상황에서 사이버강의가 활성화될 경우 강의실 당 학생수가 감소하고 다양한 강좌가 신설될 수 있기 때문이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get saturated</trans>
+				<domain>화학</domain>
+				<lr>
+					<syn type="perfect">포화하다</syn>
+					<rel>포화상태</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>용액에 염화나트륨이 포화된 상태이다.</eg>
+					<eg>이때 지면에서 공기가 많이 냉각되어 포화되고 응결이 일어남으로 복사안개라 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

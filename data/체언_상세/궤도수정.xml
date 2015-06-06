@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>궤도수정</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/02</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">궤도 수정</var>
+			<str type="N_N">궤도+수정</str>
+			<org lg="si">軌道修正</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>모든 위성은 ~을 할 수 있는 추진기를 갖추고 있다.</eg>
+				<eg>~은 궤도 진입, 랑데부, 궤도 이탈의 보정 등을 할 때 이루어진다.</eg>
+				<eg>~은 우주 비행체가 의도된 목적지에 도달하도록 방향을 정교하게 조정하는 작업이다.</eg>
+				<eg>우주창조 시간대의 변화는 천체의 ~으로 일어난다.</eg>
+				<eg>미시세계의 미립자들은 제멋대로 ~을 한다.</eg>
+				<trans>maneuver</trans><!--공중교통기관 중 로켓, 위성과만 관계 있는 전문용어(김이정)-->
+				<trans>orbit change</trans>
+				<domain></domain>
+				<sem_class>변형행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 명령</comb_n>
+				<comb_n type="compound">~ 임무</comb_n>
+				<comb_n type="compound">~ 조작</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">공중교통기관(로켓|위성|글라이더)|천체|무생물(미립자|전자)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>기차의 경우 러시아의 열차궤도가 국제규격보다 커서 ~을 하는 데 상당한 시간이 걸린다.</eg>
+				<eg>경주마가 급작스럽게 ~을 했다.</eg>
+				<trans>orbit correction</trans>
+				<domain></domain>
+				<sem_class>변형행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="yes">~을 요구하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="yes">~이 요구되다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">철도교통수단|짐승</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>신행정수도 이전문제가 부각되면서 주한 미국 대사관의 이전논의도 ~이 불가피할 전망이다.</eg>
+				<eg>시는 가족 중심의 휴양시설을 도입키로 개발방향을 ~을 했다.</eg>
+				<eg>중국이 초고속 경제성장 일변도의 국가정책에 대한 ~에 나서고 있다.</eg>
+				<eg>나는 나의 삶의 여러 부분에서 ~의 필요성을 느꼈다.</eg>
+				<trans>course correction</trans>
+				<domain></domain>
+				<sem_class>추상적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 과감하다</comb_aj>
+				<comb_aj type="magn">~이 고무적이다</comb_aj>
+				<comb_aj type="magn" pred="no">상당한 ~</comb_aj>
+				<comb_aj type="magn" pred="no">전면적인 ~</comb_aj>
+				<comb_aj type="magn" pred="no">전반적인 ~</comb_aj>
+				<comb_aj type="magn" pred="no">전술적인 ~</comb_aj>
+				<comb_aj type="magn" pred="no">근본적인 ~</comb_aj>
+				<comb_n type="compound">~ 과정</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">추상적대상</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

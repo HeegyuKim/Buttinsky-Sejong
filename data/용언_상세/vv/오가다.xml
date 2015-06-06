@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오가다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/02/24</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/15</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str>VV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come and go</trans>
+				<lr>
+					<syn type="sino">왕래하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>아버지는 삼촌과 서로 자주 오가며 지낸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>아버지와 삼촌은 서로 자주 오가며 지낸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>베이징 시내에 도착하니 자전거를 탄 시민들이 천안문 광장을 오가고 있었다.</eg>
+					<eg>대통령이 보낸 사절단은 평화 협정을 체결하기 위하여 여러 나라를 오갔다.</eg>
+					<eg>부천에서 시흥 사이를 오가던 버스가 갑자기 멈추어 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/02/24</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/15</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str>VV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>communicate</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|에서 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(편지|전화|전보|말|연락|소식)</sel_rst>
+					<sel_rst arg="X" tht="LOC">(사이|간)|장소</sel_rst>
+					<eg>그 일이 있은 뒤 김 사장과 박사장 사이에서 연락이 여러 차례 오갔다.</eg>
+					<eg>대통령이 비상사태를 선포하자 정부 각 부처에서는 급하게 전화가 오갔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|에서 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(거래)|(주먹질|삿대질)</sel_rst>
+					<sel_rst arg="X" tht="LOC">(사이|간)</sel_rst> <!--'인간'과 '인간' 사이|간-->
+					<eg>공무원과 업자 사이에 뇌물이 오갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

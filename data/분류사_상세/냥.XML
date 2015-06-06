@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>냥</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>신서인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">兩</org>
+					<comp pos="n" type="suffix">~쭝</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">돈 ~이나</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>투전에 끼어든 그는 돈 백 ~을 벌었다</eg>
+				<domain>경제</domain>
+				<reg>고어</reg>
+				<cl_subtype type="sum">10돈</cl_subtype>
+				<rel_n>엽전</rel_n>
+				<lr>
+					<rel>푼</rel>
+					<rel>돈</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>금 서 ~</eg>
+				<cl_subtype type="wgt">10돈</cl_subtype>
+				<rel_n>녹용</rel_n>
+				<lr>
+					<rel>돈</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

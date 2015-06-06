@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>종합검진</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 정보 기술;의미부류 수정;기능동사 구문 재기술;선택제약 정보 재기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/01</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">종합 검진</var>
+			<!--띄어쓰기 변이형 정보 기술(미현)-->
+			<str type="N_N">종합+검진</str>
+			<org lg="si">綜合檢診</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정기적으로 ~을 받아 자신의 신체상태를 체크해야 한다.</eg>
+				<trans>comprehensive medical testing</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class> <!--행위의 하의부류 찾지 못함(지혜)-->
+				<!--의미부류를 '행위'에서 '방향성행위'로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~예약</comb_n>
+				<comb_n type="compound">~서비스</comb_n>
+				<!--기능동사 구문 '~을 하다'를 추가 기술(미현)-->
+				    <comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup"><!--기존의 기술자가 기술한 의료기관으로서의 Y 논항은 수의적인 논항임.(미현)-->
+					<form vcompound="yes">~을 받다</form>
+					<frame>Y-이 X-로부터 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<!--X, Y 논항의 선택제약 전면 수정(미현)-->
+				<sel_rst arg="X">직업인간(의사)</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

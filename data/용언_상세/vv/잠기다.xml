@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잠기다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/14</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be locked</trans>
+				<trans>be fastened</trans>
+				<lr>
+					<ant type="compl">열리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">건물|건물부분장소|화시적장소|휴양지공원|구체인공물</sel_rst>
+					<eg>기영이가 문이 잠겨서 집에 못 들어가고 있다.</eg>
+					<eg>코드를 잊어버려서 잠긴 여행가방을 열 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/14</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>meditate</trans>
+				<trans>be buried in thought</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인지적행위(생각|공상|추억)|내재적심리행위(절망)</sel_rst>
+					<eg>기영이는 한 동안 깊은 생각에 잠기었다.</eg>
+					<eg>지금 그렇게 추억에 잠길 때가 아니라 앞을 보고 미래를 향해 전진해야 할 때이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be immersed</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+					<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<sel_rst arg="Y" tht="LOC">액체|물장소|부분장소(속)</sel_rst>
+					<eg>폭우로 온 마을이 물에 잠기었다.</eg>
+					<eg>배추가 소금물에 잠기도록 물을 더 부어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보도블록</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/19</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj 기술</mod_note>
+				<mod_note>n_n 기술</mod_note>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술 방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xx">보도블럭</var>
+			<var type="xx">보도블락</var>
+			<var type="xx">보도브럭</var>
+			<var type="xx">보도브락</var>
+			<var type="xx">보도 블럭</var>
+			<var type="xx">보도 블락</var>
+			<var type="xx">보도 브럭</var>
+			<var type="xx">보도 브락</var>
+			<var type="spr">보도 블록</var>
+			<str type="N_N">보도+블록</str>
+			<org lg="si">步道__</org>
+			<org lg="en">__block</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>해마다 연말이 되면 멀쩡한 ~을 걷어내고 새로 까는 일이 반복되었다.</eg>
+				<trans>brick of paving sidewalk</trans>
+				<domain></domain>
+				<sem_class>석재</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 울퉁불퉁하다</comb_aj>
+				<comb_n type="compound">점자 ~</comb_n>
+				<comb_n type="compound">특수 ~</comb_n>
+				<comb_n type="compound">~ 정비</comb_n>
+				<comb_n type="compound">~ 공사</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 깔다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 교체하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 정비하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 깨다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 걷다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

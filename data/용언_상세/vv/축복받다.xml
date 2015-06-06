@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>축복받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">축복을 받다</var>
+			<str>N.받</str>
+			<org lg="si">祝福_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be blessed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">상상적인간</sel_rst>
+					<eg>우리는 신에게 축복받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+				<cre_note>특정 종교(가톨릭)에서 사용하는 용법이 따로 있어서 엔트리를 추가함. 의미역 재검토 필요.</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">축복을 받다</var>
+			<str>N.받</str>
+			<org lg="si">祝福_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get benedicted</trans>
+				<domain>가톨</domain>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(십자가|묵주|성인상)</sel_rst>
+					<sel_rst arg="Z" tht="AGT">종교역할인간(교황|추기경|주교|신부|사제|부제)</sel_rst>
+					<eg>나는 새로 산 묵주를 신부님께 축복받았다.</eg>
+					<eg>가톨릭에서는 십자가나 묵주, 성인상 같은 성물(聖物)들을 사용할 때 먼저 그 성물을 사제에게 축복받은 다음에 사용하도록 하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

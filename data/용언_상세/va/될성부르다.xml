@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>될성부르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be promising</trans>
+				<lr>
+					<syn type="sino">유망하다</syn>
+					<syn type="sino">가망있다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|일</sel_rst>
+					<eg>우리 팀에서는 영수가 가장 될성부른 신인으로 주목받고 있다.</eg>
+					<eg>정부에서는 될성부른 중소기업에 집중적으로 지원할 것이라는 계획을 발표했다.</eg>
+					<eg>그는 이제 될성부른 사업에 투자를 집중하겠다고 밝혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>될성부른 나무 떡잎부터 알아본다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

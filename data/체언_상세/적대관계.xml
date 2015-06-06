@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>적대관계</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김천학</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/17</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">적대 관계</var>
+			<str type="N_N">적대+관계</str>
+			<org lg="si">敵對關係</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경쟁자들은 상대방을 ~로 두는 일이 많다.</eg>
+				<eg>냉전시대에 미국과 소련은 서로 ~에 있었다.</eg>
+				<trans>hostile relations</trans>
+				<domain></domain>
+				<sem_class>대치적대</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">우호관계</ant> <!-- 목(2004/8/10) 추가 -->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 극심하다</comb_aj> <!-- 목(2004/8/10) 추가 -->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~에 있다</form>
+					<frame>X-이 ~에 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form>
+					<frame>X-이 Y-와 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~로 두다</form>
+					<frame>X-이 Y-을 ~로 두다</frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<sel_rst arg="Y">인간집단</sel_rst> <!-- 목(2004/8/10) 추가 -->
+				<cl type="uni"></cl> <!-- 목(2004/8/10) 번을 수정 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

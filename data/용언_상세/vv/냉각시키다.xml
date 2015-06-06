@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>냉각시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">냉각을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">冷却__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st cool</trans>
+				<lr>
+					<ant type="compl">가열시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>연구원들은 그것을 꺼내어 구리판으로 만들었고 롤 사이를 통과시켜 냉각시켰다.</eg>
+					<eg>연구원들이 본격적인 연구를 위해 토양 샘플들을 냉각시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">기기|기상현상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>곧 에어컨이 차안의 공기를 시원하게 냉각시켰다.</eg>
+					<eg>냉각기가 기계 안의 액체를 냉각시킨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make a relation estranged</trans>
+				<lr>
+					<syn type="kor">가라앉히다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">관계</sel_rst>
+					<eg>1882년 임오군란은 수구적인 민씨정권과 급진개화파의 관계를 정치적으로 급속히 냉각시켰다.</eg>
+					<eg>이번 테러사건이 당분간 국제관계를 냉각시킬 것으로 전망된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st spritless</trans>
+				<lr>
+					<syn type="kor">가라앉히다</syn>
+					<syn type="perfect">진정시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="X" tht="THM">상황(분위기)|상태</sel_rst>
+					<eg>국제 정세와 관련된 대형 악재들이 한꺼번에 기승을 부리며 투자심리를 냉각시켰다.</eg>
+					<eg>국제 정세 변화는 그 동안 사회과학 전반을 휩쓸었던 진보 사회이론에 대한 열기를 급속히 냉각시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

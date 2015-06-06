@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>숙제하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">숙제를 하다</var>
+			<str>N.하</str>
+			<org lg="si">宿題_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>do one's homework</trans>
+				<trans>do one's home lessons</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>기영이는 저녁 내내 숙제하느라 TV 앞에 가지도 못했다.</eg>
+					<eg>백화점 문화센터에서는 내 아이 숙제해 주기 위해 독서 논술 지도를 수강하는 엄마들로 넘쳐났다.</eg>
+					<eg>다른 과목들은 평소 숙제해 오는 것을 토대로 성적을 매기므로 시험 기간이 특별히 정해져 있는 것도 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

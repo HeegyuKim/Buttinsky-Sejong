@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>그게</orth>
+	<entry pos="npab">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/28</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">고게</var>
+			<str type="etc">그것+이</str>
+					<img type="xp">고게</img>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>~ 그렇게 비싸니?</eg>
+				<trans>it</trans>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 그럴 줄 누가 알았겠어?</eg>
+				<trans>he</trans>
+				<trans>she</trans>
+				<trans>it</trans>
+				<reg>구어</reg>
+				<con>귀여움</con>
+				<con>경멸</con>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

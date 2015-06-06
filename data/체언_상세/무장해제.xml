@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무장해제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/02</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>max_n 표상방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류를 '변형행위'로 수정하면 어떨지</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">무장 해제</var>
+			<str type="N_N">무장+해제</str>
+			<org lg="si">武裝解除</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 반군을 공격하여 ~를 시켰다.</eg>
+				<trans>disarmament</trans>
+				<domain></domain>
+				<sem_class>파괴행위</sem_class> <!-- 검토 요망-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc">완전 ~</comb_n>
+				<comb_n type="compound">~ 작전</comb_n>
+				<comb_n type="compound">~ 시한</comb_n>
+				<comb_n type="compound">~ 협정</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 시키다</form>
+					<frame>X-이 Y-을 ~를 시키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 당하다</form>
+					<frame>Y-이 X-에게 ~를 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 요구하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 거부하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str><!--표상방식 수정-->
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|단체</sel_rst>
+				<sel_rst arg="Y">인간|단체</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이름짓기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>표제어로 적절한지?;내부구성 정보 유형값 수정;의미부류 정보 검토 필요;동사결합 정보 유형값 수정;논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>'Y-의' 정보를 'Y-에대해'로 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_Vn">이름+짓기</str>
+			<org lg="si"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>특이한 성을 가져서 그것과 어울리는 예쁜 ~가 힘들다.</eg>
+				<trans>naming</trans>
+				<trans>composing a name</trans>
+				<domain></domain>
+				<sem_class>창조행위</sem_class> <!-- 적절한지 검토 필요 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">한글 ~</comb_n>
+				<comb_n type="compound">한자 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에대해 ~를 하다</frame>
+						<!-- 'Y-의'가 논항으로 단문 구조 기술에 포함되는지? -->
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">인간|혈연집단</sel_rst>
+				<sel_rst arg="Y">구체물|집단|추상적대상|사건|현상</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

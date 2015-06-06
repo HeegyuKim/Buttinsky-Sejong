@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>점잖다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/05</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dignified</trans>
+				<lr>
+					<syn type="sino">진중하다</syn>
+					<syn type="sino">방정하다</syn>
+					<ant type="grad">경박하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|몸짓및동작|외향적심리상태</sel_rst>
+					<eg>그 학생은 매사에 행동이 바르고 점잖다.</eg>
+					<eg>다리를 떠는 행위는 경박하게 보여서 점잖지 못하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be genteel</trans>
+				<lr>
+					<syn type="perfect">차분하다</syn>
+					<syn type="sino">우아하다</syn>
+					<ant type="grad">야하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성값|속성</sel_rst>
+					<eg>그 집안 문중은 기품 있고 점잖다.</eg>
+					<eg>점잖은 양반 체면에 이런 곳에서 놀아서야 되겠나?</eg>
+					<eg>이 옷은 색상이 그리 야하지도 않고 참 점잖다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>점잖은 개가 부뚜막에 오른다.</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

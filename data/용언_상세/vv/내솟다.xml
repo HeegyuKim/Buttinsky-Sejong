@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내솟다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/24</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>spring up</trans>
+				<trans>gush out</trans>
+				<lr>
+					<hyper>솟다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|동물신체부위(힘줄|근육)|힘</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>풀무같이 숨을 쉬며 헐떡거리는 그의 이마엔 땀발이 내솟았다.</eg>
+					<eg>그의 야윈 목에 핏대가 불끈 내솟았다.</eg>
+					<eg>오랜만에 어머니가 해주신 맛있는 음식을 먹었더니 몸에 힘이 불끈 내솟는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소|(샘)|건물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>울릉읍과 서면의 경계에 마치 큰 배의 앞 부분을 엎어 놓은 듯한 산인 가두봉이 바다에 내솟고 있다.</eg>
+					<eg>산에는 기화이초로 바닥을 틀었고, 여기저기에 쫄쫄거리며 내솟는 약수도 맑았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극대화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">극대화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">極大化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be maximized</trans>
+				<lr>
+					<syn type="perfect">극다화되다</syn>
+					<ant type="compl">극소화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(이윤|효율)</sel_rst>
+					<eg>일의 능률이 극대화되어야 이윤도 극대화될 수 있다.</eg>
+					<eg>최 감독의 영화는 그의 엉뚱한 상상력이 극대화된 결과이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

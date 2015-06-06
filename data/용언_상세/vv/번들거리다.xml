@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>번들거리다</orth>
+	<entry pos="vv"> <!--표준사전 동형어 1번-->
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/07</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">반들거리다</var>
+			<var type="etc">뻔들거리다</var>
+			<var type="etc">번들대다</var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense> <!--표준사전 센스 1: 거죽이 아주 미끄럽고 윤이 나다.-->
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>have a gloss</trans>
+				<trans>get glossy</trans>
+				<trans>get lustrous</trans>
+				<trans>shine</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame> <!--'Y=N1-에'가 나타날 수 있으나 논항으로 보지 않음.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(이마|얼굴|눈)|구체물</sel_rst>
+					<eg>그의 이마는 제법 벗어져서 번들거렸다.</eg>
+					<eg>햇빛에 번들거리는 그의 이마를 보고 있자니 그가 더 미워졌다.</eg>
+					<eg>마룻바닥이 거울처럼 번들거린다.</eg>
+					<eg>양복을 오래 입었더니 번들거린다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈빛|시선)</sel_rst>
+					<eg>그는 눈빛이 사악하다 싶을 정도로 번들거려서 사람들에게 경계심을 불러일으킬 정도이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="cross" n="2">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(이마|얼굴)|구체물</sel_rst>
+					<sel_rst arg="Y" tht="INS">분비물(땀|눈물)|액체(기름)|(물기|기름기|윤기)</sel_rst>
+					<eg>그의 얼굴은 땀으로 번들거리고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(눈)</sel_rst>
+					<sel_rst arg="Y" tht="INS">심리상태(증오심)|심리행위(증오)|기색(살기|광기|기운)</sel_rst>
+					<eg>그의 눈은 증오심으로 번들거리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="cross" n="2">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분비물(땀|눈물)|액체(기름)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(이마|얼굴)|구체물</sel_rst>
+					<eg>그의 얼굴에는 땀이 번들거리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--타동사 용법-->
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>flash</trans>
+				<trans>glare</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(눈)|(눈빛)</sel_rst>
+					<eg>그는 호기심 어린 눈을 번들거리며 두 사람의 이야기에 귀를 기울였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--표준사전 센스 2: 어수룩한 데가 조금도 없이 약게 굴다.-->
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>behave shrewd</trans>
+				<trans>move smartly</trans>
+				<trans>act shrewdly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<eg>저 녀석은 정말 번들거려서 얄미워 죽겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv"> <!--표준사전 동형어 2번-->
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/07</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">반들거리다</var>
+			<var type="etc">뻔들거리다</var>
+			<var type="etc">펀들거리다</var>
+			<var type="etc">번들대다</var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>loaf one's time away</trans>
+				<trans>idle one's time away</trans>
+				<trans>laze one's time away</trans>
+				<trans>dawdle one's time away</trans>
+				<trans>snooze one's time away</trans>
+				<trans>loaf</trans>
+				<trans>idle</trans>
+				<trans>loiter</trans>
+				<trans>lounge</trans>
+				<trans>be on the loaf</trans>
+				<trans>lead an idle life</trans>
+				<lr>
+					<syn type="etc">뺀질거리다</syn>
+					<syn type="etc">빈둥거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>일은 안 하고 번들거리는 놈 있으면 가만 안 두겠어!</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>반대당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>의미부류수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>격틀 부분 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">반대를 당하다</var>
+			<str>N.당</str>
+			<org lg="si">反對當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>meet with oppsition</trans>
+				<lr>
+					<syn type="perfect">반박당하다</syn>
+					<ant type="compl">동의받다</ant>
+					<ant type="compl">동조받다</ant>
+					<ant type="compl">찬성받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|사태(의견)|추상적대상(제도|행위)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>과거에 내적인 면을 개척해 나오던 모든 인물들은 외적인 것에 의해 유린되고 반대당했었던 점을 기억하자.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

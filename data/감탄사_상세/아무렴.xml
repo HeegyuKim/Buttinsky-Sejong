@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>아무렴</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/09/15</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/17</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="temp"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb"></var>
+			<var type="lng">아무려면</var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon"></var>
+			<var type="v_var"></var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>아무렴, 한 번 약속한 일은 꼭 지켜야지.</eg>
+				<sem_class>긍정</sem_class>
+				<trans>Of course!</trans>
+				<trans>Certainly!</trans>
+				<trans>Naturally!</trans>
+				<trans>Surely!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">그럼|그래</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>아무렴! 세상에 그런 일이 있기나 하겠니?</eg>
+				<sem_class>의심</sem_class>
+				<trans>in any way</trans>
+				<trans>by no means</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아무리</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

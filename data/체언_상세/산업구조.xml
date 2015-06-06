@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>산업구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/28</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>고유명사로도 쓰임. 복합명사 형태 구조 표기 확인 요망. 의미부류 확인 요망. </cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/06/28</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>속성에서 관계추상적대상으로 수정;동사정보에 '조정하다, 개편하다, 변하다' 추가;맥스엔, 논항 의미부류 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">산업 구조</var>
+			<str type="N_N">산업+구조</str> <!--표기형식 수정(이민우);표기형식 N_N으로 수정(김)-->
+			<org lg="si">産業構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>시간이 흐르면서 ~가 변화했다.</eg> <!--예문 끝에 반드시 문장부호를 넣어야 함(김)-->
+				<eg>일본은 우리나라와 ~가 비슷하다.</eg>
+				<eg>북한은 1980년대 이후 ~를 경공업 중심에서 중화학공업 중심으로 바꾸었다.</eg> <!--예문 수정. 기존 예문 '북한은 ~를 경공업에서 중화학공업으로 바꾸었다.'(김)-->
+				<trans>Industrial structure</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class> <!--산업구조에 알맞는 의미부류는? 구조? 속성?-->
+				<!--의미부류 추상적대상에서 속성으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant> <!--type의 따옴표 안에 아무 값도 없으면 오류를 일으킴. 태그를 삭제하든지 type 값 중 하나를 주어야 함.(김)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj> <!--'~가 좋다'는 결합이 긴밀하지 않으므로 삭제(김)-->
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개선하다</form><!--일반동사인 경우에도 여기까지 적어주는지?(이민우);자주 공기하는 동사가 존재할 경우 기입하도록 함(김)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개편하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 변하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">국가|종족|지역집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

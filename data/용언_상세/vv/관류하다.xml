@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>관류하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>의미역 점검 및 선택제약 재고</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">貫流_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물관련현상</sem_class>
+				<trans>run through</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">하천</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소</sel_rst>
+					<eg>영천은 낙동강의 아주 오래된 지류로 도심을 관류하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be inherent in</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>그에 대한 전설은 시공을 초월해 역사를 관류한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>빤질빤질하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">뻔질뻔질하다</var>
+			<var type="etc">반질반질하다</var>
+			<var type="etc">번질번질하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be lazy</trans>
+				<lr>
+					<syn type="perfect">게으르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>걔처럼 빤질빤질한 애는 본 적이 없어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be sleek</trans>
+				<trans>be smooth</trans>
+				<lr>
+					<syn type="perfect">반들반들하다</syn>
+					<syn type="perfect">빤드르르하다</syn>
+					<syn type="perfect">빤지르르하다</syn>
+					<syn type="perfect">매끈하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>얼마나 청소를 열심히 했는지 바닥이 정말 빤질빤질하구나!</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be sly</trans>
+				<trans>be cheeky</trans>
+				<lr>
+					<syn type="perfect">유들유들하다</syn>
+					<syn type="perfect">뻔뻔하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(태도|행동)|품격속성(성격)</sel_rst>
+					<eg>난 걔의 그런 빤질빤질한 태도가 정말 싫어.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>염치가 없다없다 어쩜 그렇게 빤질빤질할 수가 있니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

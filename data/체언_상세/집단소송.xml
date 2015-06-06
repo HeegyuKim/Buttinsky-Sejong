@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>집단소송</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>전문영역 정보 추가;동의어 추가;n_n 정보 추가;n_v 정보 수정(격틀)</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">집단 소송</var>
+			<str type="N_N">집단+소송</str>
+			<org lg="si">集團訴訟</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>소비자 단체에서는 불량 제품에 대한 리콜을 거부한 그 기업을 상대로 ~을 하기로 결정했다.</eg>
+				<trans>class action</trans>
+				<domain>법률</domain>
+				<sem_class>계획사건</sem_class>
+				<lr>
+					<syn type="etc">단체소송</syn>
+					<syn type="etc">집합 대표 소송</syn> <!--(호정은) 표준사전에 나온 동의어-->
+					<ant type="compl">개인소송</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">소비자 ~</comb_n>
+				<comb_n type="compound">~제도</comb_n>
+				<comb_n type="compound">~법</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Z-을상대로 Y-에대해 ~을 하다</frame><!--김성용(2004/07/26)'을 상대로'로 표기할 수 있는지 확인 요망-->
+					<frame>X-에서 Z-을상대로 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 당하다</form>
+					<frame>Z-이 X-로부터 Y-에대해 ~을 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 제기하다</form>
+					<frame>X-이 Z-을상대로 Y-에대해 ~을 제기하다</frame>
+					<frame>X-에서 Z-을상대로 Y-에대해 ~을 제기하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 Z-에대한 ~</max_n_str>
+				<sel_rst arg="X">일시적역할인간(대표자)|결과행위인간(피해자)|단체</sel_rst>
+				<sel_rst arg="Y">우발사건</sel_rst>
+				<sel_rst arg="Z">국가|기업</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">건</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

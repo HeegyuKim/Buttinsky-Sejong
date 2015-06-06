@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>척</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/31</mod_date>
+				<mod_writer>방성원</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2002/04/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">尺</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>철수는 키가 육 ~이나 된다</eg>
+				<cl_subtype type="lnt">30.3센티미터</cl_subtype>
+				<lr>
+					<syn type="etc">자</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/31</mod_date>
+				<mod_writer>방성원</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2002/04/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">隻</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>배 두 ~을 준비해라</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>선박</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

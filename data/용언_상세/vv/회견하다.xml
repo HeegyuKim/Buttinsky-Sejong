@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회견하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회견을 하다</var>
+			<str>N.하</str>
+			<org lg="si">會見_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대화</sem_class>
+				<trans>meet</trans>
+				<trans>interview</trans>
+				<trans>have an interview</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>오늘 대통령은 일본 수상과 회견할 예정이다.</eg>
+					<eg>그는 당분간 어느 누구와도 회견할 생각임 없음을 분명히 밝혔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>두 나라 정상이 오늘 오후 이 장소에서 회견할 예정이다.</eg>
+					<eg>오늘 아침 신문에서 여야의 대표들이 회견한 내용을 읽었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>유럽 순방에 나선 총리는 오늘 오후 프랑스에서 교민 대표들을 회견했다.</eg>
+					<eg>마침내 그는 기자들을 회견하기로 마음을 먹었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

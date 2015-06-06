@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경제구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_aj 수정;n_n 수정;n_v 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/28</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>~론</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경제 구조</var>
+			<str type="N_N">경제+구조</str>
+			<org lg="si">經濟構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 지표는 우리나라의 ~가 매우 취약함을 드러내고 있다.</eg>
+				<trans>economic structure</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 튼튼하다</comb_aj>
+				<comb_aj type="magn">~가 건실하다</comb_aj>
+					<!-- magn의 복수 정보를 element 반복하여 제시(송근영) -->
+				<comb_aj type="min">~가 취약하다</comb_aj>
+				<comb_n type="compound"></comb_n> <!-- ~론 : add로 이동(송근영) -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 변화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개혁하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">국가</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

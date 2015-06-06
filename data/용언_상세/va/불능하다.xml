@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>불능하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">不能_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be impossible</trans>
+				<lr>
+					<syn type="perfect">불가능하다</syn>
+					<ant type="compl">가능하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건</sel_rst>
+					<eg>원금 회수가 불능하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S기</sel_rst>
+					<eg>고작 100만원으로 한달을 살기가 불능하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--성기능에만 해당되는 것 같음. 어휘의미관계, 하위센스 검토 요망-->
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be incapable</trans>
+				<trans>be incompetent</trans>
+				<trans>be impotence</trans>
+				<lr>
+					<syn type="perfect">무능하다</syn>
+					<ant type="grad">유능하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>남편이 불능하게 된 원인은 스트레스이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

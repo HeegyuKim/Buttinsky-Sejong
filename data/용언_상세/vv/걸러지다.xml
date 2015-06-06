@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걸러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/28</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be filtered</trans>
+				<lr>
+					<syn type="sino">여과되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">기기(필터)|종이</sel_rst>
+					<eg>소금이나 설탕은 기름종이에 걸러지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Y" tht="INS">기기(필터)|종이</sel_rst>
+					<eg>역삼투 필터로 오염물질은 다 걸러지고 가공할 수 있는 깨끗한 물질만이 남는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be excluded</trans>
+				<lr>
+					<syn type="sino">여과되다</syn>
+					<syn type="sino">제외되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소통행위|편지(스팸메일)</sel_rst>
+					<eg>이 책에서는 단편적인 지식이나 주장은 걸러지고, 모두 다 공유하는 지식으로 자신의 주장을 펴고 있는 것이 느껴졌다.</eg>
+					<eg>이 과정에서 약 70%의 스팸메일이 자동으로 걸러집니다.</eg>
+					<eg>걸러지지 않고 무작정 내 입에서 튀어나온 수많은 말들이 남에게 얼마나 상처를 입히는가!</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

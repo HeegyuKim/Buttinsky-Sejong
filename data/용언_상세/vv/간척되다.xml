@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간척되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">간척이 되다</var>
+			<str>N.되</str>
+			<org lg="si">干拓_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be reclaimed by drainage</trans>
+				<trans>be drained off</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소</sel_rst>
+					<sel_rst arg="Y" tht="FNS">농경지</sel_rst>
+					<eg>바다를 막는 오랜 공사 끝에 개펄이 농토로 간척되었다.</eg>
+					<eg>이 책에서는 해양수산부의 자료를 바탕으로 갯벌 위치와, 매립 또는 간척된 개펄의 위치를 정확히 표시하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

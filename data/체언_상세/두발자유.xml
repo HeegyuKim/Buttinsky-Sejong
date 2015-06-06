@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>두발자유</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/11</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>n_comp 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">두발 자유</var>
+			<str type="R_N">두발+자유</str>
+			<org lg="si">頭髮自由</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>많은 중고등 학교는 청소년들의 교복이 부활되면서 ~에 대해서도 제한적인 입장을 취했다.</eg>
+				<eg>우리 학교는 ~에 대해서 그 찬반을 묻는 학부모들의 설문 조사를 진행 중이다.</eg>
+				<trans>free hairstyle</trans>
+				<domain></domain>
+				<sem_class>상황값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 조치</comb_n>
+				<comb_n type="compound">~ 조처</comb_n>
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

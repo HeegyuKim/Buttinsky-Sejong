@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끝나다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">끝이 나다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+				<lr>
+					<syn type="sino">종료되다</syn>
+					<syn type="perfect">마치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(일|기간|공부|방학|학교)</sel_rst>
+					<eg>언제쯤 일이 끝나요?</eg>
+					<eg>오늘 공부는 3시에 끝난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(얘기|일)</sel_rst>
+					<eg>얘기는 이제 다 끝난거나 마찬가지다.</eg>
+					<eg>사정은 딱하지만 그 일은 이미 끝난 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">(길|도로|강)</sel_rst>
+					<eg>여기가 강이 끝나는 지점이다.</eg>
+					<eg>여기서부터 인도가 끝나고 산길로 접어든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|추상적대상</sel_rst>
+					<eg>끝자리가 5로 끝나는 번호를 가진 사람은 모두 나오세요.</eg>
+					<eg>우리의 계획이 허탕으로 끝나기 전에 마지막 노력을 기울여 보자.</eg>
+					<eg>리 자로 끝나는 말이 또 뭐가 있지?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그는 이제 다 끝난 거나 마찬가지다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">끝이 나다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="SIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N2-와 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(관계|협상|사랑)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>순이는 이제 영수와 관계가 끝난 것 같았다.</eg>
+					<eg>우리는 이제 그 회사하고는 관계가 끝난 지 오래다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(관계|협상|사랑)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>영수와 순이는 이제 관계가 끝난 것 같았다.</eg>
+					<eg>우리와 그 회사는 이미 관계가 끝난 지 오래다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>원만하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">圓滿_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be well-rounded</trans>
+				<lr>
+					<syn type="kor">둥글둥글하다</syn>
+					<ant type="grad">모나다</ant>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|품격속성(성격)</sel_rst>
+					<eg>그 사람은 성격이 참 원만하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be amicable</trans>
+				<trans>be harmonious</trans>
+				<lr>
+					<syn type="perfect">구순하다</syn>
+					<ant type="grad">불편하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계</sel_rst>
+					<eg>그 학생은 교우관계가 원만하다.</eg>
+					<eg>그는 회사에서 동료와 선후배간에 원만한 인간관계를 맺고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>go smoothly</trans>
+				<lr>
+					<syn type="perfect">순조롭다</syn>
+					<syn type="perfect">수월하다</syn>
+					<ant type="grad">어렵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|지속적활동</sel_rst>
+					<eg>그 일은 원만하게 진행되고 있다.</eg>
+					<eg>남북교류와 경제협력을 위한 회담이 원만하게 진행 중입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>원만하게</infl_rst>
+			<trans>perfectly</trans>
+			<trans>satisfactorily</trans>
+			<defect_eg>이제 남은 일은 마지막 공정을 원만하게 마무리하는 것이다.</defect_eg>
+			<defect_eg>도공의 손끝이 마지막으로 작품을 원만하게 완성했다.</defect_eg>
+			<defect_eg>번역문의 매끄럽지 못한 표현들은 최종 탈고과정에서 원만하게 갈무리되어야 한다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

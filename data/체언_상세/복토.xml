@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>복토</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/17</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/17</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스1에 영어대역어 추가;형용사, 명사결합 추가;논항명사구 추가;센스2 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">覆土</org>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>나는 꽃을 심고 그 위에다 정성껏 ~를 했다.</eg>
+				<trans>hilling</trans> <!-- 추가함 -->
+				<trans>earthing up</trans> <!-- 추가함 -->
+				<trans>covering soil</trans>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="kor">흙덮기</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 두텁다</comb_aj> <!-- 추가함 -->
+				<comb_n type="compound">~의 두께</comb_n> <!-- 추가함 -->
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense> <!-- 추가함 -->
+			<sem_grp>
+				<eg>~를 소독하여 병충해를 예방한다.</eg>
+				<trans>hilling soil</trans>
+				<domain></domain>
+				<sem_class>무생물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+					<comb_v type="narg_vpred">
+						<form vcompound="no">~로 사용하다</form>
+					</comb_v>
+					<comb_v type="narg_vpred">
+						<form vcompound="no">~를 소독하다</form>
+					</comb_v>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

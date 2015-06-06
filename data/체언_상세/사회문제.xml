@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사회문제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/13</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>의미부류를 바꾸면서 n_v 정보를 완전히 수정함</mod_note>
+				<mod_note>단위표현 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형용사연어에 '큰, 커다란 ~' 추가;명사연어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>수식어절 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사회 문제</var>
+			<str type="N_N">사회+문제</str>
+			<org lg="si">社會問題</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>외국 노동자들의 임금과 노동조건이 매우 열악하여, 앞으로 이것이 ~가 될 가능성이 많다.</eg>
+				<eg>산업화 사회로 발전해 오면서 ~도 많이 나타났다.</eg>
+				<trans>social problem</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class><!--김성용(2004/07/04)적절한 의미부류를 찾기 힘듦--> <!--(호정은)'사회갈등'에서 '추상적대상'으로 수정함-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심각하다</comb_aj>
+				<comb_aj type="appr">큰 ~</comb_aj>
+				<comb_aj type="appr">커다란 ~</comb_aj>
+				<comb_n type="compound">한국(의) ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 해결하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 극복하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 대두되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 나타나다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 발생하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 불거지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<sel_rst arg="Y"></sel_rst>
+				<cl type="uni">개</cl> <!--추가(미현)-->
+				<cl type="uni">가지</cl> <!--추가(미현)-->
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

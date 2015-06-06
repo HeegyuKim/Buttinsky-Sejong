@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>종교에 관련된 전문용어로 판단</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>격틀 및 의미역 수정</mod_note>
+				<mod_note>의미부류 수정 및 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+				<mod_note>하위센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">啓示_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be revealed</trans>
+				<domain>종교</domain>
+				<lr>
+					<syn type="perfect">현시되다</syn>
+					<syn type="perfect">묵시되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">종교역할인간|종교단체(교회)|텍스트(성경)|종교분파(천주교|개신교)</sel_rst>
+					<eg>교회가 지녀야 할 이상적인 모습은 모두 성경에 계시되어 있다.</eg>
+					<eg>카톨릭에 계시된 모든 교리는 삼위일체에 그 근본을 두고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">Q</sel_rst>
+					<sel_rst arg="Y" tht="LOC">종교역할인간|종교단체(교회)|텍스트(성경)|종교분파(천주교|개신교)</sel_rst>
+					<eg>교회의 이상적인 모습이 어떠해야 할지는 모두 성경에 계시되어 있다.</eg>
+					<eg>어떤 가르침을 따라야 할지가 카톨릭에는 삼위일체 이념이 기본이 되어 계시되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

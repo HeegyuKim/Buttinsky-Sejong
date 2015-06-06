@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>장보다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/20</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/05</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<note>8월 9일 전체 모여서 수정한 내용 반영</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">장을 보다</var>
+			<cntr opt="obl" type="eo"/>
+			<str>NV</str>
+			<org lg="si">場_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go to shop</trans>
+				<trans>go to market</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>어제 시장에서 장보다가 김씨 아주머니와 만났다.</eg>
+					<eg>나는 엄마의 심부름으로 장보러 5일장에 갔다왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

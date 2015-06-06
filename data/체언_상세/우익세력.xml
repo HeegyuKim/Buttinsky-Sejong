@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>우익세력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var 기술;전문영역(정치)삭제;의미부류 능력을 수정;n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">우익 세력</var>
+			<str type="N_N">우익+세력</str>
+			<org lg="si">右翼勢力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~은 한 발작도 물러설 기미가 보이지 않는다</eg>
+				<trans>right-wing power</trans>
+				<domain></domain><!-- 전미현 (2004/06/30) 정치적이지 않은 항목에서도 쓰이지 않을까요?-->
+				<sem_class>단체</sem_class><!-- 전미현 (2004/06/30) "우익세력"이란 단어가 어떤 단체를 상징하는 말인지, 아니면 힘 그 자체를 말하는 건지 모호함-->
+				<lr>
+					<syn type="sino">우파세력</syn><!-- 전미현 (2004/06/30) 동의어 type 이 부정확, 검토요먕-->
+					<ant type="dir">좌익세력</ant> <!--antipodal antonymy-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 속하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="grp"></cl><!-- 전미현 (2004/06/30) 우익단체와 마찬가지 경우-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

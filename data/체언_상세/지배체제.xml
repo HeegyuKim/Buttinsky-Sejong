@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지배체제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/12</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_n, n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지배 체제</var>
+			<str type="N_N">지배+체제</str>
+			<org lg="si">支配體制</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>사설시조에는 ~나 집권층을 우롱하는 내용이 많다.</eg>
+				<eg>1920년대로 접어들면서 일제 식민지 ~에 대한 무력 항쟁으로 방향이 집결되었다.</eg>
+				<trans>governing setup</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class><!--잘 모르겠음(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 단일하다</comb_aj>
+				<comb_aj type="appr">~가 복잡하다</comb_aj>
+				<comb_n type="compound">~의 모순</comb_n>
+				<comb_n type="compound">~의 변화</comb_n>
+				<comb_n type="compound">~의 정비</comb_n>
+				<comb_n type="compound">보편적 ~</comb_n>
+				<comb_n type="compound">봉건적 ~</comb_n>
+				<comb_n type="compound">식민지 ~</comb_n>
+				<comb_n type="compound">일반적 ~</comb_n>
+				<comb_n type="compound">중세적 ~</comb_n>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 확립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 구현하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 유지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 흔들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 수립하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

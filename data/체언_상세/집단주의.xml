@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>집단주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>표준사전에서는 '경제'와 '교육' 분야로 의미를 나누고 있으나 큰 의미 차이가 없으며, 두 영역에서만 쓰이는 용어는 아니라는 점에서 하나의 sense구획으로 둠;예문 수정;반의어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">집단+주의</str><!--김성용(2004/07/26)'주의'를 어근이나 접사로 볼 가능성은 없는지 확인 요망-->
+			<org lg="si">集團主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그들은 입으로는 ~를 표방하면서도 현실적으로는 개인주의에 토대를 두고 행동한다.</eg>
+				<trans>collectivism</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class>
+				<lr>
+					<syn type="etc"></syn><!--김성용(2004/07/26)개념은 다르지만 '전체주의'를 기입할 수 있는지 확인 요망-->
+					<ant type="etc">개인주의</ant><!--김성용(2004/07/26)'전체주의'의 반대를 '개인주의'라고 할 수 있지만, '집단주의'의 반대를 '이기주의'라고 할 수 있는지 확인 요망-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 팽배하다</comb_aj>
+				<comb_n type="compound">~원칙</comb_n>
+				<comb_n type="compound">~사상</comb_n>
+				<comb_n type="compound">~사회</comb_n>
+				<comb_n type="compound">~ 성향</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 표방하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

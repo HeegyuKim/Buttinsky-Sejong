@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선도하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/31</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/17</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/20</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>frame 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선도를 하다</var>
+			<str>N.하</str>
+			<org lg="si">善導_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>lead a person to the path of virtue</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(청소년)</sel_rst>
+					<eg>선생님들은 비행 청소년을 올바른 길로 선도한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=N2-에게|을 Y=S1-도록 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간(청소년)</sel_rst>
+					<eg>선생님들은 비행 청소년에게 올바른 길로 가도록 선도한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/10/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선도를 하다</var>
+			<str>N.하</str>
+			<org lg="si">先導</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>lead</trans>
+				<trans>guide</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>앞에 가는 택시가 뒤따르는 관광버스들을 선도하고 있다.</eg>
+					<eg>봉사위원들은 참가자들을 회의장으로 선도했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<eg>그 기업이 지역 경제를 선도하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

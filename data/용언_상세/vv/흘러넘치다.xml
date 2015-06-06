@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흘러넘치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>overflow</trans>
+				<trans>run over</trans>
+				<lr>
+					<syn type="perfect">넘쳐흐르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(강물|빗물|바닷물)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">제방|길|다리</sel_rst>
+					<eg>지난 밤 호우로 제방을 흘러넘친 바닷물이 마을을 덮쳤다.</eg>
+					<eg>강물은 이미 다리를 흘러넘치고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물)|음식(쥬스|커피|국)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">용기</sel_rst>
+					<eg>국이 끓으면서 국물이 냄비를 흘러넘쳤다.</eg>
+					<eg>내가 깜빡한 사이 물은 양동이를 넘쳐 바닥을 적시고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>overflow</trans>
+				<trans>run over</trans>
+				<lr>
+					<syn type="perfect">넘쳐흐르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(기쁨|희열)|심리행위(애교|교만)|단독행위(미소|웃음)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(얼굴|눈)</sel_rst>
+					<eg>아버지를 만난 아이의 얼굴에 기쁨이 흘러넘쳤다.</eg>
+					<eg>그 여자를 바라보는 그의 눈에는 호기심이 흘러넘쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

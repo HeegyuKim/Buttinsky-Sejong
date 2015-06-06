@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>너울거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>wave</trans>
+				<lr>
+					<syn type="perfect">너울대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(파도|물결|불꼿|잎)|신체착용물(천)|신체부위(머리|머리카락)</sel_rst>
+					<eg>바다에 파도가 너울거린다.</eg>
+					<eg>산들바람에 나뭇잎들이 너울거린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>wave</trans>
+				<lr>
+					<syn type="perfect">너울대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위(머리|머리카락)|신체착용물</sel_rst>
+					<eg>그 여자는 긴 머리를 너울거리면서 달려왔다.</eg>
+					<eg>학이 날개를 너울거리면서 날아와 소나무 위에 앉았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

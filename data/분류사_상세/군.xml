@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>군</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">群</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그들은 전체 인원을 세 ~으로 나누었다</eg>
+				<eg>나는 2~에 배당되었다</eg>
+				<cl_subtype type="div"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">軍</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 선수는 2~에 속한다</eg>
+				<cl_subtype type="div"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl"/>
+				<carord car="etc" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>애매하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/05</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>준말 정보 추가, 불필요한 sense 태그 삭제, 엔트리2의 str 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">앰하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<defect>
+			<infl_rst>애매한|애매하게</infl_rst>
+			<trans>be innocent</trans>
+			<defect_eg>애매한 사람을 잡아가는 곳이 경찰서입니까?</defect_eg>
+			<defect_eg>그는 옆에 있다가 애매하게 끌려가서 고초를 당했다.</defect_eg>
+		</defect>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">曖昧_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be unclear</trans>
+				<lr>
+					<syn type="perfect">모호하다</syn>
+					<syn type="perfect">애매모호하다</syn>
+					<ant type="grad">분명하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|행위|추상적대상</sel_rst>
+					<eg>그의 태도는 아주 애매했다.</eg>
+					<eg>문제가 너무 애매하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=Q0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<eg>이 문제가 뭘 묻는 것인지가 좀 애매했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<ant type="grad">분명하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>그간 애매하다고 느꼈던 그의 마음을 이제는 확연히 알 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

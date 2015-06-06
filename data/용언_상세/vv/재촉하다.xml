@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재촉하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재촉을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>press</trans>
+				<trans>ask</trans>
+				<lr>
+					<syn type="sino">최촉하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈(빚|집세|세금)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>주인 영감은 나를 볼 때마다 밀린 집세를 재촉했다.</eg>
+					<eg>그도 우리의 사정을 알고 있는 터라 더 이상 빚을 재촉하지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>press</trans>
+				<trans>urge</trans>
+				<lr>
+					<syn type="sino">최촉하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>오늘따라 아내가 나에게 출근을 재촉했다.</eg>
+					<eg>사장이 나에게 서류 작성을 재촉하는 통에 점심도 걸렀다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=S것1|S기1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM"/>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그녀는 나에게 그와 만나기를 재촉했다.</eg>
+					<eg>그 친구는 나에게 보험에 들어 줄 것을 재촉했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>press</trans>
+				<trans>urge</trans>
+				<lr>
+					<syn type="sino">최촉하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그날 아내는 나에게 서둘러 귀가하라고 재촉하는 전화를 여러 통 했었다.</eg>
+					<eg>어머니는 나에게 그녀를 다시 만나보라고 계속 재촉하신다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hurry</trans>
+				<trans>quicken</trans>
+				<lr>
+					<syn type="etc">서두르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(걸음|발걸음|길)</sel_rst>
+					<eg>아이가 아프다는 전화에 그녀는 걸음을 재촉하며 집으로 향했다.</eg>
+					<eg>당장이라도 비가 쏟아질 것 같은 날씨에 우리는 귀가길을 재촉했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>advance</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">기상현상(비|눈)</sel_rst>
+					<sel_rst arg="Y" tht="THM">계절|절기</sel_rst>
+					<eg>오늘은 봄을 재촉하는 비가 전국적으로 내릴 것으로 예상됩니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

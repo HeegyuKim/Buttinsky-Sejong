@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>입방미터</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/19</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>입방+미터</str>
+			<org lg="si">立方__</org>
+			<org lg="en">__meter</org>
+			<symb>m3</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~는 1세제곱미터의 옛 용어이다</eg>
+				<reg>고어</reg>
+				<cl_subtype type="blk"/>
+				<lr>
+					<syn type="etc">세제곱미터</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>연역되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/27</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/03</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">연역이 되다</var>
+			<str>N.되</str>
+			<org lg="si">演繹_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be deduced</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기호체계|규범|학문과목|사조|텍스트|제도|개념|수학적대상|물리학적대상|종교</sel_rst>
+					<sel_rst arg="Y" tht="SRC">기호체계|규범|학문과목|사조|텍스트|제도|개념|수학적대상|물리학적대상|종교</sel_rst>
+					<eg>수학의 모든 내용들이 몇 개의 원리에서 연역될 수 있을까?</eg>
+					<eg>'에티카'의 모든 정리들은 몇 개의 공리에서 연역된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

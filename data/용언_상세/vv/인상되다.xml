@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>인상되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">인상이 되다</var>
+			<str>N.되</str>
+			<org lg="si">引上_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be raised</trans>
+				<trans>ascend</trans>
+				<trans>go up</trans>
+				<lr>
+					<syn type="kor">오르다</syn>
+					<ant type="dir">인하되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">비율(이자율|환율)|값(가격|전세비)|금전(세금|교통비|월급)</sel_rst>
+					<eg>수입 원자재의 가격이 인상되면 제품 가격 또한 일부 오를 것으로 보인다.</eg>
+					<eg>세금은 계속 인상되는 반면 가계 수입은 제자리걸음을 하고 있으니 서민들의 생활고가 이만저만이 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

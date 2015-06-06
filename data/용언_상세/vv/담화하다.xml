@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>담화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">담화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">談話_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상호적언술행위</sem_class>
+				<trans>talke with</trans>
+				<trans>converse with</trans>
+				<lr>
+					<syn type="perfect">대화하다</syn>
+					<syn type="kor">이야기하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>저녁식사 후 나는 처음 만난 그곳의 친구들과 함께 담화했다.</eg>
+					<eg>교황과 라틴어로 담화하는 일은 누구나 할 수 있는 일이 아니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>나는 여러 사람들이 작은 목소리로 서로 담화하는 것을 보고 그들에게 무슨 일이 발생하였는가 물었다.</eg>
+					<eg>저녁식사 후 나와 친구들은 오랫동안 함께 담화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

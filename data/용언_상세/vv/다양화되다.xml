@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다양화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">다양화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">多樣化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be various</trans>
+				<lr>
+					<syn type="perfect">다원화되다</syn>
+					<syn type="perfect">다극화되다</syn>
+					<ant type="compl">일원화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(제품|상품|패션)</sel_rst>
+					<eg>생산기술의 발전으로 많은 제품이 다양화되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분야(업종)|(프로그램|채널)|추상적대상(구성|체재|정보|취향)</sel_rst>
+					<eg>인터넷의 보급으로 우리가 접할 수 있는 정보가 매우 다양화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

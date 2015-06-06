@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상원의원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 조사에 따라 분리 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상원 의원</var>
+			<str type="N_N">상원+의원</str>
+			<org lg="si">上院議員</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>세 번의 실패 끝에 그는 결국 ~으로 당선되었다.</eg>
+				<eg>미국의 각 주에서는 ~을 두 명씩 선출한다.</eg>
+				<trans>senator</trans>
+				<domain></domain>
+				<sem_class>직위인간</sem_class> <!--역할인간에서 직위인간으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">하원의원</ant> <!--'하원의원'이 반의어가 될지?(이민우);기타 유형으로 기술(김)-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 선거</comb_n> <!--정보 기입(김)-->
+				 <!--동사결합 기입(김)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 뽑다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 선출하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 뽑히다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 뽑히다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 선출되다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 선출되다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 취임하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 취임하다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 물러나다</form>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl> <!--추가(김)-->
+				<cl type="uni">사람</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

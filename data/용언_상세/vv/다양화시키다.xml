@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다양화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>프레임 구분</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">다양화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">多樣化__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>diversify</trans>
+				<lr>
+					<syn type="perfect">다원화시키다</syn>
+					<syn type="perfect">다극화시키다</syn>
+					<ant type="compl">일원화시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(제품|상품|패션)</sel_rst>
+					<eg>많은 기업들은 소비자의 취향에 맞춰 제품을 다양화시켰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">분야(업종)|(프로그램|채널)|추상적대상(구성|체재|정보|취향)</sel_rst>
+					<eg>정부는 지역부존자원을 이용하여 사업영역을 다양화시키기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사건</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(제품|상품|패션)</sel_rst>
+					<eg>기술의 발전이 생활용품을 다양화시켰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사건</sel_rst>
+					<sel_rst arg="Y" tht="THM">분야(업종)|(프로그램|채널)|추상적대상(구성|체재|정보|취향)</sel_rst>
+					<eg>인터넷의 상용화가 우리의 지식을 다양화시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

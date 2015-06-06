@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>요청받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>센스 구별 검토 요망</cre_note><!--"-을" 보어와 "-고"형이 함께 분포 가능할 경우, 이를 동일 센스하에 둔다면, 논항 Y의 의미역은?-->
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">요청을 받다</var>
+			<str>NV</str>
+			<org lg="si">要請_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get demanded</trans>
+				<trans>get asked</trans>
+				<trans>get requested</trans>
+				<lr>
+					<ant type="conv">요청하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그의 책이 서점가의 화제가 되면서 그는 여러 단체로부터 강연을 요청받기도 했다.</eg>
+					<eg>국세청으로부터 개인에 대한 자료의 제공을 요청받을 경우 은행측은 당사자인 고객에게 이러한 사실을 통보해야 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그녀는 아이가 다니는 학교 담임 선생님에게서 특별활동 시간을 맡아 줄 것을 요청받았다.</eg>
+					<eg>준오는 한 국회의원 후보로부터 비서관이 되어 줄 것을 요청받았지만 결국 공부를 계속하겠다는 이유로 이를 거절했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get demanded</trans>
+				<trans>get asked</trans>
+				<trans>get requested</trans>
+				<lr>
+					<ant type="conv">요청하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=S1-라고|자고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 최근 몇몇 회사에서 함께 일해 보자고 요청받았지만 건강을 이유로 모두 거절했다.</eg>
+					<eg>시민 단체들로부터 구체적인 사업 계획을 밝히라고 여러 차례 요청받고도 시 당국이 이를 모두 외면했다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=S1-도록 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="PUR"/>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그는 최근 몇몇 회사에서 함께 일하도록 요청받았지만 건강을 이유로 모두 거절했다.</eg>
+					<eg>시민 단체들로부터 구체적인 사업 계획을 밝히도록 여러 차례 요청받고도 시 당국이 이를 모두 외면했다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

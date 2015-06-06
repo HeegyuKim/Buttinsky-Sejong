@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걷히다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부 구조 수정</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V.히2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be lifted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(구름|안개)</sel_rst>
+					<eg>비구름이 말끔히 걷히고 언제 그랬냐는 듯 따가운 햇빛이 비쳤다.</eg>
+					<eg>안개가 걷히자 강자락 건너 앞산이 시야에 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be lifted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(지붕|덮개|커텐|막)</sel_rst>
+					<eg>마치 관 뚜껑이 열리 듯 곡물 적재함의 지붕이 걷혔다.</eg>
+					<eg>공연이 끝나자 막이 걷히고 배우들이 마지막 인사를 하러 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be lifted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(색깔|기운|표정|웃음기)</sel_rst>
+					<eg>그 말이 나오자 사장의 얼굴에는 핏기가 걷히는 듯했다.</eg>
+					<eg>순이의 얼굴이 금새 환해지면서 지금까지 얼굴을 덮고 있던 수심의 빛이 싹 걷혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be lifted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황</sel_rst>
+					<eg>그 일로 시장에 불안의 기운이 걷히는 듯했다.</eg>
+					<eg>영희에 그 말 한 마디로 교실 내의 침울한 분위기가 일순간에 싹 걷혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be collected</trans>
+				<lr>
+					<syn type="perfect">모이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(돈|성금)</sel_rst>
+					<eg>사정이 딱한 학우의 소식이 알려지자 금새 거액의 성금이 걷혔다.</eg>
+					<eg>나라가 외환 위기에 빠지자 온 국민들 사이에서 엄청난 양의 금붙이들이 걷혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

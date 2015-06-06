@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지지되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/26</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">지지가 되다</var>
+			<str>N.되</str>
+			<org lg="si">支持_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be supported</trans>
+				<trans>be upheld</trans>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">방법|사실명제(가설)|사조|제도|</sel_rst>
+					<eg>그 가설은 많은 학자들에의해 지지되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be supported</trans>
+				<trans>be propped up</trans>
+				<lr>
+					<syn type="perfect">지탱되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에의해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">건물부분장소|관계장소|담|다리|사육장소|설치물|구체물의부분</sel_rst>
+					<sel_rst arg="Y" tht="INS">자재|크기속성구체물|기기|</sel_rst>
+					<eg>발코니는 정교하게 조각된 목제 기둥에의해 지지되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be maintained</trans>
+				<lr>
+					<syn type="perfect">지탱되다</syn>
+					<syn type="perfect">부지되다</syn>
+					<syn type="perfect">유지되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">단위(선)</sel_rst>
+					<eg>주가가 1350선이 일 주일간 지지되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일삼다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>repeat</trans>
+				<trans>do again</trans>
+				<lr>
+					<syn type="perfect">거듭하다</syn>
+					<syn type="sino">반복하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Npr1">범죄및비행|방향성행위(주먹질|싸움)|논쟁|비난욕설</sel_rst>
+					<eg>한때 그들은 툭하면 폭행을 일삼는 거리의 부랑자들이었다.</eg>
+					<eg>정치인들이 제대로 일을 하기보다는 논쟁이나 말다툼을 일삼기에 바쁘다는 지적의 목소리가 갈수록 높아지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+		</morph_grp>
+		<defect>
+			<infl_rst>일삼아</infl_rst>
+			<trans></trans>
+			<defect_eg>그녀는 요즘 일삼아 가꾼 작은 텃밭에서 상추며 고추를 수확하는 재미에 푹 빠져 있다.</defect_eg>
+			<defect_eg>처음에 그는 일삼아 손자나 봐 줄까 하는 마음에 서울 작은 아들네 집으로 와 살게 되었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

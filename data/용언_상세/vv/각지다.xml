@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>각지다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/28</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>동사 목록에 있으나 형용사임</cre_note>
+				<!--과거형으로만 쓰여서 현재 상태를 나타내는 용언은 동사로 간주함.(박진호)-->
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">각이 지다</var>
+			<str>NA</str>
+			<org lg="si">角_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>form a angle</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<n_appr arg="X">형태</n_appr>
+					<eg>모양이 약간 각진 그 장식품은 요즘 불티나게 팔리고 있다.</eg>
+					<eg>그 사람 얼굴이 각졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

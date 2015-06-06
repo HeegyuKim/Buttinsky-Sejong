@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상론하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/02</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/29</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상론을 하다</var>
+			<str>N.하</str>
+			<org lg="si">詳論_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>대화</sem_class>
+				<trans>discuss in detail</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>한라산의 케이블카 설치 문제는 다시 상론한 후에 결정하기로 했다.</eg>
+					<eg>법안의 세세한 부분에 대해서는 이 자리에서는 상론하지 않겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/09/29</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상론을 하다</var>
+			<str>N.하</str>
+			<org lg="si">相論</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>discuss</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT" cor="reci" n="1">
+				<frame>X=N0-이 Y=N1-와 Z=N2-을|에대해 서로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">추상적대상</sel_rst>
+					<eg>기영이는 수진이와 이사가는 문제에 대해 서로 상론하지 않고 혼자 결정을 내렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">S것|Q</sel_rst>
+					<eg>기영이는 수진이와 이사가는 것에 대해 서로 상론하지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT" cor="reci" n="1">
+				<frame>X+Y=N0-이 Z=N2-을|에대해 서로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">추상적대상</sel_rst>
+					<eg>기영이와 수진이는 이사가는 문제에 대해 서로 상론하지 않았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">S것|Q</sel_rst>
+					<eg>기영이와 수진이는 이사가는 것에 대해 서로 상론하지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>측정되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/06/26</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/03</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">측정이 되다</var>
+			<str>N.되</str>
+			<org lg="si">測定_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be measured</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성</sel_rst>
+					<eg>사람의 성공이 언제나 돈이란 측면에서 측정될 수는 없는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be measured</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소|건물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수|길이</sel_rst>
+					<n_appr arg="X">높이</n_appr>
+					<eg>에베레스트의 높이는 해발 8848미터로 측정되었다.</eg>
+					<eg>63빌딩은 273미터로 측정되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|건물|길|다리|굴</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수|길이</sel_rst>
+					<n_appr arg="X">폭</n_appr>
+					<n_appr arg="X">너비</n_appr>
+					<eg>도로는 30미터로 측정되었지만 그것도 너무 좁다는 지적이 나왔다.</eg>
+					<eg>한강의 폭은 넓은 곳은 300미터 정도로 측정된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수|넓이</sel_rst>
+					<n_appr arg="X">넓이</n_appr>
+					<n_appr arg="X">면적</n_appr>
+					<eg>홍수가 난 이후 논은 넓이가 측정되기 어려울 정도로 망가졌다.</eg>
+					<eg>그가 소유하고 있던 임야의 평은 30만평 정도로 측정되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물장소(호수|강|바다)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수|길이</sel_rst>
+					<n_appr arg="X">깊이</n_appr>
+					<eg>새계에서 가장 깊은 해구의 깊이는 10000미터 이상으로 측정된다.</eg>
+					<eg>저수지의 깊이는 2미터 이상으로 측정되므로 빠지면 위험하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<n_appr arg="X">넓이</n_appr>
+					<n_appr arg="X">면적</n_appr>
+					<n_appr arg="X">깊이</n_appr>
+					<n_appr arg="X">높이</n_appr>
+					<n_appr arg="X">너비</n_appr>
+					<n_appr arg="X">폭</n_appr>
+					<eg>그 곳의 넓이는 30만평에 이르는 것으로 측정되었다.</eg>
+					<eg>세계에서 가장 큰 호수의 넓이는 우리 나라의 면적보다 큰 것으로 측정되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짜이다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/04</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/04/09</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/20</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부구조 수정</mod_note>
+				<mod_note>선택 제약 수정</mod_note>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>R.이2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be weaved</trans>
+				<lr>
+					<syn type="sino">직조되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(베|명주|문짝|판|액자|돗자리)</sel_rst>
+					<eg>베틀에서 베가 짜이고 있다.</eg>
+					<eg>이렇게 해야 좋은 명주가 짜인다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(천)</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물(실)</sel_rst>
+					<eg>그 천은 매우 광택이 있는 실로 짜여 있다.</eg>
+					<eg>이 모자는 부드러운 양모로 짜여 있어서 폭신하고 따뜻하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be planned</trans>
+				<lr>
+					<syn type="sino">계획되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시간표|계획표|일정)|(예산|사업계획서)|계획(작전|계략)</sel_rst>
+					<eg>계획표가 드디어 짜였다.</eg>
+					<eg>일정이 짜였으니 그대로 행동하도록 하시오.</eg>
+					<eg>이번처럼 작전이 주도 면밀하게 짜인 적이 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be composed</trans>
+				<trans>be plotted</trans>
+				<lr>
+					<syn type="sino">구성되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">작품</sel_rst>
+					<sel_rst arg="Y" tht="INS">추상적대상</sel_rst>
+					<eg>멘델스존의 바이올린 협주곡은 감미로운 곡조로 짜여 있다.</eg>
+					<eg>이 소설은 아주 복잡한 갈등구조로 짜여 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be formed</trans>
+				<lr>
+					<syn type="sino">조직되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(조|편|팀|선수단)</sel_rst>
+					<sel_rst arg="Y" tht="INS">인간|인간집단</sel_rst>
+					<eg>그 선수단은 가장 우수한 선수들로 짜여 있다.</eg>
+					<eg>우리 팀은 정말 환상적인 구성원들로 짜여 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

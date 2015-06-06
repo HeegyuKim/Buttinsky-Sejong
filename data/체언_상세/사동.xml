@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사동</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/06/19</cre_date>
+				<cre_writer>김미순</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+				<mod_note>엔트리2 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">使動</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>주어가 남에게 어떤 동작을 하도록 시킬 때 ~ 구문을 써서 표현한다.</eg>
+				<trans>causative</trans>
+				<domain>언어</domain>
+				<sem_class>속성값</sem_class> <!-- 속성 수정 -->
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/12/28</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<org lg="si">使童</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>사장은 ~을 시켜 담배를 사오게 했다.</eg>
+				<trans>page</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

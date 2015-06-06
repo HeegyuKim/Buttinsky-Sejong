@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인간복제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;의미부류 수정;명사결합, 논항명사구, 논항 의미정보 추가;동사결합에 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 변이형 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">인간 복제</var> <!-- 추가함 -->
+			<str type="N_N">인간+복제</str>
+			<org lg="si">人間服制</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~가 성공함으로써 또 다른 사회적 차원의 윤리적 문제가 대두되었다.</eg> <!-- 예문 뒤에 빈칸이 있어 삭제함 -->
+				<trans>human cloning</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class> <!-- '결과행위'를 수정함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 기술</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 회사</comb_n>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup"> <!-- 추가함 -->
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup"> <!-- 추가함 -->
+					<form vcompound="no">~가 되다</form>
+					<frame>X-에의해 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame>X-에의해 ~가 이루어지다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!-- 'narg_vpred'를 수정함 -->
+					<form vcompound="no">~에 성공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~를 금지하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">직업인간|국가|의료기관|기업|학술단체</sel_rst>
+				<cl type="uni">번</cl> <!-- 추가함 -->
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

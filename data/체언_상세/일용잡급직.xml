@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>일용잡급직</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_n 기술, n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">일용잡직</var>
+			<var type="abb">일용직</var>
+			<var type="lng">일용 잡급직 노동자</var>
+			<var type="spr">일용 잡급직</var>
+			<str type="N_N">일용+잡급직</str><!--'잡급+직'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">日傭雜給職</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>장기 고용이 되어 있지 않은 ~들도 실업자로 구분되어야 한다.</eg>
+				<eg>방송국의 막내 작가란 말이 좋아 작가지 사실상 ~에 가까운 존재이다.</eg>
+				<eg>시간 강사는 지식 산업에서의 ~이라고 할 수 있다.</eg>
+				<trans>day laborer</trans>
+				<domain></domain>
+				<sem_class>사회계급인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 종사자</comb_n><!--lng에 써야 하는지?(김이정)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 일하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 분류되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 채용되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

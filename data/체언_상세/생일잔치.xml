@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>생일잔치</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>격틀이 달라지지 않는 기능동사 변이형들도 각기 따로 기술해야 하는지?(버티칼바로 처리하지 않고?)</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_aj 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">생일 잔치</var>
+			<str type="N_N">생일+잔치</str>
+			<org lg="si">生日__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>나는 미국 여행에 앞서 미리 ~를 치렀다.</eg>
+				<eg>어제 김 선생님의 ~가 학교 식당에서 열렸다.</eg>
+				<trans>birthday party</trans>
+				<domain></domain>
+				<sem_class>잔치</sem_class>
+				<lr>
+					<syn type="etc">생일파티</syn> <!--외래어 동의어(이민우)-->
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 성대하다</comb_aj>
+				<comb_aj type="appr">~가 조촐하다</comb_aj> <!--극대 극소 값으로 가능한지?(이민우)--> <!--appr로 수정(미현)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에서 ~를 하다</frame> <!--'~에서'가 논항일까?(이민우);필수 논항으로 보기 어려우나 일단 '~에서'논항 추가(김)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 치르다</form>
+					<frame>X-이 Y-에서 ~를 치르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 열다</form>
+					<frame>X-이 Y-에서 ~를 열다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst> <!--인간집단 추가(김)-->
+				<sel_rst arg="Y">장소</sel_rst> <!--추가(김)-->
+				<cl type="uni">번</cl> <!--분리 기술(김)-->
+				<cl type="uni">회</cl> <!--추가(김)-->
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

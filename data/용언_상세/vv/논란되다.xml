@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>논란되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">논란이 되다</var>
+			<str>N.되</str>
+			<org lg="si">論難_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>논쟁</sem_class>
+				<trans>be criticized</trans>
+				<lr>
+					<syn type="perfect">문제되다</syn>
+					<syn type="perfect">논쟁되다</syn>
+					<syn type="perfect">쟁론되다</syn>
+					<syn type="perfect">비난되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>영화의 경우 다른 언론 출판과 달리 검열의 허용 여부가 많이 논란된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|Q</sel_rst>
+					<eg>어떤 방식의 결정이 이 과정을 지배하는가 하는 것이 논란되고 있다.</eg>
+					<eg>우선 당장 누구에게 유리하고 어느 편에 불리한가만이 논란되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

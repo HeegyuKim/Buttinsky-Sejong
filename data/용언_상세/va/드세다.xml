@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>드세다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>적정명사 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be fierce</trans>
+				<lr>
+					<ant type="grad">유하다</ant>
+					<hyper>세다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">성질</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">습성</n_appr>
+					<n_appr arg="X">고집</n_appr>
+					<eg>내 친구는 성격이 너무 드세다.</eg>
+					<eg>사자는 성질이 드세다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be very strong</trans>
+				<lr>
+					<syn type="sino">강하다</syn>
+					<ant type="grad">약하다</ant>
+					<hyper>세다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">힘</n_appr>
+					<eg>내 친구는 힘이 너무 드세다.</eg>
+					<eg>사자는 힘이 드세다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wild</trans>
+				<lr>
+					<hyper>세다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상</sel_rst>
+					<eg>바람이 너무 드세서 먼지가 다 들어온다.</eg>
+					<eg>비가 드세서 지붕이 내려 앉을 지경이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

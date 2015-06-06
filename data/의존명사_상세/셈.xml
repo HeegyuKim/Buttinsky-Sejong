@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>셈</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>필수성을 고려하여 synt_b, synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>자존심이 상한 호랑이는 결투를 할 ~으로 토끼를 앞세우고 그 짐승을 찾아갔다</eg>
+				<eg>앞으로 어쩔 ~이냐?</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt>~으로</prt>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<comb_ida>~이다</comb_ida>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>무대와 청중 간에도 두 개의 이질적인 문화가 존재하고 있었던 ~이다</eg>
+				<eg>어찌된 ~인가?</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt>~으로</prt>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<comb_ida>~이다</comb_ida>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>제발 사람 하나 살려 준 ~ 치고 봐 달라고 빌었다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt>~으로</prt>
+				<comb_aj possible="no"/>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 치다</form>
+				</comb_v>
+				<comb_ida possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

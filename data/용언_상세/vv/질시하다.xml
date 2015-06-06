@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>질시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">질시를 하다</var>
+			<str>N.하</str>
+			<org lg="si">嫉視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>regard with jealousy</trans>
+				<lr>
+					<syn type="perfect">질투하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG"></sel_rst>
+					<sel_rst arg="Y" tht="THM"></sel_rst>
+					<eg>동족들 간에 서로 편을 갈라 질시하며 위화감을 증폭시키는 것이 도를 넘은 것이 어제 오늘의 일이 아니다.</eg>
+					<eg>백설공주의 미모를 질시한 새엄마 왕비가 공주를 죽이려 하고 공주는 일곱 난쟁이의 도움을 받아 끈질기게 살아남죠.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

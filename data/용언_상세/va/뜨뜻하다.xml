@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뜨뜻하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/22</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>항목 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">따뜻하다</var>
+			<var type="etc">뜨듯하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be warm</trans>
+				<lr>
+					<ant type="grad">차갑다</ant>
+					<rel>뜨끈하다</rel>
+					<rel>뜨겁다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>도로 아스팔트와 보도블록은 한낮의 열기가 고스란히 있어, 불속에 구운 돌같이 뜨뜻하다. </eg>
+					<eg>10분정도의 등산로를 따라 올라가는데 시냇물이 흐르길래 시원하게 손이나 씻을까하고 담가보니 물이 뜨뜻하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

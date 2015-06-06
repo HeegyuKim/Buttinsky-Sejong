@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협연시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/03</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협연을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">協演_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>make play in harmony</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">역할인간(바이올리니스트|연주자)|단체(오케스트라|심포니|악단)</sel_rst>
+					<sel_rst arg="Z" tht="COM">역할인간(바이올리니스트|연주자)|단체(오케스트라|심포니|악단)</sel_rst>
+					<eg>메니저는 이 젊은 피아니스트를 런던심포니와 협연시켰다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">역할인간(바이올리니스트|연주자)|단체(오케스트라|심포니|악단)</sel_rst>
+					<sel_rst arg="Z" tht="THM">역할인간(바이올리니스트|연주자)|단체(오케스트라|심포니|악단)</sel_rst>
+					<eg>메니저는 이 젊은 피아니스트와 런던심포니를 협연시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

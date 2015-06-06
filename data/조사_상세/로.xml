@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>로</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/18</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jkb</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<phn_rst>lq</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">으로</var>
+			<var type="spk_p">ㄹ로</var>
+			<!--'ㄹ로'는 구어에서 모음으로 끝난 체언 아래 쓰임.-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>방향|지향점</gm>
+				</sem_rep>
+				<frn>게</frn>
+				<frn>께</frn>
+				<frn>에</frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>의</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=장소|구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그는 오늘 서울로 갔다.</eg>
+				<eg>철수는 들로 시선을 옮겼다.</eg>
+				<eg>그들의 희생이 전쟁을 승리로 이끌었다.</eg>
+				<eg>그는 사람들이 없는 데로 가고 싶었다.</eg>
+				<!--N=장소일 경우 주로 이동동사와 공기. 대체로 '에'와 교체 가능.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>경로</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>의</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=장소|구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>영희는 서울에서 대구로 해서 부산에 갔다.</eg>
+				<eg>바람이 나뭇가지 사이로 빠져 나간다.</eg>
+				<!--주로 이동동사와 공기. 뒤에 '하여, 해서' 등이 놓일 수 있음.-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>변화방향</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>의</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>얼음이 물로 되었다.</eg>
+				<eg>영희가 현숙한 처녀로 성장했다.</eg>
+				<!--'되다, 변하다, 바꾸다, 바뀌다, 변모하다, 탈바꿈하다, 화하다' 등의 동사와 공기함.-->
+			</sense>
+			<sense n="4">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>도구|수단</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>의</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물(도구|교통기관)|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>제주도까지 비행기로 얼마나 걸리나?</eg>
+				<eg>나는 사과를 칼로 잘랐다.</eg>
+				<eg>이웃간의 대립은 대화로 해결해야 한다.</eg>
+			</sense>
+			<sense n="5">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>재료</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>둘째 돼지는 나무로 집을 지었습니다.</eg>
+				<eg>출연자들은 젊음의 열기로 무대 분위기를 뜨겁게 만들었다.</eg>
+				<!--'되다, 만들다, 이루어지다, 구성되다' 등 동사와 공기.-->
+			</sense>
+			<sense n="6">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>방식|양상</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=온</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>나는 서울에 도착하는 길로 그를 찾아갔다.</eg>
+				<eg>그렇게 큰 소리로 떠들지 마라.</eg>
+				<eg>우리는 1초 차로 우승을 놓쳤다.</eg>
+				<eg>그는 봄가을로 보약을 먹는다.</eg>
+				<eg>'man'은 우리말로 '사람'이란 뜻이다.</eg>
+				<eg>의사는 결국 수술을 시작하기로 결단을 내렸다.</eg>
+				<eg>나는 이제부터 일찍 일어나기로 했다.</eg>
+				<eg>그녀는 옷을 다 입은 채로 잠이 들었다.</eg>
+				<!--'그는 봄가을로 보약을 먹는다'의 경우 '시간'으로 의미해석하기도 함.-->
+			</sense>
+			<sense n="7">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>자격|속성</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>와</fol>
+				<fol>요</fol>
+				<fol>의</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=역할|직책|속성|속성값</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그는 부잣집 막내로 태어났다.</eg>
+				<eg>철수는 영희를 아내로 삼았다.</eg>
+				<eg>나는 너를 친구로 여기지 않는다.</eg>
+				<eg>나는 그 말을 감사의 표시로 간주했다.</eg>
+				<eg>그 남자는 약골로 생겼지만 힘이 무척 세었다.</eg>
+				<eg>나는 그 사람이 이미 온 줄로 알았다.</eg>
+				<eg>시조새는 조류의 선조로, 중생대 쥐라기에 생존하였다.</eg>
+				<!--마지막 예의 경우 성격이 다른 구성 안에 사용됨.-->
+			</sense>
+			<sense n="8">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>원인|이유</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>까지</fol>
+				<fol>는</fol>
+				<fol>다</fol>
+				<fol>다가</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|사건|상태|속성|기상|과정|감정|행위|인간|질병</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>부부싸움은 늘 하찮은 일로 말미암아 생긴다.</eg>
+				<eg>영수는 이번 겨울에 감기로 고생했다.</eg>
+				<eg>우리 아저씨는 술로 인해 병을 얻었다.</eg>
+				<eg>갑작스런 폭우로 인하여 농작물이 피해를 입었다.</eg>
+				<eg>이 고장은 사과로 유명하다.</eg>
+				<!--'하여, 해서, 인하여, 인해, 인해서, 말미암아' 등이 후행할 수 있음.-->
+			</sense>
+			<sense n="9">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>출처</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>가</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>는</fol>
+				<fol>도</fol>
+				<fol>든</fol>
+				<fol>든지</fol>
+				<fol>라도</fol>
+				<fol>라야</fol>
+				<fol>만</fol>
+				<fol>밖에</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>ㄴ</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=시간|장소|상태</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>나는 오늘 이후로 예전의 내가 아닐 것이다.</eg>
+				<!--'N-까지'가 후행할 수 있음, 많은 경우'로부터'와 교체 가능.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

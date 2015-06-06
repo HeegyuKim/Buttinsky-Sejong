@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>어이구머니</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/09/25</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/22</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note>2003/06/22(김진형)센스2 sem 수정</note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="temp"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb">에구머니</var>
+			<var type="lng"></var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small">아이고머니</var>
+			<var type="small">아이구머니</var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon"></var>
+			<var type="v_var"></var>
+			<var type="etc"></var>
+			<str>어이구_어머니</str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어이구머니! 왜 때려요?</eg>
+				<sem_class>아픔</sem_class>
+				<trans>Ouch!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아이고|애고|어이구|에구</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>어이구머니, 너무 어려운데요?</eg>
+				<sem_class>고됨</sem_class>
+				<trans>Heavens!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아이고|애고|어이구|에구|아유</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>어이구머니! 간 떨어질 뻔 했어요.</eg>
+				<sem_class>놀람</sem_class>
+				<trans>Oops!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아이고|애고|어이구|에구|앗</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

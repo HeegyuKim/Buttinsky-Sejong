@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>그립다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be longed for</trans>
+				<trans>miss</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|인간집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 멀리간 친구의 얼굴과 목소리가 그립다.</eg>
+					<eg>그는 가족들과 함께 살았던 시골생활이 갑자기 그리웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>want for</trans>
+				<trans>miss</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>갑작스러운 파산으로 그 부자는 돈이 그리운 신세가 되었다.</eg>
+					<eg>이렇게 추운 날씨에는 따뜻한 차 한잔이 그립다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

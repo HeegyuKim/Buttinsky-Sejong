@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깜박하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">깜박을 하다</var>
+			<var type="etc">껌벅하다</var>
+			<var type="etc">꿈벅하다</var>
+			<var type="etc">끔벅하다</var>
+			<var type="etc">깜빡하다</var>
+			<var type="etc">껌뻑하다</var>
+			<var type="etc">꿈뻑하다</var>
+			<var type="etc">끔뻑하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>blink</trans>
+				<lr>
+					<syn type="perfect">깜짝하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈)</sel_rst>
+					<eg>감독이 눈을 한 번 깜박하면 작전 들어가는 거야.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈)</sel_rst>
+					<eg>감독 눈이 깜박하는 것처럼 보여서 도루를 시도한 것뿐이에요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>flicker</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛</sel_rst>
+					<eg>그때 저쪽에서 희미한 불빛이 한 번 깜박하는 것이 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>have a vague memory</trans>
+				<lr>
+					<hyper>잊어버리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상|사태</sel_rst>
+					<eg>철수는 우산을 자주 깜박한다.</eg>
+					<eg>철수는 대청소를 자주 깜박하곤 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=S것1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM"></sel_rst>
+					<eg>철수는 우산을 들고 오는 것을 자주 깜박한다.</eg>
+					<eg>철수는 대청소하는 것을 자주 깜박하곤 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>요즘 들어 철수가 깜박하는 모습을 많이 볼 수 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

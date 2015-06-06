@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>과도하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>선택제약, 적정명사 수정, 격틀 V 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">過度_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be excessive</trans>
+				<trans>be immoderate</trans>
+				<trans>be too much</trans>
+				<trans>be too hard</trans>
+				<lr>
+					<syn type="kor">지나치다</syn>
+					<ant type="compl">적당하다</ant>
+					<ant type="compl">적절하다</ant>
+					<ant type="compl">알맞다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|정도속성값</sel_rst>
+					<eg>현대인들은 과도한 경쟁 속에서 압박감에 시달리고 산다.</eg>
+					<eg>권력의 노예란 권력을 소유해 좋은 일을 하려다 욕구 자체가 과도해 이 권력에 되잡힌 사람들을 이른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

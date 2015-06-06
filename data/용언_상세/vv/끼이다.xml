@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끼이다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">끼다</var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get jammed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물|장소</sel_rst>
+					<eg>옷자락이 문 사이에 끼여서 빠지지 않는다.</eg>
+					<eg>돌 틈 사이에 끼여 자라난 이름 모를 풀의 자태가 가는 이의 걸음을 멈추게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be between</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단</sel_rst>
+					<eg>한반도는 열강의 틈바구니에 끼여 많은 시련을겪어야 했다.</eg>
+					<eg>그는 갈등을 벌이는 두 부모 사이에 끼여 마음 고생을 많이 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be among</trans>
+				<lr>
+					<syn type="perfect">섞이다</syn>
+					<syn type="sino">포함되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>나는 사람들 사이에 끼여 몰래 빠져 나왔다.</eg>
+					<eg>군데군데 끼인 부상자들 때문에 우리는 빨리 후퇴할 수 없었다.</eg>
+					<eg>지원자들 중에는 연약한 여자들도 끼여 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be on</trans>
+				<lr>
+					<syn type="perfect">오르다</syn>
+					<syn type="sino">속하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(명단)</sel_rst>
+					<eg>철수는 이번 대표 선수 명단에 끼이지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be on</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(자리)|행위(일)</sel_rst>
+					<eg>어용 학자들이 이런 자리에 아예 끼이지 못하게 하려는 생각이었다.</eg>
+					<eg>그 사람은 학교 일에 끼이지 않는 일이 별로 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>be put between</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(이해관계|이권)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(사업|일)|(노름판|도박판)</sel_rst>
+					<eg>이번 사업에는 투명하지 않은 이해 관계가 끼여 있는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

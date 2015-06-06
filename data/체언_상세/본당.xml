@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>본당</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/17</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/17</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미를 분할, '종교건물'과 '인간단체'로</mod_note>
+				<mod_note>센스1에 명사, 동사결합 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>동사자유구성에'~을 짓다'추가</add>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">本堂</org>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>절의 ~이 산을 등지고 위치해 있다.</eg>
+				<trans>main building</trans>
+				<sem_class>종교건물</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_n type="compound">~ 건물</comb_n> <!-- 추가함 -->
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 짓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni">채</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>해외에도 여러 곳에 ~을 두고 신부와 수녀를 파견한다.</eg>
+				<trans>parish church</trans>
+				<domain></domain>
+				<sem_class>종교단체</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_n type="compound">~ 신부</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 수녀</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 살림</comb_n> <!-- 추가함 -->
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~에 파견하다</form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

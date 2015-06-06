@@ -1,0 +1,44 @@
+<!ELEMENT affixDic (superEntry)>
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, morph_grp, sense+)>
+<!ATTLIST entry n NMTOKEN #IMPLIED>
+<!ATTLIST entry pos (xp|xs) #REQUIRED>
+
+<!ELEMENT mnt_grp (cre, mod*, note*)>
+<!ELEMENT cre (cre_date, cre_writer, cre_note*)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT cre_note (#PCDATA)>
+
+<!ELEMENT mod (mod_date*, mod_writer*, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT morph_grp (var*, str, org, hom)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (xs|xd|big|small|tense|plain|etc) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (si|temp) #REQUIRED>
+<!ELEMENT hom (#PCDATA)>
+<!ATTLIST hom exist (yes|no|temp) #REQUIRED>
+
+<!ELEMENT sense (trans+, con, lr, comb_morph)>
+<!ATTLIST sense n NMTOKEN #IMPLIED>
+
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT con (#PCDATA)>
+<!ELEMENT lr (syn*, ant*)>
+<!ELEMENT syn (#PCDATA)>
+<!ELEMENT ant (#PCDATA)>
+
+<!ELEMENT comb_morph (comb*, redup*)>
+<!ATTLIST comb type (np_x|n_x|vv_x|va_x|ma_x|xr_x|xp_x|xs_x|temp) #REQUIRED>
+<!ELEMENT comb (result*)>
+<!ELEMENT result (#PCDATA)>
+<!ATTLIST result type (np|n|vv|va|ma|md|xr|xp|xs|temp) #REQUIRED>
+<!ELEMENT redup (#PCDATA)>
+<!ATTLIST redup type (whole|part|temp) #REQUIRED>

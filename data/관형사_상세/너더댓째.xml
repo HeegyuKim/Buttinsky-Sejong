@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>너더댓째</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/23</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/06/07</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs">너덧째</var>
+			<var type="xs">네댓째</var>
+			<var type="xs">네다섯째</var>
+			<var type="xd"></var>
+			<var type="xx">너댓째</var>
+			<var type="abb">너덧</var>
+			<var type="abb">네댓</var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>(너+-더-+댓)+-째</str>
+			<org lg="temp"></org>
+			<comp pos="n"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>철수는 앞에서 너더댓째 줄에 앉아 있다.</eg>
+				<nclass>범위</nclass>
+				<arab>4,5</arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>사오(四五)</syn>
+					<syn>네댓째</syn>
+					<syn>네다섯째</syn>
+					<syn>너덧째</syn>
+					<ant></ant>
+					<rel type="car">너더댓</rel>
+					<rel type="qua">너더댓</rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 번</comb_md_n>
+				<comb_md_n>~ 사람</comb_md_n>
+				<comb_md_n>~ 자리</comb_md_n>
+				<comb_md_n>~ 줄</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무엇하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be shy</trans>
+				<lr>
+					<syn type="perfect">부끄럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획사건|행위|정적사태</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 내 책임 하에 일어난 사건이 무엇해서 아무 말도 못 하고 서 있었다.</eg>
+					<eg>아버지는 그 일이 아직도 무엇하신 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be shy</trans>
+				<lr>
+					<syn type="perfect">부끄럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 내 책임 하에서 그런 사건이 일어났다는 것이 무엇해서 아무 말도 못 하고 서 있었다.</eg>
+					<eg>아버지는 그 일이 그렇게 되었다는 것이 아직도 무엇하신 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be shy</trans>
+				<lr>
+					<syn type="perfect">부끄럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S기0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 그 일에 대해 말하기가 무엇해서 아무 말도 못 하고 서 있었다.</eg>
+					<eg>아버지는 자식에 대해 가타부타 말씀하시기가 무엇하신 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

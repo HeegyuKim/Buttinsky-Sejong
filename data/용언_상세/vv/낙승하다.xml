@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙승하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>논항들의 의미역과 논항 간 위계에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙승을 하다</var>
+			<str>N.하</str>
+			<org lg="si">樂勝_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>gain an easy victory</trans>
+				<trans>win an easy victory</trans>
+				<lr>
+					<syn type="perfect">완승하다</syn>
+					<ant type="compl">완패하다</ant>
+					<ant type="compl">전패하다</ant>
+					<ant type="grad">진땀승하다</ant>
+					<hyper>이기다</hyper>
+					<hyper>승리하다</hyper>
+					<rel>분패하다</rel>
+					<rel>석패하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="LOC">운동경기|경연대회|(선거|투표)</sel_rst>
+					<eg>김씨는 1차 투표에서 이씨에게 너끈히 낙승하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

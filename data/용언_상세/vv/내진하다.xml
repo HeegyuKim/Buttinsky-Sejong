@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내진하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">내진을 하다</var>
+			<str>N.하</str>
+			<org lg="si">來診_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>come and treat</trans>
+				<lr>
+					<syn type="perfect">왕진하다</syn>
+					<hyper>진료하다</hyper>
+					<hyper>진찰하다</hyper>
+					<hyper>치료하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">상태인간(환자)|동물</sel_rst>
+					<eg>밤중임에도 김 선생님이 몸소 어머니를 내진해 주셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>의학에 관련된 전문용어로 판단</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">내진을 하다</var>
+			<str>N.하</str>
+			<org lg="si">內診_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>make an internal examination</trans>
+				<domain>의학</domain>
+				<lr>
+					<ant type="dir">외진하다</ant>
+					<hyper>진료하다</hyper>
+					<hyper>진찰하다</hyper>
+					<hyper>치료하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">상태인간(환자|여성)</sel_rst>
+					<eg>산부인과 의사들은 다른 의사들과 달리 항시 여성들을 내진해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

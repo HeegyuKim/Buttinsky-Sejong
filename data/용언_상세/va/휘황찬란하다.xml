@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휘황찬란하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">휘황하다</var>
+			<str>R.하</str>
+			<org lg="si">輝煌燦爛_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be brilliant</trans>
+				<trans>be resplendent</trans>
+				<trans>be iridescent</trans>
+				<lr>
+					<syn type="perfect">화려하다</syn>
+					<syn type="kor">눈부시다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(빛|불빛)|조명기구(샹들리에|네온사인|전등)</sel_rst>
+					<eg>밤이 오면 거리는 휘황찬란한 네온사인들로 물들여졌다.</eg>
+					<eg>방 한 가운데 매달린 샹들리에의 불빛이 휘황찬란했다.</eg>
+					<eg>그는 조명이 휘황찬란한 무대의 중심으로 올라섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be chameleonic</trans>
+				<trans>be unreliable</trans>
+				<trans>be fickle</trans>
+				<lr>
+					<syn type="perfect">허황하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물리적행위|소통행위|추상적행위</sel_rst>
+					<eg>물론 나는 그의 휘황찬란한 말들을 믿고 있진 않았다.</eg>
+					<eg>그 누구도 그의 휘황찬란한 생각과 계획에 귀를 기울이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

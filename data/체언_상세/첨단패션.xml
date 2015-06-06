@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>첨단패션</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/19</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 정보 표기 오류 수정;어원정보 수정;의미부류 수정;명사결합 정보 추가;동사결합 정보 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+                        <mod>
+                                <mod_date>2007/08/05</mod_date>
+                                <mod_writer>박진희</mod_writer>
+                                <mod_note></mod_note>
+                        </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">첨단 패션</var> <!-- 추가함 -->
+			<str type="N_N">첨단+패션</str> <!-- '_' 수정 -->
+			<org lg="si">尖端__</org>
+			<org lg="en">__fashion</org> <!-- 영어부분 정보 추가 -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그는 항상 ~의 진수를 보여주는 옷만을 입고 나타난다.</eg>
+				<trans>the latest fashion</trans>
+				<domain></domain>
+				<sem_class>사조</sem_class> <!-- '예술'을 수정함 -->
+				<!-- 패션의 의미부류가 정확히 무엇인지 잘 모르겠습니다 (한동훈)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				 <!-- 추가함 -->
+				<comb_n type="compound">~ 산업</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 이끌다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

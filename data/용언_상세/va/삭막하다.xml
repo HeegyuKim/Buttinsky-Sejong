@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>삭막하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">索漠_</org>
+			<org lg="si">索寞_</org>
+			<org lg="si">索莫_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be dreary</trans>
+				<trans>be bleak</trans>
+				<trans>be desolate</trans>
+				<lr>
+					<syn type="perfect">황폐하다</syn>
+					<syn type="perfect">황량하다</syn>
+					<syn type="kor">쓸쓸하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<eg>겨울은 너무 삭막하다.</eg>
+					<eg>이 시대가 이토록 삭막한 이유는 무엇인가?</eg>
+					<eg>유년기의 삭막한 시절은 떠올리고 싶지 않아.</eg>
+					<eg>사랑이 없다면 우리 인생이 얼마나 삭막할까?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">집단|장소</sel_rst>
+					<eg>삭막한 아파트 주거 공간을 변화시킬 필요가 있다.</eg>
+					<eg>이 동네는 왜이렇게 삭막해?</eg>
+					<eg>텅 빈 놀이터는 삭막했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|모양</sel_rst>
+					<eg>분위기가 삭막한 이유가 뭐야?</eg>
+					<eg>삭막한 풍경이구만.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

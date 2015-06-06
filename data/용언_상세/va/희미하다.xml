@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희미하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/11/01</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">稀微_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be faint</trans>
+				<trans>be vague</trans>
+				<trans>be indistinct</trans>
+				<lr>
+					<syn type="etc">흐릿하다</syn>
+					<ant type="grad">분명하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛|조명기구</sel_rst>
+					<eg>그는 희미한 전등 아래서 무엇인가를 찾고 있었다.</eg>
+					<eg>그 여자는 새벽 하늘의 희미한 별빛을 바라보았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<eg>저 멀리서 희미한 웃음 소리가 들리는 듯했다.</eg>
+					<eg>그는 먼 곳에서 들려오는 희미한 기적 소리에 귀를 기울이다 잠이 들었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(색|색깔|색조|빛깔|형태)</sel_rst>
+					<eg>그는 이제는 오래되어 빛깔조차 희미한 사진첩을 꺼냈다.</eg>
+					<eg>저쪽에서 희미한 형체의 무엇인가가 움직이는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be faint</trans>
+				<trans>be dim</trans>
+				<trans>be vague</trans>
+				<lr>
+					<syn type="kor">어렴풋하다</syn>
+					<ant type="grad">선명하다</ant>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(추억|기억)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>이제 내겐 그 여자에 대한 기억도 희미하다.</eg>
+					<eg>나는 희미한 추억 속을 더듬으며 그의 이름을 생각해 보려고 애를 썼지만 허사였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

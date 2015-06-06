@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>조만</orth>
+  	<entry n="1" pos="md">
+    		<mnt_grp>
+      			
+				<cre>
+      					<cre_date>2001/08/17</cre_date>
+					<cre_writer>김창섭</cre_writer>
+						<cre_note></cre_note>
+				</cre>
+				<mod>
+						<mod_date>2006/12/08</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<mod>
+						<mod_date>2007/07/26</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<note></note>
+    		</mnt_grp>
+    		<see></see>
+      		<morph_grp>
+        		<allo></allo>
+				<var type="xs"></var>
+				<var type="xd"></var>
+				<var type="xx"></var>
+				<var type="kr"></var>
+				<var type="si"></var>
+				<var type="heavy">저만</var>
+				<var type="lgt"></var>
+				<var type="abb"></var>
+				<var type="lng"></var>
+        		<str>조+만</str>
+        		<org lg="si"></org>
+        		<comp pos="n"></comp>
+        		<metc></metc>
+      		</morph_grp>
+			<idm_grp>
+				<idm></idm>
+				<prv></prv>
+			</idm_grp>
+			<sense n="1">
+      			<sem_grp>	
+        			<eg>조만 꼬마를 누가 겁내?</eg>
+        			<nclass></nclass>
+					<arab></arab>
+        			<reg>구어</reg>
+        			<con>경시</con>
+        			<sem_rep type="dsoq">지시</sem_rep>
+					<sem_rep type="qi"></sem_rep>
+					<lr>
+        				<syn></syn>
+        				<ant></ant>
+        				<rel type="car"></rel>
+						<rel type="qua"></rel>
+						<rel type="ord"></rel>
+					</lr>
+      			</sem_grp>	
+      			<syn_grp>
+        			<comb_md_n>~ 꼬마</comb_md_n>
+        			<comb_md_n>~ 돈</comb_md_n>
+        			<comb_md_n>~ 일</comb_md_n>
+        			<comb_md_n>~ 재주</comb_md_n>
+        			<comb_md_n>~ 힘</comb_md_n>
+					
+        			<post_n></post_n>
+        			<synt_sub type="big"/>
+      			</syn_grp>
+    		</sense>
+  	</entry>
+</superEntry>
+

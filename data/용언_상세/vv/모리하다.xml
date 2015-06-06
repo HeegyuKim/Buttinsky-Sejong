@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>모리하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">모리를 하다</var>
+			<str>N.하</str>
+			<org lg="si">謀利_</org>
+			<org lg="si">牟利_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>make an unfair profit</trans>
+				<lr>
+					<syn type="perfect">모략하다</syn>
+					<syn type="perfect">모함하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>그들은 인간 본성에 도사린 비겁과 모리하는 마음을 잘 포착하고 이용해서 한 때 성공했지요.</eg>
+					<eg>매사에 일을 올바르게 이끌려면 중간에서 모리하는 자들을 철저히 솎아 내야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

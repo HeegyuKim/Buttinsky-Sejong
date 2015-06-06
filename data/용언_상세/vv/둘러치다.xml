@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>둘러치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>throw hard</trans>
+				<lr>
+					<syn type="perfect">내던지다</syn>
+					<hyper>치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소(바닥|땅)</sel_rst>
+					<eg>그 친구는 얼마나 힘이 좋은지 장정 한 사람을 쉽게 바닥에 둘러쳤다.</eg>
+					<eg>곰이 큰 생선 한 마리를 둘러치고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대답</sem_class>
+				<trans>put up an excuse</trans>
+				<lr>
+					<syn type="perfect">둘러대다</syn>
+					<hyper>치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(말)</sel_rst>
+					<eg>말 둘러치는 솜씨는 여전하네.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>surround</trans>
+				<trans>enclose</trans>
+				<lr>
+					<syn type="perfect">두르다</syn>
+					<hyper>치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 W=N3-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(담|방책)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소(집|경계선)</sel_rst>
+					<sel_rst arg="W" tht="INS">구체물(말뚝)</sel_rst>
+					<eg>마을 사람들이 우리집에 담을 둘러쳐 주었다.</eg>
+					<eg>경계선을 말뚝으로 둘러쳐서 넘어오지 못하게 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+		<idm_grp>
+			<idm>둘러치나 메어치나 매한가지</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

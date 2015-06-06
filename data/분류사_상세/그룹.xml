@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>그룹</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/31</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/31</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">group</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>선생님은 학생들을 두 ~으로 나누었다</eg>
+				<cl_subtype type="grp"/>
+				<lr>
+					<syn type="etc">편</syn>
+					<syn type="etc">패</syn>
+					<syn type="etc">팀</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

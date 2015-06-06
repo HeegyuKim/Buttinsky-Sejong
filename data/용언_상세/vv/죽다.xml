@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>죽다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/09</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/17</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>die</trans>
+				<lr>
+					<syn type="sino">사망하다</syn>
+					<ant type="compl">살다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물(개구리|소|참새)|식물(나무|꽃|선인장)</sel_rst>
+					<eg>막내 동생은 6·25 전쟁 때 죽었다.</eg>
+					<eg>남자들은 아내가 죽으면 화장실에서 웃는다는 말이 있다.</eg>
+					<eg>식목일에 심은 나무가 모두 말라 죽었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>end</trans>
+				<lr>
+					<syn type="perfect">끝내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|단체(회사|학교)|모임회의</sel_rst>
+					<eg>나는 죽을 테니까, 너희 둘이 해 봐.</eg>
+					<eg>이 모임은 죽었나, 왜 이리 지리멸렬해?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go broken</trans>
+				<lr>
+					<syn type="perfect">고장나다</syn>
+					<ant type="compl">살다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기계|(팽이)</sel_rst>
+					<eg>이 고물 시계가 죽지도 않고 잘 가는데.</eg>
+					<eg>팽이가 죽기 전에 잘 살려 봐.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be unactive</trans>
+				<lr>
+					<syn type="sino">침체되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(경기|시장|증시)</sel_rst>
+					<eg>올해는 IMF로 경기가 완전히 죽었어.</eg>
+					<eg>일본 증시는 거의 죽어버렸어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be downhearted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성</sel_rst>
+					<eg>저 애는 요즘 성질이 다 죽었어.</eg>
+					<eg>요즘 사람들이 너무 유행에 민감해서 개성들이 다 죽었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be deadly wound</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr>신체부위(피부|혈색|피)</n_appr>
+					<eg>부상당한 다리의 피부가 새까맣게 죽어 빨리 치료를 해야 할 것같았다.</eg>
+					<eg>호흡 장애가 발생하고 수분 후가 지나면 뇌세포가 죽기 시작한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>기가 죽다</idm>
+			<idm>풀이 죽다</idm>
+			<idm>숨이 죽다</idm>
+			<idm>껌뻑 죽다</idm>
+			<idm>죽고 못살다</idm>
+			<idm>죽자 사자 하다</idm>
+			<idm>죽으나 사나</idm>
+			<idm>죽을 상을 하다</idm>
+			<idm>죽을 죄</idm>
+			<idm>죽을 똥을 싸다</idm>
+			<idm>죽지 못해</idm>
+			<idm>죽은 듯이</idm>
+			<idm>죽을 맛이다</idm>
+			<idm>의리에 살고 의리에 죽다</idm>
+			<idm>죽어라고</idm>
+			<idm>죽도록</idm>
+			<idm>곧 죽어도</idm>
+			<idm>죽기 살기로</idm>
+			<idm>죽어도</idm>
+			<idm>죽었다 깨어나도</idm>
+			<idm>죽어라고</idm>
+			<idm>죽자고</idm>
+			<idm>죽을 힘을 다하다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/09</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/17</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>대역어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>die</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>A-어 Vaux</frame>
+				<subsense>
+					<eg>매일 밤 늦게 들어오는 남편이 미워 죽겠어요.</eg>
+					<eg>배가 고파 죽겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<end_rst2>겠</end_rst2> <!--'겠'이 항상 결합됨-->
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

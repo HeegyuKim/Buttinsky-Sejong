@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>둘리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be cheated</trans>
+				<lr>
+					<syn type="perfect">속다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">(꾀|잔꾀|속임수)</sel_rst>
+					<eg>어리숙하게도 사기꾼의 속임수에 둘리고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be controlled</trans>
+				<lr>
+					<hypo>휘둘리다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>철수는 여자친구에게 맨날 둘린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be surrounded</trans>
+				<lr>
+					<syn type="perfect"></syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(담장|울타리)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(집|학교)</sel_rst>
+					<eg>허물어진 담 대신, 집 주위로 새 담장이 둘렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-으로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(집|학교)</sel_rst>
+					<sel_rst arg="Y" tht="INS">(산|강)</sel_rst>
+					<eg>우리 학교는 산으로 둘려 있어 경치가 참 좋다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be wrapped</trans>
+				<lr>
+					<syn type="perfect"></syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물|천|종이|기</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>머리에 흰 띠가 둘려 있는 사람이 우리 편이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

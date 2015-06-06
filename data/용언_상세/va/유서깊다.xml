@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>유서깊다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">由緖_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>시간상태</sem_class>
+				<trans>be of good lineage</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>그 광장은 매우 넓고, 광장을 둘러싸고 서 있는 장중한 궁궐 건물들도 유서깊어 보였다.</eg>
+					<eg>밀양에는 유서깊은 사찰 표충사가 있고, 조선 최고의 누각으로 꼽히 는 영남루가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

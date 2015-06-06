@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>어느것</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">어느거</var>
+			<str type="etc">어느+것</str>
+		</morph_grp>
+		<sense n="1" sem="interrogative" num="etc" ref="thing">
+			<sem_grp>
+				<eg>~이 정답이라고 명확히 이야기하기 곤란하다</eg>
+				<eg>너는 이 중에 ~을 고를래?</eg>
+				<trans>which</trans>
+				<lr>
+					<syn type="etc">무엇</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="indefinite" num="etc" ref="thing">
+			<sem_grp>
+				<eg>~ 하나도 유기적으로 연관되지 않는 것이 없다</eg>
+				<eg>그 ~도 충분한 설명이라고 할 수는 없을 것같다</eg>
+				<lr>
+					<syn type="etc">무엇</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<prt>~도</prt>
+				<prt>~이라도</prt>
+				<prt>~이든</prt>
+				<prt>~이든지</prt>
+				<pre_d>그</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

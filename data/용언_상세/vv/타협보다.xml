@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>타협보다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/22</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>타협하다</see>
+		<morph_grp>
+			<var type="spr">타협을 보다</var>
+			<str>NV</str>
+			<org lg="si">妥協_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상호적언술행위</sem_class>
+				<trans>reach an understanding</trans>
+			</sem_grp>
+			<frame_grp type="FIT" cor="sym" n="1">
+		 		<frame>X=N0-이 Z=N2-와 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소|추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간|인간집단</sel_rst>
+					<eg>우리 마을 주민들은 옆 마을 운동리 주민들과 마을 경계에 대해 타협보았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT" cor="sym" n="1">
+				<frame>X+Z=N0-이 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소|추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>우리 마을 주민들과 옆 마을 운동리 주민들은 마을 경계를 타협보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

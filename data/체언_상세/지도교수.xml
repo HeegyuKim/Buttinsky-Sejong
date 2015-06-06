@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지도교수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>반의어 '지도제자'를 '지도학생'으로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/09/06</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>반의어 '지도학생'밑에 '지도제자'를 재기술.</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지도 교수</var>
+			<str type="N_N">지도+교수</str>
+			<org lg="si">指導敎授</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>보통 대학원생들은 자신의 ~에게 주례를 부탁한다.</eg>
+				<eg>김 씨는 논문에 대한 지도를 받기 위해 ~를 찾아갔다.</eg>
+				<eg>이번 설계에 응용한 기술은 유학 시절의 ~가 개발한 것이다.</eg>
+				<trans>academic adviser</trans>
+				<domain></domain>
+				<sem_class>일시적역할인간</sem_class><!--비대칭적관계인간?(권)--><!--일시적역할인간은 어떨지?(김이정)--><!--일시적역할인간으로 수정(권)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">지도학생</ant>
+					<ant type="compl">지도제자</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 자상하다</comb_aj>
+				<comb_aj type="appr">~가 엄격하다</comb_aj>
+				<comb_aj type="appr">~가 뛰어나다</comb_aj>
+				<comb_aj type="appr">~가 훌륭하다</comb_aj>
+				<comb_n type="compound">~ 추천</comb_n>
+				<comb_n type="compound">논문 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 삼다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

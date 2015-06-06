@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>파섹</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/14</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="en">parsec</org>
+			<symb>pc</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 3.26 광년에 해당한다</eg>
+				<domain>천문</domain>
+				<cl_subtype type="lnt"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

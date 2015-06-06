@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>완전무결하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">完全無缺_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be perfect</trans>
+				<lr>
+					<syn type="perfect">완벽하다</syn>
+					<syn type="perfect">철저하다</syn>
+					<ant type="grad">허술하다</ant>
+					<ant type="grad">허접하다</ant> <!--반의어에도 'vulgar'를 표시할 수 있어야 할 듯.-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상|구체물|시간|단위</sel_rst>
+					<eg>이번 행사 준비는 그 어느 때보다 완전무결하다.</eg>
+					<eg>군의 경계태세는 모든 면에서 완전무결하다.</eg>
+					<eg>우리 선수들은 조직력이 완전무결하다.</eg>
+					<eg>그는 일 처리가 완전무결하다.</eg>
+					<eg>만물의 법칙은 그 자체로 완전무결하다.</eg>
+					<eg>이 프로그램의 논리구조는 완전무결하다.</eg>
+					<eg>종교를 가진 신앙인은 대체로 신이 완전무결하다고 믿는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

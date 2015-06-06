@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>불어불문학</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>str 수정</mod_note>
+				<mod_note>add기술</mod_note>
+			</mod>	<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>add의 합성어, 파생어 이동</mod_note>
+			</mod>
+		    <add>불어불문학과,불어불문학자</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_R">불어불문+학</str>
+			<!-- 불어학+불문학의 결합으로 보는 것이 타당하므로 '불어+불문학'보다는 '불어불문+학'이 더 적절할 듯, 불어불문을 더 분석할 수 있음;N_N을 N_R로 수정(송근영) -->
+			<org lg="si">佛語佛文學</org>
+		
+		    <comp pos="n" type="suffix">~자</comp> <!--add에서 이동(미현)-->
+			<comp pos="n" type="suffix">~과</comp> <!--add에서 이동(미현)-->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>최근들어 ~을 전공하는 학생들의 수가 극감했다.</eg>
+				<trans>French language and literature</trans>
+				<domain></domain>
+				<sem_class>학문과목</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 전공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 공부하다</form>
+					<frame></frame>
+				</comb_v>
+						<comb_v type="narg_vpred">
+					<form vcompound="no">~을 배우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 가르치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수학하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

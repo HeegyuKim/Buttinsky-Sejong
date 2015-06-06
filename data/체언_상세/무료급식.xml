@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무료급식</orth>
+	<entry pos="nng_c">
+		<mnt_grp> <!--호정은/김미현, 김이정, 권오희 중복 기술. 통합함-->
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정;max_n 표상방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 '시키다' 삭제</mod_note>
+				<mod_note>n_v 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">무료 급식</var>
+			<str type="N_N">무료+급식</str>
+			<org lg="si">無料給食</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>학교에서는 저소득자 자녀를 중심으로 ~을 실시하고 있다.</eg>
+				<eg>11식구가 사는 어려움 속에서 박씨는 결식 노인을 위한 ~을 한다.</eg>
+				<trans>giving out free food</trans>
+				<trans>food relief</trans>
+				<domain></domain>
+				<sem_class>수여</sem_class> <!-- 검토 요망 -->
+				<!--'계획사건'에서 '방향성행위'로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 시설</comb_n> <!-- "~소"는 어떻게 기술하는지 --><!--이와 같은 파생어는 현재 표상할 방법이 없음(미현)-->
+				<comb_n type="compound">~ 대상자</comb_n>
+				<comb_n type="compound">~ 활동</comb_n>
+				<comb_n type="compound">~ 식당</comb_n>
+				<comb_n type="compound">~ 센터</comb_n>
+				<comb_n type="compound">~ 사업</comb_n>
+				<comb_n type="compound">~ 서비스</comb_n>
+				<comb_n type="compound">~ 도우미</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 실시하다</form>
+					<frame>X-이 Y-에게 ~을 실시하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 시행하다</form>
+					<frame>X-이 Y-에게 ~을 시행하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 시작하다</form>
+					<frame>X-이 Y-에게 ~을 시작하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 폐지하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str><!--수직바 이용 표상방법 수정(미현)-->
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>~은 매주 월요일에서 토요일까지 제공된다.</eg>
+				<trans>complimentary meal</trans>
+				<trans>free food</trans>
+				<trans>free meal</trans>
+				<domain></domain>
+				<sem_class>음식</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 제공</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 주다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 타다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

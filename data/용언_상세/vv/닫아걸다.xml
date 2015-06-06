@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>닫아걸다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/06</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>fasten</trans>
+				<lr>
+					<syn type="perfect">잠그다</syn>
+					<ant type="dir">열어젖히다</ant>
+					<hyper>닫다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|건물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(문|창|창문)</sel_rst>
+					<eg>아직 초저녁이건만 그 여자는 일찌감치 대문을 닫아걸었다.</eg>
+					<eg>혹시나 창가 쪽에 잘 정돈되어 있는 아이가 아끼는 화분이 깨지기라도 할까 최대한 조심해서 창문을 닫아걸었다.</eg>
+					<eg>거리는 황량했고 상점들은 문을 닫아걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

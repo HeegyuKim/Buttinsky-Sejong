@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>산산조각나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">산산조각이 나다</var>
+			<str>NV</str>
+			<org lg="si">散散_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>get broken in pieces</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>여느 곳에서 쉽게 들을 수 없는 총소리가 주는 청각적인 쾌감과 아울러 명중된 목표물이 산산조각나는 모습은 생활 속의 모든 스트레스를 날려버리기에 아주 적합하다.</eg>
+					<eg>한번 부러진 뼈는 마치 마른 빵조각이 가루처럼 부러지듯 산산조각나 다시 붙이기 매우 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>get baffled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>그 후배의 가정은 지금 행복이 산산조각나 있다.</eg>
+					<eg>오랫동안 쌓아온 우정이 산산조각나고 말았다.</eg>
+					<eg>나의 꿈과 희망이 산산조각난 지금 더 무슨 말을 할 수 있겠는가.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

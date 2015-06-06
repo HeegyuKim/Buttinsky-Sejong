@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조난하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조난을 하다</var>
+			<str>N.하</str>
+			<org lg="si">遭難_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사고</sem_class>
+				<trans>meet with a disaster</trans>
+				<lr>
+					<syn type="perfect">조난당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|교통기관</sel_rst>
+					<eg>폭풍우로 고기배 한 척이 연안에서 조난했다.</eg>
+					<eg>실종자를 구출하러 간 사람들까지도 조난했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

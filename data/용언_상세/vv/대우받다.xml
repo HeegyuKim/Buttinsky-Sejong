@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대우받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대우를 받다</var>
+			<str>NV</str>
+			<org lg="si">待遇_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be treated as</trans>
+				<lr>
+					<syn type="perfect">간주되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물</sel_rst>
+					<eg>한국에서는 남자는 국방의 의무를 마쳐야 사회인으로 대우받는다.</eg>
+					<eg>누구나 똑같은 고객으로 대우받고 싶어하는게 너무나 무리한 요구인가요?</eg>
+					<eg>이렇게 조그만 가방이 명품으로 대우받아서 그렇게 비싸게 팔린다니 참으로 어이가 없는 세상이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>모든 국민이 평등하게 대우받고 배울 권리가 있다.</eg>
+					<eg>퇴원 환자들은 친절하고 공손하게 대우받고 싶어한다.</eg>
+					<eg>모든 생물은 소중하게 대우받아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be well-treated</trans>
+				<lr>
+					<syn type="perfect">대접받다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>열심히 노력하며 살아가는 사람들이 대우받는 사회가 이상적인 민주사회이다.</eg>
+					<eg>자기가 하는 행동은 생각하지도 않고 대우받지 못한다고 불평하는 것은 옳지 못하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

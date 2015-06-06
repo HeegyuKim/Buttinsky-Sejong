@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>세팅하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">세팅을 하다</var>
+			<str>N.하</str>
+			<org lg="en">setting_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>set</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>웨이터를 내보낸 다음 황 화백은 손수 테이블을 세팅해 놓고 자리를 잡아 주었다.</eg>
+					<eg>디저트용 스푼과 포크는 미리 세팅해 놓아도 좋고, 나중에 디저트와 함께 내도 좋습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기계|소프트웨어</sel_rst>
+					<eg>문의하신 건에 대하여 웹메일을 세팅해 드렸으나 접속 되기까지 1~2시간이 소요될 것으로 예상됩니다. </eg>
+					<eg>오늘은 두 가지 IP를 손쉽게 세팅해 놓는 방법을 알려 드리도록 하겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료개혁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 정보 추가;의미부류 수정;형용사 결합정보 추가;단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정;최대논항구조 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 변이형 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 개혁</var>
+			<!--띄어쓰기 변이형 정보 추가(미현)-->
+			<str type="N_N">의료+개혁</str>
+			<org lg="si">醫療改革</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>의료계는 ~의 필요성을 절감하고 있다.</eg>
+				<trans>medical reform</trans>
+				<domain></domain>
+				<sem_class>변형행위</sem_class>
+				<!--의미부류를 '사회동요'에서 '변형행위'로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 시급하다</comb_aj>
+				<!--형용사 연어 정보 추가(미현)-->
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 이루다</form>
+					<frame>X-이 ~을 이루다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">의료기관</sel_rst>
+				<!--단위정보 차례, 번, 회 추가(미현)-->
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>메모되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태정보수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">메모가 되다</var>
+			<str>N.되</str>
+			<org lg="si">memo_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get jotted down</trans>
+				<lr>
+					<syn type="perfect">노트되다</syn>
+					<syn type="sino">필기되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온(사실명제|텍스트)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">종이|천</sel_rst>
+					<eg>그의 책상 다이어리에는 일개 금융기관 임원으로서는 만나기 어려운 경제부처 고위 공직자들과의 회동 스케줄이 빽빽이 메모돼 있었다.</eg>
+					<eg>스케줄 조정 프로그램을 가동시킨 순간, 며칠 전 딸에게 인라인 스케이트를 사주기로 한 약속이 메모돼 있다.</eg>
+					<eg>아버지의 손에는 늘 읽어야 할 책들이 메모되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

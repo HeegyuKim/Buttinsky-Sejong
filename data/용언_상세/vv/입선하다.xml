@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>입선하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/04</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">입선을 하다</var>
+			<str>N.하</str>
+			<org lg="si">入選_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be accepted</trans>
+				<trans>be a successful competitor</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 Z=N2-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">미술작품|작품</sel_rst>
+					<sel_rst arg="Z" tht="LOC">경연대회</sel_rst>
+					<eg>그는 한문 행서체로 된 퇴계 선생의 시로 대한민국 서예전람회에서 입선했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">미술작품|작품</sel_rst>
+					<sel_rst arg="Y" tht="LOC">경연대회</sel_rst>
+					<eg>그가 취미로 찍은 사진이 1969년 대한민국미술전람회에 입선했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

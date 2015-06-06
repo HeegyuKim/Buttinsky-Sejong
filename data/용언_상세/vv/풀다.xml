@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>풀다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/01</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>untie</trans>
+				<lr>
+					<ant type="compl">묶다</ant>
+					<ant type="compl">매다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">줄(실|끈|줄)|(매듭|허리띠|옷고름)</sel_rst>
+					<eg>죄수는 자신을 묶은 줄을 풀고 도망쳤다.</eg>
+					<eg>그는 허리띠를 풀고 자신의 배에 난 상처를 보여 주었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>unpack</trans>
+				<trans>open</trans>
+				<lr>
+					<syn type="perfect">열다</syn>
+					<ant type="compl">싸다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">용기|상자|(보자기|보따리|짐꾸러미)</sel_rst>
+					<eg>영희는 보자기를 풀어서 여러가지 물건들을 우리에게 나누어 주었다.</eg>
+					<eg>그는 상자를 풀어 속에 든 인형을 아이에게 내밀었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>set free</trans>
+				<lr>
+					<ant type="compl">잡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물</sel_rst>
+					<eg>철수는 잡은 토끼를 풀어 주었다.</eg>
+					<eg>경찰은 감금되어 있던 시위 주동자들을 풀어 주었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>resolve</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">개체상황(자세|표정)|신체상태(긴장|피로|여독)</sel_rst>
+					<eg>자. 모두 자세를 풀고 편히 쉬어라.</eg>
+					<eg>그는 굳었던 표정을 풀고 말하기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>solve</trans>
+				<lr>
+					<syn type="sino">해결하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(문제|수수께끼|암호)</sel_rst>
+					<eg>이 문제를 풀 수 있는 사람은 앞으로 나와 보거라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>interpret</trans>
+				<lr>
+					<syn type="sino">해석하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태|이론</sel_rst>
+					<eg>촘스키의 이론을 상세히 풀어서 설명해 봐라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>settle</trans>
+				<lr>
+					<syn type="sino">해결하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황값(난국|사태|사건)</sel_rst>
+					<eg>누가 이 난국을 풀 수 있을까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>unfasten</trans>
+				<lr>
+					<ant type="compl">감다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">줄(실|줄)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">기기(실패|물레)</sel_rst>
+					<eg>어머니는 실패에서 실을 푸셨다.</eg>
+					<eg>옛날 사람들은 물레에서 실을 풀어 옷을 만들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>melt</trans>
+				<lr>
+					<syn type="perfect">타다</syn>
+					<syn type="perfect">넣다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">양념(된장|고추가루|고추장)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">음식(국|요리)</sel_rst>
+					<eg>국에 된장을 더 풀어서 간을 맞추어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>circulate</trans>
+				<lr>
+					<syn type="sino">유통시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소|인간집단</sel_rst>
+					<eg>회사의 부도를 막기 위해 금융시장에 자금을 무제한 풀었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>몸을 풀다</idm>
+			<idm>속을 풀다</idm>
+			<idm>실마리를 풀다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/01</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>blow</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(코)</sel_rst>
+					<eg>감기로 코가 막혀서 코를 세게 풀었더니 코피가 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/01</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/20</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>remove</trans>
+				<lr>
+					<syn type="sino">해제하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에대해 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">처벌(규제|제한|단속|구금)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|추상적대상|행위</sel_rst>
+					<eg>정부는 IMF를 계기로 모든 규제를 풀었다.</eg>
+					<eg>개발지역에 대한 제한이 곧 풀릴 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>dispel</trans>
+				<lr>
+					<syn type="perfect">거두다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에대해 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(노여움|화|분노)|(오해|의심|궁금증)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|사태</sel_rst>
+					<eg>그는 그녀에 대한 화를 아직도 풀지 않았다.</eg>
+					<eg>자. 피차 오해를 풀고 잘 지냅시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>회포를 풀다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

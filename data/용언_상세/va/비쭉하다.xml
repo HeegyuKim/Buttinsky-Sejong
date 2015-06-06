@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비쭉하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">삐쭉하다</var>
+			<var type="etc">삐죽하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be pointed</trans>
+				<lr>
+					<syn type="perfect">삐쭉하다</syn>
+					<syn type="perfect">삐죽하다</syn>
+					<ant type="grad">뭉퉁하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|구체물의부분</sel_rst>
+					<eg>긴 막대라도 들어 있는 듯 가방의 한쪽이 비쭉하게 나와 있다.</eg>
+					<eg>그 집을 둘러싸고 있는 산에는 비쭉한 바위들이 솟아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

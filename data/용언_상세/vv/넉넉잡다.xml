@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넉넉잡다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>제한된 활용형으로만 쓰이는 것으로 간주</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">넉넉을 잡다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>넉넉잡아</infl_rst>
+			<infl_rst>넉넉잡고도</infl_rst>
+			<trans>estimate sufficiently</trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg>그 일은 넉넉잡아 보름이면 된다.</defect_eg>
+			<defect_eg>그 일은 넉넉잡고도 열흘이면 완성할 수 있을 것이다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

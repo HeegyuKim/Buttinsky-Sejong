@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자전하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<add>참조어 "공전하다"</add>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">자전을 하다</var>
+			<str>N.하</str>
+			<org lg="si">自轉_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>천문현상</sem_class>
+				<trans>turn on its axis</trans>
+				<trans>rotate on its axis</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">천체(지구)</sel_rst>
+					<eg>지구는 24 시간에 한 바퀴 자전한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

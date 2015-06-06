@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>닿다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/23</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>reach to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물|장소</sel_rst>
+					<eg>그의 발이 내 발에 닿자 야릇한 전율이 온몸을 감쌌다.</eg>
+					<eg>우리 아이가 키가 많이 자라 이제는 손이 선반에 닿는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>have connections with</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(조명)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물|장소</sel_rst>
+					<eg>그 곳에는 조명이 닿지 않아 아주 어두웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>have connections with</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈길|발길|손길)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물|장소</sel_rst>
+					<eg>사람의 눈길이 쉽게 닿지 않는 곳에만 야생화가 피어 있었다.</eg>
+					<eg>그 찻집은 사람의 발길이 쉽게 닿지 않는 곳에 있어서 그렇지 그렇지 않으면 장사가 아주 잘 될 집이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>be felt</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">맛속성값|냄새</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체부위</sel_rst>
+					<eg>갑자기 차가운 기운이 내 살갗에 닿는 느낌이 들었다.</eg>
+					<eg>기차에서 내리자 이내 비릿한 바다 내음이 내 코에 닿았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>arrive at</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>길이 너무 막혀 밤 10시가 넘어서야 비로소 집에 닿았다.</eg>
+					<eg>시간에 맞춰 학교에 닿기 위해서는 지금 출발해도 늦다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>be conveyed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(소식)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물</sel_rst>
+					<eg>그의 합격 소식이 집에 닿자 온 집안은 잔차 분위기였다.</eg>
+					<eg>그의 기별이 나에게 닿는 대로 너에게 알려 주마.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>reach</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(힘|기회)</sel_rst>
+					<eg>힘이 닿는 대로 당신을 돕겠습니다.</eg>
+					<eg>기회가 닿는 대로 한번 보죠.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>stand to reason</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(말|설명|이야기)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(이치|원리)</sel_rst>
+					<eg>그 강사의 말이 이치에 닿는다고 생각하니?</eg>
+					<eg>그 이야기는 충분히 원리에 닿는다고 생각한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>have connections with</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에|에게|와 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(연줄|줄)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그가 이사 중 한 명과 줄이 닿아 입사했다는 소문이 퍼졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

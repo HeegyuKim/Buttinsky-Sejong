@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼합되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/02</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼합이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">混合_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be mixed</trans>
+				<lr>
+					<syn type="kor">섞이다</syn>
+					<ant type="compl">분리되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<sel_rst arg="Y" tht="COM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<eg>빨간 액체가 파랑 액체와 혼합되면 보라색 액체가 된다.</eg>
+					<eg>이 물질은 다른 물질과 혼합될 때 액체 상태로 바뀌는 특성을 지니고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<sel_rst arg="Y" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<eg>빨간 액체와 노란 액체가 혼합되면 주황색으로 바뀐다.</eg>
+					<eg>이 막대의 양쪽에 있는 용액이 혼합되면 빛이 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

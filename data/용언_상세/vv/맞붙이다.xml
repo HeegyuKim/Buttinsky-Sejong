@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맞붙이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀예문구조수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">마주붙이다</var>
+			<str>PV</str><!--"V.이1"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>stick together</trans>
+				<lr>
+					<hyper>붙이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="COM">구체물</sel_rst>
+					<eg>이번 제품은 기존의 요람보다 갓난 아기들에게 더 적합한 침대로 어른 침대와 맞붙여 사용할 수 있는 장점이 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물</sel_rst>
+					<eg>블록의 표면에 그려진 퍼즐 모양이 같은 것을 찾아 서로 맞붙여 늘어놓으면서 도미노 게임을 할 수도 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>bring face to face</trans>
+				<lr>
+					<syn type="sino">대적시키다</syn>
+					<hyper>붙이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="2"> <!-- 구문 대응 정보를 attribute로 제시 -->
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>감독은 왼손 타자인 그를 왼손 투수와 맞붙여 보려는 속셈이었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="2">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="THM">인간</sel_rst>
+					<eg>그 둘을 맞붙여 놓으면 무슨 일이 터질지 알 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

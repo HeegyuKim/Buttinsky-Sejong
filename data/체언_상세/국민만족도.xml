@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국민만족도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정</mod_note>
+			</mod>
+			<note>2007/08/01(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국민 만족도</var>
+			<str type="N_N">국민+만족도</str><!--'만족+도'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">國民滿足度</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>기획예산처는 공공서비스에 대한 ~를 조사했다.</eg>
+				<trans>degree of people's satisfaction</trans>
+				<trans>national satisfaction index</trans>
+				<domain></domain>
+				<sem_class>크기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 높다</comb_aj><!--magn에서 옮김(권)-->
+				<comb_aj type="appr">~가 낮다</comb_aj><!--magn에서 옮김(권)-->
+				<comb_n type="compound">~ 조사</comb_n>
+				<comb_n type="compound">~ 평가</comb_n>
+				<comb_n type="compound">~ 측정</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 평가하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 측정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 향상시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

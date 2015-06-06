@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뒤퉁스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/27</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">되통스럽다</var>
+			<str>RS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be clumsy</trans>
+				<lr>
+					<syn type="perfect">서투르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<eg>그는 뒤퉁스럽게 이런 질문까지 했다.</eg>
+					<eg>이번 신입사원은 너무 뒤퉁스러워서 무슨 일이든지 믿고 맡길 수가 없다.</eg>
+					<eg>그의 질문은 너무 뒤퉁스러워서 모두 실소를 금치 못했다.</eg>
+					<eg>이번 신입사원은 한 작업들이 너무 뒤퉁스러워서 상사들이 모두 다시 살펴봐야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

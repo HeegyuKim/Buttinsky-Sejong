@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>담임교사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토요;최대논항구조 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/21</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>최대논항구조 수정;sel_res 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">담임</var>
+			<var type="spr">담임 교사</var>
+			<str type="N_N">담임+교사</str>
+			<org lg="si">擔任敎師</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>응시요강에 따르면 ~의 추천이 있어야 지원할 수 있다.</eg>
+				<trans>class teacher</trans>
+				<domain></domain>
+				<sem_class>역할인간</sem_class> <!-- '담임'이라는 말 때문에 직업인간보다는 역할인간이 적절할 듯 -->
+				<lr>
+					<syn type="perfect">담임선생</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 맡다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X ~</max_n_str> <!-- '담임'이라는 말 때문에 '1반 담임교사'와 같이 논항을 취할 수 있는데, 이 경우 '담임교사'를 술어명사로 보고 최대논항을 기술해야 하는지? -->
+				<sel_rst arg="X">단체의부서(반)</sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

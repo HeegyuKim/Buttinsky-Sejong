@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부당이익</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>의미부류검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/07</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '속성'에서 '이익'으로 수정, 예문 추가, n_n와 n_v 추가, sel_rst 기술, frame의 논항구조와 max_n 검토 요망</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부당 이익</var>
+			<str type="N_N">부당+이익</str>
+			<org lg="si">不當利益</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>부품의 수입 단가를 조작해 20억 원 상당의 ~을 챙긴 전기회사 대표가 구속되었다.</eg>
+				<eg>우리 회사는 모 은행 공개매수 과정에서 발생한 ~을 자체 컴플라이언스를 통해 발견했다.</eg>
+				<eg>투명한 회계와 철저한 세무관리를 통해 ~이 발생하지 않도록 해야 한다.</eg>
+				<trans>excessive profits</trans>
+				<domain></domain>
+				<sem_class>이익</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no"></comb_aj>
+				<comb_n type="compound">~ 방지</comb_n>
+				<comb_n type="compound">~ 환수</comb_n>
+				<comb_n type="compound">~ 취득</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>Y-에서 X-에게 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 노리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 얻다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 올리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 챙기다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 취하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 취득하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 방지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 환수하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에서의 ~</max_n_str>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">물리적행위(경매|증여)|추상적대상</sel_rst>
+				<cl type="qnt">원</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

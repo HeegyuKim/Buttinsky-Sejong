@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신령하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/18</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">神靈_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class> <!--혹시 [품격속성값]으로 볼 수 있을지도-->
+				<trans>be miraculous</trans>
+				<trans>be mysterious</trans>
+				<trans>be supernatural</trans>
+				<trans>be marvelous</trans>
+				<trans>be ethereal</trans>
+				<trans>be exquisite</trans>
+				<trans>be wonderful</trans>
+				<lr>
+					<syn type="perfect">신령스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">현상|사건|구체물|장소|추상적대상</sel_rst>
+					<eg>이 부근에서 뭔가 신령한 기운이 느껴진다.</eg>
+					<eg>호랑이는 예부터 신령한 동물이라고 생각되어 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

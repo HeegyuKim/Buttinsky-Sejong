@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>중세국어</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">중세 국어</var>
+			<str type="N_N">중세+국어</str>
+			<org lg="si">中世國語</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>보통 고려와 조선 중기까지의 국어를 ~라 한다.</eg>
+				<eg>~에는 비교나 기준을 나타내는 부사격 조사 '에'가 있었다.</eg>
+				<trans>middle korean</trans>
+				<domain></domain>
+				<sem_class>속성관계언어</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">고대국어</ant>
+					<ant type="grad">현대국어</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~문법</comb_n>
+				<comb_n type="compound">~자료</comb_n>
+				<comb_n type="compound">~ 문헌</comb_n>
+				<comb_n type="compound">~ 시기</comb_n>
+				<comb_n type="compound">~ 이전</comb_n>
+				<comb_n type="compound">~ 이후</comb_n>
+				<comb_n type="compound">전기 ~</comb_n>
+				<comb_n type="compound">후기 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 해독하다</form>
+					<frame></frame >
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>친구는 대학원에서 ~를 전공하였다.</eg>
+				<eg>입시 준비를 하는 학생들이 ~를 어려워한다.</eg>
+				<trans>middle korean</trans>
+				<domain></domain>
+				<sem_class>학문과목</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">고대국어</ant>
+					<ant type="grad">현대국어</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 어렵다</comb_aj>
+				<comb_aj type="appr">~가 쉽다</comb_aj>
+				<comb_n type="compound">~ 연구</comb_n>
+				<comb_n type="compound">~ 전공</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 연구하다</form>
+					<frame></frame >
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 배우다</form>
+					<frame></frame >
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 가르치다</form>
+					<frame></frame >
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 전공하다</form>
+					<frame></frame >
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

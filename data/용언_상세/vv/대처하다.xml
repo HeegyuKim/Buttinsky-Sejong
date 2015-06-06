@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대처하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대처를 하다</var>
+			<str>N.하</str>
+			<org lg="si">對處_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>cope with</trans>
+				<lr>
+					<syn type="perfect">조치하다</syn>
+					<syn type="perfect">대응하다</syn>
+					<syn type="perfect">처신하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|사태</sel_rst>
+					<eg>정부는 모든 대외 공관에 이 상황에 잘 대처할 것을 당부했다.</eg>
+					<eg>그는 새로운 환경 변화에 지혜롭게 잘 대처해 나갔다.</eg>
+					<eg>우리는 그간 그 일에 너무 미온적으로 대처한 듯하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것</sel_rst>
+					<eg>우리는 세계적으로 무역 환경이 한국에 비우호적으로 변화하는 것에 능동적으로 대처해 나가야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

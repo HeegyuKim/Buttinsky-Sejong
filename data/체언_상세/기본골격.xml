@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기본골격</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sense2의 n_v추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기본 골격</var>
+			<str type="N_N">기본+골격</str>
+			<org lg="si">基本骨格</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>인체는 뼈와 같은 무기질이 ~을 만들어 생체를 지탱할 수 있도록 하고 있다.</eg>
+				<trans>frame</trans>
+				<domain></domain>
+				<sem_class>신체부위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 좋다</comb_aj>
+				<comb_aj type="appr">~이 크다</comb_aj>
+				<comb_aj type="appr">~이 작다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>사립학교 지원방안의 ~은 이미 대부분 확정됐다.</eg>
+				<eg>특수연금은 소득에 비례하는 일반 보험 원칙을 ~으로 삼고 있다.</eg>
+				<eg>모든 근로자가 가입할 수 있다는 ~ 아래 이 제도의 구체적인 사항은 당정협의를 거쳐 확정될 예정이다.</eg>
+				<trans>frame</trans>
+				<trans>basics</trans>
+				<domain></domain>
+				<sem_class>속성</sem_class>
+				<lr>
+					<syn type="perfect">기본뼈대</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 공개</comb_n>
+				<comb_n type="compound">~ 수립</comb_n>
+				<comb_n type="compound">~ 합의</comb_n>
+				<comb_n type="compound">~ 구축</comb_n>
+				<comb_n type="compound">~ 형성</comb_n>
+				<comb_n type="compound">~ 유지</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 이루다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 하다</form><!--추가-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 삼다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 짜다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 유지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 합의하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S다는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>당당하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/26</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>적정명사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">堂堂_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be dignified</trans>
+				<lr>
+					<syn type="perfect">위엄있다</syn>
+					<syn type="kor">의젓하다</syn>
+					<syn type="kor">번듯하다</syn>
+					<rel>뻔뻔하다</rel>
+					<rel>겸손하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">태도</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">말</n_appr>
+					<eg>그의 말과 행동은 언제나 당당했고 나는 그런 그가 믿음직스러웠다.</eg>
+					<eg>그가 다른 사람을 대하는 태도는 언제나 당당했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

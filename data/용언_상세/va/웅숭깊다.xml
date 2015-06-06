@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>웅숭깊다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be deep</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(그릇|연못|산)|구체물</sel_rst>
+					<eg>내장산은 웅숭깊어서 그런지 동굴도 여러 개가 있다.</eg>
+					<eg>널리 알려지지 않아 한결 호젓하고 웅숭 깊은 산골짝 약수터.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품성속성값</sem_class>
+				<trans>be subtle</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(수준|정도)|속성</sel_rst>
+					<eg>그 기사들은 세계 곳곳에 뿌리내린 인간과 그들이 가꾸어낸 문화와 예술을 바라보는 웅숭깊은 시선을 담고 있습니다.</eg>
+					<eg>웅숭깊은 수행력은 삶의 아주 좁고 깊숙한 지류에까지 청수를 흘려보낸 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리속성값</sem_class>
+				<trans>be echoic</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<eg>할머니는 웅숭깊은 목소리로 말씀하셨다.</eg>
+					<eg>그들을 뒤로하고 돌아올 즈음 어떤 진동이, 낮고도 웅숭깊은 소리가 한동안 이어졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

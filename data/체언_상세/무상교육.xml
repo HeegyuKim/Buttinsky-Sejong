@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>무상교육</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>의미부류 수정;max_n 표상방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">무상 교육</var>
+			<str type="N_N">무상+교육</str>
+			<org lg="si">無償敎育</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>본사는 직원들의 능력 제고를 위해 매년 ~을 하고 있습니다..</eg>
+				<eg>내년부터 생활보호대상자 자녀들이 사립 유치원에서 ~을 받을 수 있다.</eg>
+				<eg>정부는 저소득층 자녀에 대한 ~을 확대할 계획이다.</eg>
+				<trans>free education</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class> <!-- 검토 요망 --><!--'결과행위'에서 '방향성행위'로 수정(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~지원</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 시키다</form>
+					<frame>X-이 Y-에게 ~을 시키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame> <!--이 경우 대개 X 논항을 생략됨-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 실시하다</form>
+					<frame>X-이 Y-에게 ~을 실시하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 시행하다</form>
+					<frame>X-이 Y-에게 ~을 시행하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str><!--표상방식 수정(미현)-->
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl> <!-- 다소 어색하기도 함 -->
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

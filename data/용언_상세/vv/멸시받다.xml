@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>멸시받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 부분 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">멸시를 받다</var>
+			<str>NV</str>
+			<org lg="si">蔑視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be held in contempt</trans>
+				<trans>be treated with contempt</trans>
+				<lr>
+					<syn type="perfect">천시받다</syn>
+					<syn type="perfect">냉대받다</syn>
+					<syn type="perfect">모멸당하다</syn>
+					<ant type="compl">존중받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간</sel_rst>
+					<eg>우리는 그동안 차별받고 비인격적으로 멸시받아 왔던 사실을 이야기했을 뿐입니다.</eg>
+					<eg>백수는 너한테 사회적으로 멸시받아도 되는 존재냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

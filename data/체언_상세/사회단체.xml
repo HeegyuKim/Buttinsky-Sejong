@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사회단체</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>표준사전에서 합성어로 보므로 띄어쓰기 변이형 정보는 주지 않음</mod_note>
+				<mod_note>예문 짧게 수정</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>n_n 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>단위표현에 '곳, 군데' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<str type="N_N">사회+단체</str>
+			<org lg="si">社會團體</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>환경 문제를 해결하기 위해서는 ~의 꾸준한 감시가 필요하다.</eg>
+				<trans>civic group</trans><!--김성용(2004/07/04)사회단체는 social body로 사회집단은 social group으로 처리함--> <!--(호정은) '시민단체' 의미의 civic gpoup으로 바꿈-->
+				<domain></domain>
+				<sem_class>단체</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">시민 ~</comb_n> <!--(호정은) 대개 언론에서는 '시민사회단체'라는 단어를 많이 사용함--> <!--띄어쓰기(미현)-->
+				<comb_n type="compound">~ 대표</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조직하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 구성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 해체하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 가입하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

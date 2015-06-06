@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상처받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상처를 받다</var>
+			<str>NV</str>
+			<org lg="si">傷處_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get wounded in heart</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|(마음)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|행위|사건</sel_rst>
+					<eg>그 일로 아이의 마음이 상처받아 비뚤어져서는 안 된다.</eg>
+					<eg>그녀는 그 날 내 말에 상처받아 그 이후로 나를 만나 주지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전화인터뷰</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>예문 추가, n_n 추가, sel_rst 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/26</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전화 인터뷰</var>
+			<str type="N_N">전화+인터뷰</str>
+			<org lg="si">電話___</org>
+			<org lg="en">__interview</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>금메달을 딴 김 선수는 ~를 통해 소감을 전했다.</eg>
+				<eg>우리 방송은 김일성 주석의 사망이 한반도 정세에 어떤 영향을 미치는지 전문가와 ~를 가졌다.</eg>
+				<eg>회사측 대변인은 26일 쿠웨이트 현지에서 인도의 한 TV와 ~를 했다.</eg>
+				<trans>interview by telephone</trans>
+				<domain></domain>
+				<sem_class>소통행위</sem_class><!--상호적언술행위가 아닐지?(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 성사</comb_n>
+				<comb_n type="compound">긴급 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-와 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 가지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 갖다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 청하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|직업인간(기자|인터뷰어|아나운서)|단체(신문사|방송사|잡지사)</sel_rst>
+				<sel_rst arg="Y">인간|직업인간(기자|인터뷰어|아나운서)|단체(신문사|방송사|잡지사)</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

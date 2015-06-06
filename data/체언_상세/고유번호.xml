@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>고유번호</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>eg 추가;sem 코멘트;n_v 추가;cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">고유 번호</var>
+			<str type="N_N">고유+번호</str>
+			<org lg="si">固有番號</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>모든 모델에는 ~를 부여했습니다.</eg>
+				<eg>~ 처음 네 자리를 입력하십시오.</eg> <!-- 송근영 추가 -->
+				<trans>identity number</trans>
+				<domain></domain>
+				<sem_class>기호</sem_class> <!-- 식별속성으로도 볼 수 있을 듯(송근영) -->
+				<lr>
+					<syn type="etc">식별번호</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 붙이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 부여하다</form>
+					<frame></frame>
+				</comb_v>
+						<comb_v type="narg_vpred">
+					<form vcompound="no">~를 주다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 받다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+						<comb_v type="narg_vpred">
+					<form vcompound="no">~를 부여받다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="div">자리</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

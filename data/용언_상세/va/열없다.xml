@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>열없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>허준영</cre_writer>
+				<cre_note>'열없다'의 잘못, 혹은 북한어로 '열적다' 참조</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be shy</trans>
+				<trans>be bashful</trans>
+				<trans>feel awkward</trans>
+				<lr>
+					<syn type="perfect">수줍다</syn>
+					<syn type="perfect">겸연쩍다</syn>
+					<syn type="perfect">멋쩍다</syn>
+					<syn type="sino">어색하다</syn>
+					<syn type="vulgar">쪽팔리다</syn>
+					<syn type="etc">뻘쭘하다</syn> <!-- 경상도 방언으로 보이나, 유행어로 쓰이기도 하는 추세 -->
+					<ant type="grad">넉살좋다</ant>
+					<ant type="grad">자연스럽다</ant>
+					<ant type="grad">편하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<eg>선보러 가서 말 한마디 못하고 앉아 있었다니 그 총각 참 열없다.</eg>
+					<eg>그 학생은 열없어서 앞에서 발표할 때면 얼굴이 새빨갛게 되던데, 언제 그렇게 넉살이 좋아졌지?</eg>
+					<eg>시댁 식구들과의 첫 대면에 아내는 무척 열없었다.</eg>
+					<eg>나는 그 일이 열없어서 머리를 긁적였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=S것0|S기0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<eg>시대가 바뀌니 요즘 나는 미장원보다 이발소에서 머리깎는 것이 더 열없다.</eg>
+					<eg>나는 이번 실수가 당혹스럽기도 하고 무엇보다 가족들 보기가 열없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be timid</trans>
+				<lr>
+					<syn type="sino">소심하다</syn>
+					<ant type="grad">대담하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<eg>그 아이는 열없어서 밤에 혼자 어디 나가지도 못해.</eg>
+					<eg>생선 배도 못 가를 만큼 내 아내는 열없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>열없는 색시 달밤에 삿갓 쓴다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

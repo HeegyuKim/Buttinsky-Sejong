@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>개척되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">開拓_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be developed</trans>
+				<lr>
+					<syn type="etc">개발되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|물장소(하천|호수)</sel_rst>
+					<eg>버려둔 농토가 개척되어 유명한 관광지가 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>open up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">일시적기능장소(시장|장터)|추상적대상</sel_rst>
+					<eg>과거에 여러차례 실패를 거듭했던, 게임산업의 미국시장이 개척되었다.</eg>
+					<eg>1936년 양대 세계대전의 사이에 두 개의 어려운 루트가 개척되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>open up a church</trans>
+				<domain>종교</domain>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">종교건물(교회|예배당)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소</sel_rst>
+					<eg>이촌동 330번지에 이촌동 교회가 개척되었다.</eg>
+					<eg>몇몇 뜻있는 교인들에 의해 외국인 근로자를 위한 교회가 상계동에 개척되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

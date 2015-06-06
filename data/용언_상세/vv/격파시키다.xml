@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>격파시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/04</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충 및 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">격파를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">擊破__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>파괴행위</sem_class>
+				<trans>beat out</trans>
+				<lr>
+					<syn type="kor">무찌르다</syn>
+					<syn type="kor">물리치다</syn>
+					<hyper>파괴시키다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|비인간집단(함대|편대)</sel_rst>
+					<eg>이것을 보고 필립포스 왕이 테베의 원조 요청을 받아들여 포키스인을 격파시켰다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">비인간집단(함대|편대)</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|비인간집단(함대|편대)</sel_rst>
+					<eg>11월에는 우리 함대가 투르크 연안의 시노페 앞바다에서 투르크 함대를 격파시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

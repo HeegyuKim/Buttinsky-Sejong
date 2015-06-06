@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>윤색되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">윤색이 되다</var>
+			<str>N.되</str>
+			<org lg="si">潤色_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>be embellished</trans>
+				<lr>
+					<syn type="perfect">각색되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트|작품|이야기</sel_rst>
+					<sel_rst arg="Y" tht="FNS">텍스트|작품</sel_rst>
+					<eg>구전 소설이 극작품으로 윤색되어 무대에 올려지게 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

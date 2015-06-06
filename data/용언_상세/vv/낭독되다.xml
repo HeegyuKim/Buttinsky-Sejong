@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낭독되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/21</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낭독이 되다</var>
+			<str>N.되</str>
+			<org lg="si">朗讀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be recited</trans>
+				<lr>
+					<syn type="perfect">낭송되다</syn>
+					<syn type="perfect">독송되다</syn>
+					<ant type="compl">묵송되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트</sel_rst>
+					<eg>1919년 3월 1일 파고다 공원에서 독립선언문이 낭독되고 청년 학생을 선두로 시위가 시작되었다.</eg>
+					<eg>주례의 성혼선언문이 낭독되자마자 신랑은 만세삼창을 외치고 객석에서는 웃음이 터져 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

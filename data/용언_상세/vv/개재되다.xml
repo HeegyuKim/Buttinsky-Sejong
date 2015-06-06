@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>개재되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>의미부류 검토, 모두 온 도 될 수 있을 것 같음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/19</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 추가, 재검토 요망</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">介在_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>intervene between</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">의견|돈</sel_rst>
+					<sel_rst arg="Y" tht="LOC">관계추상적대상|대칭적행위</sel_rst>
+					<eg>이번 사건의 결과에 불신하는 의견들이 여기저기서 개재되고 있다.</eg>
+					<eg>이와 같이 현금거래에 현금이 일부만 개재되는 혼합거래는 있을 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+				<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">사건|현상</sel_rst>
+					<eg>두 국가 사이의 갈등이 심화되어서 국제연합이 개재된 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

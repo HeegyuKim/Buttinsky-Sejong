@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회오리치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회오리를 치다</var>
+			<cntr opt="opt" type="i"/>
+			<str>NV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>rise violently</trans>
+				<lr>
+					<hyper>불다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상(바람|돌풍)</sel_rst>
+					<eg>하늘에 먹구름이 생기기 시작하더니 갑자기 바람이 회오리치기 시작했다.</eg>
+					<eg>회오리치는 강풍에 간판이 날라가기까지 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>surge</trans>
+				<trans>swell</trans>
+				<trans>well up</trans>
+				<lr>
+					<syn type="etc">치밀다</syn>
+					<hyper>일다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(분노|무서움|공포|기쁨|희열)</sel_rst>
+					<eg>감정이 회오리치는 것을 절제하며 그는 차분히 말했다.</eg>
+					<eg>그 소식을 듣자 그 여자는 분노가 회오리치는 것을 참지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

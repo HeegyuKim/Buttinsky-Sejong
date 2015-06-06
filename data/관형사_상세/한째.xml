@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>한째</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/22</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/04/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/22(김창섭);‘만 한째’는 현재의 띄어쓰기 규정에 따라 띄어 써야 한다. 따라서 ‘한째’를 ‘첫째’의 이형태로 등재하여야 한다.‘한째’는 ‘만’ 등의 뒤에만 나타나는데, 이 사실이 현재의 기술에는 반영되지 못한다.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo>첫째</allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>한+-째</str>
+			<org lg="temp"></org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그렇게 해서 만 한째 쥐까지 배에 탔단다.</eg>
+				<nclass>확정</nclass>
+				<arab>1째</arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>일(一)</syn>
+					<ant></ant>
+					<rel type="car">하나</rel>
+					<rel type="qua">한</rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 날</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 아이</comb_md_n>
+				<comb_md_n>~ 이야기</comb_md_n>
+				<comb_md_n>~ 일요일</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

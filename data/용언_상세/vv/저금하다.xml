@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>저금하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/26</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/22</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">저금을 하다</var>
+			<str>N.하</str>
+			<org lg="si">貯金_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>save</trans>
+				<trans>deposit (in the bank)</trans>
+				<lr>
+					<syn type="perfect">저축하다</syn>
+					<ant type="dir">찾다</ant>
+					<ant type="dir">대출하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="GOL">금융기관</sel_rst>
+					<eg>그는 받은 월급의 반을 매달 은행에 저금했다.</eg>
+					<eg>어려서부터 돈을 저금하는 습관을 기르는 것이 중요하다.</eg>
+					<eg>그 정도의 돈이면 은행보다는 제2금융권에 저금하는 것이 더 낫다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

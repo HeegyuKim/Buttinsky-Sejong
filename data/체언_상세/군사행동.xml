@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>군사행동</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/12</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/11</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">군사 행동</var>
+			<str type="N_N">군사+행동</str>
+			<org lg="si">軍事行動</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>유엔에서는 미국에 이라크에 대한 ~을 자제할 것을 촉구하였다.</eg>
+				<trans>military action</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+					<frame>X-이 Y-에 대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 취하다</form>
+					<frame>X-이 Y-에게 ~을 취하다</frame>
+					<frame>X-이 Y-에 대해 ~을 취하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 감행하다</form>
+					<frame>X-이 Y-에게 ~을 감행하다</frame>
+					<frame>X-이 Y-에 대해 ~을 감행하다</frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">국가|군대</sel_rst>
+				<sel_rst arg="Y">국가|군대|일시적집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>통상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">통상을 하다</var>
+			<str></str>
+			<org lg="si">通商_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>trade</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="reci" n="1">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">국가</sel_rst>
+					<sel_rst arg="Y" tht="COM">국가</sel_rst>
+					<eg>우리 나라는 러시아와 서로 통상한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="reci" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">국가</sel_rst>
+					<sel_rst arg="Y" tht="AGT">국가</sel_rst>
+					<eg>우리 나라와 러시아는 서로 통상한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+			<org lg="si">痛傷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>grieve</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>그 사람은 친구의 죽음을 통상했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그 사람은 친구가 죽은 것을 통상했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

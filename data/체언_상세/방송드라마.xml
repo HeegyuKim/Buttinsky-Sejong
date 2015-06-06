@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>방송드라마</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">방송 드라마</var>
+			<str type="N_N">방송+드라마</str>
+			<org lg="si">放送___</org>
+			<org lg="en">__drama</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>최근에 히트한 ~는 제작비만도 1억이 넘는다고 한다.</eg>
+				<eg>배우 A는 ~에 출연하기 보다는 작품성 있는 영화에 출연하고 싶어 했다.</eg>
+				<trans>broadcast play</trans>
+				<domain></domain>
+				<sem_class>방송물</sem_class>
+				<lr>
+					<syn type="perfect">방송극</syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 작가</comb_n>
+	            <comb_n type="compound">주말 ~</comb_n>
+	            <comb_n type="compound">일일 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 찍다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제작하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 출연하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">편</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

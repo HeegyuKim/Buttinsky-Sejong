@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오물대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">우물대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>pucker</trans>
+				<trans>mumble</trans>
+				<lr>
+					<syn type="perfect">오물거리다</syn>
+					<syn type="etc">오물오물하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(입|입술)|(주둥이)</sel_rst>
+					<eg>아기는 무슨 말이라도 하려는 듯 귀엽게 입을 오물댔다.</eg>
+					<eg>그녀가 정작 대답은 하지 않고 입술만 오물대며 앉아 있자 그는 더 조바심이 나고 애가 탔다.</eg>
+					<eg>아이는 입을 오물대며 풀잎을 뜯는 토끼의 모습이 신기한 모양이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>mumble</trans>
+				<trans>chew on</trans>
+				<lr>
+					<syn type="perfect">오물거리다</syn>
+					<syn type="etc">오물오물하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">자연음식물|음식</sel_rst>
+					<eg>아이들은 사탕을 오물대며 만화를 보고 있었다.</eg>
+					<eg>그녀는 입에 빵 조각을 오물대며 외투를 걸치고 서둘러 밖으로 나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>mumble</trans>
+				<lr>
+					<syn type="perfect">오물거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소통행위(말)</sel_rst>
+					<eg>그는 늘 자신감없이 말을 오물대는 경향이 있었다.</eg>
+					<eg>입속으로 불평을 오물대는 그녀에게 선생님은 할 말이 있으면 제대로 말하라고 호통을 치셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적현상</sem_class>
+				<trans>swarm</trans>
+				<lr>
+					<syn type="perfect">오물거리다</syn>
+					<syn type="perfect">우물대다</syn>
+					<syn type="perfect">우물거리다</syn>
+					<syn type="perfect">오글대다</syn>
+					<syn type="perfect">오글거리다</syn>
+					<syn type="etc">오물오물하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>소년이 내민 상자에는 작은 벌레들이 오물대고 있었다.</eg>
+					<eg>문을 열자 고만고만한 아이들이 방안에 가득 오물대고 있는 것이 마치 놀이방에 온 것 같은 착각이 들 지경이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

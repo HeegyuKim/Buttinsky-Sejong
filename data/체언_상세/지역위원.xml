@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지역위원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지역 위원</var>
+			<str type="N_N">지역+위원</str>
+			<org lg="si">地域委員</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>학교의 운영위원회는 학부모위원과 교원위원, 그리고 ~으로 구성되어 있다.</eg>
+				<eg>이 단체는 70여 명의 지식인을 ~으로 참여시켜 지역의 현안에 대한 토론의 장을 만들었다.</eg>
+				<eg>걸스카우트의 아태 ~은 아시아 태평양 지역 내에 있는 27개 회원국의 추천과 투표로 선출된다.</eg>
+				<trans>region committee</trans>
+				<domain></domain>
+				<sem_class>일시적역할인간</sem_class><!--보통 '위원'은 특정한 상황을 위해 선출되거나 선임되므로 일시적역할인간으로 보았음.(권오희)--><!--그렇다면 맞는 듯(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 구성</comb_n>
+				<comb_n type="compound">~ 당선자</comb_n>
+				<comb_n type="compound">~ 명단</comb_n>
+				<comb_n type="compound">~ 연수</comb_n>
+				<comb_n type="compound">~ 추천</comb_n>
+				<comb_n type="compound">~ 활동</comb_n>
+				<comb_n type="compound">학교운영위원회 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 당선되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 뽑히다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 선임되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 당선되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 뽑히다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 선임되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>침범되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/07</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">침범이 되다</var>
+			<str>N.되</str>
+			<org lg="si">侵犯_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be invaded</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|구체물|신체부위</sel_rst>
+					<sel_rst arg="Y" tht="AGT">구체물</sel_rst>
+					<eg>요즘 들어서 서해안의 북방한계선이 북한군들을 비롯하여 중국어선들에게도 자주 침범된다.</eg>
+					<eg>구강 및 안구 건조가 시작되어 심장, 폐까지 그 바이러스로 침범되면 생명이 위험하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

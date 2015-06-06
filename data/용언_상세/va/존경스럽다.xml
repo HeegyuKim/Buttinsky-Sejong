@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>존경스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/10</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">尊敬__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be respectable</trans>
+				<trans>be estimable</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이|에게 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상|행위</sel_rst>
+					<eg>나는 선생님의 학문에대한 열정이 늘 존경스러웠다.</eg>
+					<eg>나에게는 그의 놀라운 언변이 존경스럽기까지 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>나는 선생님이 연로하심에도 불구하고 끊임없이 연구에 열중하시는 것이 참으로 존경스럽다.</eg>
+					<eg>나는 기영이가 그 장애아를 성심으로 돌보는 것이 존경스럽지 않을 수 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

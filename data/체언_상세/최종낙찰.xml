@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>최종낙찰</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 정보 추가;의미를 '경매', '결정'으로 나누고, 후자를 '단독행위와 대칭행위'로 분할</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/23</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">최종 낙찰</var> <!-- 추가함 -->
+			<str type="N_N">최종+낙찰</str> <!-- '_'를 '+'로 수정 -->
+			<org lg="si">最終落札</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그 골동품은 십억원을 제시한 한 신사에게 ~이 되었다.</eg> <!-- 그 골동품은 십억원이라는 높은 가격에 ~이 되었다. -->
+				<trans>final contract awarding</trans> <!-- final awarding to the person -->
+				<domain></domain>
+				<sem_class>종료행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				 <!-- 추가함 -->
+				<comb_n type="compound">~ 가격</comb_n>
+				<comb_n type="compound">~ 자격</comb_n>
+				<comb_n type="compound">~ 업체</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 Y-로 Z-에 ~이 되다</frame> <!-- Y를 수신자로 변경하고, 'Z' 추가 -->
+					<frame>X-이 Y-에게 Z-에 ~이 되다</frame> <!-- 추가 -->
+					<frame>X-이 Y-에 Z-에 ~이 되다</frame> <!-- 추가 -->
+				</comb_v>
+				<comb_v type="npred_vsup"> <!-- 추가 -->
+					<form vcompound="yes">~을 받다</form>
+					<frame>Y-이 X-을 Z-에 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- Y(값)-로의 삭제 -->
+				<sel_rst arg="X">구체물</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<sel_rst arg="Z">값</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>신인이 영화의 주인공으로 ~이 되었다.</eg>
+				<trans>final decision</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 Z-에 ~을 하다</frame>
+					<frame>X-이 Y-을 Z-로 ~을 하다</frame>
+					<frame>X-이 Z-을 Y-로 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-이 Z-에 ~이 되다</frame>
+					<frame>Y-이 Z-로 ~이 되다</frame>
+					<frame>Z-이 Y-에게 ~이 되다</frame>
+					<frame>Z-이 Y-로 ~이 되다</frame>
+				</comb_v>
+				<max_n_str>Z-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<sel_rst arg="Z">역할인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense n="3"> <!-- 이 용법이 적절한지 확인 필요 -->
+			<sem_grp>
+				<eg>나는 이익을 똑같이 나누기로 그와 ~을 봤다.</eg>
+				<trans>final decision</trans>
+				<domain></domain>
+				<sem_class>대칭적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Z-와 Y-을 ~을 하다</frame>
+					<frame>X-이 Z-와 Y-로 ~을 하다</frame>
+					<frame>X-이 Z-와 S것-을 ~을 하다</frame>
+					<frame>X-이 Z-와 S것-로 ~을 하다</frame>
+					<frame>X-이 Z-와 S기-로 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 보다</form>
+					<frame>X-이 Z-와 Y-을 ~을 보다</frame>
+					<frame>X-이 Z-와 Y-로 ~을 보다</frame>
+					<frame>X-이 Z-와 S것-을 ~을 보다</frame>
+					<frame>X-이 Z-와 S것-로 ~을 보다</frame>
+					<frame>X-이 Z-와 S기-로 ~을 보다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-로 ~이 되다</frame>
+					<frame>S것-로 ~이 되다</frame>
+					<frame>S기-로 ~이 되다</frame>
+				</comb_v>
+				<max_n_str>X-와 Z-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">행위</sel_rst>
+				<sel_rst arg="Z">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달관하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>김윤신</cre_date>
+				<cre_writer>2005/07/13</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">달관을 하다</var>
+			<str>N.하</str>
+			<org lg="si">達觀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>take a far-sighted view</trans>
+				<trans>see far into the future</trans>
+				<trans>take a philosophic view</trans>
+				<lr>
+					<syn type="perfect">달견하다</syn>
+					<syn type="perfect">달통하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>노자(老子)는 인생을 달관하여 '上善若水'라고 하여 물처럼 살아가는 것이 가장 올바른 인생이라고 하였다.</eg>
+					<eg>노인은 마치 모든 일에 달관한 사람처럼 심상치 않은 말을 하고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

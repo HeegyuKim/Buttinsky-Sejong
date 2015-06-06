@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>발기부전</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>박재연</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 생물생리현상을 수정;n_n와 n_v 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_R">발기+부전</str>
+			<org lg="si">勃起不全</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>대체로 흡연자들이 ~으로 고생하는 경우가 많다.</eg>
+				<trans>impotence</trans>
+				<domain>의학</domain>
+				<sem_class>질병및증세</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 심하다</comb_aj>
+				<comb_n type="compound">~ 치료제</comb_n>
+				<comb_n type="compound">~ 증상</comb_n>
+				<comb_n type="compound">~ 치료</comb_n>
+				<comb_n type="compound">~ 예방</comb_n>
+				<comb_n type="compound">~ 환자</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form><!--되다와 관계해서 기능동사와 결합하는 명사로 파악한 것이 옳은지?-->
+					<frame>X-이 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form><!--추가(김이정)-->
+					<frame>X-이 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form><!--추가(김이정)-->
+					<frame>X-이 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 오다</form><!--추가(김이정)-->
+					<frame>X-이 ~이 오다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 치료하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">남성인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

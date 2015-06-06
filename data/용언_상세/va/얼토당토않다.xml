@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>얼토당토않다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/08/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>예문의 오표기 수정, var type의 long를 lng로, str항목의 RS를 RA로 수정, 검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">얼토당토아니하다</var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be absurd</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제</sel_rst>
+					<eg>그의 말은 얼토당토않았다.</eg>
+					<eg>빵 하나가 만원이라니, 정말 그것은 얼토당토않다.</eg>
+				</subsense>				
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<eg>철수가 범인이라는 것은 얼토당토않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

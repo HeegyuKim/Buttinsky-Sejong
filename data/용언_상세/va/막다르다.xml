@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>막다르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>제약된 활용형 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>be dead-end</trans>
+				<trans>be closed at one end</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">길|(골목)|지상장소</sel_rst>
+					<eg>이 골목은 우리 집을 끝으로 막다른 골목이다.</eg>
+					<eg>길을 가다 막다른 길에 들어서면 길을 잃어버린 느낌보다 더한 막막함을 느낄 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>막다른</infl_rst>
+			<trans>be dead-end</trans>
+			<sel_rst arg="X" tht="THM">길|(골목)|지상장소</sel_rst>
+			<defect_eg>우리집은 막다른 골목집이었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

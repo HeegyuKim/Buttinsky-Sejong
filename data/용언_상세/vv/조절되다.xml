@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조절되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조절이 되다</var>
+			<str>N.되</str>
+			<org lg="si">調節_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be regulated</trans>
+				<trans>be controlled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|사태</sel_rst>
+					<eg>각 주요하천의 수위가 아직까지는 잘 조절되고 있다.</eg>
+					<eg>체중 감량을 위해서 그 선수에게는 식사량이 조절되고 있다.</eg>
+					<eg>공장 설비는 모두 자동으로 조절되고 있다.</eg>
+					<eg>요즘 야당의 여당에 대한 비판의 강조가 다소 조절되고 있다.</eg>
+					<eg>마이크의 높이가 어린이의 키에 맞게 조절되었다.</eg>
+					<eg>철수와 이야기를 하면, 나는 감정이 잘 조절되지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be regulated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(호흡)</sel_rst>
+					<eg>다이빙을 하기 직전 지금 호흡이 조절되고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

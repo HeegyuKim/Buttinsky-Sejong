@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사리분별력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>cre 누락 정보(날짜) 제시</mod_note>
+				<mod_note>var 기술</mod_note>
+				<mod_note>n_aj element 수정</mod_note>
+				<mod_note>n_aj appr  추가</mod_note>
+				<mod_note>n_v 항목 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사리 분별력</var>
+			<str type="N_N">사리+분별력</str>
+			<!--분별력은 더 분석될 수 있음(김미현)-->
+			<org lg="si">事理分別力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 아이는 ~이 아주 뛰어나, 나이에 비해 조숙해 보인다.</eg>
+				<trans>ability of being reasonable</trans>
+				<domain></domain>
+				<sem_class>능력</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 뛰어나다</comb_aj>
+					<!-- appr보다는 magn이 적당할 듯(송근영) -->
+				<comb_aj type="appr" mod="no">~이 있다</comb_aj>
+				<comb_aj type="appr" mod="no">~이 없다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 지니다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 키우다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

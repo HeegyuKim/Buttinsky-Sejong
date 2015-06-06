@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>극우보수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/22</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/06/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>복합어 내적구조 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>n_n 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술 방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/02</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">극우 보수</var>
+			<str type="N_N">극우+보수</str>
+			<org lg="si">極右保守</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 단체는 ~를 표방하며 정치 운동을 했다.</eg>
+				<trans>far-right conservatism</trans>
+				<domain></domain>
+				<sem_class>정치사조</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">극좌진보</ant>
+					<!--극우보수에 비해서 자주 쓰이지 않으나 어휘적인 반의어를 만들면 이정도로 할 수 있지 않을까요..-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 단체</comb_n>
+				<comb_n type="compound">~ 세력</comb_n> <!-- 송근영 추가 -->
+				<comb_n type="compound">~ 진영</comb_n> <!-- 송근영 추가 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 표방하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

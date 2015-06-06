@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>역병</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/05</cre_date>
+				<cre_writer>최지임</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/05</mod_date>
+				<mod_writer>최지임</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/09/23</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note>수정및보충내용없음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/31</mod_date>
+				<mod_writer>나윤희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스2 추가</mod_note>
+				<mod_note>센스1의 의미부류 수정</mod_note>
+				<mod_note>센스1에 동사결합 정보 추가</mod_note>
+				<mod_note>센스1에 논항 의미정보 추가</mod_note>
+				<mod_note>센스1에 단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>동사결합 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">疫病</org>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>여러 나라에서 ~이 돌아 크나큰 농작물 손실을 입었다.</eg>
+				<trans>epidemic</trans>
+				<sem_class>전염병</sem_class> <!-- 농작물의 유행병 -->
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 돌다</form>
+					<frame>X-에 ~이 돌다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>X-에 ~이 발생하다</frame>
+				</comb_v>
+				<sel_rst arg="X">지역</sel_rst> <!-- 추가함 -->
+				<cl type="uni">번</cl> <!-- 추가함 -->
+				<cl type="uni">차례</cl> <!-- 추가함 -->
+				<cl type="uni">회</cl> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>~이 창궐하여 많은 사람이 죽었다.</eg>
+				<trans>epidemic</trans>
+				<sem_class>전염병</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 돌다</form>
+					<frame>X-에 ~이 돌다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 창궐하다</form>
+					<frame>X-에 ~이 창궐하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>X-에 ~이 발생하다</frame>
+				</comb_v>
+				<sel_rst arg="X">지역</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

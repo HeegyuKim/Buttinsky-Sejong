@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고질화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">痼疾化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>become a chronic disease</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">질병및증세</sel_rst>
+					<eg>그는 거의 고질화된 지병도 이제 다 나아서 예전보다 더 젊어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>become a chronic trouble</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">재해|피해|관계추상적대상(원인)</sel_rst>
+					<eg>국세청 사무관은 한 물건의 값이 3~4배 또는 수십 수백 배로 징수돼 그 폐해가 이미 고질화됐는데 특히 경기도가 심하다고 보고했다.</eg>
+					<eg>두통의 원인은 스스로 만들어가고 있으며, 자기도 모르는 새에 그 원인이 고질화되어 가고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

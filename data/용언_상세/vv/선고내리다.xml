@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선고내리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선고를 내리다</var>
+			<str>NV</str>
+			<org lg="si">宣告_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>명령</sem_class>
+				<trans>sentence</trans>
+				<trans>judge</trans>
+				<lr>
+					<syn type="perfect">선고하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(판사|검사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">처벌|벌|수량시간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>판사는 과거에 대통령이었던 사람에게도 동일하게 징역 15년 형을 선고내렸다. </eg>
+					<eg>그 정도 범죄를 저지른 사람에게 사형을 선고내리는 것은 너무 가혹하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

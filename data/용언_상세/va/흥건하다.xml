@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흥건하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/11/01</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be brimful</trans>
+				<trans>be juicy</trans>
+				<trans>be watery</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(빗물|기름|석유)|음료</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소|부분장소</sel_rst>
+					<eg>밤새 내린 비가 도로에 흥건했다.</eg>
+					<eg>아이가 쏟은 우유가 마룻바닥에 흥건하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분비물(피|땀|눈물)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>얼마나 긴장하고 있었던지 그의 손에는 땀이 흥건했다.</eg>
+					<eg>나를 바라보는 그의 눈에 눈물이 흥건했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

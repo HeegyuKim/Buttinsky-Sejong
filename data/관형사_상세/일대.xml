@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>일대</orth>
+  	<entry n="1" pos="md">
+    		<mnt_grp>
+      			
+				<cre>
+      					<cre_date>2000/10/03</cre_date>
+					<cre_writer>김창섭</cre_writer>
+      					<cre_note></cre_note>
+				</cre>
+				<mod>
+						<mod_date>2001/08/15</mod_date>
+						<mod_writer>김창섭</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<mod>
+						<mod_date>2006/12/08</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<mod>
+						<mod_date>2007/07/26</mod_date>
+						<mod_writer>하신영</mod_writer>
+						<mod_note></mod_note>
+				</mod>
+				<note></note>
+    		</mnt_grp>
+    		<see></see>
+      		<morph_grp>
+        		<allo></allo>
+				<var type="xs"></var>
+				<var type="xd"></var>
+				<var type="xx"></var>
+				<var type="kr"></var>
+				<var type="si"></var>
+				<var type="heavy"></var>
+				<var type="lgt"></var>
+				<var type="abb"></var>
+				<var type="lng"></var>
+				<str>일+대</str>
+        		<org lg="si">一大</org>
+        		<comp pos="n"></comp>
+        		<metc></metc>
+      		</morph_grp>
+			<idm_grp>
+				<idm></idm>
+				<prv></prv>
+			</idm_grp>
+			<sense n="1">
+      			<sem_grp>	
+        			<eg>수많은 요트 들이 앞을 다투어 미끄러져 나가는 모습은 일대 장관이다.</eg>
+        			<nclass></nclass>
+					<arab></arab>
+        			<reg></reg>
+        			<con></con>
+        			<sem_rep type="dsoq">성상</sem_rep>
+					<sem_rep type="qi"></sem_rep>
+					<lr>
+        				<syn></syn>
+        				<ant></ant>
+        				<rel type="car"></rel>
+						<rel type="qua"></rel>
+						<rel type="ord"></rel>
+					</lr>
+      			</sem_grp>	
+      			<syn_grp>
+        			<comb_md_n>~ 장관(壯觀)</comb_md_n>
+        			<comb_md_n>~ 시련</comb_md_n>
+        			<comb_md_n>~ 혼란</comb_md_n>
+					
+        			<post_n></post_n>
+        			<synt_sub type="small"/>
+      			</syn_grp>
+    		</sense>
+  	</entry>
+</superEntry>
+

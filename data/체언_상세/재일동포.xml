@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>재일동포</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김천학</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/08</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">재일 동포</var>
+			<str type="R_N">재일+동포</str> <!-- 목(2004/8/10) N을 R로 수정 -->
+			<org lg="si">在日同胞</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>일제강점기의 영향으로 ~가 증가하였다.</eg> <!-- 목(2004/8/10) ~의 형성을 ~가로 수정 -->
+				<eg>고국을 그리워하는 ~들이 해다마 한국을 방문하고 있다.</eg> <!-- 목(2004/8/10) 추가 -->
+				<trans>Korean residents in Japan</trans>
+				<trans>Koreans living in Japan</trans>
+				<domain></domain>
+				<sem_class>지역인간</sem_class> <!-- 목(2004/8/10) 지역집단을 속성인간으로 수정 -->
+				<lr>
+					<syn type="perfect">재일교포</syn> <!-- 목(2004/8/10) 추가 -->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">분</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

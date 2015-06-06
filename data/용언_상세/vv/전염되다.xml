@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>전염되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>syn type을 kor로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">전염이 되다</var>
+			<str>N.되</str>
+			<org lg="si">傳染_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be infected</trans>
+				<lr>
+					<syn type="kor">퍼지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">생물|전염병</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단|장소</sel_rst>
+					<eg>감기가 철수에게서 온 집안 식구들에게로 전염되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be infected</trans>
+				<lr>
+					<syn type="kor">퍼지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단|장소</sel_rst>
+					<eg>나쁜 말이나 행동은 훨씬 더 빨리 학생들에게 전염된다.</eg>
+					<eg>웃음이 모든 사람들에게 전염되어 교실 전체가 웃음바다가 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

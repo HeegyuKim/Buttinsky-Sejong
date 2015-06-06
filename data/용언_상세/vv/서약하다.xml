@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>서약하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>격틀 내에서 보문 처리 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">서약을 하다</var>
+			<str>N.하</str>
+			<org lg="si">誓約_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>pledge</trans>
+				<trans>swear</trans>
+				<trans>vow</trans>
+				<trans>oath</trans>
+				<lr>
+					<syn type="perfect">맹세하다</syn>
+					<ant type="compl">배신하다</ant>
+					<hyper>약속하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">의무|단독행위|대칭적행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>결국 인조는 강압에 못 이겨 청국에 항복을 서약하고 말았다.</eg>
+					<eg>정부는 게릴라들에게 공격 중단을 서약했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=S것1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM"/>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>결국 인조는 강압에 못 이겨 항복할 것을 청국에 서약하고 말았다.</eg>
+					<eg>정부는 게릴라들에게 공격을 중단할 것을 서약했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>결국 인조는 강압에 못 이겨 청국에 항복하겠다고 서약하고 말았다.</eg>
+					<eg>정부는 게릴라들에게 공격을 중단하겠다고 서약했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>빼꼭하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">빼곡하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be closely packed</trans>
+				<trans>be closely packed</trans>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">빼곡하다</syn>
+					<syn type="perfect">빽빽하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|부분장소</sel_rst>
+					<eg>좁은 가게에 손님들이 빼꼭하다.</eg>
+					<eg>그 날 강연회장에는 입시생을 둔 학부모들이 발디딜 틈 없이 빼꼭했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be closely packed</trans>
+				<trans>be closely packed</trans>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">빼곡하다</syn>
+					<syn type="perfect">빽빽하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|부분장소</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물</sel_rst>
+					<eg>좁은 가게가 손님들로 빼꼭하다.</eg>
+					<eg>그 날 강연회장은 입시생을 둔 학부모들로 발 디딜 틈 없이 빼꼭했다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

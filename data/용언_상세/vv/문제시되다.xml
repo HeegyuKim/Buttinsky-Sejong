@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문제시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문제시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">問題視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get st taken as problematic</trans>
+				<lr>
+					<ant type="grad">도외시되다</ant>
+					<rel>문제되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame><!--"X-이 Y-이"도 가능함.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">행위|계획사건</sel_rst>
+					<eg>그동안 여성의 일상에 대한 연구는 자료 부족이 문제시돼 왔다.</eg>
+					<eg>우리 모임은 회원 확보가 문제시되고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">Q</sel_rst>
+					<sel_rst arg="Y" tht="CRT">행위|계획사건</sel_rst>
+					<eg>노트북은 최근 경량화 되면서 내부 발열을 자체적으로 해결할 수 있느냐가 문제시되고 있다.</eg>
+					<eg>그 회사에서는 김 이사가 그 문제를 해결할 수 있을까가 문제시되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

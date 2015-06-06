@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매출하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/05/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매출을 하다</var>
+			<str>N.하</str>
+			<org lg="si">賣出_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>sell</trans>
+				<lr>
+					<syn type="perfect">판매하다</syn>
+					<syn type="perfect">매도하다</syn>
+					<syn type="perfect">매각하다</syn>
+					<syn type="kor">팔다</syn>
+					<ant type="conv">매입하다</ant>
+					<ant type="conv">매수하다</ant>
+					<ant type="conv">사다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상(저작권|정보|판권)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>대주주가 소유하고 있는 주식의 일부를 매출해 주식을 분산시키고 재무 내용을 공시함으로써 기업의 경쟁력을 강화할 수 있게 되는 것입니다.</eg>
+					<eg>저희는 의류를 매출하는 회사입니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상(저작권|정보|판권)</sel_rst>
+					<sel_rst arg="Z" tht="CRT">값</sel_rst>
+					<eg>우리 회사는 올해 컴퓨터 제품을 100억 달러를 매출했다.</eg>
+					<eg>그 회사는 지난해 87억원을 매출해 50%에 가까운 43억원을 순이익으로 남겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

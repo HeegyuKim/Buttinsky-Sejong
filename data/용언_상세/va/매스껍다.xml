@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매스껍다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>항목 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">메스껍다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>질병및증세</sem_class>
+				<trans>be sickening</trans>
+				<lr>
+					<syn type="perfect">매슥하다</syn>
+					<syn type="perfect">역겹다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(속)</sel_rst>
+					<eg>술을 마셔도 속이 매스껍지 않다면 얼마나 좋을까.</eg>
+				</subsense>
+			</frame_grp>			
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>임산부들은 어쩔 땐 빵 냄새도 매스꺼워 토를 한다고 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>임산부들은 어쩔 땐 빵 굽는 냄새가 나는 것도 매스꺼워 토를 한다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>feel sick</trans>
+				<lr>
+					<syn type="perfect">매슥하다</syn>
+					<syn type="perfect">역겹다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>그 사람의 표정이 너무 매스꺼워서 난 하마터면 그 자리를 박차고 나올 뻔했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그 사람이 사장한테 알랑거리는 것이 너무 매스꺼워서 난 하마터면 그 자리를 박차고 나올 뻔했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

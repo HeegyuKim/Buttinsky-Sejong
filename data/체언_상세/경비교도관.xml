@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경비교도관</orth><!--송신지; 주어진 표제어의 의미를 알 수 없음, 경비교도관으로 대체 기술함-->
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/012/29</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note>신규기술</mod_note>
+			</mod>
+			<note>2007/08/04(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc">경비 교도관</var> <!-- 목(2004/012/29) 추가 -->
+			<str type="N_N">경비+교도관</str><!--'교도+관'으로 분석할 가능성이 있음-->
+			<org lg="si">警備矯導官</org> <!-- 목(2004/012/29) 추가 -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>군대에 입대해서 ~으로 근무하는 사람도 있다.</eg>
+				<trans>a prison guard</trans>
+				<domain>직업인간</domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 근무하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

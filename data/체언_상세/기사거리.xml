@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기사거리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_v 수정</mod_note>
+				<mod_note>sel_res 수정</mod_note>
+				<mod_note>cl 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술 방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">기사+거리</str>
+			<org lg="si">記事__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 기자는 ~를 찾는 데 혈안이 되어 있다.</eg>
+				<trans>>news item</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<!--의미부류에 '소재, 주제' 등의 하위 부류 설정 검토 필요(김미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 많다</comb_aj>
+	                <comb_aj type="magn">~가 풍부하다</comb_aj>
+				<comb_aj type="min">~가 적다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred"> <!-- npred->narg, vsup->vpred로 수정, frame 삭제(송근영) -->
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 찾다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst> <!-- 선택제약 정보 삭제(송근영) -->
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

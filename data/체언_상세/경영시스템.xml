@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경영시스템</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/04(정아름)</note>
+        </mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경영 시스템</var>
+			<str type="N_N">경영+시스템</str>
+			<org lg="si">經營___</org>
+			<org lg="en">__system</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>문화적 차이를 고려하지 않고 외국기업의 ~을 그대로 도입한 기업의 수익은 저조한 것으로 분석됐다</eg>
+				<trans>management system</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 새롭다</comb_aj>
+				<comb_n type="compound">~(의) 차이</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

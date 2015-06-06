@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>담당기자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토요;최대논항구조 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">담당 기자</var>
+			<str type="N_N">담당+기자</str>
+			<org lg="si">擔當記者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경제 ~를 더 뽑아야할 것 같다.</eg>
+				<trans>journalist in charge</trans>
+				<domain></domain>
+				<sem_class>역할인간</sem_class> <!-- '담당'이라는 말 때문에 직업인간보다는 역할인간이 더 적절할 듯 함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 취재하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 뽑다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 모집하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 채용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X ~</max_n_str> <!-- '담당'이라는 말 때문에 '~의 담당기자'라는 표현이 가능한데, 이 경우 '담당기자'를 술어명사 취급하여 최대논항구조를 반영해야 하는가? -->
+				<sel_rst arg="X">학문과목</sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

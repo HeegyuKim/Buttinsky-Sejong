@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내휘두르다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>wave</trans>
+				<trans>brandish</trans>
+				<lr>
+					<syn type="perfect">내두르다</syn>
+					<syn type="perfect">내돌리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(주먹)</sel_rst>
+					<eg>아직도 아무 데서나 주먹을 내휘두르는 습관을 못고쳤니?</eg>
+					<eg>형은 귀찮다는 듯이 손만 내휘둘렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>control</trans>
+				<trans>dominate</trans>
+				<lr>
+					<syn type="perfect">내두르다</syn>
+					<syn type="perfect">거느리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상</sel_rst>
+					<eg>그 젊은 여자는 거센 억양에다가 나이든 남자건 젊은이건 내휘두르려는 성향이 있다.</eg>
+					<eg>인간이 파괴의 힘을 내휘두르고 있는 아마존은 이제 더이상 이전의 아마존이 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

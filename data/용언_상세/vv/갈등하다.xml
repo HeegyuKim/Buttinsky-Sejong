@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갈등하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>생략된 선택제약 영역 삽입</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">갈등을 하다</var>
+			<str>N.하</str>
+			<org lg="si">葛藤_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>have a feud with</trans>
+				<trans>be at enmity with</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단|추상적대상</sel_rst>
+					<eg>어느 소설에서나 주인공은 누군가와 갈등하게 되어 있다.</eg>
+					<eg>제도의 변천과정에서 여성의 노동자을 강조하는 입장이 사용자를 강조하는 다른 입장과 어떻게 갈등하고 협력해 왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단|추상적대상</sel_rst>
+					<eg>의회에서 여당과 야당은 항상 갈등하는 모습만 보여 준다.</eg>
+					<eg>본질론적 정당화와 도구론적 정당화는 때때로 서로 갈등하기도 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>be at enmity</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<eg>그들은 항상 선과 악, 둘 사이에서 갈등하고 있다.</eg>
+					<eg>인간은 감정때문에 갈등하는 존재이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

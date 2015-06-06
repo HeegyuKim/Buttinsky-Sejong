@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>종횡무진하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">종횡무진을 하다</var>
+			<str>N.하</str>
+			<org lg="si">縱橫無盡_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>go freely</trans>
+				<trans>go at will</trans>
+				<trans>go right and left</trans>
+				<lr>
+					<syn type="perfect">종횡무애하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소|영화|연극|작품|방송물|산업|분야|계획사건</sel_rst>
+					<eg>그 축구선수는 90분 동안 지치지도 않고 운동장을 종횡무진하며 놀라운 기량을 보여 주었다.</eg>
+					<eg>그 배우는 지난 1년 간 영화와 드라마를 종횡무진하며 인기를 쌓아가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

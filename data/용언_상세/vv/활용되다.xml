@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>활용되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김미영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">활용이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">活用_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be used</trans>
+				<trans>be utilized</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>이 플라스틱이 다시 활용될 수 있는 방안을 연구해보자.</eg>
+					<eg>육아 휴직 제도가 활용될 수 있도록 여성 노동자의 고용 안정을 보장할 필요가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be applied</trans>
+				<trans>be utilized</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">행위</sel_rst>
+					<eg>이 교재는 유아들의 영어 교육에 활용되고 있다.</eg>
+					<eg>그의 이론이 유통 구조 개선에 활용될 수 있을 것으로 보인다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S것|S데</sel_rst>
+					<eg>이 교재는 어린 아이들에게 영어를 가르치는 데에 활용되고 있다.</eg>
+					<eg>그의 이론은 유통 구조를 개선하는 데에 적극 활용될 수 있을 것으로 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>inflect</trans>
+				<trans>conjugate</trans>
+				<trans>decline</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">언어단위(동사|형용사)</sel_rst>
+					<sel_rst arg="Y" tht="FNS">언어단위</sel_rst>
+					<eg>한국어의 품사 중 활용되는 것은 용언뿐이다.</eg>
+					<eg>한국어의 용언은 성과 수에 따라 활용되지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

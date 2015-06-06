@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시국강연회</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/21</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정 및 추가;X의 선택제약 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">시국 강연회</var>
+			<str type="N_N">시국+강연회</str> <!-- '시국강연+회'가 맞는 것은 아닌지 검토 필요 -->
+			<org lg="si">時局講演會</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>여당은 각계 인사들을 초청하여 ~를 열 계획이다.</eg>
+				<trans>lecture on the situation</trans>
+				<trans>meeting on the situation</trans>
+				<domain></domain>
+				<sem_class>모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 있다</form>
+					<frame>X-에서 Y|S것-에 대해 ~가 있다</frame><!--추가(김이정)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 열리다</form>
+					<frame>X-에서 Y|S것-에 대해 ~가 열리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 개최되다</form>
+					<frame>X-에서 Y|S것-에 대해 ~가 개최되다</frame><!--추가(김이정)-->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 개최하다</form> <!-- 열다의 변이형으로는 볼 수 없는지? -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 주최하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 갖다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 취소하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참석하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 나가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 하다</form> <!-- 이와 같은 사례가 발견되나, 기능동사 구문으로 볼 수 있는지? -->
+					<frame></frame> <!-- 맞는지?? -->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 열다</form>
+					<frame></frame> <!-- 장소 표현이 논항으로 기술될 수 있는지? -->
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 S것-에대한 ~</max_n_str>
+				<sel_rst arg="X">장소</sel_rst>
+				<sel_rst arg="Y">사태</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

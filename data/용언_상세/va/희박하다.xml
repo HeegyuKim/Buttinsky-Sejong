@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희박하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">稀薄_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be thin</trans>
+				<trans>be rarefied</trans>
+				<trans>be sparse</trans>
+				<lr>
+					<hyper>낮다</hyper>
+					<hyper>적다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기체(공기|산소)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<n_appr arg="X">밀도</n_appr>
+					<eg>고지대에는 산소가 희박하다.</eg>
+					<eg>높은 산에는 공기가 희박하여 호흡 장애가 생기게 된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">크기(인구밀도)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소</sel_rst>
+					<eg>그것이 바로 중국 정부가 인구 밀도가 희박한 티베트 지역에 철도를 건설한 이유 중 하나이다.</eg>
+					<eg>인구 밀도가 희박한 지역에 전화를 가설할 경우 가설비 부담이 문제가 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be weak</trans>
+				<trans>be lack</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태|인지상태(열정|열의|정열|욕구)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>그 사람에게는 살아남으려는 의지가 희박했다.</eg>
+					<eg>내 스스로도 내 자신에게는 뭔가를 이루려는 열정이 희박하다는 걸 알고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be weak</trans>
+				<trans>be slim</trans>
+				<lr>
+					<hyper>낮다</hyper>
+					<hyper>적다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">크기(가능성|확률)</sel_rst>
+					<eg>이번 사업이 성공할 가능성은 아주 희박하다.</eg>
+					<eg>복권에 일등으로 당첨될 확률은 길을 가다 벼락을 맞을 확률보다 낮다고들 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쓸모있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/26</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be useful</trans>
+				<trans>be of great use</trans>
+				<trans>be of good use</trans>
+				<trans>stand in good stead</trans>
+				<lr>
+					<syn type="sino">유용하다</syn>
+					<ant type="grad">쓸모없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|장소|행위|인지상태(생각)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단|행위</sel_rst>
+					<eg>이 물건은 우리에게 매우 쓸모있을 것 같습니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|장소|행위|인지상태(생각)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">S데</sel_rst>
+					<eg>신제품을 개발하는 데에 쓸모있는 아이디어들을 좀 내 보십시오.</eg>
+				</subsense>
+				<!--주어로서 S것 절은 불가능하다고 판단-->
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

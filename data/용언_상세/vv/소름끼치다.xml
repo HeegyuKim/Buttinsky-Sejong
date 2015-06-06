@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>소름끼치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">소름이 끼치다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>get goose pimples</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에게는|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|사건|인지상태</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>정말이지 다른 벌레는 용서가 돼도 바퀴벌레는 생각만 해도 소름끼쳐요.</eg>
+					<eg>그런 생각을 하다보면, 사는 것이 너무 끔찍하고 소름끼쳐 져서 지금 당장이라도 죽고 싶어 지는걸요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

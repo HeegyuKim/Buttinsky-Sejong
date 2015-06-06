@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되감기다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/16</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/16</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="i"/>
+			<str>VS</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be rewound</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(실|줄|필름|테이프)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체인공물(실패)</sel_rst>
+					<eg>필름이 완전히 되감겼으면 필름을 끼울 때의 요령과 마찬가지로 카메라 뚜껑을 연다.</eg>
+					<eg>운전자가 안전벨트를 풀 때 벨트가 자동으로 되감겨야 한다.</eg>
+					<eg>실이 실패에 되감겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/10/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make rewind</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 W=N3-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(실|줄|필름|테이프)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<sel_rst arg="W" tht="LOC">구체인공물(실패)</sel_rst>
+					<eg>아이에게 털실을 실패에 되감겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>당황스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/26</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"의미역" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">唐惶_</org>
+			<org lg="si">唐慌_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be puzzled</trans>
+				<lr>
+					<syn type="perfect">당혹스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">행위|사건</sel_rst><!--THM은 어떨까 함.-->
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst><!--GOL은 어떨까 함.-->
+					<eg>그의 그런 행동이 내겐 너무나 당황스러웠다.</eg>
+					<eg>친구들은 이제부터 공부만 하겠다는 그녀의 말을 듣고 적잖이 당황스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

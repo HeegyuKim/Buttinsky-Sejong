@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나둥그러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">나가 둥그러지다</var>
+			<var type="etc">나동그라지다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>tumble down</trans>
+				<trans>fall flat on one's back</trans>
+				<trans>be knocked down</trans>
+				<lr>
+					<syn type="de_vulgar">넘어지다</syn>
+					<syn type="perfect">나가자빠지다</syn>
+					<syn type="perfect">나가떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>웃음이 채 끝나기도 전에 군관은 얼굴을 감싸고 땅위에 나둥그러졌다.</eg>
+					<eg>백치가 나무토막처럼 마루에 나둥그러졌다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>누군가 목덜미를 홱 나꿔채는 바람에 그녀의 몸이 뒤로 벌렁 나둥그러졌다.</eg>
+					<eg>그는 토벽에다 등을 기대려다 말고 썩은 통나무처럼 멍석 위로 나둥그러졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>be threw away</trans>
+				<lr>
+					<syn type="de_vulgar">쓰러지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>폭풍우에 나무가 뿌리째 뽑혀 나둥그러졌다.</eg>
+					<eg>그의 방 여기저기에 가재도구가 아무렇게나 나둥그러져 있는 것으로 봐서 도망치기 전에 누군가와 싸운 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

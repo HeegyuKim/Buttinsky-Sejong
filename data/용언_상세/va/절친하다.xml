@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>절친하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/05</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">切親_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be intimate</trans>
+				<lr>
+					<syn type="perfect">친밀하다</syn>
+					<ant type="grad">소원하다</ant> <!--"疎遠_"-->
+					<hyper>가깝다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단|관계인간</sel_rst>
+					<eg>나는 대학 동아리에서 만난 친구들과 아직도 절친하다.</eg>
+					<eg>우리는 그와 아주 절친하다.</eg>
+					<eg>나는 그와 절친한 친구 사이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|관계인간</sel_rst>
+					<eg>그들은 매우 절친하다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner1">사이</col>
+					<col type="manner1">친구</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쇼크받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/10</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">쇼크를 받다</var>
+			<str>NV</str>
+			<org lg="en">shock_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be shocked</trans>
+				<lr>
+					<syn type="etc">충격받다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|추상적대상|사태</sel_rst>
+					<eg>기영이가 내 말에 크게 쇼크받았나 보다.</eg>
+					<eg>기영이는 미영이한테 쇼크받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be shocked</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<eg>기영이가 전기감전으로 쇼크를 받아 병원에 입원 중이다.</eg>
+					<eg>이 개가 전기감전으로 쇼크를 받았는지 기절을 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>이 기계가 합선 때문에 쇼크를 받아서 고장이 났다.</eg>
+					<eg>이 냉장고가 옮기면서 쇼크를 받았는지 작동이 안 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

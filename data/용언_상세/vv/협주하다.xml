@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협주하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/03</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협주를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">協奏_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>play in harmony</trans>
+				<lr>
+					<syn type="perfect">합주하다</syn>
+					<ant type="etc">독주하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">역할인간(피아니스트|바이올리니스트)|단체(교향악단|오케스트라)</sel_rst>
+					<sel_rst arg="Y" tht="THM">기악곡</sel_rst>
+					<sel_rst arg="Z" tht="COM">역할인간(피아니스트|바이올리니스트)|단체(교향악단|오케스트라)</sel_rst>
+					<eg>그녀는 한 젊은 바이올리니스트와 모차르트의 소나타를 협주했다.</eg>
+					<eg>이번 귀국 연주회에서 그는 서울 교향악단과 협주한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X+Z=N0-이 Y=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">역할인간(피아니스트|바이올리니스트)|단체(교향악단|오케스트라)</sel_rst>
+					<sel_rst arg="Z" tht="AGT">역할인간(피아니스트|바이올리니스트)|단체(교향악단|오케스트라)</sel_rst>
+					<sel_rst arg="Y" tht="THM">기악곡</sel_rst>
+					<eg>두 어린 피아니스트가 모차르트의 소나타를 협주했다.</eg>
+					<eg>피아노의 신동으로 불리는 그녀와 서울 오케스트라가 이번 공연에서 쇼팽의 곡들을 협주한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

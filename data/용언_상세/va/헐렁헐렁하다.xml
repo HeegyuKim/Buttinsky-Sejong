@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헐렁헐렁하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">할랑할랑하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be baggy</trans>
+				<lr>
+					<syn type="perfect">할랑할랑하다</syn>
+					<syn type="perfect">헐겁다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물(옷|신발)</sel_rst>
+					<eg>살이 빠졌는지 바지가 헐렁헐렁해서 자꾸 내려간다.</eg>
+					<eg>헐렁헐렁한 신발을 신고 다녔더니 관절에 무리가 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be all unstable</trans>
+				<trans>be shaky</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<eg>저 사람은 하는 짓이 헐렁헐렁해서 믿을 수가 없다.</eg>
+					<eg>사람이 그렇게 헐렁헐렁해서는 못쓴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

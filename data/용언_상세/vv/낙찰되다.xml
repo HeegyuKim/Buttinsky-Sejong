@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙찰되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙찰이 되다</var>
+			<str>N.되</str>
+			<org lg="si">落札_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be knocked down to</trans>
+				<lr>
+					<ant type="compl">유찰되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|일</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>일반적으로 건설사업은 최처입찰가를 제시한 업체에 낙찰된다.</eg>
+					<eg>그 유명한 그림는 최종적으로는 일본사람에게 낙찰되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|일</sel_rst>
+					<sel_rst arg="Y" tht="DIR">인간|인간집단</sel_rst>
+					<eg>이번에 시내에 짓는 큰 빌딩의 공사가 그리 유명하지 않은 신진업체로 낙찰되어 사람들의 관심을 끌었다.</eg>
+					<eg>그 희귀한 골동품이 어느 개인소장자에게로 경매를 통해 낙찰되었다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|일</sel_rst>
+					<sel_rst arg="Y" tht="CRT">값</sel_rst>
+					<eg>새 교사 신축 사업이 적절한 가격으로 낙찰되었다.</eg>
+					<eg>그 도자기는 예상보다 싼 값에 낙찰되어 새 주인은 아주 큰 행운을 얻었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경제협력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/012/29</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note>var type 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc">경제 협력</var>
+			<str type="N_N">경제+협력</str>
+			<org lg="si">經濟協力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>전문가들은 미,러 관계의 우호 증진을 위해 ~이 가장 시급하다고 지적했다.</eg>
+				<trans>economic cooperation</trans>
+				<domain></domain>
+				<sem_class>대칭적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 필요하다</comb_aj>
+				<comb_aj type="appr">~이 시급하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame>
+					<frame>Y-와 X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 증진하다</form>
+					<frame>X-이 Y-와 ~을 증진하다</frame>
+					<frame>Y-와 X-이 ~을 증진하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 강화하다</form>
+					<frame>X-이 Y-와 ~을 강화하다</frame>
+					<frame>Y-와 X-이 ~을 강화하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<max_n_str>Y-와 X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

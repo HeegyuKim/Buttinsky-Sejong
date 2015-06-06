@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>반공주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note>반의어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>술어명사를 논항명사로 수정;선택제약 삭제;n_aj magn를 appr로 수정;n_aj와 n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="R_N">반공+주의</str>
+			<org lg="si">反共主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그동안 ~를 해온 결과 국내에서의 공산주의 확산을 막을 수 있었다.</eg>
+				<trans>anticommunism doctrine</trans>
+				<domain></domain>
+				<sem_class>정치사조</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">공산주의</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심하다</comb_aj>
+				<comb_aj type="magn">~가 철저하다</comb_aj>
+				<comb_n type="compound">~ 교육</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 펼치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 따르다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

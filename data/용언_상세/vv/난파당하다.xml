@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>난파당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">난파를 당하다</var>
+			<str>N.당</str>
+			<org lg="si">難破當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get shipwrecked</trans>
+				<trans>get wrecked</trans>
+				<lr>
+					<syn type="perfect">파선당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|교통기관</sel_rst>
+					<eg>대략 5킬로미터 정도 노를 저어 갔으나, 이미 배가 난파당하기 전부터 완전히 지쳐 있던 우리는 도저히 더 이상은 저을 수가 없었다.</eg>
+					<eg>절해고도에서 시간을 기억한다는 것은 무의미한 일임에도 불구하고, 그는 처음 난파당한 날부터 시작해서 꼬박꼬박 날짜를 기록해 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>둘러쓰다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>착용행위</sem_class>
+				<trans>put on</trans>
+				<lr>
+					<syn type="perfect">뒤집어쓰다</syn>
+					<hyper>쓰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(모자)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">신체부위(머리)</sel_rst>
+					<eg>머리에 머플러를 급히 둘러쓰고 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(머리)</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물(모자)</sel_rst>
+					<eg>머리를 머플러로 급히 둘러쓰고 나왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>put on</trans>
+				<lr>
+					<syn type="perfect">뒤집어쓰다</syn>
+					<hyper>쓰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(먼지|가루)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">신체부위(머리|온몸)</sel_rst>
+					<eg>공사장에서 먼지를 온몸에 죄다 둘러쓰고 왔네.</eg>
+					<eg>요리 한 번 한다고 하더니 머리에 온통 밀가루를 둘러썼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>put on</trans>
+				<lr>
+					<syn type="perfect">뒤집어쓰다</syn>
+					<syn type="perfect">떠맡다</syn>
+					<hyper>쓰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(누명|혐의|책임|죄)</sel_rst>
+					<eg>다른 사람의 죄를 니가 왜 둘러쓰니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

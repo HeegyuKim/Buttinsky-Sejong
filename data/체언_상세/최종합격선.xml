@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>최종합격선</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/21</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 정보 수정;영어대역어 정보 수정;의미부류 정보 수정;형용사결합 정보 수정;동사결합 정보 추가;논항명사구, 논항 의미정보 추가;단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>vcompound 'no'로 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">최종 합격선</var> <!-- 추가함 -->
+			<str type="N_N">최종+합격선</str> <!-- '_'를 '+'로 수정 -->
+			<org lg="si">最終合格線</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번 시험의 ~은 70점대에서 결정될 듯 싶다.</eg>
+				<trans>final passing line in examination</trans> <!-- 'cut' 삭제함 -->
+				<domain></domain>
+				<sem_class>수량</sem_class> <!-- '경계'를 수정함 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 높다</comb_aj> <!-- appr 수정 -->
+				<comb_aj type="min">~이 낮다</comb_aj> <!-- appr 수정 -->
+				<comb_n type="compound"></comb_n>
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 오르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 상승하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 내려가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 떨어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 하락하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">시험|단체|기업|군대|단체의부서|직업인간</sel_rst> <!-- 추가함 -->
+				<cl type="qnt">점</cl> <!-- 추가함, 단 유형값이 적절한지 확인 필요 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

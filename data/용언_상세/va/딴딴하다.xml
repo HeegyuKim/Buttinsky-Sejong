@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>딴딴하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>항목 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">단단하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be solid</trans>
+				<lr>
+					<syn type="perfect">굳다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|(매듭)</sel_rst>
+					<n_appr arg="X">굳기</n_appr>
+					<eg>시멘트가 잘 굳어서 지면이 아주 딴딴하다.</eg>
+					<eg>이 벽은 딴딴해서 못도 잘 박히지 않는다.</eg>
+					<eg>운동화 끈 매듭이 아주 딴딴하게 잘 묶였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

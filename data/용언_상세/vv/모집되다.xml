@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>모집되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/02</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/05</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="oi"/>
+			<str>모집.되</str>
+			<org lg="si">募集_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be singled out</trans>
+				<lr>
+					<syn type="kor">뽑히다</syn>
+					<syn type="perfect">선발되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>월드컵 자원봉사자로 모집된 사람 중에는 60 세 이상의 노인들도 많이 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be collected</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Y" tht="THM">추상적대상(작품)</sel_rst>
+					<eg>이번에는 꽤 참신한 소설 작품들이 모집되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be raised</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Y" tht="THM">돈(기금|기부금)</sel_rst>
+					<eg>수재금 돕기 운동에서 10 억원 이상의 금액이 하루만에 모집되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

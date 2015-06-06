@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>우직스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>우직하다</see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">愚直_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be stupid</trans>
+				<trans>be simple</trans>
+				<trans>be honest</trans>
+				<lr>
+					<syn type="perfect">우직하다</syn>
+					<syn type="kor">어리석다</syn>
+					<ant type="grad">약삭빠르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|모양|품격속성|행위</sel_rst>
+					<eg>농사일 밖에 모르는 그 청년은 우직스럽다.</eg>
+					<eg>생김새는 좀 우직스럽지만, 보기와는 달리 머리는 영리한 아이입니다.</eg>
+					<eg>그 지방 사람들은 우직하다고 알려져 있지만, 실은 상당히 약삭빠르다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>그가 고장 난 신호등 앞에서 몇 시간을 서 있었다니, 참 우직스럽군.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

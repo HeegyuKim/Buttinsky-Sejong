@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>노인우울증</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/31</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj 수정</mod_note>
+			</mod>
+			<note>2007/08/13(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">노인 우울증</var>
+			<str type="N_N">노인+우울증</str><!--'우울+증'으로 더 분석할 수 있음(권)-->
+			<org lg="si">老人憂鬱症</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>고령화와 핵가족화가 가속되면서 ~도 증가하고 있다.</eg>
+				<eg>할머니께서는 최근에 ~을 심하게 앓았다.</eg>
+				<trans>senile melancholia</trans>
+				<domain></domain>
+				<sem_class>질병및증세</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 심각하다</comb_aj>
+				<comb_n type="compound">~ 환자</comb_n>
+				<comb_n type="compound">~ 예방</comb_n>
+				<comb_n type="compound">~ 검사</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 걸리다</form>
+					<frame>X-이 ~이 걸리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 생기다</form>
+					<frame>X-이 ~이 생기다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 빠지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 시달리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 앓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 예방하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 치료하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

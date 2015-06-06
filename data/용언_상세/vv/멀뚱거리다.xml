@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>멀뚱거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/05/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">말똥거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>시각적행위</sem_class>
+				<trans>roll one's eyes with puzzled look</trans>
+				<lr>
+					<syn type="perfect">꿈벅거리다</syn>
+					<hyper>뜨다</hyper>
+					<hyper>굴리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">(눈|눈알)</sel_rst>
+					<eg>집값은 눈에 보이지만 땅값은 현실적으로 눈에 안보이기 때문에 우리는 눈만 멀뚱거리고 있는 꼴이다.</eg>
+					<eg>배 고픈 아이들은 다들 밖에서 대문고리만 잡고 옹기종기 모여 앉아 눈만 멀뚱거리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

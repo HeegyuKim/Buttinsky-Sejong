@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>고용안정</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_n 수정;sense 2 추가(행위)</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>~론|성</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">고용 안정</var>
+			<str type="N_N">고용+안정</str>
+			<org lg="si">雇傭安定</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>IMF 이후 ~은 옛말이 되었다.</eg>
+				<trans>employment stabilization</trans>
+				<domain></domain>
+				<sem_class>경제현상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">고용불안</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~정책</comb_n> <!-- ~론|~성-> add로 이동(송근영) -->
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>~을 이루는 것이 올해 정부의 최대 목표이다.</eg>
+				<trans>employment stabilization</trans>
+				<domain></domain>
+				<sem_class>상황값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~정책</comb_n> <!-- ~론|~성-> add로 이동(송근영) -->
+				<comb_v type="npred_vsupvar"> <!-- 사건 의미에는 X 논항 추가가 어려워 보여 행위 의미를 분리하여 센스1에 있던 동사결합정보 제시(송근영) -->
+					<form vcompound="no">~을 이루다</form>
+					<frame>X-이 ~을 이루다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 달성하다</form>
+					<frame>X-이 ~을 달성하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 유지하다</form>
+					<frame>X-이 ~을 유지하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">국가|국가기관</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

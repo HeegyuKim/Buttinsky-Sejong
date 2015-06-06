@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헤집다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/24</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>dig up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">지상장소|구체물|구체물의부분</sel_rst>
+					<eg>그들은 갯벌 여기저기를 헤집으며 낙지를 잡아냈다.</eg>
+					<eg>그 놈이 온 시장을 헤집고 다니는 바람에 사람들에게 욕을 잔뜩 먹었다.</eg>
+					<eg>그 여자는 가득 쌓인 옷들을 헤집고는 목걸이를 찾아냈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">불(불)</sel_rst>
+					<eg>어머님은 모닥불을 헤집어서 불을 살렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>dig up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">숲(숲|밀림)|일시적집단(군중|시위대)|현상(물결|파도)|(안개|구름)</sel_rst>
+					<eg>사람들 사이를 헤집고 다니지 마라.</eg>
+					<eg>안개를 헤집고 한 사람의 그림자가 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>tear up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(두려움|분노|고독)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">개체상황(가슴|마음)|(의식|생각)</sel_rst>
+					<eg>그에 대한 분노가 가슴을 헤집고 파고들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

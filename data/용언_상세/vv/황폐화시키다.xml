@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>황폐화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">황폐화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">荒廢化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>devastate</trans>
+				<trans>lay waste</trans>
+				<trans>lay in ruins</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>무분별한 개발이 농촌을 황폐화시키고 있다.</eg>
+					<eg>동아프리카 지역을 황폐화시키고 있는 가뭄이 천만 명이 넘는 지역민들에게 심각한 영향을 미치고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>devastate</trans>
+				<trans>lay waste</trans>
+				<trans>lay in ruins</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|속성(생활|삶)|심리상태(정서|감정)</sel_rst>
+					<eg>물질만능주의가 아이들의 정서를 황폐화시키고 있다.</eg>
+					<eg>도박이 그의 삶을 황폐화시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

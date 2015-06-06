@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상담센터</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>센스구분 확인</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스 번호 추가;명사연어 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>단위표현에 '개, 개소' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xx">상담센타</var> <!--각각의 변이형 분리기술(김)-->
+			<var type="xx">상담샌터</var>
+			<var type="xx">상담샌타</var>
+			<var type="spr">상담 센터</var>
+			<str type="N_N">상담+센터</str>
+			<org lg="si">相談__</org>
+			<org lg="en">__center</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1"> <!--다의 구분하지 않고 '기관'으로 통합. 센스2 삭제(김)-->
+			<sem_grp>
+				<eg>얼마전 여성 문제 전문 ~가 문을 열었다.</eg>
+				<eg>구청에서는 청사 안에 장애인 전용 ~를 개장했다.</eg> <!--예문 수정(김)-->
+				<trans>consultation office</trans> <!--대역어 관사 삭제(김)-->
+				<domain></domain>
+				<sem_class>기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">여성 ~</comb_n>
+				<comb_n type="compound">유학 ~</comb_n>
+				<comb_n type="compound">아동 ~</comb_n>
+				<comb_n type="compound">가족 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 열다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개설하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+				<cl type="uni">개소</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

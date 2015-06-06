@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고약하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>선택제약 부분 분할, 격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be nasty</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새|맛속성값</sel_rst>
+					<eg>돼지 축사에서 나오는 냄새가 고약하다.</eg>
+					<eg>아침에 남편이 음식을 먹다가 반찬 맛이 고약하다고 불평했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be ill-natured</trans>
+				<trans>be evil</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|품격속성|몸짓및동작|소통행위|(말씨|버릇|습관)</sel_rst>
+					<eg>그 녀석은 말버릇이 너무 고약하다.</eg>
+					<eg>그 부잣집 막내딸은 성질이 너무 고약해서 한번 당해 본 사람이면 누구도 가까이 하려 하지 않는다.</eg>
+					<eg>이 여자는 외모는 아름다운데 마음씨가 고약하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be ugly</trans>
+				<trans>be grotesque</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양</sel_rst>
+					<eg>나에게 불쑥 말을 건 그 낯선 남자의 생김새가 너무 고약해서 나는 흠칫 놀랐다.</eg>
+					<eg>이 가위는 손잡이 모양이 고약해서 사용하기 너무 불편하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be hard</trans>
+				<trans>be troublesome</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지속적활동</sel_rst>
+					<eg>그런 종류의 일은 처리하는 과정이 너무 고약해서 아무도 맡으려고 하지 않는다.</eg>
+					<eg>결국 그 순진한 남자는 고약한 일에 걸려 들고 말았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S기</sel_rst>
+					<eg>그 책은 읽기가 고약하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be unreasonable</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관습|(인심)</sel_rst>
+					<eg>이 동네 인심은 너무 고약해서 이웃이 무슨 일을 당해도 아무도 도와주지 않는다.</eg>
+					<eg>남아선호의 풍조는 고약한 관습이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be harmful</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물|상황</sel_rst>
+					<eg>맑고 좋은 공기를 마시면 건강에 좋지만 탁하고 고약하며 더러운 공기를 마시면 건강에 해롭다.</eg>
+					<eg>이 지역의 환경이 고약해서 주거지로는 적절하지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>기상상태</sem_class>
+				<trans>be bad</trans>
+				<lr>
+					<syn type="perfect">고약스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상</sel_rst>
+					<eg>이번 장마는 너무 길고 고약해서 사람들이 엄청난 스트레스를 받고 있다.</eg>
+					<eg>오늘 비가 오고 천둥이 치고 날씨가 아주 고약했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

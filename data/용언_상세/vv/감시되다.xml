@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">감시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">監視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be subject to sb's superintendence</trans>
+				<lr>
+					<syn type="perfect">감시받다</syn>
+					<syn type="perfect">감시당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|행위|사건</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>요주의 인물인 그 국제 테러리스트는 비밀요원에게 감시되고 있다.</eg>
+					<eg>그 재야인사의 활동은 하나하나 정보기관에 감시되어 상부에 보고 된다.</eg>
+					<eg>국회의 정상운영을 통해 정부의 예산 운영이 보다 효율적으로 감시되어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

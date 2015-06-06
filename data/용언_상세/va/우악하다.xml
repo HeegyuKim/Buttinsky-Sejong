@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>우악하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">우악스럽다</var>
+			<str>R.하</str>
+			<org lg="si">愚惡_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be studpid</trans> <!--"포악함" 보다 "어리석음"을 뜻하는 의미가 부각될 때 -->
+				<lr>
+					<syn type="perfect">우둔하다</syn>
+					<syn type="kor">미련하다</syn>
+					<ant type="grad">영악하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|행위</sel_rst>
+					<eg>제 몸에 칼이 꽂혀도 투우사에게 달려가는 검은 소가 우악하기만 했다.</eg>
+					<eg>흔히 삼국지의 장비는 우악하다고 보지만, 평론가에 따라 상당히 영악하다는 견해도 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be rough</trans>
+				<trans>be violent</trans>
+				<lr>
+					<syn type="perfect">포악하다</syn>
+					<syn type="kor">드세다</syn>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|신체부위|행위</sel_rst>
+					<eg>떡 버티고 있는 문지기가 그냥 보기에도 우악하다.</eg>
+					<eg>사냥꾼은 우악하게 덤벼드는 불곰을 겨냥하고 있었다.</eg>
+					<eg>권투선수가 링에 오르자마자 상대를 우악하게 몰아 부치고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

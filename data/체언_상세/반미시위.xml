@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>반미시위</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/6/30</cre_date>
+				<cre_writer>박재연</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note>조사 대표형으로 바꿈</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 의미부류 사회운동을 지속적활동으로 수정;센스2(사회운동) 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="R_N">반미+시위</str>
+			<org lg="si">反美示威</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>많은 사람들이 파병반대를 외치며 ~를 했다.</eg>
+				<trans>anti-American demonstration</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 극렬하다</comb_aj>
+				<comb_aj type="appr">~가 격렬하다</comb_aj>
+				<comb_n type="compound">~ 군중</comb_n>
+				<comb_n type="compound">~ 장소</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에서 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 벌이다</form>
+					<frame>X-이 Y-에서 ~를 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 막다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 주도하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에서의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">장소</sel_rst>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>시청 앞에서 파병반대를 외치는 ~가 있었다.</eg>
+				<trans>anti-American demonstration</trans>
+				<domain></domain>
+				<sem_class>사회운동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 극렬하다</comb_aj>
+				<comb_aj type="appr">~가 격렬하다</comb_aj>
+				<comb_n type="compound">~ 군중</comb_n>
+				<comb_n type="compound">~ 장소</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>Y-에서 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form>
+					<frame>Y-에서 ~가 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참가하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에서의 ~</max_n_str>
+				<sel_rst arg="Y">장소</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉맹하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">凶猛_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be brutal</trans>
+				<trans>be wicked</trans>
+				<trans>be wild</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">기질</n_appr>
+					<eg>그 사람은 타고난 성격이 흉맹하기 그지없었다.</eg>
+					<eg>한때 그는 전쟁터를 누비는 흉맹한 장수였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(기|기운|기상)|(표정|모습)</sel_rst>
+					<eg>말에 오른 장군의 얼굴에는 흉맹한 기운이 흘러넘쳤다.</eg>
+					<eg>작가는 초원을 누비는 사자의 흉맹한 모습을 사진에 담고 싶었다고 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

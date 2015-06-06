@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비둔하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">肥鈍_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be fat</trans>
+				<trans>be fleshy</trans>
+				<lr>
+					<syn type="perfect">둔하다</syn>
+					<syn type="perfect">비대하다</syn>
+					<syn type="kor">뚱뚱하다</syn>
+					<ant type="grad">날씬하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|관계구체물(몸|신체)</sel_rst>  <!--몸이나 신체를 말하는 것이므로 신체부위를 쓰지 않았음. 검토요망-->
+					<n_appr arg="X">몸</n_appr>
+					<n_appr arg="X">몸집</n_appr>
+					<eg>몸집이 너무 비둔해.</eg>
+					<eg>철수처럼 비둔한 사람은 정말 싫어.</eg>
+					<eg>비둔한 사람들이 더위를 잘 타지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be slow moving</trans>
+				<lr>
+					<syn type="perfect">둔하다</syn>
+					<syn type="kor">굼뜨다</syn>
+					<ant type="compl">민첩하다</ant>
+					<ant type="compl">날래다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<n_appr arg="X">동작</n_appr>
+					<eg>동작이 너무 비둔해서 움직이기 싫어.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(동작|몸짓|움직임)|물리적행위</sel_rst>
+					<eg>동작이 너무 비둔해서 움직이기 싫어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

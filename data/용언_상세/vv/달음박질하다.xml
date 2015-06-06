@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달음박질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>의미부류 부분 수정</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">담박질하다</var>
+			<var type="abb">달음질하다</var>
+			<var type="spr">달음박질을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>rush</trans>
+				<trans>dash</trans>
+				<lr>
+					<syn type="perfect">뜀박질치다</syn>
+					<syn type="perfect">달리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>나는 어린 마음에도 어머니의 모습이 안타까워서 집으로 달음박질했다.</eg>
+					<eg>청년은 맨발인 것에 아랑곳하지 않고 긴 다리를 겅중거리며 그쪽으로 달음박질했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>rush</trans>
+				<trans>dash</trans>
+				<lr>
+					<syn type="perfect">뜀박질치다</syn>
+					<syn type="perfect">달리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>나는 밀려오는 부끄러움의 압박감 때문에 견디지 못하고 언덕길을 달음박질해서 집으로 돌아왔다.</eg>
+					<eg>순구는 자신을 놀리는 소리들이 싫어 도망치듯 층계를 달음박질했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>유별나다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">별나다</var>
+			<str>R.나</str>
+			<org lg="si">有別_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be unusual</trans>
+				<trans>be uncommon</trans>
+				<lr>
+					<syn type="perfect">특이하다</syn>
+					<syn type="perfect">독특하다</syn>
+					<syn type="vulgar">튀다</syn>
+					<ant type="grad">평범하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|속성|행위|상태</sel_rst>
+					<eg>그 아이는 성격이 좀 유별나다.</eg>
+					<eg>오늘따라 우리 선생님 말투가 유별나다.</eg>
+					<eg>아무리 유행이라지만, 저 친구 옷차림이 너무 유별난 거 아냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be special</trans>
+				<trans>be extraordinary</trans>
+				<lr>
+					<syn type="perfect">특별하다</syn>
+					<ant type="grad">비범하다</ant>
+					<ant type="grad">고만고만하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성|속성값</sel_rst>
+					<eg>이 지방의 고추는 유별나게 맵다.</eg>
+					<eg>금강산의 빼어난 산새와 절경은 아주 유별나다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">특별하다</syn> <!--'우대하다' '박대하다' 등 긍정 및 부정의 의미를 포함.-->
+					<ant type="grad">무심하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-이 A</frame> <!--3가 형용사의 경우 X,Y,Z 확인바람-->
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst> <!--THM 보다는 의미적 행위주로 볼 수 있을 듯-->
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위|심리상태</sel_rst> <!-- 생략되는 경우가 많음 -->
+					<eg>새로 오신 선생님이 학생들에게 관심이 유별나다.</eg>
+					<eg>그 친구 요즘 저 여학생에게 좀 유별나지 않아?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

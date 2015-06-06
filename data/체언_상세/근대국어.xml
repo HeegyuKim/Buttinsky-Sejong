@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>근대국어</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>ant 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/02</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">근대 국어</var>
+			<str type="N_N">근대+국어</str>
+			<org lg="si">近代國語</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~에서 현대국어의 여러 특징이 형성되었다.</eg>
+				<trans>modern Korean language</trans>
+				<domain></domain>
+				<sem_class>속성관계언어</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">고대국어</ant>
+					<ant type="grad">중세국어</ant>
+					<ant type="grad">현대국어</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="compound">~ 연구</comb_n>
+				<comb_n type="compound">~ 문법</comb_n>
+				<comb_n type="compound">~ 자료</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 형성되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

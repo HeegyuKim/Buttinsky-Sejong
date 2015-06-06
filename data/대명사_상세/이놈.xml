@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>이놈</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/09</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">요놈</var>
+			<str type="etc">이+놈</str>
+					<img type="xp">요놈</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~을 물볼기를 쳐서 내쫓아라</eg>
+				<reg>비어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~이 벌써 다섯살이라네</eg>
+				<reg>구어</reg>
+				<con>귀여움</con>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3" sem="1" num="singular" ref="human">
+			<sem_grp>
+				<eg>모두 ~이 한 잘못이니 용서하십시오</eg>
+				<reg>겸양</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="4" sem="2" num="singular" ref="human">
+			<sem_grp>
+				<eg>~, 어디 쏘다니다가 이제 돌아오느냐?</eg>
+				<reg>비어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="5" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>~은 별로 싱싱해 보이지 않네요</eg>
+				<eg>~의 세상 완전히 인륜도 없어지고 도덕도 없어졌네</eg>
+				<reg>비어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<etc_cnst>~의 N</etc_cnst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>풀어지다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/18</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/26</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/23</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>get loose</trans>
+				<trans>become untied</trans>
+				<lr>
+					<syn type="perfect">풀리다</syn>
+					<ant type="compl">묶이다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">줄(밧줄|끈)|(넥타이|사슬|상투|리본)</sel_rst>
+					<eg>밧줄이 풀어지자 배가 떠내려가기 시작했다.</eg>
+					<eg>리본이 풀어지고 상자가 열렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>moderate</trans>
+				<trans>become mild</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">날씨(날씨|기온|추위)</sel_rst>
+					<eg>추위가 풀어지니까 살 것 같다.</eg>
+					<eg>날씨가 많이 풀어져서 코트를 넣어 놓아도 될 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>relent</trans>
+				<trans>work out</trans>
+				<trans>be relieved</trans>
+				<trans>become bleared</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(몸|다리|팔|근육|신경)</sel_rst>
+					<eg>따뜻한 데에 들어오니까 몸이 풀어진다.</eg>
+					<eg>그는 다리가 풀어지면서 그대로 쓰러지고 말았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체상태(긴장|의식|피로|피곤)</sel_rst>
+					<eg>나는 긴장이 풀어져서 서 있을 수가 없었다.</eg>
+					<eg>철수의 의식은 순간 풀어졌고, 결국 그는 쓰러졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be solved</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(문제|수수께끼|암호)</sel_rst>
+					<eg>그 수수께끼는 도통 풀어지지 않는다.</eg>
+					<eg>암호가 풀어져야 다음 단계로 넘어갈 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be solved</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>나는 아직 그에 대한 원망이 풀어지지 않았다.</eg>
+					<eg>나와 그 아이들 사이의 감정은 쉽게 풀어지지 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>solve</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">식물(미역|다시마|김)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">액체</sel_rst>
+					<eg>미역이 물에 잘 풀어졌다.</eg>
+					<eg>다시마가 너무 말라서 잘 풀어지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>dissolve</trans>
+				<trans>melt</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">양념(설탕|소금)|(밀가루|커피)</sel_rst>
+					<sel_rst arg="Y" tht="MAT">액체|음식</sel_rst>
+					<eg>설탕이 물에 잘 풀어지지 않는다.</eg>
+					<eg>커피는 찬 물에 잘 풀어지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

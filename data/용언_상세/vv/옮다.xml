@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옮다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로|에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<eg>백제는 강북에서 강남으로 도읍을 옮긴 뒤에도 강북의 옛 도읍을 중시하고 때로는 강북의 북한성으로 옮아 있기도 하였다.</eg>
+					<eg>채 동지는 아픈 사람들을 돌보다가 스스로는 거의 병이 들 지경이 되어서 이곳을 떠나 다른 곳으로 옮아 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>get transferred</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물리학적대상(불|열)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물</sel_rst>
+					<eg>진동수가 같은 진동체 사이에는 진동의 에너지가 번갈아 옮아 변하게 됨을 알아본다.</eg>
+					<eg>반대편에서 역사로 진입하던 전동차가 단전으로 인해 움직이지 못하는 동안 여기에도 불이 옮아 붙었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class>
+				<trans>be infected</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-로|에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">미생물|전염병|질병및증세|(옻)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|신체부위</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|신체부위</sel_rst>
+					<eg>많은 신생아들이 한꺼번에 있고 감염 관리가 제대로 되지 않아 병이 옮는 경우도 있다.</eg>
+					<eg>손무좀이 걸린 손으로 몸을 긁거나 만지게 되면 바로 무좀균이 옮아 신체의 다른 부위 또는 손톱으로의 확산이 너무 쉽다는 것입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>be stained</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(물)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">옷</sel_rst>
+					<eg>어제 딸기를 먹다가 물이 바지에 옮았는데 빨아도 안 진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

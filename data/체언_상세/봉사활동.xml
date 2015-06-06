@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>봉사활동</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/07</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>예문 추가, n_aj 추가, n_n 기술, n_v 추가</mod_note>
+			</mod>
+			 <mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 유형 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">봉사 활동</var>
+			<str type="N_N">봉사+활동</str>
+			<org lg="si">奉仕活動</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>어머니는 불우한 이웃을 위한 ~에 평생을 바쳐온 분이다.</eg>
+				<eg>학생들은 거동이 불편한 노인들의 목욕을 돕는 등의 ~을 벌였다.</eg>
+				<eg>그들은 지난 16년간 미국 국제홀트아동복지회에서 ~을 해 왔다.</eg>
+				<trans>public welfare activities</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">꾸준한 ~</comb_aj>
+				<comb_aj type="appr" pred="no">활발한 ~</comb_aj>
+				<comb_n type="compound">자원 ~</comb_n>
+				<comb_n type="compound">학교 ~</comb_n>
+				<comb_n type="compound">농촌 ~</comb_n>
+				<comb_n type="compound">야외 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에 대한 ~을 하다</frame><!--좀 어색하더라도 'Y-에 대해'로 쓰는 것 아닌가요?(단순한 질문임-김이정)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 벌이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 펴다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--narg->npred, vpred->vsupvar로 수정(미현) -->
+					<form vcompound="no">~을 펼치다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!--narg->npred로 수정(미현)-->
+					<form vcompound="no">~을 전개하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 나가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 앞장서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 참가하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

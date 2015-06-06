@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>요절내다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>안소진 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">요절을 내다</var>
+			<str>NV</str>
+			<org lg="si">撓折_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>파괴행위</sem_class>
+				<trans>break a person in half</trans>
+				<lr>
+					<syn type="kor">죽이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|동물</sel_rst>
+					<eg>무슨 수를 쓰더라도 이 놈을 찾아내서 반드시 요절내고 말거야.</eg>
+					<eg>이 녀석 만나기만 해봐라. 내가 요절내고 말테다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>파괴행위</sem_class>
+				<trans>break</trans>
+				<trans>spoil</trans>
+				<trans>ruin</trans>
+				<trans>destroy</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>애가 리모콘을 가지고 노는 것을 보니 아무래도 요절내고 말겠구만.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

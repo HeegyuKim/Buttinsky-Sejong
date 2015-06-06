@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매립시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>sense영역 전반적인 검토요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>교차구문 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매립을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">埋立__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>fill in</trans>
+				<lr>
+					<syn type="perfect">매적시키다</syn>
+					<ant type="compl">굴착시키다</ant>
+					<ant type="compl">파다</ant>
+					<hyper>메우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">무생물</sel_rst>
+					<eg>한 염소 제조 회사가 이 지역을 유해 화학물질 80여종으로 무려 2만 2천톤 가까이 매립시켜 온 것이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">무생물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소</sel_rst>
+					<eg>한 염소 제조 회사가 운하에 발암물질을 포함한 유해 화학물질 80여종을 매립시켜 온 것이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>그곳은 다수의 분화구로부터 대량의 용암이 흘러나와 기존의 기복을 매립시켜 만든 대지이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

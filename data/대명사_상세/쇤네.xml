@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>쇤네</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/16</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str type="N_S">소인+네</str>
+			<org lg="si">小人_</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="np">~를 내붙이다</idm>
+		</idm_grp>
+		<sense n="1" sem="1" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 나이가 올해로 스물넷이 되었습니다</eg>
+				<eg>~의 외람됨을 용서하십시오</eg>
+				<reg>겸양</reg>
+				<lr>
+					<syn type="etc">소인</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>이</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

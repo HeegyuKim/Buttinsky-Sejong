@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대수롭잖다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">대수롭지않다</var>
+			<str>NSA</str><!--확신하기는 힘듦.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be trivial</trans>
+				<trans>be trifling</trans>
+				<lr>
+					<syn type="perfect">대수롭잖다</syn>
+					<syn type="sino">사소하다</syn>
+					<ant type="compl">대단하다</ant>
+					<ant type="compl">대수롭다</ant>
+					<ant type="compl">중요하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>그 사건이 대수롭잖아서가 아니라 사는 게 너무 벅차서 다들 모른 척한 것뿐이다.</eg>
+					<eg>잡지를 읽고 있던 아내는 나의 착각이 대수롭잖다는 듯 웃고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

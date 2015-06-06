@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신원보증서</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_n 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신원 보증서</var>
+			<str type="N_N">신원+보증서</str>
+			<org lg="si">身元保證書</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>합격자는 공증을 받은 ~를 제출해야 한다.</eg>
+				<eg>외국인이 입사하려면 한국인의 ~가 필요하다.</eg>
+				<trans>reference</trans>
+				<trans>character</trans>
+				<domain></domain>
+				<sem_class>증명서</sem_class> <!-- '발급하다, 발부하다'와 결합이 불가능한 듯한데, 이 부류로 볼 수 있는지? --><!--'발급하다'와 결합 가능(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">보증인의 ~</comb_n> <!-- '보증인'으로 논항과 비슷한데, 이 항목이 적절한지 --><!--lexfunc를 수정(김이정)-->
+				<comb_n type="compound">~ 사본</comb_n> <!-- '사본'의 논항으로 볼 수 있을 듯한데, 이 항목에 기술하는 것이 가능한지? --><!--lexfunc를 수정(김이정)-->
+				<comb_n type="compound">~ 서식</comb_n><!--lexfunc를 수정(김이정)-->
+				<comb_n type="compound">~ 양식</comb_n><!--lexfunc를 수정(김이정)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 공증하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">매</cl>
+				<cl type="uni">부</cl>
+				<cl type="uni">통</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

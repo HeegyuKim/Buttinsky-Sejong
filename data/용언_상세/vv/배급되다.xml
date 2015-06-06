@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>배급되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/01</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">배급이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<org lg="si">配給_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be distributed</trans>
+				<lr>
+					<syn type="perfect">분배되다</syn>
+					<syn type="perfect">배분되다</syn>
+					<syn type="perfect">배부되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(식물|동물|음식물)|구체인공물|텍스트담지물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>어릴 때 미군부대에서 배급되던 옥수수빵 생각이 난다.</eg>
+					<eg>모든 수재민들에게 쌀과 부식이 배급되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be distributed</trans>
+				<domain>영화</domain>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(영화)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간집단|장소</sel_rst>
+					<eg>한류열풍에 힘입어 한국 영화가 아시아 전역에 배급되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

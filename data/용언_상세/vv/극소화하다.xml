@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극소화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">극소화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">極小化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>minimalize</trans>
+				<lr>
+					<ant type="compl">극대화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<n_appr arg="Y">크기</n_appr>
+					<eg>사람들이 전쟁을 극소화하여 만든 것이 운동경기이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">극소화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">極少化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소행위</sem_class>
+				<trans>be minimalized</trans>
+				<lr>
+					<ant type="compl">극다화하다</ant>
+					<ant type="compl">극대화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상(손해|비용)</sel_rst>
+					<n_appr arg="Y">양</n_appr>
+					<eg>이 대리가 손해를 극소화할 수 있는 기획안을 제시하였다.</eg>
+					<eg>비용을 극소화하여 이윤을 극대화합시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

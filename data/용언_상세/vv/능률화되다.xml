@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>능률화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">능률화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">能率化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be efficient</trans>
+				<lr>
+					<syn type="perfect">효율화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(일|경영|행정|작업)</sel_rst>
+					<eg>이렇게 전산화되고 작업이 능률화되면 일은 한결 수월해집니다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분야(제조업)</sel_rst>
+					<eg>새로운 기술의 도입으로 제조업 분야가 많이 능률화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

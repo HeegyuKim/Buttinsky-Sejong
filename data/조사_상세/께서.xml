@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>께서</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/08/30</cre_date>
+				<cre_writer>박우성</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/17</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/11</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/18</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note>의미부류 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jks</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="hon">가</var>
+			<var type="hon">이</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>행위주</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=인간</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>아버지께서 들어오신다.</eg>
+				<eg>사장님께서 직접 회의를 주재하셨다.</eg>
+				<!--서술어에는 항상 존칭을 나타내는 선어말어미 '시'를 붙임|행위를 나타내는 동사와 공기.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>경험주</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=인간</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 소식을 들으시고 어머니께서 얼마나 놀라셨을까?</eg>
+				<eg>할머님께서 평소에 배를 좋아하셨지.</eg>
+				<!--서술어에는 항상 존칭을 나타내는 선어말어미 '시'를 붙임|심리동사나 감각동사, 인지동사와 공기.-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>서술대상</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=인간</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>요즘 선생님께서 무척 피곤해 하시는 것 같다.</eg>
+				<eg>작은아버지께서 과로로 쓰러지셨다.</eg>
+				<!--서술어에는 항상 존칭을 나타내는 선어말어미 '시'를 붙임.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

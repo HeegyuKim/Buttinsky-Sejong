@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>정도</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/12</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">程度</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>여기서 경주까지 네 시간 ~ 걸렸다</eg>
+				<lr>
+					<syn type="etc">쯤</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_n>N</pre_n>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>내 성적이 동생 ~만 되었으면 원이 없겠다</eg>
+				<eg>신부의 얼굴은 눈이 부실 ~로 아름다웠다</eg>
+				<lr>
+					<syn type="etc">만큼</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_ida>~이다</comb_ida>
+				<pre_n>N</pre_n>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

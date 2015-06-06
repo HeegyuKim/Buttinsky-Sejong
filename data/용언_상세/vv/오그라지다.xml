@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오그라지다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/21</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>contract</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>그 풀은 건조할 때면 가지와 잎이 오그라져 고사 형상을 하고 있다가 습기가 있으면 다시 펴지기 때문에 환양초라고 불리기도 한다.</eg>
+					<eg>구운 후의 마른 찻잎은 바짝 오그라져 있으며 은록색을 띠며 푸른색은 사람을 유혹할 정도이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>lose one's nerve</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(가슴|마음|몸|심장)|인간|인간집단</sel_rst>
+					<eg>그런 상황에서 우리는 무엇보다 자기 중심적이 되고 마음이 오그라져서 베풀고자 하는 마음을 가질 수 없게 됩니다.</eg>
+					<eg>나를 쳐다 보는 수많은 눈 앞에서 나는 가슴이 오그라지고 손이 떨려서 혀마저 굳어 버리는 것 같았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>밝혀지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/02</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class> <!--능동사인 '밝히다'는 [결과행위]이지만, '밝혀지다'는 반드시 어떤 agent에 의해 의도적으로 어떤 사실이 드러나지 않은 경우도 포괄하므로 행위로 처리하지 않음.-->
+				<trans>turn out</trans>
+				<trans>prove</trans>
+				<trans>come to light</trans>
+				<trans>be brought to light</trans>
+				<lr>
+					<syn type="sino">판명되다</syn>
+					<rel>밝히다</rel>
+					<rel>입증되다</rel>
+					<rel>드러나다</rel>
+					<rel>확인되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에의해 V</frame> <!--'Y=N1-로'를 논항으로 볼 가능성도 있으나 일단 제외함.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst> <!--논항으로 보는 게 좋을지 문제임.-->
+					<eg>그 사실이 김 기자에 의해 밝혀졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그가 범인임이 경찰에 의해 밝혀졌다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S것0-로 V</frame> <!--무주어문-->
+				<!--'Y=N1-에의해'는 매우 부자연스러운 듯-->
+				<subsense>
+					<sel_rst arg="X" tht="FNS"/>
+					<eg>경찰 조사 결과 그가 범인인 것으로 밝혀졌다.</eg>
+					<eg>범인은 그 동안 경찰의 수사망을 피해 다닌 것으로 밝혀졌다.</eg> <!--절 논항의 주어와 술부가 쪼개진 구문과 잘 구별 안 됨.-->
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN"> <!--위 용법에서 절 논항의 주어와 술부가 쪼개진 구문. 아예 센스를 구분하는 게 나을지도-->
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">온</sel_rst>
+					<eg>그의 주장은 거짓으로 밝혀졌다.</eg>
+					<eg>철수가 범인으로 밝혀졌다.</eg>
+					<eg>그 사건의 범인은 20대 중반의 남성으로 밝혀졌다.</eg>
+					<eg>그 무덤은 우리 할아버지의 것으로 밝혀졌다.</eg>
+				</subsense>
+				<subsense> <!--절 논항의 주어가 인상된 재구조화 구문과 구별이 잘 안 됨.-->
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>그의 주장은 오해에서 비롯된 것으로 밝혀졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst> <!--S음은 좀 부자연스러운 듯-->
+					<sel_rst arg="Y" tht="FNS">온</sel_rst>
+					<eg>적군이 최근 그렇게 행동한 것은 위장전술로 밝혀졌다.</eg>
+					<eg>그가 이 곡을 직접 작곡했다는 것이 사실로 밝혀졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst> <!--S음은 좀 부자연스러운 듯-->
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>적군이 그렇게 행동한 것은 아군을 유인하기 위한 것으로 밝혀졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

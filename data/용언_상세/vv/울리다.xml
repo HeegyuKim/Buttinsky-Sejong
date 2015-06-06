@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>울리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/02/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>영어대역어수정</mod_note>
+				<mod_note>격틀위치수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/31</mod_date>
+				<mod_writer>박철우</mod_writer>
+				<mod_note>사동사와 피동사를 구분함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V.리1</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>ring</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">(배|기차)</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리(뱃고동|기적|사이렌)</sel_rst>
+					<eg>기차가 기적을 울리며 달린다.</eg>
+					<eg>그 배는 뱃고동을 울리며 빠른 속도로 항구를 벗어났다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner1">땡땡</col>
+					<col type="manner1">둥둥</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>resound</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|교통기관(지하철|전차)</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소(벽|땅)</sel_rst>
+					<eg>지하철이 벽을 울리고 지나간다.</eg>
+					<eg>군인들이 군화로 길거리를 울리며 행진한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner1">쩌렁쩌렁</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>make sb cry</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>지호가 영희를 울렸다.</eg>
+					<eg>네 녀석이 감히 내 딸을 울려?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>peal</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리(뱃고동|기적|사이렌)|악기(북|종|나팔)</sel_rst>
+					<eg>북을 울려라.</eg>
+					<eg>종소리를 멀리멀리 울려라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>thunder</trans>
+				<trans>rumble</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">소리</sel_rst>
+					<sel_rst arg="Y" tht="THM">(성대|고막|귀청)</sel_rst>
+					<eg>전폭기의 폭음이 고막을 울렸다.</eg>
+					<eg>그의 고함 소리가 내 귀청을 울렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">소리</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소(강당|음악당)</sel_rst>
+					<eg>그의 우렁찬 목소리가 온 강당을 울렸다.</eg>
+					<eg>조수미의 아름다운 음성이 온 음악당을 울렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>move sb to tears</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">(심금|마음|가슴)|인간</sel_rst>
+					<eg>그 소설은 사람들의 심금을 울린다.</eg>
+					<eg>구조 대원의 헌신적 노력이 우리를 울렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=S것1|S음1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF"></sel_rst>
+					<sel_rst arg="Y" tht="THM">(심금|마음|가슴)</sel_rst>
+					<eg>영희가 사고로 죽은 것은 우리 마음을 울렸다.</eg>
+					<eg>그녀의 울부짖음이 내 가슴을 울린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>변죽만 울리다</idm>
+			<idm>경종을 울리다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/02/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>영어대역어수정</mod_note>
+				<mod_note>격틀위치수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/31</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>ring</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리(뱃고동|메아리)|악기</sel_rst>
+					<eg>종이 땡땡 울린다.</eg>
+					<eg>북이 둥둥 울린다.</eg>
+					<eg>뱃고동 울리는 소리가 들린다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner1">땡땡</col>
+					<col type="manner1">둥둥</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>resound</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(벽|땅|강당)</sel_rst>
+					<eg>땅이 울린다.</eg>
+					<eg>연사의 목소리에 온 강당이 쩌렁쩌렁 울린다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner1">쩌렁쩌렁</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

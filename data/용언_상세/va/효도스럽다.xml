@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>효도스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/06/01</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="u"/>
+			<str>NS</str>
+			<org lg="si">孝道_</org>
+			<infl type="b"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dutiful to one's parents</trans>
+				<lr>
+					<syn type="perfect">효성스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">비대칭적친족(아들|딸|자식|손자|손녀)|인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">비대칭적친족(부모|아버지|어머니|할아버지|할머니)|인간</sel_rst>
+					<eg>그는 부모에게 효도스러운 청년이다.</eg>
+					<eg>그 여자는 그처럼 효도스런 아들을 둔 것이 늘 감사했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

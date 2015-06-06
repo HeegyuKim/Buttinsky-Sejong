@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>변통하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/12</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">변통을 하다</var>
+			<str>N.하</str>
+			<org lg="si">變通_</org>
+		</morph_grp>
+		<sense> <!--표준사전 센스2: 돈이나 물건 따위를 융통하다-->
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>borrow</trans>
+				<trans>rent</trans>
+				<trans>lease</trans>
+				<lr>
+					<syn type="perfect">융통하다</syn>
+					<syn type="kor">빌리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|구체물|금전</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>그는 한 친구에게서 사업 자금을 변통해서 썼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--돈이나 물건 따위를 빌려주다. 주로 '변통해 주다'의 꼴로 쓰임.-->
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>lend</trans>
+				<lr>
+					<syn type="kor">빌려주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈|구체물|금전</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>자네 나한테 500만원쯤 변통해 줄 수 있겠나?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--표준사전 센스1: 형편과 경우에 따라서 일을 융통성 있게 잘 처리하다-->
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>manage</trans>
+				<trans>arrange</trans>
+				<trans>contrive</trans>
+				<trans>adapt</trans>
+				<trans>make shift</trans>
+				<trans>scratch along</trans>
+				<trans>make out</trans>
+				<lr>
+					<syn type="etc">변통을 내다</syn>
+					<syn type="etc">변통을 부리다</syn>
+					<rel>임시변통</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">지속적활동|행위|계획사건|추상적대상|구체물</sel_rst>
+					<eg>그는 낡은 책상을 하나 주워다가 이리저리 변통해서 지금까지 잘 쓰고 있다.</eg>
+					<eg>우리 조상들은 한글이 만들어지기 전에, 한자를 이리저리 변통해서 우리말을 표기하려고 노력했으나 여간 불편하지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

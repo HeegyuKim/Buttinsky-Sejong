@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>광범위하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>선택제약 재고 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">廣範圍_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be extensive</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>스트레스성 성장 부진은 호르몬 투여, 약물복용, 상담 조언 등 선택할 수 있는 치료 방법은 매우 광범위하다.</eg>
+					<eg>북한 문제는 핵 확산에서 인권까지 광범위하다.</eg>
+					<eg>고구마는 척박한 토양에도 잘 자라며 토양을 가리지 않아 재배 적지가 광범위하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

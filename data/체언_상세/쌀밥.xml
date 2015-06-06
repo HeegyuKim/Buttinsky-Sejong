@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>쌀밥</orth>
+	<entry n="1" pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/15</cre_date>
+				<cre_writer>목정수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/07/15</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/09/27</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/10/20</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/01/15</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/23</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2003/07/15(목정수) cl수정</note>
+			<note>add옮김</note>
+			<add>~을 먹다</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="N_N">쌀+밥</str>
+			<org lg="temp"></org>
+		
+			<hom exist="temp"></hom>
+			<der pos="temp" type="temp"></der>
+			<comp pos="temp" type="temp"></comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="temp"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그 형제는 ~을 먹어본 지가 꽤 오래 되었다.</eg>
+				<trans>boiled rice</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<curs type="C"/>
+				<sem_class>음식</sem_class>
+				<lr>
+					<syn type="etc">미반</syn>
+					<syn type="etc">백반</syn>
+					<syn type="etc">옥식</syn>
+					<syn type="etc">이밥</syn>
+					<syn type="etc">입쌀밥</syn>
+					<syn type="etc">옥식</syn>
+					<syn type="etc">흰밥</syn>
+					<ant type="temp"></ant>
+					<hyper>밥</hyper>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">흰 ~</comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 짓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">그릇</cl>
+				<cl type="uni">공기</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

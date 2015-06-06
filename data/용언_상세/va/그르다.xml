@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>그르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/11</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be wrong</trans>
+				<lr>
+					<syn type="etc">옳다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">행위</n_appr>
+					<eg>무조건 나는 옳고 너는 그르다는 생각은 모든 갈등의 시작이다.</eg>
+					<eg>테러집단이 그르다는 것은 누구나 다 안다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be wrong</trans>
+				<lr>
+					<syn type="etc">옳다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>논쟁에서 상대방의 의견이 그르다는 생각이 들더라도 존중해야 한다.</eg>
+					<eg>그의 논증이 그르다는 것을 밝히는 것이 내 논문의 목적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class> <!-- 시제 제약 -->
+				<trans>be hopeless</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건</sel_rst>
+					<eg>이제는 일이 잘 되기는 영 글렀다.</eg>
+					<eg>지난 번 실수로 김 대리의 올해 승진은 글렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class> <!-- 시제 활용 제약 -->
+				<trans>be bad</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성|상태</sel_rst>
+					<eg>오늘은 날씨가 글러서 야유회는 포기해야겠다. </eg>
+					<eg>이번 특집공연에서는 사회자의 옷이 글렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

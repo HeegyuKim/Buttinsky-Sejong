@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>건축구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/012/29</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note>var type 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc">건축 구조</var>
+			<str type="N_N">건축+구조</str>
+			<org lg="si">建築構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번에 발굴된 '고구려 고분군'은 벽화가 미적으로 훌륭하고 능묘의 천장 구조 등 ~가 독특하다.</eg>
+				<trans>building construction</trans>
+				<domain></domain>
+				<sem_class>구조</sem_class><!--송신지; 배포된 의미부류 파일에서 적당한 의미부류를 찾기 어려움-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 설계</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설계하다</form>
+					<frame>X-이 ~를 설계하다</frame>
+				</comb_v>
+				<max_n_str>X-이 Y-의|에 대해 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">건축물</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

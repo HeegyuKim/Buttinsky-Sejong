@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+<orth>우민화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/20</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>안소진 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">우민화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">愚民化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>make people ignorant</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단(백성|국민)</sel_rst>
+					<eg>독재정부는 백성을 우민화해서 그들이 반항하지 않기를 바랐다.</eg>
+					<eg>독재자들은 국민을 우민화하여서 그들로 하여금 자기의 통치를 긍정적으로 받아들이게 하게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>구멍가게</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>센스 구분 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sem'기업'정도에 해당하는 센스를 하나 더 즉, 센스를 3개로 해야할 듯</mod_note><!--센스3 추가(김)-->
+				<mod_note>n_n추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>센스3의 n_v 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">구멍+가게</str>
+			<org lg="etc"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 ~에는 물건도 별로 없다.</eg>
+				<eg>초등학교 앞 ~에 하교길 아이들이 몰려 든다.</eg>
+				<trans>small shop</trans>
+				<trans>small store</trans>
+				<trans>mom and pop store</trans>
+				<domain></domain>
+				<sem_class>상업건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="min" pred="no">작은 ~</comb_aj>
+				<comb_n type="compound">동네 ~</comb_n>
+				<comb_n type="compound">~ 주인</comb_n><!--추가(권)-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 드나들다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>우리는 영화업을 기존의 ~가 아닌 하나의 산업으로 안정화시켜 나갈 것이다.</eg>
+				<eg>한때 ~에 불과했던 벤처기업이 대규모 투자를 결정할 수 있을 만큼 성장했다.</eg>
+				<trans>small shop</trans>
+				<trans>small store</trans>
+				<trans>mom and pop store</trans>
+				<domain></domain>
+				<sem_class>정도속성값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 규모</comb_n><!--추가(권)-->
+				<comb_n type="compound">~ 수준</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이다</form>
+					<frame>X-이 ~이다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">산업|기업</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>우리 동네 ~는 그래도 빚은 없다.</eg>
+				<eg>사이다라도 한 병 사서 ~를 도와주자.</eg>
+				<trans>small shop</trans>
+				<trans>small store</trans>
+				<trans>mom and pop store</trans>
+				<domain></domain>
+				<sem_class>기업</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 차리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 운영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

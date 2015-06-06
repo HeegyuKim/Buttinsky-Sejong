@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꿀리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/01</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/01</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/30</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>be overwhelmed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|(힘|능력)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단|(힘|능력)</sel_rst>
+					<eg>상대방에게 힘이 꿀리면 승리할 수 없다.</eg>
+					<eg>세입자들은 왠지 집주인에게 꿀리는 느낌을 받는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>be crumpled</trans>
+				<trans>be rumpled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(의복|바지|모자)</sel_rst>
+					<eg>오래 앉아 있었는데도 바지가 꿀리지 않아서 다행이다.</eg>
+					<eg>어디서 꿀린 모자를 쓰고 나타나서는 잘난 척이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>be impoverished</trans>
+				<trans>be hard up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(형편|살림|세력)</sel_rst>
+					<eg>가정 형편이 꿀려서인지 자신감이 없다.</eg>
+					<eg>살림이 꿀려서 어디 가서 얘기도 못하겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>have something on one's conscience</trans>
+				<lr>
+					<syn type="perfect">켕기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|행위(일)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(마음)</sel_rst>
+					<eg>그와의 일이 마음에 좀 꿀렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(마음)</sel_rst>
+					<eg>아이를 심하게 야단친 것이 마음에 꿀렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

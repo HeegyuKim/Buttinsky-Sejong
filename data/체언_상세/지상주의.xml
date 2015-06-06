@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지상주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>trans검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/14</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>trans 수정했으나 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>str의 N_N을 N_S로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지상 주의</var>
+			<str type="N_S">지상+주의</str>
+			<org lg="si">至上主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>공교육의 파괴는 성적 ~가 몰고 온 결과이다.</eg>
+				<eg>불륜이나 이혼 등 아침 드라마의 자극적인 소재들은 방송사의 시청률 ~를 잘 드러내고 있다.</eg>
+				<trans>supremacy</trans>
+				<domain></domain>
+				<sem_class>사조</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 만연하다</comb_aj>
+				<comb_n type="compound">~의 노예</comb_n>
+				<comb_n type="compound">~의 폐해</comb_n>
+				<comb_n type="compound">개발 ~</comb_n>
+				<comb_n type="compound">경제 ~</comb_n>
+				<comb_n type="compound">국가 ~</comb_n>
+				<comb_n type="compound">권력 ~</comb_n>
+				<comb_n type="compound">권위 ~</comb_n>
+				<comb_n type="compound">근대화 ~</comb_n>
+				<comb_n type="compound">남성 ~</comb_n>
+				<comb_n type="compound">문화 ~</comb_n>
+				<comb_n type="compound">물질 ~</comb_n>
+				<comb_n type="compound">미모 ~</comb_n>
+				<comb_n type="compound">민족 ~</comb_n>
+				<comb_n type="compound">생산 ~</comb_n>
+				<comb_n type="compound">성서 ~</comb_n>
+				<comb_n type="compound">소비 ~</comb_n>
+				<comb_n type="compound">애정 ~</comb_n>
+				<comb_n type="compound">언어 ~</comb_n>
+				<comb_n type="compound">연애 ~</comb_n>
+				<comb_n type="compound">예술 ~</comb_n>
+				<comb_n type="compound">입시 ~</comb_n>
+				<comb_n type="compound">자유 ~</comb_n>
+				<comb_n type="compound">종교 ~</comb_n>
+				<comb_n type="compound">통일 ~</comb_n>
+				<comb_n type="compound">평화 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 바로잡다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

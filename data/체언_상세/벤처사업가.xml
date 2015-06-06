@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>벤처사업가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">벤처 사업가</var>
+			<str type="N_N">벤처+사업가</str>
+			<org lg="en">venture___</org>
+			<org lg="si">__事業家</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>일부 ~의 일탈된 행동들이 자주 언론에 오르내리고 사회의 비판대상이 되어오고 있다.</eg>
+				<eg>대부분의 ~들은 지금도 밤을 낮삼아 새로운 비즈니스 모델과 기술을 개발하기 위해 노력하고 있다.</eg>
+				<trans>venture business man</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="perfect">벤처기업인</syn>
+					<syn type="perfect">벤처경영인</syn>
+					<syn type="perfect">벤처기업가</syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대거리하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대거리를 하다</var>
+			<str>N.하</str>
+			<org lg="si">對___</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대답</sem_class>
+				<trans>talk back</trans>
+				<trans>retort</trans>
+				<lr>
+					<syn type="perfect">말대꾸하다</syn>
+					<syn type="kor">대들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|소통행위</sel_rst>
+					<eg>그녀는 역시 지지 않고 그 남자에게 퉁명스럽게 대거리하였다.</eg>
+					<eg>그 남자는 작업장에서 행패를 부리는 선원에게 입과 몸으로 거칠게 대거리했다.</eg>
+					<eg>그 막무가내인 사람의 말에 대거리해봤자 아무 소용이 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

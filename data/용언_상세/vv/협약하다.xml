@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협약하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/02</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협약을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">協約_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>conclude an agreement</trans>
+				<lr>
+					<hyper>약속하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간집단</sel_rst>
+					<eg>한국은 중국과 서로 문화 교류 를 협약했다.</eg>
+					<eg>회사측은 노조측과 공장 가동 정상화 문제를 협약했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X+Z=N0-이 (서로) Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간집단</sel_rst>
+					<eg>한국과 중국이 서로 문화 교류를 협약했다.</eg>
+					<eg>회사측과 노조측은 공장 가동 정상화 문제를 협약했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="02">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"/>
+					<sel_rst arg="Z" tht="COM">인간집단</sel_rst>
+					<eg>한국은 중국과 서로 다양한 차원의 문화 교류를 추진하기로 협약했다.</eg>
+					<eg>회사측은 노조측과 조속한 시일 안에 공장 가동을 정상화하기로 협약했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="02">
+				<frame>X+Z=N0-이 (서로) Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"/>
+					<sel_rst arg="Z" tht="AGT">인간집단</sel_rst>
+					<eg>한국과 중국이 다양한 차원에서 상호 문화교류를 추진하기로 협약했다.</eg>
+					<eg>회사측과 노조측은 조속한 시일 안에 공장 가동을 정상화하기로 협약했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>구성요소</orth>
+	<entry pos="nng_c">
+		<mnt_grp> <!--이홍식/이광호, 김이정/권오희 중복 기술. 통합함-->
+			<cre>
+				<cre_date>2004/08/26</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">구성 요소</var>
+			<str type="N_N">구성+요소</str>
+			<org lg="si">構成要素</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>국가경쟁력의 첫 번째 ~는 국민의 지력, 정보력, 기술력이다.</eg>
+				<eg>도시 중앙을 흐르는 큰 하천은 도시로서의 기능을 제대로 하도록 하는 매우 중요한 ~다.</eg>
+				<eg>아미노산은 인체의 20%를 구성하는 단백질의 기본 ~다.</eg>
+				<eg>이제 외국인 근로자는 우리 경제의 중요한 ~로서 자리잡고 있다.</eg>
+				<trans>element</trans>
+				<trans>important factor</trans>
+				<trans>essential part</trans>
+				<trans>constituent</trans>
+				<trans>constituent element</trans>
+				<trans>member</trans>
+				<trans>immediate constituent</trans>
+				<domain></domain>
+				<sem_class>부분</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 다양하다</comb_aj>
+				<comb_aj type="appr">~가 중요하다</comb_aj>
+				<comb_n type="compound">~(의) 분석</comb_n>
+				<comb_n type="lexfunc">주요 ~</comb_n>
+				<comb_n type="compound">기본 ~</comb_n>
+				<comb_n type="compound">핵심 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 분석하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 분석하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 나누다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 나누다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 이루다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

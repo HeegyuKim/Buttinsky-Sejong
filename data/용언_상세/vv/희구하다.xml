@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희구하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/19</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">희구를 하다</var>
+			<str>N.하</str>
+			<org lg="si">希求_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="kor">바라다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>우리 모두는 인간의 존엄성이 지켜지는 평등한 사회를 희구합니다.</eg>
+					<eg>그는 진정한 깨달음을 희구하며 수도 생활에 들어갔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S기</sel_rst>
+					<eg>우리는 이 아이들이 바르게 자라 이 사회를 이끌어 가는 지도자가 되기를 진심으로 희구합니다.</eg>
+					<eg>그 사람은 이 지역 사회가 발전하기를 희구하는 마음에서 자신의 재산을 기부하기도 했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

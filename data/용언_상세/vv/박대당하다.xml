@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>박대당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_note>표제어로 그다지 적절하지 않음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태정보수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">박대를 당하다</var>
+			<str>N.당</str>
+			<org lg="si">薄待當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get treated in a cold way</trans>
+				<lr>
+					<syn type="perfect">냉대당하다</syn>
+					<syn type="perfect">괄대당하다</syn>
+					<syn type="perfect">푸대접당하다</syn>
+					<ant type="compl">환대받다</ant>
+					<ant type="compl">후대받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>전날 방송사를 찾았다가 냉수 한잔 못 얻어 마시고 박대당해 화가 난 대표가 다시 한번 방문한 것이다.</eg>
+					<eg>기쁨도 잠시 그 남자는 그녀에게 범죄자라는 전력 때문에 문전 박대당한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

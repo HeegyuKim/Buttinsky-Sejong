@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희사하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/22</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/07</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note>센스 둘로 구분</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+				<mod_note>구분된 센스를 동일 센스의 두 프레임그룹으로 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">희사를 하다</var>
+			<str>N.하</str>
+			<org lg="si">喜捨_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>give alms</trans>
+				<trans>give in charity</trans>
+				<trans>give a donation</trans>
+				<trans>donate</trans>
+				<trans>offer</trans>
+				<lr>
+					<syn type="perfect">기부하다</syn>
+					<hyper>주다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그는 모든 재산을 자선 단체에 희사했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">행위</sel_rst>
+					<eg>그는 불우이웃을 돕는 일에 전 재산을 희사했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">S데</sel_rst>
+					<eg>그는 불우이웃을 돕는 데에 전 재산을 희사했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

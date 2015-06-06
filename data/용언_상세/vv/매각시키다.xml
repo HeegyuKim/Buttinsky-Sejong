@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매각시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매각을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">賣却__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>sell</trans>
+				<lr>
+					<syn type="perfect">매도시키다</syn>
+					<syn type="perfect">매출시키다</syn>
+					<syn type="kor">팔다</syn>
+					<ant type="conv">매입시키다</ant>
+					<ant type="conv">매수시키다</ant>
+					<ant type="conv">사다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소|추상적대상(권리|아이디어|작품)</sel_rst>
+					<eg>그 은행은 카드사 사옥을 매각시켜 카드사 부실에 따른 손실을 만회하는 방안을 신중히 검토 중인 것으로 알려졌다.</eg>
+					<eg>주택자금 대출기관은 저당권을 근거로 발행한 주택저당채권을 유동화 중 개기관에 매각시켜 대출자금을 회수하고 일정한 수수료를 받는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

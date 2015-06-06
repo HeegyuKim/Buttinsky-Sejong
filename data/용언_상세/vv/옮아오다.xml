@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옮아오다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/08</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="eo"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|동물</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<eg>개구리는 탄생하기 전의 아이처럼 물 속에서 삶을 시작해서 변태를 겪고 땅으로 옮아온다.</eg>
+					<eg>바이칼 호를 중심으로 일어나 동쪽으로 옮아온 겨레는 배달 민족이 되고, 서쪽 천산 방면으로 옮겨간 겨레는 알타이 족이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class>
+				<trans>infect</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">전염병|미생물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">생물|장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">생물|장소</sel_rst>
+					<eg>이미 정복됐거나 관리 가능하게 된 대부분의 전염병은 동물에서 옮아온 인수 공통의 전염병이다.</eg>
+					<eg>일본에서 올 장마철에 크게 유행한 바이러스가 한국으로 옮아온 것으로 추정된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

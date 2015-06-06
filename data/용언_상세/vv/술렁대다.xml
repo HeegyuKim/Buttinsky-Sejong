@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>술렁대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>make a noise</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|장소</sel_rst>
+					<eg>이번 도청사건으로 온 나라가 술렁대기 시작했다.</eg>
+					<eg>사람들이 술렁대길래 왜 그런가 했더니, 홍명보가 왔다고 먼발치서 다들 사진찍고 그런다.</eg>
+					<eg>고력사가 이 말을 아뢰기 곤란하다고 하자 병사들은 크게 술렁댔다.</eg>
+					<eg>선생님이 암에 걸리셨다는 소식에 교실이 술렁대기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

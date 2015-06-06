@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뼈저리다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_note>동사 목록에 있었지만 형용사로 돌림. 어쩌면 형용사로 이미 기술된 원고가 있을수도 있으므로 대조 필요.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/08/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+				<mod_note>박철우 원고와 박보연 원고를 박진호가 통합</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be to the core</trans>
+				<trans>be pierce</trans>
+				<trans>be keen</trans>
+				<trans>be severe</trans>
+				<lr>
+					<syn type="etc">뼈아프다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">내재적심리행위|인지적행위(반성|비판)</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>그녀가 돌아돌 때까지 내 잘못에 대해 뼈저린 반성을 했다.</eg>
+					<eg>시대 분위기를 이렇게 타락시킨 우리가 뼈저린 자성을 해 보아야 한다.</eg>
+					<eg>독수공방의 뼈저린 외로움에 오랜 세월 배갯잇을 눈물로 적셔온 그녀였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>뼈저린</infl_rst>
+			<infl_rst>뼈저리게</infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

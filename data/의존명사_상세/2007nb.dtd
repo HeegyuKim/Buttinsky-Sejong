@@ -1,0 +1,92 @@
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, see?, morph_grp?, idm_grp?, sense+)>
+<!ATTLIST entry pos (nb|nbab) #REQUIRED>
+
+<!ELEMENT mnt_grp (cre, mod*, note*)>
+<!ELEMENT cre (cre_date, cre_writer)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT mod (mod_date, mod_writer, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT see (#PCDATA)>
+
+<!ELEMENT morph_grp (var*, str?, org*, symb?, hom?, der*, comp*, metc*, img*)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (xs|xd|xx|abb|lng|spr|etc) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+<!ATTLIST str type (N_N|R_N|N_R|R_R|N_Vn|Vn_N|R_Vn|Vn_R|NsN|Vm_N|Am_N|N_S|R_S|V_S|A_S|P_N|P_R|fN_N|N_Nf|fN_Nf|FLW|Ad_N|etc|temp) #REQUIRED>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (si|en|fr|de|ja|it|ru|etc|ko) #REQUIRED>
+<!ELEMENT symb (#PCDATA)>
+<!ELEMENT hom EMPTY>
+<!ATTLIST hom exist (yes) #REQUIRED>
+<!ELEMENT der (#PCDATA)>
+<!ATTLIST der pos (n|v|a|av) #REQUIRED>
+<!ATTLIST der type (suffix|prefix) #REQUIRED>
+<!ELEMENT comp (#PCDATA)>
+<!ATTLIST comp pos (n|v|a|av) #REQUIRED>
+<!ATTLIST comp type (suffix|prefix) #REQUIRED>
+<!ELEMENT metc (#PCDATA)>
+<!ATTLIST metc pos (n|v|a|av) #REQUIRED>
+<!ATTLIST metc type (suffix|prefix|etc) #REQUIRED>
+<!ELEMENT img (#PCDATA)>
+<!ATTLIST img type (xs|xd|xx|xp) #REQUIRED>
+
+<!ELEMENT idm_grp (idm*)>
+<!ELEMENT idm (#PCDATA)>
+<!ATTLIST idm type (np|na|nv|da|nc|prv|etc) #REQUIRED>
+
+<!ELEMENT sense (sem_grp?, syn_grp?)>
+<!ATTLIST sense n NMTOKEN #REQUIRED>
+
+<!ELEMENT sem_grp (eg+, trans*, domain*, reg?, con*, sem?, lr?)>
+<!ELEMENT eg (#PCDATA)>
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT domain (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT con (#PCDATA)>
+<!ELEMENT sem (#PCDATA)>
+
+<!ELEMENT lr (syn*, ant*, rel*)>
+<!ELEMENT syn (#PCDATA)>
+<!ATTLIST syn type (perfect|sino|kor|honor|de_honor|under|de_under|spoken|de_spoken|vulgar|de_vulgar|etc) #IMPLIED>
+<!ELEMENT ant (#PCDATA)>
+<!ATTLIST ant type (compl|grad|dir|conv|etc) #IMPLIED>
+<!ELEMENT rel (#PCDATA)>
+
+<!ELEMENT syn_grp (prt*, comb_aj*, comb_v*, comb_ida?, pre_d*, pre_n*, s_n*, rep?, etc_cnst?)>
+<!ELEMENT prt (#PCDATA)>
+<!ATTLIST prt possible (no) #IMPLIED>
+<!ATTLIST prt required (yes) #IMPLIED>
+
+<!ELEMENT comb_aj (#PCDATA)>
+<!ATTLIST comb_aj type (appr|magn|min) #IMPLIED>
+<!ATTLIST comb_aj mod (no) #IMPLIED>
+<!ATTLIST comb_aj pred (no) #IMPLIED>
+<!ATTLIST comb_aj possible (no) #IMPLIED>
+<!ATTLIST comb_aj required (yes) #IMPLIED>
+
+<!ELEMENT comb_v (form?, frame*)>
+<!ATTLIST comb_v type (npred_vsup|npred_vsupvar|npred_vpred|npred_vcognate|narg_vcognate|narg_vpred) #IMPLIED>
+<!ATTLIST comb_v possible (no) #IMPLIED>
+<!ELEMENT form (#PCDATA)>
+<!ATTLIST form vcompound (yes|no) #IMPLIED>
+<!ELEMENT frame (#PCDATA)>
+
+<!ELEMENT comb_ida (#PCDATA)>
+<!ATTLIST comb_ida possible (no) #IMPLIED>
+<!ATTLIST comb_ida required (yes) #IMPLIED>
+
+<!ELEMENT pre_d (#PCDATA)>
+<!ATTLIST pre_d yn (no) #IMPLIED>
+<!ELEMENT pre_n (#PCDATA)>
+<!ATTLIST pre_n yn (no) #IMPLIED>
+<!ELEMENT s_n (#PCDATA)>
+<!ATTLIST s_n yn (no) #IMPLIED>
+<!ELEMENT rep (#PCDATA)>
+<!ELEMENT etc_cnst (#PCDATA)>

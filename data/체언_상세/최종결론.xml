@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>최종결론</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>spr 기입</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/23</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">최종 결론</var>
+			<str type="N_N">최종+결론</str>
+			<org lg="si">最終結論</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>경찰은 그가 이번 연쇄 살인사건의 범인이라고 ~을 내렸다.</eg>
+				<trans>final conclusion</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant><!--'잠정결론'-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 내다</form>
+					<frame>X-이 Y-에 대해|을 Z-로|S고 ~을 내다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 내리다</form>
+					<frame>X-이 Y-에 대해|을 Z-로|S고 ~을 내리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 짓다</form>
+					<frame>X-이 Y-에 대해|을 Z-로|S고 ~을 짓다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 나다</form>
+					<frame>Y-이 X-에 의해 Z-로|S고 ~이 나다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 S는 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">온</sel_rst>
+				<sel_rst arg="Z">온</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

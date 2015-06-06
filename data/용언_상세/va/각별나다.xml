@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>각별나다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>막상 sense구별을 하니 헷갈리네요. 구별 안해도 될런지</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">各別_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be marked</trans>
+				<lr>
+					<syn type="etc">각별하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(사랑|애정|재미|즐거움)</sel_rst>
+					<eg>지은이의 톡톡 튀는 아이디어와 문체로 책장을 넘기는 재미가 각별나다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be special about</trans>
+				<lr>
+					<syn type="etc">각별하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계(사이|유대|인연)|내재적심리상태(사랑|애정)</sel_rst>
+					<eg>10년 선, 후배 사이지만 김선생과 이선생의 사이는 좀 각별나다.</eg>
+					<eg>그의 아이 사랑은 각별나서 다른 아빠들과는 다르다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

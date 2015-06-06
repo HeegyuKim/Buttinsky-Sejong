@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부패척결</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '결과행위'를 '파괴행위'로 수정, 예문, n_aj 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_aj 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>어원정보에 '척결' 부분 한자어 추가;수식어절 정보에서 'S는 ~' 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부패 척결</var>
+			<str type="N_N">부패+척결</str>
+			<org lg="si">腐敗剔抉</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>공직 사회의 ~은 진정한 개혁을 위해 반드시 짚고 넘어가야 할 사안이다.</eg>
+				<eg>~을 하지 못하면 누가 대통령이 돼도 경제 발전이나 정치 안정은 불가능하다.</eg>
+				<trans>exposing corruption</trans>
+				<domain></domain>
+				<sem_class>파괴행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no"></comb_aj><!--삭제하는 게 나을 듯(김이정)--><!--'성역 없는' 삭제(미현)-->
+				<comb_aj type="appr">~이 시급하다</comb_aj>
+				<comb_n type="compound">~ 노력</comb_n>
+				<comb_n type="compound">~ 사례</comb_n>
+				<comb_n type="compound">~ 의지</comb_n>
+				<comb_n type="compound">~ 캠페인</comb_n>
+				<comb_n type="compound">~의 신호탄</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame><!--'Y-의'를 'Y-을'로 수정했음(김이정)-->
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-이 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 앞장서다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 외치다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간집단|행위|사건</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n></s_n> <!--'S는 ~' 삭제함-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

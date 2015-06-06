@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>정성되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+				<cre_note>동사로 기술되어 있던 것을 형용사로 고침.(박진호)</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">精誠_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sincere</trans>
+				<trans>be devoted</trans>
+				<trans>be cordial</trans>
+				<trans>be truehearted</trans>
+				<lr>
+					<syn type="etc">정성스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(마음)|음식|텍스트담지물|속성구체물|관계구체물|금전|미술작품|예술|텍스트|작품|방송물|행위|계획사건</sel_rst>
+					<eg>엄마는 미영이가 정성된 마음으로 준비한 요리를 맛있게 드셨다.</eg>
+					<eg>미영이는 준호가 보낸 정성된 편지를 보고 감동을 받았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst>
+					<eg>미영이가 할머니를 돌봄이 정말 정성되다.</eg>
+					<eg>미영이가 시어머니 시중드는 것이 정말 정성되어 감동을 안 받을 수가 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달콤하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>sense 수정 요함</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/25</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 구분</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<!--sense를 둘로 나누는 게 어떨지, 각각 음식|속성(맛)과 행위(말|사랑)으로-->
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be sweety</trans>
+				<lr>
+					<ant type="grad">씁쓸하다</ant>
+					<ant type="grad">쓰다</ant>
+					<hyper>달다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식|속성(맛)</sel_rst>
+					<eg>그 사탕은 매우 달콤했다.</eg>
+					<eg>그녀가 열심히 만든 요리는 달콤한 맛과 매콤한 맛이 절묘하게 조화를 이루고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be sweety</trans>
+				<trans>be sugary</trans>
+				<lr>
+					<syn type="sino">감미롭다</syn>
+					<ant type="grad">씁쓸하다</ant>
+					<ant type="grad">쓰다</ant>
+					<hyper>달다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">음식|속성(맛)|행위(말|사랑)</sel_rst>
+					<eg>그의 말은 언제나 꿀처럼 달콤했지만 우리의 사랑은 그렇게 달콤하지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

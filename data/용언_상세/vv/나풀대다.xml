@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나풀대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">나풀을 대다</var>
+			<var type="etc">나불대다</var>
+			<var type="etc">너불대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>be fluttered away</trans>
+				<lr>
+					<syn type="perfect">달랑대다</syn>
+					<syn type="perfect">팔랑대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(깃발)</sel_rst>
+					<eg>고무줄 놀이하는 여자아이들의 머리카락이 나풀댄다. </eg>
+					<eg>길을 안내해 주는 색색가지의 표시기가 마치 서낭당에 걸린 천 조각처럼 옹기종기 모여 나풀댄다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>flutter away</trans>
+				<lr>
+					<syn type="perfect">달랑대다</syn>
+					<syn type="perfect">팔랑대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(깃발)</sel_rst>
+					<eg>아이들이 머리카락을 나풀대면서 엄마에게 뛰어가고 있다.</eg>
+					<eg>그 소녀는 손수건을 나풀대면서 집으로 가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>집단행동</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>전문영역 정보 추가;의미부류 수정;동의어 삭제;n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">집단 행동</var>
+			<str type="N_N">집단+행동</str>
+			<org lg="si">集團行動</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>한의사와 약사 양측은 정부의 중재안에 반발하면서 ~에 들어갈 것을 결의하였다.</eg>
+				<trans>group behavior</trans>
+				<trans>group conduct</trans>
+				<domain>사회</domain>
+				<sem_class>방식행위</sem_class><!--김성용(2004/07/26)적절한 하위부류가 없음.--> <!--(호정은) '행위'를 '단독행위'로 수정함-->
+				<lr>
+					<syn type="etc"></syn><!--김성용(2004/07/26)'집단행동'과 '단체행동'의 뉘앙스가 다른데 동의어로 볼 수 있는지 확인 요망--> <!--(호정은) '단체행동' 삭제-->
+					<ant type="compl">개인행동</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 일으키다</form>
+					<frame>X-이 Y-에대해 ~을 일으키다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 발생하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 들어가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 나서다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">단체</sel_rst>
+				<sel_rst arg="Y">우발사건</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

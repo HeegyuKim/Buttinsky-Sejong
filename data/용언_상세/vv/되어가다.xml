@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되어가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">돼가다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>go on</trans>
+				<trans>progress</trans>
+				<lr>
+					<syn type="sino">진행되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(일|빨래)</sel_rst>
+					<eg>일이 생각한 대로 잘 되어간다.</eg>
+					<eg>이제서야 정리가 되어가는 듯해.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물</sel_rst>
+					<eg>올해는 배추가 참 잘 되어간다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">잘</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>reach</trans>
+				<trans>extend to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수량|단위</sel_rst>
+					<eg>벌써 우리 아기 몸무게는 10킬로가 되어간다.</eg>
+					<eg>저축액이 벌써 1000만원이 다 되어간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="FNS">시간|단위(시간|때)</sel_rst>
+					<eg>벌써 퇴근 시간이 다 되어간다.</eg>
+					<eg>어느새 자정이 다 되어간다.</eg>
+					<eg>대출 기한이 다 되어가서야 책을 가져왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S지0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"></sel_rst>
+					<sel_rst arg="Y" tht="FNS">시간(하루|일년)|시간단위</sel_rst>
+					<eg>형이 미국에 유학간 지 10년이 되어간다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">다</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>reach an age</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">단위(살|세)|시간(서른|마흔)</sel_rst>
+					<eg>내 나이 벌써 서른이 되어간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be getting completed</trans>
+				<trans>be made</trans>
+				<lr>
+					<syn type="sino">완성되다</syn>
+					<syn type="perfect">만들어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(음식|얼음)</sel_rst>
+					<eg>밥이 맛있게 되어간다.</eg>
+					<eg>음식이 거의 다 되어가니까 조금만 기다려.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">다</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>change</trans>
+				<lr>
+					<syn type="perfect">변하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물</sel_rst>
+					<eg>물이 얼음이 되어가는 동안 계속 지켜보고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="X" tht="FNS">인간(어른|부모)</sel_rst>
+					<eg>나도 이제 어른이 되어가나 보다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be out of </trans>
+				<trans>be exhausted</trans>
+				<trans>be getting finished</trans>
+				<trans>be used up</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+					<syn type="perfect">바닥나다</syn>
+					<syn type="perfect">끝나다</syn>
+					<syn type="perfect">다하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">연료|자재|무기|자연음식물|음식</sel_rst>
+					<eg>사다 놓은 쌀도 이제 거의 다 되어간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기기</sel_rst>
+					<n_appr arg="X">(수명)</n_appr>
+					<n_appr arg="X">(기능)</n_appr>
+					<eg>이 기계는 수명이 다 되어가는지 잘 작동되지 않는다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">다</col>
+				</col_grp>
+			</com>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

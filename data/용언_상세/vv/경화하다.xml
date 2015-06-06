@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">硬化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get hard</trans>
+				<trans>be hardened</trans>
+				<lr>
+					<syn type="perfect">경색하다</syn>
+					<syn type="kor">딱딱해지다</syn>
+					<ant type="compl">연화하다</ant>
+					<hyper>굳다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>이 시멘트는 수화하여 CSH 등 수화물을 생성하면서 경화하였다.</eg>
+					<eg>그는 지방유가 경화하는 것에 대한 발명 특허를 최초로 따냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get inflexible</trans>
+				<trans>be stiffened</trans>
+				<lr>
+					<syn type="perfect">경색하다</syn>
+					<hyper>굳다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|행위</sel_rst>
+					<eg>독도문제 이후 정부의 대일 문화정책 태도가 경화한 것은 사실이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

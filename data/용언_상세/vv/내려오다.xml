@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내려오다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/08/19</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>fall</trans>
+				<lr>
+					<syn type="perfect">내리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">강우|강설|(이슬|서리)</sel_rst>
+					<eg>이슬비가 소리도 없이 내려오는 밤엔 생각나는 사람이 있다.</eg>
+					<eg>그 날은 아침부터 눈송이가 하나둘씩 내려오기 시작하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(손|눈꺼풀)</sel_rst>
+					<eg>피곤에 지친 탓인지 그의 눈꺼풀이 스르르 내려오기 시작했다.</eg>
+					<eg>위로 올라갔던 그의 손이 내려오더니 나의 뺨을 세게 때렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>come down</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온도|(열)</sel_rst>
+					<eg>40 도를 넘나들던 그의 열이 조금씩 내려오기 시작했다.</eg>
+					<eg>냉방기가 작동되자 실내온도가 조금씩 내려오기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>come down</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+					<syn type="sino">하락하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수</sel_rst>
+					<eg>지금으로선 이자율이 내려올 때까지 기다릴 수밖에 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>be handed down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기술|방법|제도|(전통)</sel_rst>
+					<sel_rst arg="ADV">(대대로|옛부터)</sel_rst>
+					<eg>그 음식점은 옛부터 내려오는 자신들만의 비법이 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="ADV">(대대로|옛부터)</sel_rst>
+					<eg>이 자기는 우리집 대대로 내려오는 가보다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Y=N1-에서 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>아내는 갑자기 아래층으로 내려와 밖으로 나가버렸다.</eg>
+					<eg>산적같은 놈들이 산에서 내려와서 행패를 부리기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Y=N1-에서 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">지역(서울|도시)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">지역(지방|시골|고향)</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>김 화백은 한국의 전형적인 산수를 그린다고 고향으로 내려왔다.</eg>
+					<eg>그가 서울에서 이 마을에 내려온 지가 3년이 넘도록 아무런 일도 하지 않고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 W=S3-러 Y=N1-에서 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">지역(북쪽)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">지역(남쪽)</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>이곳 남쪽으로 내려와 살기를 잘한 것 같다.</eg>
+					<eg>고구려는 남쪽으로 내려와 신라와 백제를 공격했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>be demoted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">직책|소속</sel_rst>
+					<sel_rst arg="Z" tht="GOL">직책|소속</sel_rst>
+					<eg>업무실적이 저조한 그는 마침내 이곳 지방부서로 내려오게 되었다.</eg>
+					<eg>중앙부서에서 내려온다는 사람은 언제 온다고 하던가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>an order comes from above</trans>
+				<lr>
+					<syn type="sino">하달되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(명령|지시|소식)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간(상관)|인간집단(상부)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간(부하)|인간집단(하부)</sel_rst>
+					<eg>아직 우리 부서에는 그런 지시가 내려오지 않아서 구체적인 내용은 알지 못한다.</eg>
+					<eg>우리는 상부에서 내려온 지시를 따라야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>flow away</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="GOL">시간(후대|현대)</sel_rst>
+					<eg>그의 음악은 후대로 내려올수록 더욱 인정을 받았다.</eg>
+					<eg>전통적인 질서는 현대로 내려오면서 붕괴되기 마련이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">일시적기능장소(강단|단상|링)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>그는 군중들을 향해 긴 연설을 하고는 단상을 내려왔다.</eg>
+					<eg>혼신의 힘을 다해 싸운 그는 승리의 기쁨을 안고 링을 내려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(지상장소|건물부분장소)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>그는 계단을 내려와서 지하철을 탔다.</eg>
+					<eg>산소를 둘러 본 그는 천천히 산을 내려오기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">이동행위(피난|답사|출장)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<eg>우리 가족이 전쟁을 피해 이곳에 피난을 내려와 산 지가 벌써 반세기가 지났다.</eg>
+					<eg>나는 이곳으로 출장을 내려오는 김에 이 지역의 민요를 조사해 보기로 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>carry down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에서 W=N3-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<sel_rst arg="W" tht="GOL">장소</sel_rst>
+					<eg>할머니의 짐들을 위층에서 아래층으로 내려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-까지 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">옷</sel_rst>
+					<sel_rst arg="Y" tht="GOL">길이|신체부위</sel_rst>
+					<eg>그는 허리까지 내려오는 코트를 좋아한다.</eg>
+					<eg>그녀는 늘 무릎까지 내려오는 치마를 입고 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온도|(열)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온도|(수)</sel_rst>
+					<eg>다행히 고비를 넘겨 그의 열이 정상 수치로 내려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>quit</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">직책</sel_rst>
+					<eg>그는 총장직에서 내려와 다시 평교수로 돌아갔다.</eg>
+					<eg>그는 3회를 넘기지 못하고 마운드에서 내려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/08/19</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come down</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="V">(읽다|따르다|찾다|이어지다|겪다|쫓기다)</sel_rst>
+					<eg>강을 따라 내려오다 바위에 부딪혀 배가 뒤집힐 뻔했다.</eg>
+					<eg>우리 세대에까지 이어져 내려오는 귀중한 전통은 무엇인가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

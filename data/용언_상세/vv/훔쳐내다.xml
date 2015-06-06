@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훔쳐내다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>steal</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|단체</sel_rst>
+					<eg>그는 어머니에게서 훔쳐낸 돈을 유흥비로 다 써 버렸다.</eg>
+					<eg>회사에서 기밀 문서를 훔쳐내다가 들킨 사람이 경찰에 구속되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체물|구체물의부분</sel_rst>
+					<eg>아이는 어머니의 지갑에서 만 원짜리 두 장을 훔쳐내었다.</eg>
+					<eg>그는 모두가 자리를 비운 틈을 타서 과장 책상 서랍에서 서류를 훔쳐냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>wipe</trans>
+				<lr>
+					<syn type="perfect">닦다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물|부분장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">천|종이|(행주|걸레)</sel_rst>
+					<eg>그는 휴지로 의자를 한 번 훔쳐낸 후 자리에 앉았다.</eg>
+					<eg>내가 들어섰을 때 어머니는 걸레로 방바닥을 훔쳐내고 계셨다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">무생물(먼지|흙|모래)</sel_rst>
+					<sel_rst arg="Z" tht="INS">천|종이|(행주|걸레)</sel_rst>
+					<eg>그는 휴지로 의자에 쌓인 먼지를 훔쳐낸 후 자리에 앉았다.</eg>
+					<eg>식사가 끝나자 아내는 행주로 음식 지꺼기들을 훔쳐냈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(이마|얼굴)</sel_rst>
+					<sel_rst arg="Z" tht="INS">천|종이</sel_rst>
+					<eg>그는 수건으로 이마를 훔쳐냈다.</eg>
+					<eg>나는 일단 휴지로 얼굴을 대강 훔쳐내고 문을 열었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">분비물(눈물|땀)</sel_rst>
+					<sel_rst arg="Z" tht="INS">천|종이</sel_rst>
+					<eg>그는 수건으로 이마에 흐른 땀을 훔쳐냈다.</eg>
+					<eg>그 여자는 손수건으로 눈가에 고인 눈물을 훔쳐냈다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">무생물(먼지|흙|모래)</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체인공물|부분장소</sel_rst>
+					<eg>그는 책상에서 먼지를 훔쳐낸 후 가지고 온 가방을 그 위에 올려 놓았다.</eg>
+					<eg>여름이면 흙먼지가 들어와 몇 번이고 방을 훔쳐내야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

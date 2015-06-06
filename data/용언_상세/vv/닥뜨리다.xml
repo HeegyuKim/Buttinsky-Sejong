@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>닥뜨리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be faced with</trans>
+				<trans>confront</trans>
+				<lr>
+					<syn type="perfect">맞닥뜨리다</syn>
+					<syn type="sino">직면하다</syn>
+					<ant type="compl">회피하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|인간집단</sel_rst>
+					<eg>똑같이 어려운 상황이 우리에게도 닥뜨렸다.</eg>
+					<eg>브레이크가 고장난 그 자동차는 커다란 전봇대에 닥뜨리고 나서야 비로소 멈추었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>press hotly</trans>
+				<trans>urge hotly</trans>
+				<lr>
+					<syn type="perfect">닦달하다</syn>
+					<syn type="perfect">닦아세우다</syn>
+					<syn type="perfect">몰아세우다</syn>
+					<syn type="perfect">몰아치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>그 남자는 항상 누구든 맘에 들지 않으면 닥뜨릴 기세이다.</eg>
+					<eg>이전에 그렇게 조용하던 그 친구가 이제 출세를 좀 했다고 아무나 마구 닥뜨리고 다녀서 친구들 사이에서 평판이 좋지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

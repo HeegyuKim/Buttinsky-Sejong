@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나포하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/11</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">나포를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">拿捕_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>arrest</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간(경찰)</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(범인|죄인)</sel_rst>
+					<eg>경찰은 오리무중에 있던 그 사건의 범인을 드디어 나포하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>capture</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|교통기관(경비정)</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|교통기관(선박|비행기)</sel_rst>
+					<eg>북측 경비정이 우리 어선 한척을 나포하는 사건이 발생했다.</eg>
+					<eg>미군 병사가 반군을 나포하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>seize</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">수상교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">수상교통기관</sel_rst>
+					<eg>2차대전 때 독일의 군함이 연합국의 군함을 나포해 위기를 맞기도 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

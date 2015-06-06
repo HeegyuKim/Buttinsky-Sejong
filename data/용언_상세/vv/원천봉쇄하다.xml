@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>원천봉쇄하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/16</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">원천봉쇄를 하다</var>
+			<str>N.하</str>
+			<org lg="si">源泉封鎖_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>파괴행위</sem_class>
+				<trans>block up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(행위|기회|가능성)</sel_rst>
+					<eg>레드스타는 공격 진영에 볼이 투입되는 즉시 흐름을 차단하면서 밀란의 추가 득점기회를 원천봉쇄했다.</eg>
+					<eg>새로운 세제개편안으로 고소득 자영업자의 세금탈루를 원천봉쇄할 수 있을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

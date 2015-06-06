@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+
+<superEntry>
+	<orth>걸리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부구조 추가</mod_note>
+				<mod_note>격틀과 선택 제약 수정 및 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>의미 부류 수정</mod_note>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>서브센스 삭제</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be hooked</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Z" tht="EFF">인간|구체물(돌부리|문턱|줄)</sel_rst>
+					<eg>철기는 상대 선수에게 발을 걸려 넘어졌다.</eg>
+					<eg>발 아래를 보지 않고 걸어가다가 그는 돌부리에 발을 걸려 넘어지고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|(신체부위)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|구체물(돌부리|문턱|줄)</sel_rst>
+					<eg>철기는 상대 선수의 발에 왼발이 걸려 넘어졌다.</eg>
+					<eg>깜깜한 밤에 앞이 보이지 않아 할아버지의 발이 돌부리에 걸려 넘어졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be hung</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>액자가 벽에 걸렸다.</eg>
+					<eg>등반 대원 중 한 사람에 의해 바위에 밧줄이 걸리자 나머지 대원들은 자기 차례를 기다려 올라가기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물(귀걸이|목걸이)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(목|귀)</sel_rst>
+					<eg>늘 수수하게 지내던 영희의 목에 목걸이가 걸린 것을 보고 모두들 의아해했다.</eg>
+					<eg>귀에 걸린 귀걸이가 유난히도 무거워 보인다.</eg>
+					<eg>날치기는 귀부인의 목에 걸린 목걸이에 눈독을 들였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(연|옷)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물(나무|줄|전봇대)</sel_rst>
+					<eg>갑자기 불어닥친 바람에 연이 나무에 걸렸다.</eg>
+					<eg>바람에 모자가 전봇대에 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(가시|밥|콩나물)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(목|식도)</sel_rst>
+					<eg>생선 가시가 태우의 목에 걸렸다</eg>
+					<eg>태우는 저녁 먹다가 생선 가시가 목에 걸려 병원에 가 봐야 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물(옷|가방|우산)|동물(고기|사슴|물개)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물(그물|철조망|못)</sel_rst>
+					<eg>고기가 그물에 걸렸다.</eg>
+					<eg>철조망에 옷자락이 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(솟)</sel_rst>
+					<eg>이내 솟이 걸리고 밥을 짓기가 시작되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be disclosed</trans>
+				<lr>
+					<syn type="sino">적발되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물(옷|가방)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">단체(경찰|세관|감시단)</sel_rst>
+					<eg>음주 운전자가 교통 경찰에게 걸렸다.</eg>
+					<eg>밀수꾼들이 세관원에게 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be locked</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(고리|빗장|갈고리)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">관계장소(문|출입문|대문)</sel_rst>
+					<eg>할아버지께서는 영희에 의해 문에 빗장이 걸렸다는 것이 확인되자 안심하시는 눈치였다.</eg>
+					<eg>이미 출입문은 빗장이 걸려서 안으로 들어가는 것은 불가능하다.</eg>
+					<eg>이 문의 빗장이 걸리지 않아서 수리공을 불렀다.</eg>
+					<eg>문고리가 헐거워서 잘 걸리지 않는다.</eg>
+					<eg>도둑은 대문을 밀어 빗장이 걸렸는지를 확인하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be bet</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위|추상적대상(일|거사|외교|협력)</sel_rst>
+					<eg>경찰에 의해 범인의 목에 현상금이 100만 원이 걸렸다.</eg>
+					<eg>이 일에는 많은 돈이 걸려 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>경찰에 의해 범인을 잡는 데에 현상금이 100 만원이 걸렸다.</eg>
+					<eg>그 일을 성공적으로 추진하는 데에 포상금이 걸려 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be bet</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(운명|목숨)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위|추상적대상(일|거사|외교|협력)</sel_rst>
+					<eg>이 일에는 그의 목숨이 걸려 있다.</eg>
+					<eg>이 거사에 국가의 운명이 걸려 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(운명|목숨)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>그 범인을 잡는 데에 경찰서의 사활이 걸렸다.</eg>
+					<eg>그 일을 성공적으로 추진하는 데에 많은 사람의 운명이 걸려 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be located</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(해|달|구름)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(산|나무|구름)</sel_rst>
+					<eg>달이 산마루에 걸려 있다.</eg>
+					<eg>해가 서산에 걸려 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be caught</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">질병및증세(암|감기|에이즈)</sel_rst>
+					<eg>철수는 암에 걸려 이제 6 개월밖에 살지 못한다.</eg>
+					<eg>기침을 하는 것을 보니 감기에 걸린 모양이구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be powered</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시동|발동)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">교통기관|기계</sel_rst>
+					<eg>배터리가 나갔는지 자동차에 시동이 걸리지가 않는다.</eg>
+					<eg>버스에 시동이 걸리고 드디어 출발이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>마음에 걸리다</idm>
+			<idm>제동이 걸리다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부구조 추가</mod_note>
+				<mod_note>의미역 첨가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be hung</trans>
+			</sem_grp>
+			<frame_grp type="CIN">
+				<frame>X=N0-이 C1-에 V</frame>
+				<subsense>
+					<sel_rst arg="C1">(마음)</sel_rst>
+					<sel_rst arg="X" tht="THM">추상적대상(말|태도|행동)</sel_rst>
+					<eg>그의 말이 내내 마음에 걸렸다.</eg>
+					<eg>여느 때와 다른 그녀의 냉랭한 태도가 마음에 걸린다.</eg>
+					<eg>아이의 어눌한 말투가 마음에 걸린다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(마음)</sel_rst>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>그는 학교를 빠진 것이 내내 마음에 걸렸다.</eg>
+					<eg>꼬마는 수업에 빠진 것이 영 마음에 걸리는 모양이다.</eg>
+					<eg>어머니는 아이를 나무란 것이 마음에 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="CIN">
+				<frame>X=N0-이 Z=N2-에게 C1-이 V</frame>
+				<subsense>
+					<sel_rst arg="C1">(제동)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간|행위</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>태우는 기영이에게 제동이 걸렸다.</eg>
+					<eg>그렇게 천방지축으로 날뛰던 녀석이 호랑이 같은 선생님에게 제동이 걸려서 꼼짝을 못하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(제동)</sel_rst>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>녀석이 그렇게 천방지축으로 날뛰는 것이 호랑이 같은 선생님에게 제동이 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부구조 추가</mod_note>
+				<mod_note>격틀과 선택 제약 수정 및 추가</mod_note>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.리2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be hung</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Y=N1-에|에게 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(전화)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|인간</sel_rst>
+					<eg>그 사람 집에 전화가 잘 걸리지 않는다.</eg>
+					<eg>여자의 집에 전화가 걸리는 소리가 울리자 남자는 목소리를 가다듬었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">(소송)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(문제)|사태|인간</sel_rst>
+					<eg>이 문제에 소송이 걸려 있다.</eg>
+					<eg>검사는 소송이 걸린 사건 목록을 훑어보았다.</eg>
+					<eg>그 일로 영수에게 소송이 걸렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="4" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/04</cre_date>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부구조 추가</mod_note>
+				<mod_note>격틀과 선택 제약 수정 및 추가</mod_note>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>take</trans>
+				<trans>cost</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S데1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간</sel_rst>
+					<sel_rst arg="Y" tht="LOC"/>
+					<eg>우리 집에서 강남역까지 가는 데에 30 분이 걸린다.</eg>
+					<eg>아저씨는 이 반지를 새로 손보는 데 하루는 걸린다고 하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="5" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/04</cre_date>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>형태론적 내부구조 추가</mod_note>
+				<mod_note>격틀과 선택 제약 수정 및 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V.리1</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make walk</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>어머니는 좀 움직여야 한다면서 나를 걸리셨다.</eg>
+					<eg>엄마가 아이를 아장아장 걸리며 걸음마 연습을 시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|을 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(걸음)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>어머니는 좀 움직여야 한다면서 나에게 걸음을 걸리셨다.</eg>
+					<eg>엄마가 아이에게 아장아장 걸음을 걸리며 걸음마 연습을 시키고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

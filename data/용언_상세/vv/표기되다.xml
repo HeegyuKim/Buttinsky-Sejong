@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>표기되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/07</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/07</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2006/07/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">표기가 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">表記_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be spelled</trans>
+				<trans>be written</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기호</sel_rst>
+					<sel_rst arg="Y" tht="INS">문자</sel_rst>
+					<eg>이 문헌에서 종성이 표기된 양상은 매우 복잡하다.</eg>
+					<eg>로마자표기법에서 우리말의 초성 기역은 g로 표기된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv"> <!--추가-->
+		<mnt_grp>
+			<cre>
+				<cre_date>2007/04/05</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">표기가 되다</var>
+			<str>N.되</str>
+			<org lg="si">標記_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be written</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(생각|내용|제목|이름)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">텍스트담지물(책|공책|문서)|구체인공물(칠판|봉투|표지)|장소(곳|여기)</sel_rst>
+					<eg>이 부분에 응시자의 이름이 표기되어야 한다.</eg>
+					<eg>드디어 내 이름도 책의 겉표지에 표기되었다.</eg>
+					<eg>제목이 표기되지 않은 책은 없다는 것도 고정관념이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be written</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">문자|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="LOC">텍스트담지물(책|공책|문서)|구체인공물(칠판|봉투|표지)|장소(곳|여기)</sel_rst>
+					<eg>공책에 뭔가 문자가 표기되어 있기는 했지만 알아보기가 어려웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

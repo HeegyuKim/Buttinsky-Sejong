@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갸우뚱대다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/25</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2006/09/19</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>갸우뚱거리다 의 see로 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>갸우뚱거리다</see>
+		<morph_grp>
+			<var type="etc">갸우뚱거리다</var>
+			<cntr opt="obl" type="ai"/>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>환속시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/20</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환속을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">還俗_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>make return to secular life</trans>
+				<trans>make leave the priesthood</trans>
+				<lr>
+					<syn type="perfect">퇴속시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">종교역할인간(중|승려)</sel_rst>
+					<eg>주지 스님은 승려 생활을 성실히 하지 못하는 그를 환속시켰다.</eg>
+					<eg>불교계는 이번 사건으로 물의를 일으킨 승려들을 환속시킨다고 발표했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">종교역할인간(중|승려)</sel_rst>
+					<eg>속세에 대한 미련이 결국 그를 환속시키게 된다.</eg>
+					<eg>음악에 대한 집착과 열정은 그를 환속시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/20</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">환속을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<org lg="si">還屬_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>let go back</trans>
+				<trans>return</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|단체</sel_rst>
+					<sel_rst arg="Z" tht="GOL">단체</sel_rst>
+					<eg>기획 실장은 이번 행사가 끝나는 대로 행사에 동원되었던 사원들을 원래의 부서로 환속시키겠다고 말했다.</eg>
+					<eg>병원측은 해외 파견 근무에 차출되었던 의사와 간호사들을 본원으로 환속시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

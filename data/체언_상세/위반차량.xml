@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>위반차량</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str 기술;의미부류 범죄및비행을 수정;최대논항구조, 선택제약 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/07</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>동사결합정보 검토</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">위반 차량</var>
+			<str type="N_N">위반+차량</str>
+			<org lg="si">違反車輛</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>모든 ~에게 범칙금이 부여된다.</eg>
+				<trans>violated car</trans>
+				<domain></domain>
+				<sem_class>육상교통기관</sem_class><!-- 전미현 (2004/06/30) "원정출산"과 비슷한 경우; 옆과 같이 하면, "차량"의 의미가 없어 의미부류 모호해짐.-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 많다</comb_aj><!--magn를 수정(김이정)-->
+				<comb_aj type="appr">~이 적다</comb_aj><!--min를 수정(김이정)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 단속하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">대</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

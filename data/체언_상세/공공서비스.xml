@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공공서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/30</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/08(정아름)n_v추가</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">공공 서비스</var>
+			<str type="N_N">공공+서비스</str>
+			<org lg="si">公共_</org>
+			<org lg="en">_service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부는 국민의 생명과 재산을 보호하는 ~를 제공하는 대신 국민으로부터 세금을 거둬들인다.</eg>
+				<trans>public service</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~의 제공</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 제공하다</form>
+					<frame>X-이 Y-에게 ~를 제공하다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 공급하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">국가기관</sel_rst>
+				<sel_rst arg="Y">역할인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

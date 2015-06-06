@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경선하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>표준국어대사전에 형용사로 나와 있어서 형용사로 기술</cre_note>
+				<!--'경솔하다'의 의미일 때는 형용사이므로 형용사로 옮김. 그러나 '대통령 후보를 당내에서 경선하다'에 쓰이는 동사 '경선하다'도 있으므로 그것은 동사에 기술하여 넣음.(박진호)-->
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">徑先_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be hasty</trans>
+				<lr>
+					<syn type="etc">경솔하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그 사람은 남의 말을 듣지 않고 경선해서 일을 그르친다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

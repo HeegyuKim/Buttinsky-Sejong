@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나서다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>너 먼저 나서거라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>come out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(적격자|임자)|(혼처)</sel_rst>
+					<eg>집을 내놔도, 임자가 나서질 않네.</eg>
+					<eg>혼처가 나서면, 바로 시집 가거라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class>간섭</sem_class>
+				<trans>intervene</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">사태(일|사건)</sel_rst>
+					<eg>넌 남의 일에 너무 나서지 말거라.</eg>
+					<eg>철수는 이웃집 문제에까지 나서서 설친다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>철수는 동생 시집 보내는 데에 발벗고 나섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="04">
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>go out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(일|사건)</sel_rst>
+					<sel_rst arg="Z" tht="FNS">인간</sel_rst>
+					<eg>나는 재판에 증인으로 나섰다.</eg>
+					<eg>나는 돈 문제에 해결사로 나섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="05">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go out</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<eg>나는 집을 나서다가 넘어졌다.</eg>
+					<eg>내가 회의장을 막 나서는데, 회장님이 나타나더라구.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>길을 나서다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>VV</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go out</trans>
+			</sem_grp>
+			<frame_grp type="SIT">
+				<frame>X=N0-이 Npr1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">행위(구경|시위|순찰)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>김대통령이 직접 순찰에 나섰다.</eg>
+					<eg>학생들이 가두 행진에 나서자, 경찰 당국은 극도로 긴장했다.</eg>
+					<eg>나는 부인과 모처럼 꽃구경을 나섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

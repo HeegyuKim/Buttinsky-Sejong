@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호기심어리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호기심이 어리다</var>
+			<str>NV</str>
+			<org lg="si">好奇心_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame></frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>호기심어린</infl_rst>
+			<trans>filled with cusiosity</trans>
+			<sel_rst arg="X" tht="THM">개체상황(얼굴|표정)|(눈|눈빛)</sel_rst>
+			<defect_eg>그곳에 모인 외국인들은 호기심어린 표정으로 식탁에 차려진 음식들을 쳐다보았다.</defect_eg>
+			<defect_eg>나는 아이의 호기심어린 눈빛에 약간의 죄책감마저 느끼고 있었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>퍼렇다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>격틀 검토</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/23</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dark blue</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이|에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|구체물</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>얼마나 오래되었는지, 절에 이끼가 퍼렇다.</eg>
+					<eg>방치된 방 안에 녹물이 퍼렇다.</eg>
+					<eg>오래된 푸른 색 물감이 왠지 선명하지 못하고 퍼렇다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|구체물|신체부위</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>그의 얼굴은 멍이 퍼렇고, 상처가 수십군데였다.</eg>
+					<eg>퍼런 칼날이 무서웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be pale</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|신체부위</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>그녀의 얼굴은 퍼렇게 질렸다.</eg>
+					<eg>그 아이는 두려움으로 입술이 퍼랬다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>퍼렇게</infl_rst>
+				<trans>angrily</trans>
+				<defect_eg>그 고집스런 노인네는 아주 퍼렇게 노하셨다.</defect_eg>
+		</defect>
+		<idm_grp>
+			<idm>서슬이 퍼렇다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

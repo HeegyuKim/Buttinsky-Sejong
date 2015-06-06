@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훤하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">환하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bright</trans>
+				<trans>be light</trans>
+				<trans>be dimly white</trans>
+				<lr>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>어느새 동쪽 하늘이 훤하다.</eg>
+					<eg>두꺼운 커튼을 젖히니 밖은 이미 훤하게 밝아 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛</sel_rst>
+					<eg>보름이 가까운지 달빛이 참 훤하다.</eg>
+					<eg>남편이 벌써 돌아왔는지 안방에 불빛이 훤했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be open</trans>
+				<trans>be unobstructed</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소|속성(시야)</sel_rst>
+					<eg>발 아래로는 훤한 들판이 끝간 데 없이 펼쳐져 있었다.</eg>
+					<eg>높은 곳에 올라오니 시야가 훤하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bright</trans>
+				<trans>be sunny</trans>
+				<lr>
+					<syn type="perfect">밝다</syn>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(얼굴|표정)|몸짓및동작(미소|웃음)</sel_rst>
+					<eg>오늘 따라 그의 표정이 훤하다.</eg>
+					<eg>오랜만에 다니러 온 딸을 보자 아버지는 훤한 웃음을 지어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be good-looking</trans>
+				<trans>be fair</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(용모|인물|신수)</sel_rst>
+					<eg>그 남자는 키도 크고 인물이 훤해서 여자들에게 인기가 있었다.</eg>
+					<eg>저렇게 신수가 훤한 사람이 무슨 할 일이 없어 사기를 치고 다니는 거냐며 할머니는 연신 고개를 내저었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be familiar with</trans>
+				<lr>
+					<syn type="perfect">휑하다</syn>
+					<syn type="perfect">횅하다</syn>
+					<ant type="grad">어둡다</ant>
+					<ant type="grad">무지하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>시골에서 자란 그녀는 농사 일에 훤했다.</eg>
+					<eg>저 사람은 부동산 시세에 대해 훤하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

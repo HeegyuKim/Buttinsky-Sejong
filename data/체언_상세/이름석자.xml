@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이름석자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note>str,trans정보 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/01</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;어원정보에서 '석'의 어원을 고유어로 수정, '자'의 원어형태 수정;논항명사구, 논항 의미정보 추가;동사결합 정보 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">이름 석자</var>
+			<var type="spr">이름 석 자</var>
+			<str type="N_N">이름+석자</str> <!-- 정보 표기법 수정함, 단 'N_N_N' 구성은 아닌지 검토 필요 -->
+			<org lg="si">___字</org>
+			<!-- '석자'에서 '석'이 변형된 것인데 한자 표기를 어떻게 해야 할지...(한동훈) -->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~도 제대로 쓸 줄 모르니?</eg>
+				<trans>three letters of name</trans>
+				<domain></domain>
+				<sem_class>문자</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 적다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 부르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 남기다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str> <!-- 정보 항목이 적절한지 검토 필요 -->
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

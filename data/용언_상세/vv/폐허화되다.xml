@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>폐허화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">폐허화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">廢墟化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be ruined</trans>
+				<trans>fall into ruins</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|건물</sel_rst>
+					<eg>폭격을 맞은 도시는 폐허화되었고, 살아남은 사람들은 넋을 잃은 채 거리에 나앉아 있었다.</eg>
+					<eg>한때는 이 도시의 중심지였던 동네였건만 이제는 폐허화된 채 버려져 사람들의 그림자도 보이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

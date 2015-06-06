@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지지부진하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>음두은 선생님이 동사로 신규기술한 내용을 여기에 추가함.(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">遲遲不進_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be stagnant</trans>
+				<trans>be in a poor way</trans>
+				<trans>be in bad condition</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|행위|인간관련현상|상태변화|추상적대상</sel_rst>
+					<eg>별 성과없이 청문회는 지지부진하였다.</eg>
+					<eg>동업으로 시작한 장사는 지지부진하였고 대출만 점점 늘어갔다.</eg>
+					<eg>기영이의 판매실적이 요즘 지지부진하다.</eg>
+					<eg>그 드라마가 시청률이 요즘 지지부진한가 보더라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가속화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>용언유형 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">加速化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>accelerate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">사건|상태변화</sel_rst>
+					<eg>일부 대학의 진입차량 통제도 교통혼잡을 가속화했다．</eg>
+					<eg>지나친 경제개발과 산업화는 환경오염을 가속화한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>be accelerated</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|상태변화</sel_rst>
+					<eg>시장여건이 하루하루 바뀔 뿐만 아니라 기술진보가 가속화하고 경쟁이 세계화하면서 경쟁의 속성이 달라졌다.</eg>
+					<eg>경기 불황으로 기업 군살빼기가 한창이고, 신규채용자 감소추세가 가속화하는 추세이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

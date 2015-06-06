@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>청명하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>'청명도 하다, 청명은 하다' 등은 어떻게 처리해야 하는지</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+				<mod_note>기존 원고와 조원형 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">淸明_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>절기</sem_class>
+				<trans>be fine</trans>
+				<trans>be bright</trans>
+				<lr>
+					<syn type="kor">맑다</syn>
+					<ant type="grad">흐리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체자연물|날씨|(바람)</sel_rst>
+					<eg>날씨가 청명하다.</eg>
+					<eg>선선한 바람이 부는, 청명한 가을날 오후였다.</eg>
+					<eg>소동파가 노닐던 임술년 7월 열엿샛날의 적벽은 바람이 청명했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">공중장소(하늘)</sel_rst>
+					<eg>오늘은 하늘이 아주 청명하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>절기</sem_class>
+				<trans>be clear</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<eg>어딘가에서 청명한 소리가 들려왔다.</eg>
+					<eg>가만히 풍경소리를 듣고 있노라면 한갓 빈 쇳덩이가 어떻게 그토록 맑고 청명한 소리를 낼 수 있는지 신기하기만 하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>청명하면 대마도를 건너다보겠네</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

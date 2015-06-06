@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신문기사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형용사 결합 정보 수정 및 추가;명사결합 정보 수정 및 추가;동사결합정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 n_n에서 '일간지 ~' 삭제;n_aj,n_n 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/23</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>			
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신문 기사</var>
+			<str type="N_N">신문+기사</str>
+			<org lg="si">新聞記事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 ~는 이번 사태에 대한 날카로운 분석을 하고 있다.</eg>
+				<trans>newspaper article</trans>
+				<trans>news</trans>
+				<domain></domain>
+				<sem_class>텍스트</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 짤막하다</comb_aj>
+				<comb_aj type="appr">~가 길다</comb_aj>
+				<comb_aj type="appr">~가 자세하다</comb_aj> <!-- 유형값이 적절한지 검토 필요 --><!--magn를 수정(김이정)-->
+				<comb_n type="compound">~의 제목</comb_n><!--lexfunc를 수정(김이정)-->
+				<comb_n type="compound">관련 ~</comb_n>
+				<comb_n type="compound">주요 ~</comb_n>
+				<comb_n type="compound">국내 ~</comb_n>
+				<comb_n type="compound">~ 정보</comb_n>
+				<comb_n type="compound">~ 목록</comb_n>
+				<comb_n type="compound">~ 자료</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 읽다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 센스2에서 옮겨옴 -->
+					<form vcompound="no">~를 싣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 실리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="div">단</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>내가 좋아하는 선수를 다루는 ~는 모두 수집한다.</eg>
+				<trans>newspaper article</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 스크랩</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 오리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

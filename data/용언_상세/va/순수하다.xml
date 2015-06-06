@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>순수하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/05/05</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/13</mod_date>
+				<mod_writer>최정진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">純粹_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be pure</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>이 물질은 순수한 탄소로만 구성되어 있습니다.</eg>
+					<eg>여기에 담긴 모든 시약들은 순수한 물질들이다.</eg>
+					<eg>'진달래'는 순수한 우리말이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|행위|추상적행위|사실명제</sel_rst>
+					<eg>나는 순수한 마음으로 사랑을 베풀었습니다.</eg>
+					<eg>그 책에 쓴 것은 순수한 네 생각이냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나슨하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be loose</trans>
+				<lr>
+					<syn type="perfect">헐겁다</syn>
+					<syn type="perfect">느슨하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(줄|넥타이)</sel_rst>
+					<eg>돛대 줄이 나슨하여 돛대가 똑바로 서질 않는다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(매듭)</sel_rst>
+					<eg>매듭이 나슨하게 풀려 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be loose</trans>
+				<lr>
+					<syn type="perfect">헐겁다</syn>
+					<syn type="perfect">느슨하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(나사)</sel_rst>
+					<eg>피보트의 잠금나사가 나슨하지 않은 것을 사용해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be easygoing</trans>
+				<lr>
+					<syn type="perfect">풀리다</syn>
+					<syn type="perfect">느슨하다</syn>
+					<ant type="dir">긴장하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(마음|정신)</sel_rst>
+					<eg>나슨한 정신으로는 아무것도 이루지 못한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

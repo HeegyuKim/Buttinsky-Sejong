@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>원정출산</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, str 기술;의미부류 기술;최대논항구조, 분류사 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">원정 출산</var>
+			<str type="N_N">원정+출산</str>
+			<org lg="si">遠征出産</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>산모들의 ~이 급증하고 있다.</eg>
+				<trans>give birth to a child abroad</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class><!-- 전미현 (2004/06/30) "원정"과 "출산" 두 단어의 의미를 모두 살려줘야 단어의 제 기능을 발휘할 수가 있는데, 두 의미를 모두 내포하고 있는 의미부류를 찾기 힘듬; 구조상의 복합명사를 가장한 단일명사인듯-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 금지</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 금지하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">여성인간</sel_rst><!-- 전미현 (2004/06/30) 출산은 여자만의 행위이기에, "인간"이 아닌 "여자"가 적절하지 않을지-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

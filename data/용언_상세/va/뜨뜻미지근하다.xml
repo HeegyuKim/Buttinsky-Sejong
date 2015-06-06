@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뜨뜻미지근하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/28</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/22</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be lukewarm</trans>
+				<lr>
+					<ant type="grad">차갑다</ant>
+					<hyper>미지근하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>조그만 약수터에 물이 고여 있는데 시원하지 않고 햇볕 때문에 뜨뜻미지근하다.</eg>
+					<eg>방에 불이 잘 들어 오지 않아 방바닥이 그저 조금 뜨뜻미지근하기만 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be halfhearted</trans>
+				<lr>
+					<ant type="grad">적극적이다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|속성|외향적심리상태|방법</sel_rst>
+					<eg>그는 뜨뜻미지근하다는 소리를 자주 듣는다고 한다.</eg>
+					<eg>신상품에 대한 소비자의 반응은 여전히 뜨뜻미지근하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

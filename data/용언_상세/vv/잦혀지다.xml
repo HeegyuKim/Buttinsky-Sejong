@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잦혀지다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/16</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/11/16</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2004/12/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">젖혀지다</var>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be pulled back</trans>
+				<trans>be leaned backwards</trans>
+				<trans>be bent back</trans>
+				<lr>
+					<ant type="dir">숙여지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(고개|어깨|몸)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">방향(뒤|쪽)</sel_rst>
+					<eg>잠을 잘못 잤는지 고개가 뒤로 잦혀지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be turned over</trans>
+				<trans>be turned upside down</trans>
+				<trans>be laid face down</trans>
+				<lr>
+					<syn type="perfect">엎어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>모로 서 있던 윷가락이 잦혀지면서 윷이 나오자 서 있던 사람들이 환성을 질렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>콩밥</orth>
+	<entry n="1" pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/05/25</cre_date>
+				<cre_writer>이현희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/07/15</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>백고운</mod_writer>
+				<mod_note>sense2의 의미부류 모호</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+                        <mod>
+                                <mod_date>2007/08/16</mod_date>
+                                <mod_writer>박진희</mod_writer>
+                                <mod_note></mod_note>
+                        </mod>
+			<note>2001/08/21(황화상)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="N_N">콩+밥</str>
+			<org lg="temp"></org>
+		
+			<hom exist="temp"></hom>
+			<der pos="temp" type="temp"></der>
+			<comp pos="temp" type="temp"></comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="nv">~을 먹다</idm>
+			<idm type="nv">~을 먹여주다</idm>
+			<idm type="etc">~ 맛을 보다|~ 신세를 지다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>콩밥은 영양가가 매우 높다.</eg>
+				<trans>boiled bean-mixed rice</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<curs type="U"/>
+				<sem_class>요리</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<hyper>밥</hyper>
+					<coord>쌀밥</coord>
+					<coord>보리밥</coord>
+					<coord>조밥</coord>
+					<rel>콩</rel>
+					<rel>쌀</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 짓다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="grp">그릇</cl>
+				<cl type="grp">끼</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그는 3년이나 콩밥을 먹었다.</eg>
+				<trans>prison food</trans>
+				<domain></domain>
+				<reg></reg>
+				<con>경멸</con>
+				<curs type="U"/>
+				<sem_class>요리</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<hyper>밥</hyper>
+					<rel>죄수</rel>
+					<rel>교도소</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="compound">~ 신세</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="temp"></cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

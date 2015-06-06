@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발작하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/01</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발작을 하다</var>
+			<str>N.하</str>
+			<org lg="si">發作_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class> <!--인간|동물이 주어인 경우 생리행위로 볼 수도 있겠으나 신체부위나 '기침' 등이 주어인 경우를 고려하여 현상으로 봄-->
+				<trans>have a fit</trans>
+				<trans>have a spasm</trans>
+				<trans>have a paroxysm</trans>
+				<trans>go into a fit</trans>
+				<trans>throw a fit</trans>
+				<lr>
+					<syn type="etc">발작을 일으키다</syn>
+					<syn type="etc">발작이 일어나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<eg>내가 발작해서 쓰러지면 돌봐줄 사람도 없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">신체부위(심장)</sel_rst>
+					<eg>그는 심장이 발작하여 쓰러졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">생물생리현상|생리행위(기침|간질)</sel_rst>
+					<eg>그는 기침이 한 번 발작하면 멈추지를 않는다.</eg>
+					<eg>그는 어제 또 간질이 발작하여 병원으로 실려 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--심리적으로 격분하는 것-->
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>have a fit</trans>
+				<trans>go into a fit</trans>
+				<trans>throw a fit</trans>
+				<lr>
+					<syn type="etc">발작을 일으키다</syn>
+					<syn type="etc">발작이 일어나다</syn>
+					<syn type="etc">격분하다</syn>
+					<syn type="etc">발끈하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그가 한 번 발작하면 아무도 못 말린다.</eg>
+					<eg>그는 꼭 그 얘기만 들으면 발작해서 날뛴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

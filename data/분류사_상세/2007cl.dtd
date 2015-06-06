@@ -1,0 +1,67 @@
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, see?, morph_grp?, idm_grp?, sense+)>
+<!ATTLIST entry pos (cl) #REQUIRED>
+
+<!ELEMENT mnt_grp (cre, mod*, note*)>
+<!ELEMENT cre (cre_date, cre_writer)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT mod (mod_date, mod_writer?)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT see (#PCDATA)>
+
+<!ELEMENT morph_grp (var*, str?, org*, symb?, hom?, der*, comp*, metc*, img*)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (xs|xd|xx|abb|lng|spr|etc) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (ar|bu|cam|de|el|en|es|etc|eti|fi|fr|he|id|in|it|ja|ko|la|nl|no|pl|po|pt|ro|ru|si|tai|zh) #REQUIRED>
+<!ELEMENT symb (#PCDATA)>
+<!ELEMENT hom EMPTY>
+<!ATTLIST hom exist (yes) #REQUIRED>
+<!ELEMENT der (#PCDATA)>
+<!ATTLIST der pos (n|v|a|av) #REQUIRED>
+<!ATTLIST der type (suffix|prefix) #REQUIRED>
+<!ELEMENT comp (#PCDATA)>
+<!ATTLIST comp pos (n|v|a|av) #REQUIRED>
+<!ATTLIST comp type (suffix|prefix) #REQUIRED>
+<!ELEMENT metc (#PCDATA)>
+<!ATTLIST metc pos (n|v|a|av) #REQUIRED>
+<!ATTLIST metc type (suffix|prefix|etc) #REQUIRED>
+<!ELEMENT img (#PCDATA)>
+<!ATTLIST img type (xs|xd|xx|xp) #REQUIRED>
+
+<!ELEMENT idm_grp (idm*)>
+<!ELEMENT idm (#PCDATA)>
+<!ATTLIST idm type (np|na|nv|da|nc|prv|etc) #REQUIRED>
+
+<!ELEMENT sense (sem_grp?, syn_grp?)>
+<!ATTLIST sense n NMTOKEN #REQUIRED>
+
+<!ELEMENT sem_grp (eg+, trans*, domain?, reg?, con*, cl_subtype, rel_n*, lr?)>
+<!ELEMENT eg (#PCDATA)>
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT domain (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT con (#PCDATA)>
+<!ELEMENT cl_subtype (#PCDATA)>
+<!ATTLIST cl_subtype type (amt|blk|dgr|div|dst|fqn|grp|kal|knd|lmn|lnt|lrg|odr|prs|pwr|rat|rst|spd|sqr|str|sum|thk|tik|tim|tmp|uni|vct|wdt|wgt) #REQUIRED>
+<!ELEMENT rel_n (#PCDATA)>
+
+<!ELEMENT lr (syn*, ant*, rel*)>
+<!ELEMENT syn (#PCDATA)>
+<!ATTLIST syn type (perfect|sino|kor|honor|de_honor|under|de_under|spoken|de_spoken|vulgar|de_vulgar|etc) #IMPLIED>
+<!ELEMENT ant (#PCDATA)>
+<!ATTLIST ant type (compl|grad|dir|conv|etc) #IMPLIED>
+<!ELEMENT rel (#PCDATA)>
+
+<!ELEMENT syn_grp (flt*, carord?)>
+<!ELEMENT flt EMPTY>
+<!ATTLIST flt possible (n-mdq-cl|mdq-cl-eui-n|mdq-cl-n|mdq-cl|cl-mdq) #REQUIRED>
+<!ELEMENT carord EMPTY>
+<!ATTLIST carord car (ko_si|ko|si|etc) #REQUIRED>
+<!ATTLIST carord ord (ko_si|ko|si|etc) #REQUIRED>

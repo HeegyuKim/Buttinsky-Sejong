@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기초공사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>센스2의 s_n 정보 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기초 공사</var>
+			<str type="N_N">기초+공사</str>
+			<org lg="si">基礎工事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>무면허 시공업체가 이 놀이시설의 ~를 했다.</eg>
+				<eg>연말까지 기존 상가 등을 이주시키고 ~를 마무리할 방침이다.</eg>
+				<trans>foundation work</trans>
+				<trans>ground-making</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 부실하다</comb_aj>
+				<comb_aj type="appr">~가 튼튼하다</comb_aj>
+				<comb_n type="compound">~ 부실</comb_n>
+				<comb_n type="compound">~ 현장</comb_n>
+				<comb_n type="compound">~ 자재</comb_n>
+				<comb_n type="compound">바닥 ~</comb_n>
+				<comb_n type="compound">건물 ~</comb_n>
+				<comb_n type="compound">아파트 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 벌이다</form>
+					<frame>X-이 ~를 벌이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 시작하다</form>
+					<frame>X-이 ~를 시작하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 끝내다</form>
+					<frame>X-이 ~를 끝내다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 맡다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>극단적인 행동도 이런 식으로 부부간에 ~를 해 놓으면 미리 막을 수 있다.</eg>
+				<eg>지금은 소득 2만불 시대 달성을 위해 ~를 할 때다.</eg>
+				<eg>어린 시절의 방황은 지금의 나를 있게 한 ~다.</eg>
+				<trans>foundation work</trans>
+				<trans>ground-making</trans>
+				<domain></domain>
+				<sem_class>추상적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 부실하다</comb_aj>
+				<comb_aj type="appr">~가 튼튼하다</comb_aj>
+				<comb_n type="compound">~ 부실</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n></s_n><!--삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>심사위원단</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">심사+위원단</str> <!-- '심사위원+단'은 아닌지 -->
+			<org lg="si">審査委員團</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>7 명의 ~은 두 그룹으로 나뉘어 예선 심사를 진행하였다.</eg>
+				<eg>각계 저명인사들 10 인을 선정하여 ~을 구성하였다.</eg>
+				<trans>jury</trans>
+				<trans>judging committee</trans>
+				<trans>board of examiners</trans>
+				<domain></domain>
+				<sem_class>일시적집단</sem_class> <!-- 적절한지 검토 요망 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">일반 ~</comb_n>
+				<comb_n type="compound">전문 ~</comb_n>
+				<comb_n type="compound">특별 ~</comb_n>
+				<comb_n type="compound">논문 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확정하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 꾸리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="div">명</cl> <!-- 유형값이 적절한지 검토 요망 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

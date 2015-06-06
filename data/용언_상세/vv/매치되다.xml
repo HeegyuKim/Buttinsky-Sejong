@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매치되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀예문구조수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매치가 되다</var>
+			<str>N.되</str>
+			<org lg="en">match_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>go well with</trans>
+				<lr>
+					<syn type="kor">어울리다</syn>
+					<syn type="sino">조화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|속성(모양|생상|이미지)</sel_rst>
+					<sel_rst arg="Y" tht="COM">구체물|속성(모양|색상|이미지)</sel_rst>
+					<eg>어깨에 딱 하니 매는 크기가 편하기도 하고 블랙이 여러 의상과 잘 매치돼 정말 계속 가지고 다니게 돼요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|속성(모양|생상|이미지)</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|속성(모양|색상|이미지)</sel_rst>
+					<eg>어깨에 딱 하니 매는 크기가 편하기도 하고 블랙과 여러 의상이 잘 매치돼 정말 계속 가지고 다니게 돼요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|속성(모양|생상|이미지)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|속성(모양|색상|이미지)</sel_rst>
+					<eg>어깨에 딱 하니 매는 크기가 편하기도 하고 블랙이 여러 의상에 잘 매치돼 정말 계속 가지고 다니게 돼요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>단</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>배추 한 ~에 얼마죠?</eg>
+				<trans>bundle</trans>
+				<cl_subtype type="grp"/>
+				<rel_n>나무</rel_n>
+				<lr>
+					<syn type="etc">묶음</syn>
+					<rel>다발</rel>
+					<rel>송이</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">段</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="prefix">초~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그는 바둑 삼 ~이다</eg>
+				<eg>이 사범은 저 사범보다 급수가 두 ~이나 높다</eg>
+				<domain>스포츠, 오락</domain>
+				<cl_subtype type="dgr"/>
+				<rel_n>검도</rel_n>
+				<lr>
+					<rel>품</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<carord car="ko_si" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>계단을 천천히 한 ~ 한 ~ 올라갔다</eg>
+				<cl_subtype type="dgr"/>
+				<rel_n>사다리</rel_n>
+				<lr>
+					<syn type="etc">칸</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>신문 일 면 제일 ~에 그 기사가 났다</eg>
+				<eg>그 사건은 2~ 기사로 처리되었다</eg>
+				<cl_subtype type="dgr"/>
+				<lr>
+					<rel>신문</rel>
+					<rel>면</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="4">
+			<sem_grp>
+				<eg>고속도로에서는 보통 기어를 오 ~에 놓고 달린다</eg>
+				<cl_subtype type="dgr"/>
+				<rel_n>기어</rel_n>
+				<lr>
+					<rel>자동차</rel>
+					<rel>변속</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="si"/>
+			</syn_grp>
+		</sense>
+		<sense n="5">
+			<sem_grp>
+				<eg>땅 한 ~을 샀다</eg>
+				<cl_subtype type="sqr">300평</cl_subtype>
+				<rel_n>(땅)</rel_n>
+				<lr>
+					<rel>정</rel>
+					<rel>무</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

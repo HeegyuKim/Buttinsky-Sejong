@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>왜곡보도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/29</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 방송물을 수정;n_v 수정 및 추가;Y의 선택제약 내용 추가;분류사 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">왜곡 보도</var>
+			<str type="N_N">왜곡+보도</str>
+			<org lg="si">歪曲報道</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>일본의 역사에 대한 ~는 더이상 일어나선 안 된다.</eg>
+				<trans>strained information</trans>
+				<domain></domain>
+				<sem_class>보고제안</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-에대해 ~를 하다</frame>
+					<frame>X-이 S-다고 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~가 되다</form>
+					<frame>Y-에대해 ~가 되다</frame>
+					<frame>S-다고 ~가 되다</frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">사태|추상적대상</sel_rst>
+				<cl type="uni">번</cl><!--전미현(2004/06/29) 보도가 "한번 두번"의 셈이 가능한가요?-->
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

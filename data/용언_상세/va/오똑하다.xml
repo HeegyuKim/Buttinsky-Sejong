@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오똑하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>오뚝하다</see>
+		<morph_grp>
+			<var type="etc">오뚝하다</var>
+			<var type="etc">우뚝하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be sharp and high</trans>
+				<lr>
+					<syn type="perfect">오뚝하다</syn>
+					<ant type="grad">납작하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물</sel_rst>
+					<eg>그는 코가 오똑하다.</eg>
+					<eg>서양인들은 대개 코가 오똑하지만 인종에 따라 납작하거나 뭉뚝한 경우도 있다.</eg>
+					<eg>이 아이는 날 때부터 어쩌면 저렇게 콧날이 오똑할까?</eg>
+					<eg>서울 우이동은 인수봉에 오똑하게 솟은 암석 때문에 붙여진 이름이다.</eg>
+					<eg>성형수술을 했는 지 그녀의 콧날이 몰라보게 오똑하다.</eg>
+					<eg>고개를 넘어서니 어린 아이 키만 한 묘비가 오똑하게 솟아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

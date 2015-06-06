@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도구시되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도구시가 되다</var>
+			<str>N.되</str>
+			<org lg="si">道具視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be regarded as an instrument</trans>
+				<trans>become an instrument</trans>
+				<lr>
+					<syn type="perfect">도구화되다</syn>
+					<syn type="perfect">수단시되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그에 의해서 나는 철저하게 도구시되었다.</eg>
+					<eg>오직 경제 발전만을 추구하는 이 제도에서는 인간이 도구시된다.</eg>
+					<eg>학문이 경제적 이익 추구를 위해서 도구시되는 것이 작금의 현실이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

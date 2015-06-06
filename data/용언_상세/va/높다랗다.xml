@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>높다랗다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>AS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rather high</trans>
+				<lr>
+					<syn type="perfect">높직하다</syn>
+					<ant type="grad">나지막하다</ant>
+					<ant type="grad">얕으막하다</ant>
+					<rel>짤따랗다</rel>
+					<rel>기다랗다</rel>
+					<rel>널따랗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(해|달)|구체물</sel_rst>
+					<eg>달이 높다랗게 뜨는 밤이면 이집 저집 창문을 몰래 훔쳐보곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rather tall</trans>
+				<lr>
+					<syn type="perfect">높직하다</syn>
+					<ant type="grad">나지막하다</ant>
+					<ant type="grad">얕으막하다</ant>
+					<rel>짤따랗다</rel>
+					<rel>기다랗다</rel>
+					<rel>널따랗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(담장|울타리|건물)</sel_rst>
+					<eg>정문의 높다랗고 하얀 울타리 옆으로 아름다운 장미가 피었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rather high</trans>
+				<lr>
+					<ant type="grad">나지막하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리(목소리|음성)</sel_rst>
+					<eg>비명이 높다랗게 울려퍼졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

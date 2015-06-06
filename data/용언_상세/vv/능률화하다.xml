@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>능률화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">능률화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">能率化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>enhance efficiency</trans>
+				<lr>
+					<syn type="perfect">효율화하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위(일|경영|행정|작업)</sel_rst>
+					<eg>우리 회사는 생산 작업을 능률화하기 위해 새 기술을 도입할 예정이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">분야(제조업)</sel_rst>
+					<eg>우리 회사는 제조업 분야를 능률화하기 위해 새 기술을 도입할 예정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

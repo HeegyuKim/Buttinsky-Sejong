@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>일일드라마</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>ant 검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/19</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>반의어 삭제('월화드라마', '수목드라마') 및 수정, n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">일일 드라마</var>
+			<str type="N_N">일일+드라마</str>
+			<org lg="si">日日___</org>
+			<org lg="en">__drama</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 부모님은 ~를 즐겨 보신다.</eg>
+				<eg>요즘은 방송사마다 아침 저녁으로 ~를 내보내고 있다.</eg>
+				<eg>이 배우는 어떤 ~의 주연으로 나온 후 인기가 많이 올라갔다.</eg>
+				<trans>daily drama</trans>
+				<domain></domain>
+				<sem_class>방송물</sem_class>
+				<lr>
+					<syn type="perfect">일일연속극</syn>
+					<ant type="compl">주말드라마</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 재미있다</comb_aj>
+				<comb_aj type="appr">~가 재미없다</comb_aj>
+				<comb_aj type="appr">~가 흥미롭다</comb_aj>
+				<comb_n type="compound">~ 시청</comb_n>
+				<comb_n type="compound">~ 방송</comb_n>
+				<comb_n type="compound">~ 편성</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 시청하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 방영하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">편</cl>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

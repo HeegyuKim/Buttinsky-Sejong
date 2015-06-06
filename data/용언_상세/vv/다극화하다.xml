@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다극화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 추가</mod_note>
+				<mod_note>중립동사 부분 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">다극화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">多極化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>multipolarize</trans>
+				<lr>
+					<syn type="perfect">다원화하다</syn>
+					<syn type="perfect">다양화하다</syn>
+					<ant type="compl">일원화하다</ant>
+					<ant type="compl">단일화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(사회|권력|관계|경제|통화)</sel_rst>
+					<eg>EU는 세계경제체재를 다극화하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사건</sel_rst>
+					<sel_rst arg="Y" tht="THM">(사회|권력|관계|경제|통화)</sel_rst>
+					<eg>냉전의 종식은 미·소 양극시대를 다극화할 것이라고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be multipolarized</trans>
+				<lr>
+					<syn type="perfect">다원화되다</syn>
+					<syn type="perfect">다양화되다</syn>
+					<ant type="compl">일원화되다</ant>
+					<ant type="compl">단일화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(사회|권력|관계|경제|통화)</sel_rst>
+					<eg>탈냉전 이후 국제사회가 다극화하면서부터는 눈에 보이는 공동의 적이 없어지고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

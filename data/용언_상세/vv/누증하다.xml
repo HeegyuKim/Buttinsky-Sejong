@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>누증하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">누증을 하다</var>
+			<str>N.하</str>
+			<org lg="si">累增_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>accumulate</trans>
+				<lr>
+					<syn type="perfect">누적하다</syn>
+					<syn type="perfect">누가하다</syn>
+					<syn type="perfect">누진하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간관련현상(적자|흑자)|(경험)|심리상태(죄책감|슬픔|고뇌)|(피로)</sel_rst>
+					<eg>미국과 EC는 모두 일본과의 거래에서 방대한 적자를 누증하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(물질|돈)</sel_rst>
+					<eg>인간은 대기권의 오존층에까지 오염을 누증하여 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신산하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/21</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">辛酸_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be hot and sour</trans>
+				<trans>be spicy and sour</trans>
+				<trans>be hot and acid</trans>
+				<trans>be spicy and acid</trans>
+				<trans>be hot and tart</trans>
+				<trans>be spicy and tart</trans>
+				<lr>
+					<mero>맵다</mero>
+					<mero>시다</mero>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물|음식</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<eg>한국인은 신산한 맛을 좋아하는 경향이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be hard</trans>
+				<trans>be bitter</trans>
+				<lr>
+					<syn type="kor">힘들다</syn>
+					<syn type="etc">고생스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지속적활동(생활|삶|일|살림|역정)</sel_rst>
+					<eg>아버지가 돌아가신 후로 자식들의 신산한 삶이 시작되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

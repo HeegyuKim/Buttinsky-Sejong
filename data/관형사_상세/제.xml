@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>제</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/15</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/01/26</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/15(김창섭);표준 사전과 연세 사전에서는 ‘第三’의 ‘第’를 기수사(양수사)를 서수사로 만드는 접두사로 판정했다. 그러나 본 사전에서는 ‘第’를 수관형사 앞에 와 수관형사임을 분명히 하는 관형사로 보고, ‘第 三’과 같이 띄어쓴다. 제 삼 회와 동의인 ‘三 回’의 ‘삼’은 수관형사로 본다. ‘第 三, 四, 五 回’에서 ‘제’가 단어임이 확인된다.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="si">第</org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그 잡지 제 몇 호에 네 글이 실렸니?</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">성상</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 몇</comb_md_n>
+				<comb_md_n>~ 일</comb_md_n>
+				<comb_md_n>~ 이</comb_md_n>
+				<comb_md_n>~ 삼</comb_md_n>
+				<comb_md_n>~ 사</comb_md_n>
+				<comb_md_n>~ 오</comb_md_n>
+				
+				<post_n>~ 수관형사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/16</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/06/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="si">諸</org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 책은 국어 정책에서의 제 문제를 다루고 있다.</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg>한문투</reg>
+				<con></con>
+				<sem_rep type="dsoq">성상</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>여러</syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 단체</comb_md_n>
+				<comb_md_n>~ 문제</comb_md_n>
+				<comb_md_n>~ 비용</comb_md_n>
+				<comb_md_n>~ 현상</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

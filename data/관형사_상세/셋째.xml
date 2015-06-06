@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>셋째</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/08/19</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/26</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/19(김창섭);표본 기술에서는 sense n=1로는 ‘셋째 아들’, ‘셋째 이유’와 같은 예문의 접두사적 관형사(즉 소관형사)를 인정하고, sense n=2로는 ‘셋째 파란 대문 집’, ‘셋째 중요한 이유’와 같은 예문의 관형절 상당 관형사(즉 대관형사)를 인정하였는데, 이번 수정을 통해 sense n=2를 인정하지 않는다. (‘셋째 파란 대문 집’ 등의 예도 인정하지 않는다.)</note>
+			<note>2001/08/19(김창섭);‘셋째 아들’과 ‘만 세표본 기술에서는 sense n=1로는 ‘셋째 아들’, ‘셋째 이유’와 같은 예문의 접두사적 관형사(즉 소관형사)를 인정하고, sense n=2로는 ‘셋째 파란 대문 집’, ‘셋째 중요한 이유’와 같은 예문의 관형절 상당 관형사(즉 대관형사)를 인정하였는데, 이번 수정을 통해 sense n=2를 인정하지 않는다. (‘셋째 파란 대문 집’ 등의 예도 인정하지 않는다.)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd">싯째</var>
+			<var type="xd">시째</var>
+			<var type="xx">셋쨋</var>
+			<var type="xx">세째</var>
+			<var type="xx">세쨋</var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>셋+-째</str>
+			<org lg="temp"></org>
+			<comp pos="temp"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>철수는 부잣집 셋째 아들이다.</eg>
+				<nclass>확정</nclass>
+				<arab>3째</arab>
+				<reg></reg>	
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>삼(三)</syn>
+					<ant></ant>
+					<rel type="car">셋</rel>
+					<rel type="qua">세</rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 누나</comb_md_n>
+				<comb_md_n>~ 동생</comb_md_n>
+				<comb_md_n>~ 딸</comb_md_n>
+				<comb_md_n>~ 삼촌</comb_md_n>
+				<comb_md_n>~ 손가락</comb_md_n>
+				<comb_md_n>~ 아들</comb_md_n>
+				<comb_md_n>~ 이모</comb_md_n>
+				<comb_md_n>~ 형</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 이유</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 이야기</comb_md_n>
+				<comb_md_n>~ 일요일</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

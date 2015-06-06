@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>검산하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>sense를 나눠줘야 할지</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/08/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">檢算_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>verify</trans>
+				<trans>check account</trans>
+				<trans>sprove a calculation</trans>
+				<lr>
+					<hyper>검토하다</hyper>
+					<hyper>계산하다</hyper>
+					<rel>암산하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">수량|수학적대상(덧셈|뺄셈|곱셈)|관계추상적대상(결과)</sel_rst>
+					<eg>아이들은 열심히 푼 덧셈을 검산하고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">측정도구</sel_rst>
+					<sel_rst arg="Y" tht="THM">수량|수학적대상(덧셈|뺄셈|곱셈)|관계추상적대상(결과)</sel_rst>
+					<eg>업그레이드된 계산기는 여러 가지 합법칙을 유도하고 이를 써서 계산 결과까지 검산한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

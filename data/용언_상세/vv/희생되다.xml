@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희생되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/19</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">희생이 되다</var>
+			<str>N.되</str>
+			<org lg="si">犧牲_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>죽음</sem_class>
+				<trans>be sacrificed</trans>
+				<trans>fall a victim</trans>
+				<trans>be killed</trans>
+				<trans>suffer death</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|인간집단|추상적대상|사태</sel_rst>
+					<eg>매년 전 세계에서 얼마나 많은 사람들이 전쟁에 희생되고 있는지를 생각해 봅시다.</eg>
+					<eg>그들은 지난 테러에 희생된 이웃들의 영혼을 달래기 위한 추모회를 열 계획이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">추상적대상|사태</sel_rst>
+					<eg>지난 폭우로 이 지역에서는 많은 사람들과 가축이 희생되었다.</eg>
+					<eg>공사장 붕괴 사고로 희생된 직원들에 대한 보상금 문제에 대해 회사측은 아직 명확한 입장을 밝히지 않고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be sacrificed</trans>
+				<trans>be deprived</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상(자유|권리|생명|삶)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|인간집단|추상적대상|사태</sel_rst>
+					<eg>잦은 교육 정책의 변화에 희생되는 것은 결국 우리 아이들의 미래입니다.</eg>
+					<eg>그는 지금이야말로 독재 정권에 희생된 국민들의 자유와 권리를 되찾아야 할 시점임을 강조했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|추상적대상(자유|권리|생명)</sel_rst>
+					<sel_rst arg="Y" tht="EFF">추상적대상|사태</sel_rst>
+					<eg>결국 그의 삶은 출세를 향한 그의 지나친 집착으로 희생되었다고 볼 수 있다.</eg>
+					<eg>세계화 물결로 우리 민족의 고유한 문화가 희생되는 일이 있어서는 안됩니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흘깃거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">할깃거리다</var>
+			<var type="etc">흘긋거리다</var>
+			<var type="etc">흘낏거리다</var>
+			<var type="etc">할낏거리다</var>
+			<var type="etc">흘끗거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>glance</trans>
+				<lr>
+					<syn type="etc">흘금거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소</sel_rst>
+					<eg>나는 맞은편에 앉은 남자가 자꾸만 나를 흘깃거리는 것이 신경이 쓰여 자리를 옮겨 앉았다.</eg>
+					<eg>그는 교실 안을 흘깃거리다가 문을 열고 들어섰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

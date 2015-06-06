@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잡다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/10/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/07</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take</trans>
+				<trans>hold</trans>
+				<trans>seize</trans>
+				<trans>catch</trans>
+				<lr>
+					<syn type="perfect">쥐다</syn>
+					<ant type="compl">놓다</ant>
+					<ant type="conv">잡히다</ant>
+					<hypo>붙잡다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(손|어깨|팔)|옷|의복의부분</sel_rst>
+					<eg>그가 내 손을 잡고 뛰기 시작했다.</eg>
+					<eg>아이는 엄마의 치마를 잡고 매달려 울었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>그는 문고리를 잡고 놓지 않았다.</eg>
+					<eg>그는 밧줄을 잡은 채 절벽을 오르고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>arrest</trans>
+				<trans>seize</trans>
+				<lr>
+					<syn type="perfect">붙잡다</syn>
+					<ant type="conv">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>경찰은 범인을 잡지 못해 혈안이 되어 있었다.</eg>
+					<eg>동네 청년들이 도둑을 잡아 경찰에 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>catch</trans>
+				<trans>seize</trans>
+				<trans>capture</trans>
+				<lr>
+					<ant type="conv">잡히다</ant>
+					<ant type="compl">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물</sel_rst>
+					<eg>여름이면 우리는 고기를 잡으러 강으로 갔다.</eg>
+					<eg>매미를 잡다 놓친 아이가 울상을 지었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>slaughter</trans>
+				<trans>butcher</trans>
+				<lr>
+					<hypo>도살하다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">짐승</sel_rst>
+					<eg>서울에서 오는 사위에게 먹이려고 노인은 키우던 암탉을 잡았다.</eg>
+					<eg>여름이면 동네 아저씨들은 개를 잡아 한바탕 질펀한 잔치를 벌이곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take</trans>
+				<trans>seize</trans>
+				<trans>assume</trans>
+				<lr>
+					<syn type="perfect">쥐다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">권력(권력|권세|세도|주도권)</sel_rst>
+					<eg>그들은 서로 주도권을 잡기 위해 치열한 다툼을 벌였다.</eg>
+					<eg>그 집안이 이 지역 모든 상권을 잡고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<trans>have</trans>
+				<trans>find</trans>
+				<lr>
+					<syn type="perfect">얻다</syn>
+					<syn type="perfect">쥐다</syn>
+					<ant type="compl">잃다</ant>
+					<ant type="compl">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">순간속성시간(기회)|운(행운|요행)</sel_rst>
+					<sel_rst arg="Y" tht="THM"></sel_rst>
+					<eg>그 여자는 복권에 당첨되는 행운을 잡았다.</eg>
+					<eg>나는 그 사람을 만날 기회를 잡기 위해 틈만 나면 동네를 서성였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<trans>have</trans>
+				<trans>find</trans>
+				<lr>
+					<syn type="perfect">얻다</syn>
+					<syn type="perfect">쥐다</syn>
+					<ant type="compl">잃다</ant>
+					<ant type="compl">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">금전(목돈|천금|한밑천)</sel_rst>
+					<eg>모두들 이번이 목돈을 잡아 볼 마지막 기회라며 그 일에 매달렸다.</eg>
+					<eg>그는 한밑천 잡아 볼 생각으로 이 일을 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<trans>have</trans>
+				<trans>find</trans>
+				<lr>
+					<syn type="perfect">얻다</syn>
+					<ant type="compl">잃다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(직장|일자리)|직책(요직)</sel_rst>
+					<eg>그는 아직 직장을 잡지 못해 초조해 하고 있다.</eg>
+					<eg>그들은 서로 요직을 잡기 위해 수단과 방법을 가리지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<trans>have</trans>
+				<trans>reserve</trans>
+				<lr>
+					<ant type="compl">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체</sel_rst>
+					<sel_rst arg="Y" tht="THM">자리좌석|상업건물|건물부분장소|묘지</sel_rst>
+					<eg>우리 극단은 아직 공연할 극장을 잡지 못한 상태였다.</eg>
+					<eg>행사장에 몰려든 사람들은 서로 좋은 자리를 잡으려고 몸싸움까지 벌였다.</eg>
+					<eg>휴가철에 이 지역에 방을 잡기란 그리 쉬운 일이 아니었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fix</trans>
+				<trans>choose</trans>
+				<trans>orient</trans>
+				<lr>
+					<syn type="sino">정하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(방향|길|행로)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">방향|장소</sel_rst>
+					<eg>그들은 산 쪽으로 방향을 잡고 나아갔다.</eg>
+					<eg>저쪽으로 길을 잡으면 몇 시간은 빨리 도착지에 갈 수 있을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fix</trans>
+				<trans>decide</trans>
+				<trans>settle</trans>
+				<trans>choose</trans>
+				<lr>
+					<syn type="sino">정하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">계획시간|시간</sel_rst>
+					<sel_rst arg="Z" tht="FNS">시간단위</sel_rst>
+					<eg>그들은 결혼식 날짜를 12월 25일로 잡았다.</eg>
+					<eg>회의 시간을 몇 시로 잡을까요?</eg>
+					<eg>나는 이번 일에 필요한 준비 기간을 두 달로 잡고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>find</trans>
+				<trans>pick out</trans>
+				<trans>look for</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에대해 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(결점|약점|흠)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">온</sel_rst>
+					<eg>그는 사사건건 내 일에 대해 결점을 잡고 늘어졌다.</eg>
+					<eg>그 여자는 내가 사 온 물건에 대해 흠을 잡기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get</trans>
+				<trans>seize</trans>
+				<trans>hold</trans>
+				<trans>secure</trans>
+				<lr>
+					<syn type="sino">포착하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">관계추상적대상(단서|실마리|증거|현장)</sel_rst>
+					<eg>경찰은 이번 사건에 대한 단서를 잡은 듯하다.</eg>
+					<eg>그들을 만나 보면 그 문제를 풀 수 있는 실마리를 잡을 수 있을지 모른다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">기호|상태|행위</sel_rst>
+					<sel_rst arg="Z" tht="INS">기계</sel_rst>
+					<eg>기자는 카메라로 그들이 이야기를 나누는 장면을 잡았다.</eg>
+					<eg>이 수신기로는 신호가 잘 잡히지 않습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>settle down</trans>
+				<trans>get a grip on oneself</trans>
+				<trans>get steady</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황값(균형|중심)</sel_rst>
+					<eg>평균대 위에서 그는 균형을 잡지 못하고 떨어졌다.</eg>
+					<eg>버스가 급정거를 하는 순간 나는 중심을 잡지 못하고 넘어져 허리를 다쳤다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(마음|갈피|중심|방향)</sel_rst>
+					<eg>결과를 기다리며 나는 마음을 잡지 못하고 안절부절했었다.</eg>
+					<eg>그는 늘 중심을 잡지 못하고 남의 말에 이리저리 흔들렸다.</eg>
+					<eg>우리 팀은 아직 일을 어떻게 진행해야 할 지 방향도 잡지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>prevent someone from leaving</trans>
+				<trans>detain</trans>
+				<lr>
+					<syn type="perfect">붙잡다</syn>
+					<ant type="dir">보내다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>그 여자는 며칠만 더 머무르다 가라며 나를 잡았다.</eg>
+					<eg>오래 잡고 있지 않을테니 잠시 들어왔다 가세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>stop</trans>
+				<trans>put a stop</trans>
+				<trans>hold up</trans>
+				<lr>
+					<ant type="compl">놓치다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">대중교통기관(차|택시)</sel_rst>
+					<eg>그는 택시를 잡아 타고 떠났다.</eg>
+					<eg>이 시간에 여기서 차를 잡기는 쉽지 않을 거예요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>plan</trans>
+				<lr>
+					<syn type="perfect">짜다</syn>
+					<syn type="perfect">세우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">순간적속성시간(일정|스케줄)</sel_rst>
+					<eg>아직은 모든 것이 불확실해서 정확한 스케줄을 잡기가 힘들다.</eg>
+					<eg>우리는 내일부터 일 주일 동안 그 일을 마무리짓기로 일정을 잡았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>draft</trans>
+				<trans>settle</trans>
+				<lr>
+					<syn type="perfect">세우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적부분(윤곽|기반|틀|골격)</sel_rst>
+					<eg>윤곽도 잡지 못한 채 일을 시작할 수는 없다.</eg>
+					<eg>그는 이제 이 분야에서 어느 정도 기반을 잡고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>form</trans>
+				<trans>create</trans>
+				<trans>produce</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황(분위기|무드)|개체상황(감정)</sel_rst>
+					<eg>진행자는 흥겨운 노래와 입담으로 분위기를 잡은 후 행사를 시작했다.</eg>
+					<eg>그는 한껏 감정을 잡고 이야기를 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>extinguish</trans>
+				<trans>get something under control</trans>
+				<lr>
+					<syn type="sino">진화하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">불(불|불길)</sel_rst>
+					<eg>이 지역의 모든 소방대가 동원되어 불길을 잡으려 했으나 거센 바람으로 불길은 점점 더 번져가기만 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황|상황값|상태변화</sel_rst>
+					<eg>정부는 물가 상승을 잡기 위한 여러 가지 대책을 마련 중에 있다.</eg>
+					<eg>과열된 부동산 투기 열기를 잡을 만한 적절한 방안이 부재한 상태다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>measure</trans>
+				<trans>gauge</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">음식(밥물|국물)</sel_rst>
+					<eg>그는 국물을 넉넉히 잡아 국을 끓였다.</eg>
+					<eg>쌀의 양이 많아지니 밥물을 잡기가 힘들다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>crease</trans>
+				<trans>pleat</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(주름)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">신체부위(얼굴|이마)</sel_rst>
+					<eg>그는 이마에 잔뜩 주름을 잡은 채 나를 쳐다보았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(주름)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">옷|천|종이</sel_rst>
+					<eg>이 옷감은 제대로 주름을 잡기가 힘들다.</eg>
+					<eg>그는 능숙한 다림질 솜씨로 바지에 칼날 같은 주름을 잡았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hold</trans>
+				<trans>take</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">속성구체물(담보)</sel_rst>
+					<eg>사채업자는 그의 집을 담보로 잡고 돈을 빌려 주었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수동적행위인간(볼모|인질)</sel_rst>
+					<eg>교도소를 탈출한 범죄자가 버스 승객들을 인질로 잡고 경찰에 대항했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>calculate</trans>
+				<trans>count</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">단위</sel_rst>
+					<eg>이 일에 필요한 시간을 일 주일로 잡는다면 아직 충분한 시간이 남아 있다.</eg>
+					<eg>그들 중 회의에 참석할 사람을 다섯 명으로 잡더라도 자리가 모자라는 게 사실이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>생사람을 잡다</idm>
+			<idm>자리를 잡다</idm>
+			<idm>터를 잡다</idm>
+			<idm>주름을 잡다</idm>
+			<idm>물에 빠진 사람은 지푸라기라도 잡는다</idm>
+		</idm_grp>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/10/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/07</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N3-에|에게 Y=N2-을|에대해 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">비난욕설(트집|흉|흠)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그는 나에게 내 지난 날에 대해 트집을 잡았다.</eg>
+					<eg>그 여자는 그의 행동을 하나하나 흉을 잡으려고만 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">비난욕설(트집|흉|흠)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>아이는 어머니에게 동화책이 찢어진 것을 트집을 잡고 울기 시작했다.</eg>
+					<eg>그 여자는 내가 그런 일을 하는 것을 흠을 잡았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N3-에|에게 Y=S2-고 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">비난욕설(트집|흉|흠)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>그는 아내에게 반찬이 시원치 않다고 트집을 잡았다.</eg>
+					<eg>그는 내게 옷차림이 단정치 못하다고 흠을 잡았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

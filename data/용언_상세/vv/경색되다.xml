@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경색되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/06</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경색이 되다</var>
+			<str>N.되</str>
+			<org lg="si">梗塞_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>have a infarct</trans>
+				<domain>의학</domain>
+				<lr>
+					<syn type="perfect">경화되다</syn>
+					<hyper>굳다</hyper>
+					<hyper>막히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>배아세포 이식후 신생심근은 더 이상 경색되지 않았다.</eg>
+					<eg>저 환자는 혈액순환이 되지 못하고 심장 쪽이 더 경색되는 것이 더 심하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>become tight</trans>
+				<lr>
+					<syn type="perfect">경화되다</syn>
+					<hyper>굳다</hyper>
+					<hyper>막히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계(관계|연관|유대)|상황(정세|정국|대세)</sel_rst>
+					<eg>특히 9·11테러 이후 보다 강경해진 미국의 對北정책과 이에 대한 북한의 반발로 북미관계가 더욱 경색되었다.</eg>
+					<eg>당 전당대회에서 민주회복의 기치를 든 총재가 당선된 후 정국은 여야격돌로 더욱 경색되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상기하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/22</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/27</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상기를 하다</var>
+			<str>N.하</str>
+			<org lg="si">上氣_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>blush</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(볼|얼굴)</sel_rst>
+					<eg>태임이의 볼이 살짝 상기하면서 눈에 애틋한 원망이 서렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/22</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/27</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>defect로 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상기를 하다</var>
+			<str>N.하</str>
+			<org lg="si">上記_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>state above</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(내용)</sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>상기한</infl_rst>
+			<trans>be stated above</trans>
+			<sel_rst arg="X" tht="THM">인간</sel_rst>
+			<defect_eg>상기한 바와 같이 이를 이해하기 위해서는 그 내부 구성의 양상과 변화 추이에 대한 검토가 반드시 필요하다.</defect_eg>
+			<defect_eg>상기한 내용대로 시행할 것을 지시했다.</defect_eg>
+			<defect_eg>을지로 4가에서 삼각지까지 상기한 대로 그 양장로(羊腸路)를 거쳐 갔기 때문에 상당한 시간이 걸렸던 까닭이었다.</defect_eg>
+		</defect>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/22</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/27</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>frame 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상기를 하다</var>
+			<str>N.하</str>
+			<org lg="si">相忌_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>shun bad company</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|동물</sel_rst>
+					<eg>고양이는 개와 상기하는 사이이다.</eg>
+					<eg>그 둘은 서로 상기하는 관계이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|동물</sel_rst>
+					<eg>고양이와 개는 상기하는 사이이다.</eg>
+					<eg>그 둘은 서로 상기하는 관계이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="4" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/22</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/27</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>의미역 수정, subsense 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상기를 하다</var>
+			<str>N.하</str>
+			<org lg="si">想起_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>remember</trans>
+				<trans>call to mind</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그때 갑자기 무언가를 상기한 부친이 놀란 듯 자리에서 일어나며 아들을 불렀다.</eg>
+					<eg>쇠돌이 놈의 얼굴을 상기하려고 했지만, 광주목 마당에서 아내 품에 안겨 울음소리를 내던 그 장면만 살아날 뿐이었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>수진이는 기영이가 그날 학교에 결석했던 것을 상기해 냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="5" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/09/27</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상기를 하다</var>
+			<str>N.하</str>
+			<org lg="si">詳記</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>describe minutely</trans>
+				<trans>write in detail</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(이야기|내용|목록)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">텍스트담지물|텍스트</sel_rst>
+					<eg>기영이는 선생님이 세미나에서 말씀하신 내용들을 일일이 노트에 상기하여 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

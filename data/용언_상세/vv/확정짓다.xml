@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확정짓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">확정을 짓다</var>
+			<str>NV</str>
+			<org lg="si">確定_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>decide</trans>
+				<trans>settle</trans>
+				<trans>fix</trans>
+				<trans>determine</trans>
+				<lr>
+					<syn type="perfect">확정하다</syn>
+					<syn type="perfect">결정하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>주요 간부들이 올해 신입사원 채용 기준을 확정짓기 위해 모임을 가졌다.</eg>
+					<eg>감독은 다음 주 중으로 대표팀 선수 명단을 확정짓겠다고 발표했다.</eg>
+					<eg>이번 경기의 우승으로 한국은 준결승 진출을 확정지은 셈이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>우리는 그 노래를 이번 음반의 타이틀곡으로 확정지었다.</eg>
+					<eg>이사회에서는 만장일치로 그를 새 대표이사로 확정지었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"></sel_rst>
+					<eg>우리 회사는 간부 회의를 통해 이번 해에 신입사원 오백 명을 뽑기로 확정지었다.</eg>
+					<eg>이사회에서는 그를 대표이사에 선임하기로 확정지었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

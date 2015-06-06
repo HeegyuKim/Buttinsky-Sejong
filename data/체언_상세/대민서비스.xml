@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>대민서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>uni 기술 가능한지, 아니면 의미부류를 바꿔야하는 건지 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정, cl 기술했음</mod_note>
+			</mod>
+			<note>2007/08/14(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">대민 서비스</var>
+			<str type="N_N">대민+서비스</str>
+			<org lg="si">對民___</org>
+			<org lg="en">__service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 자료관은 체계적인 기록물 관리 시스템을 구축해 시민들에게도 불편 없는 ~를 하겠다.</eg>
+				<eg>이 구청은 인터넷으로 ~를 실시하고 있다.</eg>
+				<trans>service for the people</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 효율적이다</comb_aj>
+				<comb_aj type="appr">~가 부실하다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound">~ 기관</comb_n>
+				<comb_n type="compound">~ 제공</comb_n>
+				<comb_n type="compound">~ 지원</comb_n>
+				<comb_n type="compound">~ 개선</comb_n>
+				<comb_n type="compound">~ 담당</comb_n>
+				<comb_n type="compound">~ 실천</comb_n>
+				<comb_n type="compound">~ 분야</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 시책</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-에게 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 실시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 중단하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 지원하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 담당하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 향상시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">기관</sel_rst>
+				<sel_rst arg="Y">인간</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

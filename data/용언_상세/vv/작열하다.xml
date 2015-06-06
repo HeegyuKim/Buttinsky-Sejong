@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>작열하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">작열을 하다</var>
+			<str>N.하</str>
+			<org lg="si">灼熱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be burning</trans>
+				<lr>
+					<syn type="kor">타오르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(햇빛|햇볕|태양)</sel_rst>
+					<eg>산업 현장의 열기는 머리 위에서 작열하는 한여름의 태양보다 더 뜨겁게 느껴졌다.</eg>
+					<eg>햇볕이 작열하는 어느 여름 오후 그가 다시 우리를 찾아왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be burning</trans>
+				<lr>
+					<syn type="kor">타오르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소(사막|대지|땅)</sel_rst>
+					<eg>한여름 작열하는 아스팔트 길을 그들은 달리고 또 달렸다.</eg>
+					<eg>눈 앞에는 작열하는 사막만이 끝없이 펼쳐져 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

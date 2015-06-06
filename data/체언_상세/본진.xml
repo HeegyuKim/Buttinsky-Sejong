@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>본진</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/17</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/17</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/21</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미를 둘로 분할, '장소'와 '단체'</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">本陣</org>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>정찰병은 적군의 ~을 샅샅히 살펴보고 돌아왔다.</eg>
+				<trans>headquarters</trans>
+				<sem_class>관계장소</sem_class> <!-- 속성기능장소 수정 -->
+				<lr>
+					<syn type="etc">본영</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 공격하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 세우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 정탐하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">군대</sel_rst>
+			</syn_grp>
+		</sense>
+		<sense> <!-- 추가 -->
+			<sem_grp>
+				<eg>~에서 일하니 고된 업무가 이만저만이 아니다.</eg>
+				<trans>headquarters</trans>
+				<domain></domain>
+				<sem_class>단체의부서</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~과 대적하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">군대</sel_rst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비탈지다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">비탈이 지다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be sloped</trans>
+				<lr>
+					<ant type="grad">편평하다</ant>
+					<ant type="grad">평평하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소|길</sel_rst>
+					<eg>그의 집에 다다르려면 비탈진 언덕길을 한참 올라가야 했다.</eg>
+					<eg>이 곳은 땅이 너무 비탈져 집을 짓기가 쉽지는 않을 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">가파르게</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

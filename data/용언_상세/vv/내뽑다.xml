@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내뽑다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/24</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내어뽑다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>draw out</trans>
+				<lr>
+					<syn type="perfect">내불다</syn>
+					<hyper>뽑다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리|연기|(숨|입김|혀)</sel_rst>
+					<eg>호흡을 내뽑은 다음 허리에 힘을 주어 아랫배를 쑥 내민다.</eg>
+					<eg>그 비행기는 이상하게도 하얀 연기를 비행기 꽁무니로 내뽑고 있었다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>spread out</trans>
+				<lr>
+					<hyper>뽑다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N1-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="DIR">구체물|장소</sel_rst>
+					<eg>그는 대꾸도 않고, 제 허리로부터 장검을 휙하고 내뽑았다.</eg>
+					<eg>그 아이는 어른들 어깨 너머로 구경하기 위해서 머리를 위로 내뽑고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>accelerate</trans>
+				<lr>
+					<syn type="perfect">내달리다</syn>
+					<syn type="perfect">밟다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">교통기관</sel_rst>
+					<eg>그 건방진 녀석을 자기 오토바이를 빠른 속도로 내뽑고 우리 앞을 휙 지나갔다.</eg>
+					<eg>아니, 저 사람이 자동차 규정속도를 넘겨 내뽑고 있구만.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>sing happly</trans>
+				<lr>
+					<hyper>부르다</hyper>
+					<hyper>뽑다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡|(곡조)</sel_rst>
+					<eg>직업가수도 아닌 그 여자가 내뽑는 창부타령이나 남도 수심가는 보통 이상의 수준이었다</eg>
+					<eg>어디 흥도 오르는데 한 곡조 내뽑을 사람 없나?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계층화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>주어 의미역을 "의도" 개입 여부에 따라 따로 둔 것에 대해 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>예문 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계층화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">階層化__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>classify</trans>
+				<lr>
+					<syn type="perfect">계급화시키다</syn><!--"계급화하다"는 제시하지 않음.-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(구성원)|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">사회계급인간|계층계급</sel_rst>
+					<eg>자본주의의 극단적인 경제구조가 우리 사회를 극빈층과 극부층으로 계층화시킨다.</eg>
+					<eg>스타에 대한 우상심리가 일개 팬클럽까지도 회장부터 일반 회원까지 계층화시킨다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(구성원)|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">사회계급인간|계층계급</sel_rst>
+					<eg>몇몇 잘못된 관념을 가진 사람들이 우리 사회를 극빈층과 극부층으로 계층화시키려고 한다.</eg>
+					<eg>회장이 우리 팬클럽 회원들을 등급별로 계층화시키려고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

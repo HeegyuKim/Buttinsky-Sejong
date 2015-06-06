@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>미세하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">微細_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be minute</trans>
+				<lr>
+					<syn type="perfect">미소하다</syn>
+					<hyper>작다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>이 청소기는 이불이나 천 표면에 묻은 미세한 먼지까지도 빨아들이는 강한 흡인력이 장점이다.</eg>
+					<eg>우리 손에는 눈으로는 관찰되지 않는 미세한 세균들이 우글대니 늘 손을 깨끗이 씻는 습관을 가지는 것이 중요합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be minute</trans>
+				<lr>
+					<hyper>작다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건(변화|현상)|행위(동작|움직임)</sel_rst>
+					<eg>그는 상대의 미세한 동작까지도 놓치지 않고 일일이 관찰하는 습관이 있었다.</eg>
+					<eg>이 세포는 미세한 환경 변화에도 즉시 반응을 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be minute</trans>
+				<trans>be detailed</trans>
+				<lr>
+					<syn type="perfect">세밀하다</syn>
+					<syn type="perfect">자세하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성값(관찰력|통찰력)</sel_rst>
+					<eg>그는 미세한 관찰력으로 이번 사건을 푸는 해결의 열쇠를 제공했다.</eg>
+					<eg>이 작품을 읽으면 작가의 통찰력이 얼마나 미세하고 치밀한지 감탄하게 될 것입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

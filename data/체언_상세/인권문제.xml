@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인권문제</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note>sem 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형용사, 명사 결합 정보 추가;동사결합 정보 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사정보 전체 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">인권+문제</str>
+			<org lg="si">人權問題</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>아직까지 갖가지 ~가 만연한 나라가 있다.</eg> <!-- 예문 뒤에 빈칸이 있어 삭제함 -->
+				<trans>problem affecting human rights</trans>
+				<domain></domain>
+				<sem_class>장애</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심각하다</comb_aj> <!-- 추가함 -->
+				<!-- 추가된 내용들이 논항명사구에 기술될 수 있을지 검토 필요 -->
+				<comb_n type="lexfunc">북한의 ~</comb_n> <!-- 추가함 -->
+				<comb_n type="lexfunc">노동자의 ~</comb_n>
+				<comb_n type="lexfunc"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>X-에서 S는~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 없다</form>
+					<frame>X-에서 S는 ~가 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form>
+					<frame>X-에서 S는 ~가 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 대두되다</form>
+					<frame>X-에서 S는~가 대두되다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 개선하다</form> <!-- 추가함 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 제기하다</form> <!-- 추가함 -->
+					<frame></frame>
+				</comb_v>
+ 					<comb_v type="npred_vpred">
+					<form vcompound="no">~를 다루다</form> <!-- 추가함 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 해결하다</form> <!-- 추가함 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-에서의 S는 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

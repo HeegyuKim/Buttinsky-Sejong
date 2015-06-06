@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발신하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발신을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<org lg="si">發信_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>send</trans>
+				<lr>
+					<ant type="conv">착신하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N1-에|에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">물리학적대상|기호</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>여기서 조난 신호를 발신할 수 있어서 다행이야.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>send</trans>
+				<trans>dispatch</trans>
+				<lr>
+					<ant type="conv">착신하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">편지</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>우리 인공위성이 지상으로 태양계의 모습을 발신할 때마다 과학자들은 온갖 신경을 곤두세우고 관찰하고 있었다.</eg>
+					<eg>이 편지를 어디로 발신하려고 하는 것입니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발신을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<org lg="si">發身_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>rise in the world</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS">직위인간</sel_rst>
+					<eg>하찮은 머슴이었던 사람이 중인으로 발신하자 그의 집안 식구들은 기뻐 어찌할 줄을 몰랐다.</eg>
+					<eg>천한 사람이 부귀공명을 누릴만한 위치로 발신하는 것은 예나 지금이나 쉬운 일이 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

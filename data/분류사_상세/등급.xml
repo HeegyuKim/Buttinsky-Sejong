@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>등급</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/02</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/22</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">等級</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>일 ~ 상품</eg>
+				<eg>지원자들을 세 ~으로 나누었다</eg>
+				<cl_subtype type="odr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

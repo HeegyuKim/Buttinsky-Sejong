@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>고놈</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/20</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/27</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">그놈</var>
+			<str type="etc">고+놈</str>
+					<img type="xx">그놈</img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">~이 ~이다</idm>
+		</idm_grp>
+		<sense n="1" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>어떻게 ~을 혼내 줄지 생각 중이다</eg>
+				<eg>황가 ~이 나쁜 짓은 도맡아 하지</eg>
+				<reg>비어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~ 생긴 게 장군감인걸</eg>
+				<reg>구어</reg>
+				<con>귀여움</con>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>여기 있는 물건 중에서는 ~이 제일 쓸 만해 보인다</eg>
+				<reg>구어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="4" sem="3" num="singular" ref="etc">
+			<sem_grp>
+				<eg>~의 돈이 뭔지 날마다 이 고생을 시키네</eg>
+				<eg>이번 휴가는 ~의 장마 때문에 다 망쳤다</eg>
+				<reg>구어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<prt>~의</prt>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

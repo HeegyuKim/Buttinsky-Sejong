@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>모집단위</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/01</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>'최대의~' '최소의'를 n_aj에서 n_n로 이동</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/0/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">모집 단위</var>
+			<str type="N_N">모집+단위</str>
+			<org lg="si">募集單位</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>대학마다 신입생을 뽑는 ~가 다르다.</eg>
+				<eg>각 대학에서는 올 입시의 ~를 결정하여 공개하였다.</eg>
+				<trans>unit of recruitment</trans>  <!--검토 요망-->
+				<domain></domain>
+				<sem_class>집합단위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 크다</comb_aj>
+				<comb_aj type="min">~가 적다</comb_aj>
+				<comb_n type="lexfunc">최대의 ~</comb_n><!--이것도 기술 대상인지, 정보가 제대로 된 건지 의문--><!--맞음(미현)-->
+				<comb_n type="lexfunc">최소의 ~</comb_n>
+				<comb_n type="lexfunc">최대 ~</comb_n>
+				<comb_n type="lexfunc">최소 ~</comb_n> <!-- 띄어 써야 하는지 의문-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 결정하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

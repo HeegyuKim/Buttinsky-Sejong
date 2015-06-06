@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>현실주의자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/15</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr"></var>
+			<str type="N_N">현실+주의자</str><!--현실+주의+자-->
+			<org lg="si">現實主義者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>나는 동생이 ~가 되길 바란다.</eg>
+				<trans>realist</trans>
+				<domain></domain>
+				<sem_class>추종자</sem_class>
+				<lr>
+					<syn type="etc">리얼리스트</syn>
+					<ant type="compl">이상주의자</ant><!--낭만주의자?-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj><!--진정한 ~?-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no"></form><!--'~이다|되다'?-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>	<!--(임근석) 추가-->
+				<cl type="uni">사람</cl>	<!--(임근석) 추가-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

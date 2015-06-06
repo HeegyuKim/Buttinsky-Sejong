@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상회하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/27</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>센스타입수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">上廻_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>exceed</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에|보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온|크기|수량</sel_rst>
+					<sel_rst arg="Y" tht="CRT">온|크기|수량</sel_rst>
+					<eg>그 회사는 수입액보다 수출액이 항상 상회해 국가 무역수지 균형과 국내전자산업 활성화에도 한몫을 담당했다.</eg>
+					<eg>과거 사례를 보더라도 현금 흐름이 안정된 고배당 주식의 투자수익률은 안정적으로 시장수익률을 상회해 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>급격하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>관형형도 쓰일 수 있으므로 infl 재고 요망</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">急激_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be rapid</trans>
+				<lr>
+					<syn type="perfect">급극하다</syn>
+					<syn type="perfect">급속하다</syn>
+					<ant type="grad">완만하다</ant>
+					<hyper>급하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태변화(변화|감소|증가)</sel_rst>
+					<eg>요새는 기후의 변화가 급격하다.</eg>
+					<eg>급격한 기후의 변화로 인해 마케팅에 차질이 생겨 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>급격히</infl_rst>
+			<infl_rst>급격하게</infl_rst>
+			<trans>suddenly</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>환자의 소화기능이 급격히 떨어지고 있다.</defect_eg>
+			<defect_eg>환자의 소화기능이 급격하게 떨어지고 있다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

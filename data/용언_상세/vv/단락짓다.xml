@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단락짓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/05/30</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단락을 짓다</var>
+			<str>NV</str>
+			<org lg="si">段落_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>bring st to a conclusion</trans>
+				<trans>fix up</trans>
+				<trans>settle</trans>
+				<lr>
+					<syn type="perfect">일단락짓다</syn>
+					<syn type="kor">마무리짓다</syn>
+					<syn type="kor">끝내다</syn>
+		 			<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="FNS">추상적대상|사태|S것</sel_rst>
+					<eg>경찰은 그 사건을 생활고를 극복하지 못한 가족들이 동반자살한 것으로 단락지었다.</eg>
+					<eg>그 여자는 무슨 일이라도 단락짓지 않고 그냥 지나치는 법이 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

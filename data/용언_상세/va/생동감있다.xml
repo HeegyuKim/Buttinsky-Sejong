@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>생동감있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">생동감이 있다</var>
+			<var type="etc"></var>
+			<str></str>
+			<org lg="si">生動感_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>기색</sem_class>
+				<trans>be lively</trans>
+				<lr>
+					<syn type="perfect">활기차다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>그곳은 생각보다 훨씬 생동감있고 활기가 넘치는 곳이었다.</eg>
+					<eg>새로운 스피커는 웅장하고 생동감있는 음향을 제공한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

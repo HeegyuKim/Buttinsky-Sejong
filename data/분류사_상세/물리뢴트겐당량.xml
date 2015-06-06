@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>물리뢴트겐당량</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/04</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/14</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>어원정보란에 특수문자 지원 안 됨</note>
+		</mnt_grp>
+		<morph_grp>
+			<str>물리+뢴트겐+당량</str>
+			<org lg="si">物理___當量</org>
+			<org lg="de">__뢴트겐__</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~</eg>
+				<domain>물리</domain>
+				<cl_subtype type="amt"/>
+				<lr>
+					<syn type="etc">렙(rep)</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>박이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>get stuck</trans>
+				<lr>
+					<syn type="perfect">꽂히다</syn>
+					<hypo>붙박이다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|장소</sel_rst>
+					<eg>형의 왼손 손가락 끝은 굳은살이 박여 돌 같이 딱딱해졌다.</eg>
+					<eg>모니터에 콕 박여 있는 두 사람을 보니 절로 입가에 미소가 지어 지네요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>become a habit</trans>
+				<lr>
+					<syn type="perfect">남다</syn>
+					<syn type="perfect">배다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(인상|이미지|인)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">의견(뇌리|기억)</sel_rst>
+					<eg>검은 베레모에 아무렇게나 기른 긴 머리칼, 덥수룩한 턱수염, 그리고 열정적인 눈빛, 굳게 다문 그의 입술은 진보적인 지식인을 자처하는 사람들의 뇌리에 깊이 박여 있다.</eg>
+					<eg>담배를 피우면 인이 박여 담배를 끊을 수 없게 되는데, 이것은 바로 니코틴의 작용 때문이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

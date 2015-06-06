@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>검색되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>의미부류 검토</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/08/31</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 보충</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+			<org lg="si">檢索_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be investigated</trans>
+				<lr>
+					<syn type="perfect">수색되다</syn>
+					<syn type="perfect">조사되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(단서|증거)|행위|장소|인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>보건 수사국에게 지금까지 간과되었던 단서가 검색되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>사기 사건으로 검거된 그가 과거에 마약을 거래했던 것이 추가로 검색되어 조사를 받고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be searched</trans>
+				<lr>
+					<syn type="perfect">발견되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|로 V</frame><!--두 조사를 한 격틀에 사용해도 되는지 확신이 안 섬.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">(정보|내용|주제|단어)</sel_rst>
+					<sel_rst arg="Y" tht="INS">행위(검색)|기계(컴퓨터|검색엔진)</sel_rst>
+					<eg>원작 소설은 물론 이 소설에 대한 해설, 사전판 등 관련서적 5, 6종이 새로운 검색엔진에서 검색되었다.</eg>
+					<eg>Ethnomusicology에 대한 검색으로 학술적인 정보들이 많이 검색되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

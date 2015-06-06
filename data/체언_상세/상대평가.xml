@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상대평가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>	<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>단독행위에서 평가로 수정;맥스엔 표기법 수정;Y 논항 의미부류 수정</mod_note>
+			</mod>		
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상대 평가</var>
+			<str type="N_N">상대+평가</str>
+			<org lg="si">相對評價</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 수업은 학생들의 성적을 ~를 한다.</eg> <!--예문 수정(김)-->
+				<trans>relative evaluation</trans>
+				<domain></domain>
+				<sem_class>평가</sem_class> <!--'인지적행위'에서 '단독행위'로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">절대평가</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form> <!--합성동사로 보긴 어려움(김)-->
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar"> <!--추가(김)-->
+					<form vcompound="no">~를 행하다</form>
+					<frame>X-이 Y-을 ~를 행하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 적용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">속성(성적)</sel_rst> <!--'인간|인간집단'에서 '능력'으로 수정(김)-->
+				<cl type="uni">회</cl> <!--분리 기술(김)-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

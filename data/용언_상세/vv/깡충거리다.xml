@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깡충거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">깡충을 거리다</var>
+			<var type="etc">깡총거리다</var>
+			<var type="etc">껑충거리다</var>
+			<var type="etc">껑쭝거리다</var>
+			<var type="etc">겅중거리다</var>
+			<var type="etc">강종거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>jump</trans>
+				<lr>
+					<hyper>뛰어오르다</hyper>
+					<hyper>점프하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<eg>아가는 인형 선물을 받고 깡충거리며 좋아했다.</eg>
+					<eg>토끼가 포수의 공격을 피해 깡충거리며 산 위를 달리고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

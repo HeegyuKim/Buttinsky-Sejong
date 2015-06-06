@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>면박주다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>자/타동사 값 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">면박을 주다</var>
+			<str>NV</str>
+			<org lg="si">面駁_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>reproanch in the face of sb</trans>
+				<lr>
+					<syn type="perfect">망신주다</syn>
+					<syn type="kor">타박주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에게|을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>그녀는 내가 공부를 못한다고 얼마나 나를 면박주었는지 모른다.</eg>
+					<eg>그 사람들은 내가 초반에 질문에 대답하는데 한두 문장 말하자마자 누가 그런거 물어봤냐고 면박주었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

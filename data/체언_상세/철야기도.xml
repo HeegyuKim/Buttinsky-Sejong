@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>철야기도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/19</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 표기 오류 수정;영어대역어 수정;명사결합 정보 추가;동사결합 정보 수정;논항 명사구 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+                        <mod>
+                                <mod_date>2007/08/05</mod_date>
+                                <mod_writer>박진희</mod_writer>
+                                <mod_note></mod_note>
+                        </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">철야 기도</var> <!-- 추가함 -->
+			<str type="N_N">철야+기도</str> <!-- '_'를 '+'로 수정 -->
+			<org lg="si">徹夜祈禱</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>모든 사람들이 그의 석방을 바라며 ~를 올렸다.</eg>
+				<trans>all-night prayer</trans> <!-- 'praying all night'를 수정함 -->
+				<domain></domain>
+				<sem_class>종교및의례행위</sem_class>
+				<!-- 기도라는 행위가 종교및의례행위에서 벗어나 단순히 단독행위로도 쓰일 수 있을듯 (한동훈)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				 <!-- 추가함 -->
+				<comb_n type="compound">합동 ~</comb_n>
+				<comb_n type="compound">금요 ~</comb_n>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="yes">~를 드리다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 ~를 드리다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="yes">~를 올리다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 ~를 올리다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

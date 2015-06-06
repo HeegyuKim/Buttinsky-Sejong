@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>최종낙찰가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/21</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이 정보 추가;내부구성 정보 수정;영어대역어 수정;형용사결합 정보 일부 추가;동사결합 정보 수정 및 추가;논항명사구, 논항 의미정보, 단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>s_n</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">최종 낙찰가</var> <!-- 추가함 -->
+			<str type="N_N">최종+낙찰가</str> <!-- '_' 수정 -->
+			<org lg="si">最終落札價</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 골동품의 ~는 상상을 초월한다.</eg>
+ 				<trans>final highest bid price</trans> <!-- price for final awarding for the person 수정 -->
+				<trans>final contract price</trans> <!-- 추가 -->
+				<domain></domain>
+				<sem_class>값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 싸다</comb_aj>
+				<comb_aj type="appr">~가 비싸다</comb_aj>
+				<comb_aj type="appr">~에 근접하다</comb_aj> <!-- 추가함 -->
+				<comb_aj type="magn">~가 높다</comb_aj> <!-- 추가함 -->
+				<comb_aj type="min">~가 낮다</comb_aj> <!-- 추가함 -->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~를 맞추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~를 발표하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- narg_vcognate 수정함 -->
+					<form vcompound="no">~로 낙찰되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~로 확정되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~로 결정되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">구체물|장소|행위|계획사건</sel_rst> <!-- 추가함 -->
+				<cl type="qnt">원</cl> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

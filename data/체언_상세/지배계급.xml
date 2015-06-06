@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지배계급</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '위계인간'을 '계층계급'으로 수정, n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지배 계급</var>
+			<str type="N_N">지배+계급</str>
+			<org lg="si">支配階級</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>교과서는 그 사회의 ~ 의 이데올로기를 보편적인 것으로 확산시키려는 의도를 담고 있다.</eg>
+				<eg>고려조에서 승려들은 사회적, 종교적으로 뿐만 아니라 정치적으로도 ~이 되었다.</eg>
+				<eg>옛날에 ~이 얼마나 호화롭게 살았는가는 무덤에 매장된 부장품만 보아도 알 수 있다.</eg>
+				<eg>이 시기 민중들은 ~의 수탈이 가중함에 따라 궁핍의 늪에 빠질 수밖에 없었다.</eg>
+				<trans>ruling class</trans>
+				<trans>governing class</trans>
+				<domain></domain>
+				<sem_class>계층계급</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl">피지배계급</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 분파</comb_n>
+				<comb_n type="compound">~ 성원</comb_n>
+				<comb_n type="compound">~ 세력</comb_n>
+				<comb_n type="compound">~ 출신</comb_n>
+				<comb_n type="compound">~의 도구</comb_n>
+				<comb_n type="compound">~의 독재</comb_n>
+				<comb_n type="compound">~의 문화</comb_n>
+				<comb_n type="compound">~의 기득권</comb_n>
+				<comb_n type="compound">~의 사상</comb_n>
+				<comb_n type="compound">~의 수탈</comb_n>
+				<comb_n type="compound">~의 언어</comb_n>
+				<comb_n type="compound">~의 요구</comb_n>
+				<comb_n type="compound">~의 이데올로기</comb_n>
+				<comb_n type="compound">~의 이해</comb_n>
+				<comb_n type="compound">~의 이익</comb_n>
+				<comb_n type="compound">~의 일원</comb_n>
+				<comb_n type="compound">~의 착취</comb_n>
+				<comb_n type="compound">~의 허위의식</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 살다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 이루다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

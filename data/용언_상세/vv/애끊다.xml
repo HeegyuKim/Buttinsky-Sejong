@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>애끊다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">애를 끊다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>get brokenhearted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame></frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>애끊는</infl_rst>
+			<trans>heartbreaking</trans>
+			<sel_rst arg="X" tht="THM">사건</sel_rst>
+			<defect_eg>전국의 수많은 수험생과 학부모들의 애끊는 심정을 조금만 이해한다면 등록률을 밝혀 줄 수 있지 않을까.</defect_eg>
+			<defect_eg>파출부 어머니의 애끊는 모정이 온 국민을 심금을 울렸다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

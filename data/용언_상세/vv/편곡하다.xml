@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>편곡하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>임유종</cre_writer>
+				<cre_note>형용사 '편곡(偏曲)하다[성질이 치우쳐 바르지 못하다]'도 있는데 기술하지 않았음.</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">편곡을 하다</var>
+			<str>N.하</str>
+			<org lg="si">編曲_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>arrange</trans>
+				<domain>음악</domain>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간(작곡가|편곡자)</sel_rst>
+					<sel_rst arg="Y" tht="THM">음악</sel_rst>
+					<sel_rst arg="Z" tht="FNS">음악</sel_rst>
+					<eg>민요를 연주곡으로 편곡하는 등 새로운 시도들이 이어지고 있다.</eg>
+					<eg>작곡가는 자신의 이전 작품을 합창곡으로 편곡하여 발표하였다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

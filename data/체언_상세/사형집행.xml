@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사형집행</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>전문영역 추가</mod_note>
+				<mod_note>의미부류 수정</mod_note>
+				<mod_note>n_aj 정보 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>벌을 처벌로 수정;맥스엔에 'Y-에대한 ~' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사형 집행</var>
+			<str type="N_N">사형+집행</str>
+			<org lg="si">死刑執行</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>지난 몇 년 간 국내에서는 단 한건의 ~도 이루어지지 않았다.</eg>
+				<eg>~을 제한하는 방법으로는 사형의 집행연기제도 내지 집행유예제도 등이 있다.</eg>
+				<trans>execution</trans>
+				<domain>법률</domain>
+				<sem_class>처벌</sem_class><!--김성용(2004/07/04)의미부류 확인 요망--> <!--(호정은) '결과행위'를 '벌'로 수정함-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 방법</comb_n>
+				<comb_n type="compound">~ 건수</comb_n>
+				<comb_n type="compound">~ 중지</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame><!--김성용(2004/07/04)보통 X를 설정하기 힘들 것 같지만, 우선 설정을 함, 확인 요망-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form>
+					<frame>Y-이 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 당하다</form>
+					<frame>Y-이 ~을 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 연기하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-의 ~</max_n_str>
+				<max_n_str>Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">부정적도덕속성인간|반사회적직업인간|수동적행위인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">건</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

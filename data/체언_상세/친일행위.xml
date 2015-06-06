@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>친일행위</orth>
+	<entry pos="nng_c">
+		<mnt_grp> <!--김성용/호정은, 이민우/김진형 중복 기술. 통합함-->
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/06</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>str 정보 기호 수정;변이형 정보(띄어쓰기) 추가;n_n 정보 추가;n_v 정보 추가;단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/25</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>'친일행위하다'가 가능하므로 'yes'로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/30</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">친일 행위</var><!--정보 기입(김)-->
+			<var type="abb">친일</var>
+			<str type="N_N">친일+행위</str><!--'친+일+행위'-->
+			<org lg="si">親日行爲</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>저 사람은 일제시대 일본군 장교로 활동하면서 ~를 한 것으로 의심받고 있다.</eg>
+				<eg>과거 ~를 했던 사람들의 명단이 인터넷에 공개되었다.</eg>
+				<trans>pro-Japanese behavior</trans>
+				<trans>pro-Japanese action</trans>
+				<domain></domain>
+				<sem_class>범죄및비행</sem_class>
+				<lr>
+					<syn type="etc"></syn><!--반민족행위|매국행위-->
+					<ant type="etc"></ant><!--반일행위|애국행위-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 심하다</comb_aj><!--적극적이다|심하다-->
+				<comb_n type="compound">~ 여부</comb_n>
+				<comb_n type="compound">~ 대상</comb_n>
+				<comb_n type="compound">~ 조사</comb_n>
+				<comb_n type="compound">~ 진상 규명법</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 저지르다</form>
+					<frame>X-이 ~를 저지르다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 비판하다</form>
+							<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 규탄하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 처벌하다</form>
+							<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 조사하다</form>
+							<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst><!--인간집단 추가(김)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

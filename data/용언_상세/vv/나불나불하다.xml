@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나불나불하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>엔트리 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">나불나불을 하다</var>
+			<var type="etc">너불너불하다</var>
+			<var type="etc">나풀나풀하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>be fluttered away</trans>
+				<lr>
+					<syn type="perfect">달랑달랑하다</syn>
+					<syn type="perfect">팔랑팔랑하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(깃발)</sel_rst>
+					<eg>저 여학생의 치마 뒷단이 터져서 실밥이 나불나불한다.</eg>
+					<eg>가을에 잎이 다 떨어지고 앙상한 나무가지에 나뭇잎 한 개가 나불나불한 모습을 보니 가을도 이제 다 저무는 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>flutter away</trans>
+				<lr>
+					<syn type="perfect">달랑달랑하다</syn>
+					<syn type="perfect">팔랑팔랑하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(깃발)</sel_rst>
+					<eg>어린 학생들이 깃발을 나불나불하면서 노래를 부르며 걸어가고 있다.</eg>
+					<eg>아이가 나무 밑를 걸어가면서 풀잎을 나불나불하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>chatter</trans>
+				<lr>
+					<syn type="de_vulgar">떠들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소통행위</sel_rst>
+					<eg>그 여자는 너무 수다스러워서 아무 이야기나 나불나불해서 사람들을 당황스럽게 만든다.</eg>
+					<eg>너는 어디서 그런 유언비어를 나불나불하는 거야?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>move</trans>
+				<lr>
+					<syn type="perfect">달싹달싹하다</syn>
+					<syn type="de_vulgar">움직이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(입)</sel_rst>
+					<eg>그렇게 함부로 입을 나불나불하다가 큰 화를 당할지도 모르니 조심해라.</eg>
+					<eg>그의 어머니는 기가 막히며 말문이 막혀서 말은 제대로 못하고 입술만 공연히 나불나불하다가 말게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

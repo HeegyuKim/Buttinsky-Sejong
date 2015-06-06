@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>에이</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/10</cre_date>
+				<cre_writer>안희제</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/19</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="yes"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb">에</var>
+			<var type="lng"></var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon"></var>
+			<var type="v_var"></var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>에이, 이젠 난 그 일에서 손 떼야겠네.</eg>
+				<sem_class>체념</sem_class>
+				<trans></trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>에이, 똑같은 얘길 벌써 몇번째 하는 거야?</eg>
+				<sem_class>불만</sem_class>
+				<trans></trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">제기랄|제기|제길|제|육시랄|염병할|우라질|오라질|제미|제밀할|젠장|젠장맞을</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/10</cre_date>
+				<cre_writer>안희제</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/19</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="yes"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb"></var>
+			<var type="lng">에이끼</var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon"></var>
+			<var type="v_var"></var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>에이, 이 못난 자식, 제 자식을 굶겨 죽이고도 네가 애비란 말이냐?</eg>
+				<sem_class>분노</sem_class>
+				<trans></trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

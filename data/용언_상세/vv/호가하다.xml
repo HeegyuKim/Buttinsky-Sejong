@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호가하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호가를 하다</var>
+			<str>N.하</str>
+			<org lg="si">呼價_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>언어행위</sem_class>
+				<trans>ask a price</trans>
+				<trans>bid a price</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물|식물|동물|자연음식물|지상장소|건물</sel_rst>
+					<sel_rst arg="X" tht="CRT">값</sel_rst>
+					<eg>서민들의 살림살이는 갈수록 어려워지는 반면, 일부 백화점에서는 천만 원을 호가하는 선물들이 팔리고 있다고 한다.</eg>
+					<eg>이 지역 대부분의 아파트들은 10억 원을 호가하는 것으로 알려졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

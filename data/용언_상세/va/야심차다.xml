@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>야심차다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_note>동사 목록에 있으나 형용사로 돌림. 형용사 목록에서 중복되는지 확인해야 함.</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">야심에 차다</var>
+			<str>NA</str>
+			<org lg="si">野心_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be ambitious</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|계획</sel_rst>
+					<eg>의무사령부에서는 대학병원 부럽지 않은 수준의 군 병원을 건립하겠다는 야심차지만 믿기 어려운 계획을 발표하기도 했다.</eg>
+					<eg>중동의 지중해 연안 국가 레바논에서는 지금 야심찬 국가 재건 작업이 진행되고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

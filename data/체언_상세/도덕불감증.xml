@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>도덕불감증</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj수정, n_v수정</mod_note>
+			</mod>
+			<note>2007/08/14(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">도덕 불감증</var>
+			<str type="N_N">도덕+불감증</str><!--'불감+증'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">道德不感症</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정치권이 ~에 걸렸다.</eg>
+				<eg>이 사건은 사회지도층이라고 일컬어지는 사람들의 ~을 단적으로 보여주고 있다.</eg>
+				<eg>그 정당은 심각한 ~에 빠져 있다.</eg>
+				<eg>준법의식이 결여된 건물주의 양심이 우리 사회에 ~을 낳을 우려가 크다.</eg>
+				<trans>moral insensibility</trans>
+				<domain></domain>
+				<sem_class>내재적심리상태</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 추잡하다</comb_aj>
+				<comb_aj type="appr">~이 심각하다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound">~ 치료</comb_n>
+				<comb_n type="compound">집단 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame><!--조사추가(권)-->
+					<frame>X-에게 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 빠지다</form>
+					<frame>X-이 ~에 빠지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 걸리다</form>
+					<frame>X-이 ~에 걸리다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 낳다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 개탄하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 질타하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 키우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 드러내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 보여주다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 부추기다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

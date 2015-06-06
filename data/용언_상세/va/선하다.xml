@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be vivid</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(모습|모양)|구체물</sel_rst>
+					<sel_rst arg="Y" tht="EXP">(눈|기억)</sel_rst>
+					<eg>전쟁은 끝났지만 황폐한 서울에 남겨둔 전쟁 고아들이 눈에 선해 한국에 되돌아왔습니다.</eg>
+					<eg>산소호흡기에 의존해서 괴롭게 투병하던 모습이 눈에 선해 가슴이 미어집니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=S것0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<sel_rst arg="Y" tht="EXP">(눈|기억)</sel_rst>
+					<eg>아침마다 그와 함께 산에 오르던 것이 기억에 선하다.</eg>
+					<eg>어머니가 대문 앞에서 손을 흔들던 것이 눈에 선하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">善_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be good</trans>
+				<lr>
+					<syn type="kor">착하다</syn>
+					<ant type="grad">악하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|속성(성품|마음|심성|눈빛|표정)</sel_rst>
+					<eg>동심이 순수하다고 하는 것은 마음이 선해서가 아니라 그 마음의 착하고 악함에 꾸밈과 계산이 없기 때문이니까.</eg>
+					<eg>사람이 성공을 하려면, 너무 선해서는 안 되고, 모질고 뻔뻔스러워야 한다는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

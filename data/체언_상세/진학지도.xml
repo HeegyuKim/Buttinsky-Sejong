@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>진학지도</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>반의어 추가;n_n 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">진학 지도</var>
+			<str type="N_N">진학+지도</str>
+			<org lg="si">進學指導</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>김선생님은 학생들의 ~를 위해서 진학에 관련된 자료를 인터넷에서 수집하고 계신다.</eg>
+				<trans>counselling on choice of school</trans>
+				<trans>educational guidance</trans>
+				<domain>교육</domain>
+				<sem_class>보고제안</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">취업지도</ant> <!--(호정은)반의어로 보기 어색하지만 일단 추가-->
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">대학 ~</comb_n>
+				<comb_n type="compound">~ 교사</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간(선생님|교사)</sel_rst>
+				<sel_rst arg="Y">일시적역할인간(수험생)|직업인간(학생)</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

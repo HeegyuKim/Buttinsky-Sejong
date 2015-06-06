@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흥행하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">흥행을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">興行_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>give a performance</trans>
+				<trans>perform</trans>
+				<trans>show</trans>
+				<trans>run</trans>
+				<trans>exhibit</trans>
+				<lr>
+					<syn type="perfect">흥행시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|기업</sel_rst>
+					<sel_rst arg="Y" tht="THM">영화|연극</sel_rst>
+					<eg>이 극단에서는 베스트 셀러였던 소설을 연극으로 만들어 흥행하고 있다.</eg>
+					<eg>방학 시즌은 영화를 흥행하기에 최적의 시기이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>be on the road</trans>
+				<trans>be given</trans>
+				<trans>be showed</trans>
+				<lr>
+					<syn type="perfect">흥행되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">영화|연극</sel_rst>
+					<eg>우리가 만든 영화가 해외에서 인기리에 흥행하고 있는 것은 참 기분 좋은 일이다.</eg>
+					<eg>요즘 극장가에서는 공포 영화가 여러 편 흥행하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

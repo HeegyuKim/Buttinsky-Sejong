@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>측</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/08</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/21(방성원)</note>
+			<note>합성어 정보 추가</note>
+			<note>수식어-문장 정보 수정</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">側</org>
+					<comp pos="n" type="prefix">양~</comp>
+			<comp pos="n" type="prefix">반대~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>경부고속전철을 주장하는 ~은 이런 비교 결과 제일 낫다는 나름대로의 결론을 얻었다고 말한다</eg>
+				<eg>그러나 변호인 ~에서는 전혀 다른 주장을 펴고 있다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>이</pre_d>
+				<pre_d>그</pre_d>
+				<pre_d>저</pre_d>
+				<pre_d>어느</pre_d>
+				<pre_n>N(-의)</pre_n>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

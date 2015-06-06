@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>충일하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">充溢_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be full</trans>
+				<trans>be overflowing</trans>
+				<trans>be affluent</trans>
+				<trans>be abundant</trans>
+				<domain>be exuberant</domain>
+				<lr>
+					<syn type="perfect">만일하다</syn>
+					<syn type="perfect">영일하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물|현상(기운)|능력|인지적상태|개념|상황</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|장소|예술|사조|종교|택스트|행위</sel_rst>
+					<eg>신비감이 그의 그림에 충일했다.</eg>
+					<eg>이 고장에는 세상 어느 곳보다 생에 대한 의지가 충일하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|예술|사조|종교|택스트</sel_rst>
+					<sel_rst arg="Y" tht="INS">무생물|현상(기운)|능력|인지적상태|개념|상황|행위</sel_rst>
+					<eg>그의 그림은 신비감으로 충일했다.</eg>
+					<eg>이 고장은 세상 어느 곳보다 생에 대한 의지로 충일했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|(삶)</sel_rst>
+					<sel_rst arg="Y" tht="INS">현상(기운)|능력|인지적상태|상태(기쁨|열정)</sel_rst>
+					<eg>오직 연극에대한 열정으로 충일한 삶을 살아온 그 연출가가 사망했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

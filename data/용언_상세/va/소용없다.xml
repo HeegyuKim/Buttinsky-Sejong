@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>소용없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">所用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be of no use</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>이젠 어떤 말도 내게 소용없어요.</eg>
+					<eg>수박 겉핥기식 대학 취업 강좌, 소용없어요.</eg>
+					<eg>난 화려한 깃발도 소용없어.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>이렇게 된 마당에 그렇게 노력하는 것이 하나도 소용없어요.</eg>
+					<eg>연애할 땐 남한테 보이기 좋은 사람이 좋지만 결혼해서 살면 생긴 건 소용없어.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=S0-어도|어야 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<eg>전화를 해봐야 소용없어.</eg>
+					<eg>죽자사자 해 봤자 소용없어.</eg>
+					<eg>후회해도 소용없어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

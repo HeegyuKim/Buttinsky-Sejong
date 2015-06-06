@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>연휴기간</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>sem 수정;cl 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj, 분류사 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">연휴 기간</var>
+			<str type="N_N">연휴+기간</str>
+			<org lg="si">連休其間</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이번 ~의 고속도로 교통사고는 10건을 넘었다.</eg>
+				<trans>consecutive holidays</trans>
+				<domain></domain>
+				<sem_class>지속속성시간</sem_class> <!-- 속성시간->지속속성시간(송근영) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 길다</comb_aj><!--magn을 수정(김이정)-->
+				<comb_aj type="appr">~이 짧다</comb_aj><!--min을 수정(김이정)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 즐기다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="div">일</cl> <!-- qnt가 적절한지?(송근영) --><!--qnt를 수정(김이정)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>되새김하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">되새김을 하다</var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>섭취행위</sem_class>
+				<trans>ruminate</trans>
+				<trans>chew over and over</trans>
+				<lr>
+					<syn type="sino">반추하다</syn>
+					<syn type="perfect">되새기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">자연음식물|음식</sel_rst>
+					<eg>밥 먹기 싫어서 밥 한 술을 입에 물고 계속 되새김하고만 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">(소|염소)</sel_rst>
+					<sel_rst arg="Y" tht="THM">식물(풀)</sel_rst>
+					<eg>소가 풀을 되새김하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>ruminate</trans>
+				<trans>think over</trans>
+				<lr>
+					<syn type="sino">반추하다</syn>
+					<syn type="perfect">되새기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위|사건|(과거|추억|행동|말)</sel_rst>
+					<eg>그녀와의 아름다운 추억을 다시금 되새김하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>집으로 돌아오는 길에 여행지에서 보고 들은 것들을 되새김하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

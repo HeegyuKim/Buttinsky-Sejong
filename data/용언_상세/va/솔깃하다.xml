@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>솔깃하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>get interested</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-이 Z=N2-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(귀)</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Z" tht="EFF">소통행위</sel_rst>
+					<eg>못되도 원금수준의 돈은 돌려준다는 말에 솔깃해 주가연계증권에 들었는데 6개월 만에 25퍼센트라는 뜻밖의 높은 수익을 올렸다.</eg>
+					<eg>이씨는 간곡한 부탁과 돈을 준다는 말에 솔깃해 반씨의 제안을 받아들였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

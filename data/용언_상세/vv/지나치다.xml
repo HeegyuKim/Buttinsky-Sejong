@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>지나치다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/11</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/17</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 수정</mod_note>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>RS</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>pass by</trans>
+				<lr>
+					<syn type="perfect">지나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소</sel_rst>
+					<eg>나는 졸다가 정거장을 지나쳐버렸다.</eg>
+					<eg>병수는 주위를 지나치는 사람들을 하염없이 바라보고 있었다.</eg>
+					<eg>그 사람이 내 옆을 지나치면서 툭 건드리던데.</eg>
+					<eg>기차가 역을 지나쳐 버렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태(생각|문제|내용|일)</sel_rst>
+					<eg>그때그때 떠오르는 생각을 그냥 지나치지 말고 메모해 두세요.</eg>
+					<eg>이번 사태를 그냥 지나치면 더 큰 피해를 입는다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그들이 일을 게을리 한 것을 지나치지 말고 단단히 주의를 주어라.</eg>
+					<eg>이번에 새로 들어온 신입사원은 사소하게 실수를 한 것도 그냥 지나치지 않고 꼼꼼히 살펴본다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

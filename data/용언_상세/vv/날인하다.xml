@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>날인하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">날인을 하다</var>
+			<str>N.하</str>
+			<org lg="si">捺印_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>seal</trans>
+				<lr>
+					<syn type="perfect">날장하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(도장|서명|증명)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">종이|텍스트담지물</sel_rst>
+					<eg>그 남자는 매매계약서에 자신의 이름을 쓰고 인감을 날인했다.</eg>
+					<eg>그는 차용증서의 연대보증인란에 이름을 쓰고 그의 인감도장을 날인하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>seal</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="INS">(도장|서명|증명)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">종이|텍스트담지물</sel_rst>
+					<eg>은행 직원은 그의 인장을 건네 받아 그가 서명한 곳과 기타 필요한 부분에 그 도장으로 직접 날인하였다.</eg>
+					<eg>이제 이 서류에 날인하면 모든 계약 과정이 끝납니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

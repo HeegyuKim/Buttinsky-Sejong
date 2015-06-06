@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>이보시오</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/08</cre_date>
+				<cre_writer>안희제</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/19</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="temp"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb">이보쇼</var>
+			<var type="lng"></var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon">이보</var>
+			<var type="hon">이보게</var>
+			<var type="hon">이봐</var>
+			<var type="v_var">여보시오</var>
+			<var type="etc"></var>
+			<str>이+보-시-오</str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이보시오, 우리 이럴 게 아니라, 어디 조용한 곳에 가서 이야기나 좀 합시다.</eg>
+				<sem_class>부름</sem_class>
+				<trans></trans>
+				<domain></domain>
+				<reg>존칭|구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

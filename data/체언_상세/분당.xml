@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>분당</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/25</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/25</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스1에 영어대역어, 논항명사구, 의미정보 추가</mod_note>
+				<mod_note>두번째 센스로 '정치유파가 정당에서 분당하다'를 추가</mod_note>
+				<mod_note>센스3의 영어대역어 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">分黨</org>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~이 되고 나서부터 당파간의 싸움이 본격적으로 격화되기 시작했다.</eg>
+				<trans>partition of a political party</trans> <!-- 추가함 -->
+				<trans>splitting a political party</trans>
+				<sem_class>결과행위</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>X-이 ~이 되다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">정당</sel_rst> <!-- 추가함 -->
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense> <!-- 추가함 -->
+			<sem_grp>
+				<eg>개혁을 주장하는 세력들이 ~을 하겠다고 발표하였다.</eg>
+				<trans>secession</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">합당</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에서 ~을 하다</frame>
+					<frame>X-이 Y-을 ~을 하다</frame> <!-- 적절한지 검토 필요 -->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-이 ~이 되다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">정치유파</sel_rst>
+				<sel_rst arg="Y">정당</sel_rst>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>본당에서 갈려져 나온 ~이 새로운 법안을 준비하고 있다는 소식을 들었습니다.</eg>
+				<trans>split party</trans> <!-- party split 수정 -->
+				<sem_class>정당</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

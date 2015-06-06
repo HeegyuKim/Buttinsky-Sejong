@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>때맞추다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">때를 맞추다</var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans></trans>
+				<lr>
+					<rel>시기에 알맞도록 하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">사태</sel_rst>
+					<eg>남북 정상회담에 때맞추어 남북사업을 확대한다.</eg>
+					<eg>광복절에 때맞추어 무궁화 꽃이 피어났다.</eg>
+					<eg>수확의 계절에 때맞추어 값진 합의를 이루어냈다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">사태</sel_rst>
+					<eg>남북 정상회담과 때맞추어 남북사업을 확대한다.</eg>
+					<eg>정보통신부의 발표와 때맞추어 통신 업체와 쇼핑몰 업체의 도입이 늘고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+			    <morph_rst> <!--추가하였음-->
+			        <end_rst1>때맞추어</end_rst1>
+			    </morph_rst>
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+			</com>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

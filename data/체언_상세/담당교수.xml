@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>담당교수</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>의미부류 검토 요;최대논항구조 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 OK; 최대논항구조 OK</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">담당 교수</var>
+			<str type="N_N">담당+교수</str>
+			<org lg="si">擔當敎授</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 강의의 ~는 누구입니까?</eg>
+				<trans>professor in charge</trans>
+				<domain></domain>
+				<sem_class>역할인간</sem_class> <!-- 직업인간이 더 적절한지? -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 맡다</form>
+					<frame></frame>
+				</comb_v><comb_v type="narg_vpred">
+					<form vcompound="no">~를 만나다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~와 면담하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X ~</max_n_str> <!-- '담당'이 술어성격 갖기 때문에 'X-의 ~'처럼 술어명사 처리해야 하는지?=>그러함-->
+				<sel_rst arg="X">학문과목</sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

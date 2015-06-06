@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>쌍</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/17</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">雙</org>
+					<comp pos="n" type="suffix">~~파티</comp>
+			<comp pos="n" type="prefix">#~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>잘 어울리는 신혼부부 한 ~</eg>
+				<eg>무도회장에는 두 ~의 부부가 춤을 추고 있었다</eg>
+				<eg>이 부부를 보고 있노라면 한 ~의 잉꼬를 보는 듯하다</eg>
+				<cl_subtype type="grp"/>
+				<rel_n>젓가락</rel_n>
+				<lr>
+					<rel>짝</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

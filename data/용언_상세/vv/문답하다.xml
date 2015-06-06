@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문답하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 부분 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문답을 하다</var>
+			<str>N.하</str>
+			<org lg="si">問答_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상호적언술행위</sem_class>
+				<trans>exchange questions and answers</trans>
+				<lr>
+					<hyper>묻다</hyper>
+					<hyper>답하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-와 Z=N2-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>강상문답은 수암 권상하가 제자들과 당론에 대해 문답한 것이다.</eg>
+					<eg>세례는 한 사람 한 사람 문답해 보고 줄 만한 사람이면 주어야지요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

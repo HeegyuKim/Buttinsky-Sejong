@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희석하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">희석을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">稀釋_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소행위</sem_class>
+				<trans>dilute</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">약|연료|음료|액체</sel_rst>
+					<n_appr arg="Y">농도</n_appr>
+					<eg>이 용액은 너무 진하니 희석해 사용해야 합니다.</eg>
+					<eg>저는 술이 약하니 좀 희석해 마시겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">약|연료|음료|액체</sel_rst>
+					<sel_rst arg="Z" tht="LOC">약|연료|음료|액체</sel_rst>
+					<eg>그들은 물에 아세톤을 희석해 실험에 사용하기로 했다.</eg>
+					<eg>이 세제는 두 배 정도의 물에 희석해 사용해야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">약|연료|음료|액체</sel_rst>
+					<sel_rst arg="Z" tht="INS">약|연료|음료|액체</sel_rst>
+					<eg>선생님은 컵 속에 든 용액을 물로 희석하신 후 실험관에 부었다.</eg>
+					<eg>그는 술이 너무 독하다며 콜라로 희석해 마셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소행위</sem_class>
+				<trans>weaken</trans>
+				<lr>
+					<syn type="perfect">약화시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<eg>아무리 완화된 표현도 이번 사건의 심각성을 희석하지는 못할 것이다.</eg>
+					<eg>그는 이번 실적이 자신의 지난 실수를 어느 정도 희석해 주지 않을까 내심 기대하고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

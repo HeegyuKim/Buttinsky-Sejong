@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙상을 하다</var>
+			<str>N.하</str>
+			<org lg="si">落傷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사고</sem_class>
+				<trans>get hurt from a fall</trans>
+				<lr>
+					<hyper>다치다</hyper>
+					<hyper>상처입다</hyper>
+					<rel>낙마하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="SRC">구체물|장소</sel_rst>
+					<eg>김 여사는 옥상에서 낙상해서 지금 병원에 있습니다.</eg>
+					<eg>다람쥐도 낙상할 때가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

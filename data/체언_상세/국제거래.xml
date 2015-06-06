@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국제거래</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>str수정, n_aj수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/09</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국제 거래</var>
+			<str type="R_N">국제+거래</str>
+			<org lg="si">國際去來</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>종합상사는 ~를 주로 하는 특성상 신용리스크, 환리스크 등에 고스란히 노출돼 있다.</eg>
+				<eg>외국계 증권사들이 ~를 사실상 독점하고 있다.</eg>
+				<eg>그들은 ~가 금지된 물소뿔과 상아를 밀수입했다.</eg>
+				<trans>international trade</trans>
+				<domain></domain>
+				<sem_class>대칭적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 활발하다</comb_aj>
+				<comb_aj type="appr">~가 안전하다</comb_aj>
+				<comb_aj type="appr">~가 많다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~가 적다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound">~ 실적</comb_n>
+				<comb_n type="compound">~ 가격</comb_n>
+				<comb_n type="compound">~ 관행</comb_n>
+				<comb_n type="compound">~ 시장</comb_n>
+				<comb_n type="compound">~ 금지</comb_n>
+				<comb_n type="compound">~ 기업</comb_n>
+				<comb_n type="compound">~ 분쟁</comb_n>
+				<comb_n type="compound">~ 규제</comb_n>
+				<comb_n type="compound">농산물 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-와 ~를 하다</frame>
+					<frame>X-이 Y-와 Z-을 ~를 하다</frame>
+					<frame>X-와 Y-이 ~를 하다</frame>
+					<frame>X-와 Y-이 Z-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 금지되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 성사되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 성사시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 활성화시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 금지시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 독점하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 규제하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 Z ~</max_n_str>
+				<max_n_str>X-와 Y-의 S는~</max_n_str>
+				<max_n_str>X-와 Y-의 S은~</max_n_str>
+				<sel_rst arg="X">인간|기업</sel_rst>
+				<sel_rst arg="Y">인간|기업</sel_rst>
+				<sel_rst arg="Z">구체물|인간</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

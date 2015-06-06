@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>주의깊다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">주의가 깊다</var>
+			<str>NA</str>
+			<org lg="si">注意_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be attentive</trans>
+				<trans>be careful</trans>
+				<trans>be watchful</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|동물|속성(성격)|행위(관찰|배려)|상태</sel_rst>
+					<eg>기영이는 참으로 주의깊은 아이이다.</eg>
+					<eg>기영이는 주의갚은 관찰이 필요한 아이이다.</eg>
+					<eg>그 개가 마당의 개구리를 주의깊게 바라보고 있다.</eg>
+					<eg>미국은 북한의 동향을 주의깊게 관찰하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

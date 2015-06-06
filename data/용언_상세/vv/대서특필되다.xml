@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대서특필되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대서특필이 되다</var>
+			<str>N.되</str>
+			<org lg="si">大書特筆_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be published with heavy headlines</trans>
+				<lr>
+					<syn type="perfect">대서특기되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(신문|언론|잡지|매스컴)|방송물</sel_rst>
+					<eg>이 사건은 즉각 전 세계 신문에 대서특필되었다.</eg>
+					<eg>이 교수의 성공적인 채소 재배는 곧 매스컴에 대서특필되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=S1-고 Y=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="CNT"></sel_rst>
+					<sel_rst arg="Y" tht="LOC">(신문|언론|잡지)|방송물</sel_rst>
+					<eg>모든 신문에 그 유명한 여배우가 납치되었다고 대서특필되었다.</eg>
+					<eg>지능은 인간 고유의 특권이 아니라는 유력한 증거라고 각 일간지에 대서특필되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

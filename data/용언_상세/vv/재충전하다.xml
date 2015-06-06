@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재충전하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/04</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재충전을 하다</var>
+			<str>PN.하</str>
+			<org lg="si">再充電_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>electrify again</trans>
+				<trans>regenerate again</trans>
+				<trans>charge again with electricity </trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기기(면도기|밧데리)|카드</sel_rst>
+					<eg>준호는 전기면도기를 충전했지만 작동을 안 하자 그 것을 재충전한다.</eg>
+					<eg>디지털 카메라를 충전했지만 충분히 충전이 안 된 것 같아 재충전했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">연료|(전기)|돈|단위</sel_rst>
+					<sel_rst arg="Z" tht="LOC">기기(면도기|밧데리)|카드|구체인공물</sel_rst>
+					<eg>에어컨에 가스를 좀 재충전해야겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>recover strength</trans>
+				<trans>be refreshed;</trans>
+				<trans>revive one's spirit</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>이번 여행이 미영이에게 재충전하는 기회가 되기를 바란다.</eg>
+					<eg>외국에 나가서 재충전하고 오니까 일할 의욕이 생긴다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">능력(힘|기)</sel_rst>
+					<eg>이번 여행에서 기를 재충전한 만큼 전보다 더욱 적극적으로 일하도록 하겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/04</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재충전을 하다</var>
+			<str>PN.하</str>
+			<org lg="si">再充塡_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>refill up</trans>
+				<trans>replenish again</trans>
+				<trans>plug again</trans>
+				<lr>
+					<syn type="perfect">재전충하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">장소(굴|갱)|구체물(이불)</sel_rst>
+					<eg>얇아진 이불에 패딩솜을 재충전했다.</eg>
+					<eg>갱의 구멍난 윗부분에 흙을 재충전해야겠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+			<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소(굴|갱)|구체물(이불)</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물</sel_rst>
+					<eg>얇아진 이불을 패딩솜으로 재충전했다.</eg>
+					<eg>갱의 구멍난 윗부분을 흙으로 재충전해야겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

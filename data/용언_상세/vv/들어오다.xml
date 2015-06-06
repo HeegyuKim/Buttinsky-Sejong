@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>들어오다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+				<mod_note>04년 형식 변경</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/23</mod_date>
+				<mod_writer>최정진</mod_writer>
+				<mod_note>마지막의 기능동사 기술은 역시 이상함. '소식들어오다'가 가능한가???</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/31</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="o"/>
+			<str>V-어V</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>빛</sem_class>
+				<trans>light</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(불|형광등)</sel_rst>
+					<eg>갑자기 불이 안 들어오네.</eg>
+					<eg>1시간 전에 나간 전기가 아직도 안 들어오고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>join</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간집단</sel_rst>
+					<eg>그는 우리 모임에 준회원으로 들어왔다.</eg>
+					<eg>많은 사람들이 우리 클럽에 들어왔다.</eg>
+					<eg>그 친구가 우리 동아리에 들어왔다.</eg>
+					<eg>그가 우리 팀에 1루수로 들어왔다.</eg>
+					<eg>김 과장은 우리 회사에 부장으로 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>be installed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시설물(전화|전기|수도)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>우리 마을에도 이제 전기가 들어온다.</eg>
+					<eg>인터넷이 우리 대학에도 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="04">
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>get in</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(생활|세계|시대)</sel_rst>
+					<eg>이제 여러분은 새로운 세계에 들어왔습니다.</eg>
+					<eg>지금까지와는 전혀 다른 생활 속에 들어왔다.</eg>
+					<eg>이제 본격적인 장마철에 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="05">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>enter</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>돼지가 우리 집 대문 안으로 들어오는 꿈을 꾸어서 복권을 샀다.</eg>
+					<eg>개가 집 안으로 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="06">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>enter</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>관광 버스가 우리 동네로 들어왔다.</eg>
+					<eg>택시는 집 앞 골목으로 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="07">
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>enter</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>그 물건들은 벌써 창고로 들어왔다.</eg>
+					<eg>냉장고는 다음주에나 저희 매장에 들어옵니다.</eg>
+					<eg>바닥이 새는지 신발에 물이 들어왔다.</eg>
+					<eg>침대가 내 방으로 들어왔다.</eg>
+					<eg>장롱이 너무 커서 안방에 못 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="08">
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>get</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체부위</sel_rst>
+					<eg>바람이 불자 먼지가 눈에 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="09">
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>participate in</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(회의|강의|수업)</sel_rst>
+					<eg>모든 의원들이 회의에 들어왔다.</eg>
+					<eg>그 학생은 오늘 수업에 안 들어왔다.</eg>
+					<eg>김 교수는 5분 늦게 강의에 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="10">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>get in</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"></sel_rst>
+					<eg>그가 축구 중계를 보러 집에 일찍 들어왔다.</eg>
+					<eg>간밤에 우리 집에 도둑이 들어왔다.</eg>
+					<eg>그는 어제 계약을 체결하러 한국에 들어왔다.</eg>
+					<eg>그는 업무차 잠시 우리 나라를 들어왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>머리|머릿속-에 들어오다</idm>
+			<idm>귀에 들어오다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+				<mod_note>04년 형식 변경</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/23</mod_date>
+				<mod_writer>최정진</mod_writer>
+				<mod_note>마지막의 기능동사 기술은 역시 이상함. '소식들어오다'가 가능한가???</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/31</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="o"/>
+			<str>V-어V</str>
+			<infl type="neora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans></trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Npr0-이 X=N1-에|에게|에서|에게서 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(소식|연락|편지)</sel_rst>
+					<sel_rst arg="X" tht="SRC">장소|인간</sel_rst>
+					<eg>나토의 코소보 폭격이 시작됐다는 전문이 들어왔다.</eg>
+					<eg>10분 전부터 조난 신호가 들어오고 있다.</eg>
+					<eg>뉴욕에서 아직 팩스가 안 들어왔어.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

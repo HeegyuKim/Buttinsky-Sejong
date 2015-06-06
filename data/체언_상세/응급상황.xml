@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>응급상황</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미부류 수정;동사결합정보, 수식어절 정보, 단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 사고를 수정;n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 정보 전체 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">응급 상황</var>
+			<str type="N_N">응급+상황</str>
+			<org lg="si">應急狀況</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>예기치 못한 ~이 닥쳤을 때 대처할 수 있도록 평소에 준비해야한다.</eg>
+				<trans>emergency</trans>
+				<domain></domain>
+				<sem_class>상황값</sem_class>
+				<!-- '상황값'을 수정함, 사건적인 속성을 갖는 듯함, 검토 필요 -->
+				<lr>
+					<syn type="etc">응급사태</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이다</form>
+					<frame>X-이 Y-에게 ~이다</frame>
+					<frame>S것-이 Y-에게 ~이다</frame>
+						<!-- 단문 구조를 어떻게 할지 논의 필요 -->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>Y-에게 S는 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 닥치다</form>
+					<frame>Y-에게 S는 ~이 닥치다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 처하다</form><!--추가(김이정)-->
+					<frame>Y-이 S는 ~에 처하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 대비하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 대처하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 대응하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 대비하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>S는 ~</max_n_str>
+				<max_n_str>Y-의 S는 ~</max_n_str>
+				<sel_rst arg="X">상황</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

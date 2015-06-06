@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>예</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/08</cre_date>
+				<cre_writer>안희제</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/18</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="yes"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<var type="dup">예예</var>
+			<var type="xs"></var>
+			<var type="xd">요</var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense">옛</var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon">응</var>
+			<var type="hon">으응</var>
+			<var type="hon">그래</var>
+			<var type="hon">오냐</var>
+			<var type="v_var"></var>
+			<var type="etc">네</var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어른이 부르시면 얼른 "예" 하고 대답해야지?</eg>
+				<sem_class>대답</sem_class>
+				<trans>Here me!</trans>
+				<domain></domain>
+				<reg>겸양|구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>예, 당연히 그렇지요. 확인할 필요도 없습니다.</eg>
+				<sem_class>대답(긍정)</sem_class>
+				<trans>Yes</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>예, 얼른 분부대로 시행하겠습니다.</eg>
+				<sem_class>수용</sem_class>
+				<trans>Yes</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/07/08</cre_date>
+				<cre_writer>안희제</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/18</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="yes"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain"></var>
+			<var type="hon">응</var>
+			<var type="v_var"></var>
+			<var type="etc">네</var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>예? 다시 한 번 말씀해 주시겠습니까?</eg>
+				<sem_class>질문</sem_class>
+				<trans>eh?</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>아빠, 우리도 놀러가요. 예?</eg>
+				<sem_class>재촉</sem_class>
+				<trans>Please!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn"></lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

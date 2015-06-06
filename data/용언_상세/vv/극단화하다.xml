@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극단화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">극단화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">極端化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>go to extremes</trans>
+			</sem_grp>
+			<frame_grp type="FIN"><!--타동사적 용법은 "극단화시키다"의 형태로만 가능한 것으로 보임.-->
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|현상</sel_rst>
+					<n_appr arg="X">상태</n_appr>
+					<eg>현대 들어 빈부의 격차가 점점 극단화하고 있다.</eg>
+					<eg>철수의 병은 이제 극단화한 상태에 와 있다.</eg>
+					<eg>공동체주의가 극단화하면 전체주의가 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

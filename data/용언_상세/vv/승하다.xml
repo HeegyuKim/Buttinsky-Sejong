@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>승하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">乘_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>multiply</trans>
+				<lr>
+					<syn type="kor">곱하다</syn>
+					<hyper>계산하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">금전|단위|수|물리학적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">금전|단위|수|물리학적대상</sel_rst>
+					<eg>승철이는 이제 두 자리 수에 두 자리 수를 승할 줄 안다.</eg>
+					<eg>주인은 각각의 가격에 물건의 총 갯수를 승하는 것에도 쩔쩔매고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">勝_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>win</trans>
+				<lr>
+					<syn type="kor">이기다</syn>
+					<ant type="dir">지다</ant>
+					<ant type="dir">패하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에서 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">운동경기|시험|경연대회</sel_rst>
+					<sel_rst arg="Z" tht="CRT">인간|인간집단</sel_rst>
+					<eg>우리 대표팀은 이번 경기에서 간신히 일본팀에 승했다.</eg>
+					<eg>그는 카드 게임을 항상 친구들에게 승한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>재구조화 처리 방법 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">勝_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>be superior to</trans>
+				<lr>
+					<syn type="kor">뛰어나다</syn>
+					<ant type="dir">뒤지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기술|능력</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>그의 재주는 다른 사람을 승한다.</eg>
+					<eg>철수의 수학 실력은 평균적인 고등학생을 승한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

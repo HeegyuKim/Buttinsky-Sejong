@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시대착오</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형용사 결합의 유형을 'appr'에서 'magn'로 수정;동사결합에 '~이다' 유형 추가;논항명사구 정보 추가;논항 의미부류 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>주로 '~적' 형태로 쓰임</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">시대+착오</str>
+			<org lg="si">時代錯誤</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>과거로 회귀하겠다는 그러한 발상은 완전 ~다.</eg>
+				<eg>검열에 대한 이번 판결은 ~라는 비난을 면하기 힘들다.</eg>
+				<trans>anachronism</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc">아나크로니즘</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">대단한 ~</comb_aj> <!--결합유형이 'magn'? '~가 대단하다' 가능?-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이다</form> <!-- 적절한지 검토 요망 -->
+					<frame>X-이 ~이다</frame>
+					<frame>S것-이 ~이다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 범하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">사태|추상적대상</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

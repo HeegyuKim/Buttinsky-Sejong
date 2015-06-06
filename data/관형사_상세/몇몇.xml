@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>몇몇</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/08/20</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/20</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/20(김창섭);최초 기술에서 양수관형사로만 분석하였던 것을 다음과 같이 수정한다. sense n=1: 양수관형사이면서 非疑問, 非不定관형사. sense n=2: 서수관형사이면서 疑問관형사.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo></allo>
+			<var type="xs"></var>
+			<var type="xd">??</var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>몇+몇</str>
+			<org lg="temp"></org>
+			<comp pos="n"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이번 사태로 몇몇 자금력이 약한 회사는 위기를 맞을 것이다.</eg>
+				<nclass>기타</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">양수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>몇</syn>
+					<ant></ant>
+					<rel type="car">몇몇</rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 도로</comb_md_n>
+				<comb_md_n>~ 도시</comb_md_n>
+				<comb_md_n>~ 동물</comb_md_n>
+				<comb_md_n>~ 사람</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 친구</comb_md_n>
+				<comb_md_n>~ 학생</comb_md_n>
+				<comb_md_n>~ 학교</comb_md_n>
+				<comb_md_n>~ 회사</comb_md_n>
+				
+				<post_n>~ 가산명사</post_n>
+				<synt_sub type="big"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>철수의 글이 몇몇 호에 실렸지?</eg>
+				<nclass>확정</nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi">의문</sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 차(次)</comb_md_n>
+				<comb_md_n>~ 호(號)</comb_md_n>
+				<comb_md_n>~ 집(輯)</comb_md_n>
+				
+				<post_n>~ 의존가산명사</post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

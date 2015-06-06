@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단합되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/06</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단합이 되다</var>
+			<str>N.되</str>
+			<org lg="si">團合_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be unified</trans>
+				<lr>
+					<syn type="perfect">단결되다</syn>
+					<syn type="perfect">동맹되다</syn>
+					<syn type="perfect">연대되다</syn>
+					<syn type="kor">뭉치다</syn>
+					<ant type="compl">분열되다</ant>
+					<ant type="compl">흩어지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|능력|힘|사조(사상)|행위|속성</sel_rst>
+					<eg>그들은 국민들의 단합된 힘과 협동적인 노력으로 이 엄청난 일을 해낸 것이다.</eg>
+					<eg>칠백만 명이 거리로 쏟아져 나와 하나된 마음으로 대한민국을 응원하는 단합된 모습은 우리 스스로의 가슴에 애국심을 불러일으켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>묘원하다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/08/29</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/23</mod_date>
+				<mod_writer>조현경</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 기술</mod_note>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">渺遠_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be far</trans>
+				<trans>be distant</trans>
+				<lr>
+					<syn type="kor">멀다</syn>
+					<ant type="grad">가깝다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에서 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(바다|학교|구청)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소(집|여기|역)</sel_rst>
+					<eg>새로 배정받은 고등학교는 우리 집에서 묘원하여 학교다니기 쉽지 않을 것 같다.</eg>
+					<eg>모임장소가 서울에서 묘원한 탓인지 모임에 참가한 사람이 많지 않다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간(옛날|과거|청동기시대)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">시간(현재|지난주|오늘날)</sel_rst>
+					<eg>이 도자기가 사용되던 때는 오늘날에서 묘원한 청동기시대일 것으로 추정한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be far</trans>
+				<trans>be distant</trans>
+				<lr>
+					<syn type="kor">멀다</syn>
+					<ant type="grad">가깝다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">대칭적친족</sel_rst>
+					<eg>할아버지의 삼촌의 손자가 되는 이는 내가 가늠하기 힘든 묘원한 사람이다.</eg>
+					<eg>목소리도 들어보지 못한 묘원한 친척이 와서 내게 부탁을 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

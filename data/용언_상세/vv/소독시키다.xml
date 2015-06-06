@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>소독시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">소독을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">消毒_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>disinfect</trans>
+				<trans>discontaminate</trans>
+				<lr>
+					<ant type="dir">오염시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|의료기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">약|기체|액체|미생물</sel_rst>
+					<eg>전쟁 때 군인들은 사람들을 DDT로 직접 소독시켰다.</eg>
+					<eg>세관 직원들은 위험 지역을 거쳐 수입된 물품들을 모두 약품으로 소독시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

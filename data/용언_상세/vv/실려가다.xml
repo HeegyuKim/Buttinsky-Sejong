@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>실려가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">실려 가다</var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동</sem_class>
+				<trans>get carried</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="INS">교통기관|(들것)|도구</sel_rst>
+					<eg>집단 구타를 당한 동지들은 응급차에 실려가거나 병원치료를 받아야 했다.</eg>
+					<eg>치앙마이 산을 내려오다 차에 실려가는 돼지를 보았지요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="X" tht="GOL">(병원|수용소|도살장)|장소</sel_rst>
+					<eg>이들은 더위로 인한 어지러움과 기운 부족으로 병원에 실려가 치료를 받기도 했다.</eg>
+					<eg>두 명의 수용인이 병원으로 실려가 아직까지 치료를 받고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

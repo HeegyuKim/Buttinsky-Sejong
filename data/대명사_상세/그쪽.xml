@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>그쪽</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/21</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/07/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">고쪽</var>
+			<str type="etc">그+쪽</str>
+					<img type="xp">고쪽</img>
+		</morph_grp>
+		<sense n="1" sem="etc" num="etc" ref="place">
+			<sem_grp>
+				<eg>저는 얼마 전까지 ~에 살다가 회사 근처로 옮겼어요</eg>
+				<eg>제가 이따가 ~으로 가겠습니다</eg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="etc" ref="human">
+			<sem_grp>
+				<eg>~에서 어떻게 우리 비밀을 알아 냈을까요?</eg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3" sem="2" num="etc" ref="human">
+			<sem_grp>
+				<eg>아쉬운 것은 내가 아니라 ~이죠</eg>
+				<eg>저희로서는 ~에서 제안한 합의서에 동의하기 어렵습니다</eg>
+				<trans>you</trans>
+				<reg>구어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>누그러들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get milder</trans>
+				<lr>
+					<syn type="perfect">잦아들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상현상(날씨|바람|추위|더위)</sel_rst>
+					<eg>기온이 영상으로 오르면서 추위가 누그러들기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get lower</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">값|(물가)</sel_rst>
+					<eg>경기 안정책으로 인해 요즘 물가가 많이 누그러들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>soften</trans>
+				<lr>
+					<syn type="perfect">사그러들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|심리상태|(마음|표정|태도)|소리속성(목소리)</sel_rst>
+					<eg>한기는 그 웃음을 보자 화가 나 있던 마음이 조금은 누그러드는 것 같았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(분위기|추세|정국)</sel_rst>
+					<eg>술잔이 오고가자 긴장되던 분위기가 다소 누그러들었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(탄압|제제)</sel_rst>
+					<eg>국내적으로 안정을 회복하고 외국의 제제가 다소 누그러들자 다시 경제의 활력이 솟아났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

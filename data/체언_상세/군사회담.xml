@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>군사회담</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/11</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">군사 회담</var>
+			<str type="N_N">군사+회담</str>
+			<org lg="si">軍事會談</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>양국은 전쟁을 끝내기 위한 ~을 개최하였다.</eg>
+				<trans>military conference</trans>
+				<domain></domain>
+				<sem_class>일반모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc">민간회담</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 열다</form>
+					<frame>X-이 Y-와 ~S는 ~을 열다</frame>
+					<frame>Y-와 X-이 ~S는 ~을 열다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 개최하다</form>
+					<frame>X-이 Y-와 ~S는 ~을 개최하다</frame>
+					<frame>Y-와 X-이 ~S는 ~을 개최하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 제안하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 S는 ~</max_n_str>
+				<sel_rst arg="X">국가|종족|군대|정치유파</sel_rst>
+				<sel_rst arg="Y">국가|종족|군대|정치유파</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>미국은 소련과 핵무기 감축을 위한 ~을 하였다.</eg>
+				<trans>military conference</trans>
+				<domain></domain>
+				<sem_class>대화</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-와 Z-에 대해 ~을 하다</frame>
+					<frame>X-와 Y-이 Z-에 대해 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Z-에 대한 Y-와의 ~</max_n_str>
+				<max_n_str>X-와 Y-의 Z-에 대한 ~</max_n_str>
+				<sel_rst arg="X">국가|종족|군대|정치유파</sel_rst>
+				<sel_rst arg="Y">국가|종족|군대|정치유파</sel_rst>
+				<sel_rst arg="Z">상황값|결과행위|상호적언술행위|계획사건</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

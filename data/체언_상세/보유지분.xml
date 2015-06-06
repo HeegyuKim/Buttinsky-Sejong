@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보유지분</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보유 지분</var>
+			<str type="N_N">보유+지분</str>
+			<org lg="si">保有持分</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>5월 주가가 단기 급등한 일부 회사의 대주주들이 ~을 집중적으로 내다팔았다.</eg>
+				<trans>retention equity</trans>
+				<domain></domain>
+				<sem_class>추상적부분</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 많다</comb_aj>
+				<comb_aj type="appr">~이 적다</comb_aj>
+				<comb_n type="compound">~ 매각</comb_n>
+				<comb_n type="compound">~ 인수</comb_n>
+				<comb_n type="compound">~ 확대</comb_n>
+				<comb_n type="compound">~ 현황</comb_n>
+				<comb_n type="compound">~ 처분</comb_n>
+				<comb_n type="compound">대주주 ~</comb_n>
+				<comb_n type="compound">채권단 ~</comb_n>
+				<comb_n type="compound">정부 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 매각하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 팔다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 처분하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 인수하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확대하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

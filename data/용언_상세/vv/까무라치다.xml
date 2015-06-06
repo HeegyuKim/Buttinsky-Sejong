@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>까무라치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">까물치다</var>
+			<var type="etc">까무러치다</var>
+			<var type="etc">가무러치다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>lose one's senses</trans>
+				<lr>
+					<syn type="sino">혼절하다</syn>
+					<syn type="sino">기절하다</syn>
+					<hyper>쓰러지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">구체물|추상적대상|사태</sel_rst>
+					<eg>아주머니는 아들이 전사했다는 소식에 까무라치셨다.</eg>
+					<eg>천수는 친구들이 장난으로 세워 둔 귀신 모형에 그만 까무라치고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

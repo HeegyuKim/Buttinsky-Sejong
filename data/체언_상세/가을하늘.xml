@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>가을하늘</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/27</cre_date>
+				<cre_writer>목정수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/012/29</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note>예문수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">갈하늘</var>
+			<str type="N_N">가을+하늘</str>
+			<org lg="etc"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~이 드높은데도 마음이 답답한 것은 왜 그럴까?</eg> <!--목(2004/12/29) 가을하늘을 ~로 수정 -->
+				<eg>~은 높고도 푸르구나!</eg> <!--목(2004/12/29) 가을하늘을 ~로 수정 -->
+				<trans>autumn sky</trans>
+				<domain></domain>
+				<sem_class></sem_class> <!-- 목정수(2004/07/04)하늘에 대한 의미부류명 애매 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 높다</comb_aj>
+				<comb_aj type="appr">~이 푸르다</comb_aj>
+				<comb_aj type="appr">~이 맑다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 쳐다보다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 올려다보다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

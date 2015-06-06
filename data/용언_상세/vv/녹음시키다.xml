@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>녹음시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 및 어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">녹음을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">錄音__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>record</trans>
+				<lr>
+					<rel>녹화시키다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간집단|전기전자기구</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리|음악|방송물(라디오방송)|소통행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">기기(녹음기)</sel_rst>
+					<eg>자료가 될만 하다고 생각해서 내가 녹음시킨 새소리들이 있다.</eg>
+					<eg>그는 침대 맡에 남겨둔 인사말을 전화기에 녹음시킨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

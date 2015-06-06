@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>나위</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/25</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>교사 생활은 더할 ~ 없이 행복했다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt>~(가)</prt>
+				<comb_aj type="appr">~가 없다</comb_aj>
+				<comb_aj type="appr">~가 있다</comb_aj>
+				<comb_v possible="no"/>
+				<comb_ida possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

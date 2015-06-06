@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>센티</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/05</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xx">센치</var>
+			<var type="xx">센찌</var>
+			<var type="xx">쎈치</var>
+			<var type="xx">쎈찌</var>
+			<var type="lng">센티미터</var>
+			<org lg="en">centi</org>
+			<symb>cm;Cm</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>금을 십 ~만 더 그려라</eg>
+				<eg>키가 오 ~ 더 컸다</eg>
+				<cl_subtype type="lnt"/>
+				<lr>
+					<rel>밀리</rel>
+					<rel>미터</rel>
+					<rel>킬로</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

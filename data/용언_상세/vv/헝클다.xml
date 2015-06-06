@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헝클다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/24</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>tangle</trans>
+				<trans>entangle</trans>
+				<trans>dishevel</trans>
+				<trans>kink</trans>
+				<trans>ravel</trans>
+				<lr>
+					<syn type="perfect">엉클다</syn>
+					<ant type="dir">풀다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성구체물(실|실타래|끈|머리카락)</sel_rst>
+					<eg>꼬마가 실타래를 다 헝클어 놓아서 실을 감을 수가 없다.</eg>
+					<eg>등에 업힌 꼬마가 곱게 빗은 엄마의 머리카락을 헝클어 놓았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성구체물(실|실타래|끈|머리카락)</sel_rst>
+					<eg>바닷바람이 그녀의 머리카락을 헝클고 지나갔다.</eg>
+					<eg>거센 바람이 잘 정리해 둔 그물들을 헝클어 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>disarrange</trans>
+				<trans>litter</trans>
+				<trans>scatter</trans>
+				<trans>mess up</trans>
+				<trans>put in disorder</trans>
+				<lr>
+					<syn type="perfect">엉클다</syn>
+					<syn type="perfect">어지르다</syn>
+					<ant type="dir">정리하다</ant>
+					<ant type="dir">정돈하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|건물|건물부분장소</sel_rst>
+					<eg>과장은 뭔가를 찾는다며 우리가 한 시간 넘게 걸려 정리해 둔 서류들을 다 헝클어 놓았다.</eg>
+					<eg>아이는 방안 가득 장난감들을 헝클어 놓은 채 놀고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>ruin</trans>
+				<trans>spoil</trans>
+				<trans>mar</trans>
+				<trans>destroy</trans>
+				<trans>make a muddle</trans>
+				<lr>
+					<syn type="perfect">엉클다</syn>
+					<syn type="perfect">망치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(생각|구상|계획|질서|일|생활|삶|인생)</sel_rst>
+					<eg>그는 매번 내 계획을 헝클어 놓았다.</eg>
+					<eg>이번 부도 사태가 그의 사업 구상을 헝클어버렸다.</eg>
+					<eg>그는 신입사원이 멋모르고 헝클어 놓은 일들을 다시 하느라 한동안 고생을 해야 했다.</eg>
+					<eg>그 사건은 그 여자의 인생을 헝클어 놓는 결과를 초래했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>confuse</trans>
+				<trans>complicate</trans>
+				<trans>agitate</trans>
+				<trans>upset</trans>
+				<trans>move</trans>
+				<lr>
+					<syn type="perfect">엉클다</syn>
+					<syn type="perfect">흔들다</syn>
+					<syn type="sino">동요시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(감정|기분)|인지상태(생각|믿음|의지)|개체상황(머릿속|마음)</sel_rst>
+					<eg>그 사람의 한 마디 말이 내 감정을 헝클어 놓았다.</eg>
+					<eg>그의 차가운 태도가 내 믿음을 헝클어 버렸다.</eg>
+					<eg>그 사건이 내 마음을 온통 헝클어 놓아 나도 갈피를 잡을 수 없는 상태였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

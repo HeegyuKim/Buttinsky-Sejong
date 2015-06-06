@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보수세력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>cl검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/06</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj 기술, n_n 추가, 영어대역어 관사 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>cl 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">보수 세력</var>
+			<str type="N_N">보수+세력</str>
+			<org lg="si">保守勢力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~은 정부의 개혁 방침에 불만을 표시하고 나섰다.</eg>
+				<trans>conservative force</trans>
+				<domain></domain>
+				<sem_class>정치유파</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">진보세력</ant>
+					<ant type="grad">개혁세력</ant>
+					<ant type="grad">혁신세력</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">낡은 ~</comb_aj>
+				<comb_n type="compound">~ 진영</comb_n>
+				<comb_n type="compound">~ 인사</comb_n>
+				<comb_n type="compound">수구 ~</comb_n>
+				<comb_n type="compound">극우 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="grp"></cl><!--어색한 듯. 삭제하는 게 낫지 않을까요?(김이정)--><!--'무리' 삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

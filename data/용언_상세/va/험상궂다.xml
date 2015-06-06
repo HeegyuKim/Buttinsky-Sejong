@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>험상궂다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+				<mod_note>의미 세분</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+			<org lg="si">險狀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be grim</trans>
+				<trans>be sinister</trans>
+				<lr>
+					<syn type="perfect">험상스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">얼굴</n_appr>
+					<n_appr arg="X">외모</n_appr>
+					<eg>그는 얼굴이 험상궂어 남들에게 오해를 사기도 한다.</eg>
+					<eg>대문을 여니 웬 험상궂은 남자 하나가 버티고 서 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be terrible</trans>
+				<trans>be sinister</trans>
+				<lr>
+					<syn type="perfect">험상스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(표정|분위기)</sel_rst>
+					<eg>그는 험상궂은 표정으로 우리를 노려보았다.</eg>
+					<eg>무슨 일인지 집안 분위기가 험상궂다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be rough</trans>
+				<trans>be rugged</trans>
+				<lr>
+					<syn type="perfect">험상스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<n_appr arg="X">모습</n_appr>
+					<eg>아이들이 뛰어놀던 마을 뒷공터에 언제부턴가 험상궂은 시멘트 건물들이 하나둘 들어서기 시작했다.</eg>
+					<eg>골짜기를 돌아서니 험상궂은 바위들이 삐죽삐죽 솟아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

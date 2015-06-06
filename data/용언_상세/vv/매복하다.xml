@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>매복하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">매복을 하다</var>
+			<str>N.하</str>
+			<org lg="si">埋伏_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>ambush</trans>
+				<lr>
+					<syn type="perfect">잠복하다</syn>
+					<hyper>숨다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|동물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소</sel_rst>
+					<eg>우리는 고지에서 쏟아붓는 비비탄을 피해 아군의 엄호를 받으며 약진, 풀숲에 매복해 있다.</eg>
+					<eg>물가에 매복해 있거나 얕은 물 속을 걸어 다니다가 부리로 물고기를 잡기도 하고, 간석지의 진흙 속에서 갯지렁이 등을 잡아먹는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

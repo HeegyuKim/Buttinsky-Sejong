@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>송구스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/07/16</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">悚懼__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be sorry</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=N2-에대해|이 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">범죄및비행|사실명제</sel_rst>
+					<eg>제가 저지른 잘못에 대해 국민 여러분께 송구스러울 따름입니다.</eg>
+					<eg>마을에서 염치없이 밥을 얻어먹던 거인은 주민들에게 보답을 못해 송구스러워 했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=S것2|S기2-이|에대해 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM"/>
+					<eg>그는 그가 그렇게 큰 일을 저지른 것이 집안 어른들께 그저 송구스러울 뿐이었다.</eg>
+					<eg>기본 안주가 떨어지면 알아서 더 갖다 주는데 막걸리만 시키고 계속 먹기가 송구스러워.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

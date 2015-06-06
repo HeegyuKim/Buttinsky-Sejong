@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비속하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">卑俗_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be vulgar</trans>
+				<lr>
+					<syn type="perfect">속되다</syn>
+					<syn type="perfect">천하다</syn>
+					<ant type="grad">고상하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(말|표현|글|영화)</sel_rst>
+					<eg>그는 책을 가득 채우고 있는 비속한 표현들에 역겨움을 느꼈다.</eg>
+					<eg>이렇게 비속한 문화 속에서 아이들이 무엇을 배우고 느낄 지 걱정이 앞선다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be vulgar</trans>
+				<lr>
+					<syn type="perfect">속되다</syn>
+					<syn type="perfect">천하다</syn>
+					<ant type="grad">고상하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그의 비속한 말과 태도가 사람들의 관심의 대상이 된 적도 있었다.</eg>
+					<eg>그의 행동 하나하나가 비속하기 그지 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

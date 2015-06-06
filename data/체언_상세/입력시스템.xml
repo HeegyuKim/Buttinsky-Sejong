@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>입력시스템</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem 검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 검토했음, 영어대역어 추가, n_n 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">입력 시스템</var>
+			<str type="N_N">입력+시스템</str>
+			<org lg="si">入力___</org>
+			<org lg="en">__system</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 ~을 사용하면 여러 나라의 다양한 문자를 특수한 키보드를 이용하지 않고 입력할 수 있다.</eg>
+				<trans>input method editor</trans>
+				<trans>entry system</trans><!--문자외에도 정보 등 다른 입력시스템도 있으므로 이 대역어 추가합니다(김이정)-->
+				<domain></domain>
+				<sem_class>방법</sem_class><!--비언어기호체계?(권오희)--><!--방법이 맞는 듯(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">한글 ~</comb_n>
+				<comb_n type="compound">다국어 ~</comb_n>
+				<comb_n type="compound">외국어 ~</comb_n>
+				<comb_n type="compound">문자 ~</comb_n>
+				<comb_n type="compound">정보 ~</comb_n>
+				<comb_n type="compound">보안 ~</comb_n>
+				<comb_n type="compound">~ 개발</comb_n>
+				<comb_n type="compound">~ 구축</comb_n>
+				<comb_n type="compound">~ 도입</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 작동하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개발하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

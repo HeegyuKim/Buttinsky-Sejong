@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>개입되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/28</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">개입이 되다</var>
+			<str>R.되</str>
+			<org lg="si">介入_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>간섭</sem_class>
+				<trans>be intervened</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(정부)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>불법외화 밀반출에 정부가 개입된 이런 사건은 전세계적으로 처음 있는 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be imported into</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(자의식|마음)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>현재 중국에서는 이런 사회적 일자리에조차 시장 마인드가 개입되고 있다.</eg>
+					<eg>여기에 뮤지션의 자의식이 과도히 개입되면 그야말로 비대중적인 음악이 되는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

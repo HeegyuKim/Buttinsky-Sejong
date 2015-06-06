@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>신신당부하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">신신당부를 하다</var>
+			<str>N.하</str>
+			<org lg="si">申申當付_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>entreat</trans>
+				<trans>request earnestly</trans>
+				<trans>make an earnest request</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상|행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>어머니는 군대 가는 아들에게 건강을 신신당부하셨다.</eg>
+					<eg>어머니는 나를 삼촌에게 신신당부하셨다.</eg>
+					<eg>사전 협조를 신신당부해 놓았으나 도착했을 때는 아무 준비도 안 돼 있어 애를 먹었다.</eg>
+					<eg>어떤 경우에도 자신에게 등록금이며 용돈이며 챙겨주지 말 것을 신신당부했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>어머니는 군대 가는 아들에게 부디 건강할 것을 신신당부하셨다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S기</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>어머니는 군대 가는 아들에게 부디 건강하기를 신신당부하셨다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-라고|도록 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>어머니는 아들에게 삼시 밥을 꼭 챙겨 먹으라고 신신당부하셨다.</eg>
+					<eg>어머니는 나에게 그 의사를 만나보도록 신신당부하셨다.</eg>
+					<eg>선생님은 그 소년에게 소매치기는 절대 하지 말라고 신신당부해 놓고 돌아왔다.</eg>
+					<eg>청취자들에게 우산 꼭 꼭 챙기라고 신신당부 해 놓은 뒤에 저는 비 맞고 집에 갑니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

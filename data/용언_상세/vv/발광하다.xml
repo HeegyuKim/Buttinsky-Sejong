@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발광하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/27</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">發狂_</org>
+		</morph_grp>
+		<sense> <!--미친병의 증세가 밖으로 드러남-->
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class>
+				<trans>go mad</trans>
+				<trans>run mad</trans>
+				<trans>lose one's mind</trans>
+				<trans>go out of one's mind</trans>
+				<trans>have a fit</trans>
+				<trans>have a spasm</trans>
+				<trans>have a paroxysm</trans>
+				<trans>go into a fit</trans>
+				<trans>throw a fit</trans>
+				<lr>
+					<syn type="etc">발작하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<eg>개가 광견병에 걸려서 발광하면 주인도 몰라보고 마구 문다.</eg>
+					<eg>이 정신병원에 수용된 환자들이 가끔 발광할 때가 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--어떤 일을 하고 싶은 마음을 격렬히 드러냄-->
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>be beside oneself</trans>
+				<trans>act like mad</trans>
+				<trans>behave like mad</trans>
+				<trans>behave frantically</trans>
+				<trans>behave frenziedly</trans>
+				<trans>act frantically</trans>
+				<trans>act frenziedly</trans>
+				<lr>
+					<syn type="etc">발광이다</syn>
+					<rel>지랄발광</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame> <!--하고 싶어 하는 일을 나타내는 절이 특징적으로 나타나나 논항으로 간주하지 않음-->
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst> <!--AGT 또는 MAG인지도-->
+					<eg>그는 밖에 나가고 싶어서 발광하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/27</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">發光_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>물리화학현상</sem_class>
+				<trans>radiate</trans>
+				<trans>emit light</trans>
+				<trans>give forth light</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>이 물질은 어두운 곳에서 발광하는 특징이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

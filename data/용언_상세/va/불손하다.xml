@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>불손하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">不遜_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be insolent</trans>
+				<trans>be arrogant</trans>
+				<trans>be haughty</trans>
+				<lr>
+					<syn type="perfect">불순하다</syn>
+					<syn type="kor">버릇없다</syn>
+					<ant type="grad">공손하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그는 천성이 오만하고 불손했다.</eg>
+					<eg>그 모습을 본 할아버지께서는 요즘 젊은이들은 불손하기 이를 데 없다고 개탄하셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be insolent</trans>
+				<trans>be arrogant</trans>
+				<trans>be haughty</trans>
+				<lr>
+					<syn type="perfect">불순하다</syn>
+					<syn type="kor">버릇없다</syn>
+					<ant type="grad">공손하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(태도|행동|언행|언사|말)</sel_rst>
+					<eg>그의 불손하고 오만한 태도가 우리를 당황케 했다.</eg>
+					<eg>오빠는 나를 향해 다시 한번 새언니에게 그 따위 불손한 언행을 보이면 가만있지 않겠다고 으름장을 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be insolent</trans>
+				<trans>be arrogant</trans>
+				<trans>be haughty</trans>
+				<lr>
+					<syn type="perfect">불순하다</syn>
+					<syn type="kor">버릇없다</syn>
+					<ant type="grad">공손하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에게|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>노인에게 불손한 사람은 언젠가 자신도 늙어 그런 대접을 받게 되기 마련이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

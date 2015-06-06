@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/05/31</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/05/31</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>변이형 정보 추가</mod_note>
+				<mod_note>의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정</mod_note>
+				<mod_note>예문 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/04/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>대역어수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">검다</var>
+			<var type="etc">깜다</var>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be dark</trans>
+				<trans>be black</trans>
+				<lr>
+					<syn type="perfect">꺼멓다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체자연물|구체인공물</sel_rst>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>언니는 얼굴이 감은 것이 늘 컴플렉스였다</eg>
+					<eg>이 주변에 감은 색이 도는 돌들이 많은 것을 보니 이 곳은 화산 지역인 듯하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

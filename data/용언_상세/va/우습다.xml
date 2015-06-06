@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>우습다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be funny</trans>
+				<lr>
+					<syn type="perfect">우스꽝스럽다</syn>
+					<syn type="sino">재미있다</syn>
+					<ant type="grad">재미없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|상황|개체상황|행위</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나에게는 그 차림새가 참 우습다.</eg>
+					<eg>그때 우리들은 선생님의 표정이 너무 우스웠다.</eg>
+					<eg>그 연예인은 누가 봐도 우습다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be laughable</trans>
+				<trans>be ridiculous</trans>
+				<lr>
+					<syn type="sino">가소롭다</syn>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|행위</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 이제 좀 컸다고 큰소리 치는 그 아이가 우습다.</eg>
+					<eg>모든 일을 자기가 다 한 것인냥 으스대는 그 사람이 우습기만 하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|행위</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>나는 그가 아직도 어릴 적 시시콜콜한 일들을 다시 들춰낸다는 것이 우습다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be easy</trans>
+				<lr>
+					<syn type="perfect">만만하다</syn>
+					<syn type="perfect">손쉽다</syn>
+					<syn type="perfect">쉽다</syn>
+					<syn type="sino">용이하다</syn>
+					<ant type="grad">어렵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|텍스트|추상적대상</sel_rst>
+					<eg>이런 수학문제는 생각보다 우습다.</eg>
+					<eg>까짓것, 그런 일이라면 식은 죽 먹기 보다 우습다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=S기0|S것0-이 A</frame>
+				<subsense>
+					<eg>이런 문제를 해결하는 것은 우습다.</eg>
+					<eg>장비만 있다면 이 정도 산을 오르기는 우습다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">무척</col>
+				</col_grp>
+			</com>
+		</sense>
+		<defect>
+			<infl_rst>우습게</infl_rst>
+			<infl_rst>우스운</infl_rst>
+			<trans>be awkward</trans>
+			<trans>be unreliable</trans>
+			<defect_eg>반드시 된다고 장담한 일이 엉뚱하게 풀리니, 내 입장이 우습게 되었다.</defect_eg>
+			<defect_eg>생각 좀 해 보게. 그러면 내가 얼마나 우스운 사람이 되겠나?</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

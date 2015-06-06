@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>로비의혹</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>의미부류 수정; n_v_grp 수정; max_n 수정; 선택제약 수정; "uni" 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">로비 의혹</var>
+			<str type="N_N">로비+의혹</str>
+			<org lg="en">lobby__</org>
+		    <org lg="si">__疑惑</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>언론에 의해 다시 한번 고속철도 사업에 대한 프랑스 회사의 ~이 제기되고 있다.</eg>
+				<eg>이씨가 회장 부인과 어울려 다녔다는 것만으로도 ~을 사기에는 충분하다.</eg>
+				<trans>suspicion of lobbying</trans>
+				<domain></domain>
+				<sem_class>인지적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 짙다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 Y-에게 Z ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 Z ~을 받다</frame>
+				</comb_v>
+				   <comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 사다</form>
+					<frame>Y-이 X-에게 Z ~을 사다</frame>
+				</comb_v>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str>
+				<max_n_str>Y-에 대한 Z ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<sel_rst arg="Z">범죄및비행</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">건</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

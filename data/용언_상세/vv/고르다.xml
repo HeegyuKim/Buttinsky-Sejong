@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고르다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/15</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>의미 역할 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>choose</trans>
+				<lr>
+					<syn type="sino">선택하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간</sel_rst>
+					<eg>김 교수는 제자들 중에서 사윗감을 하나 고르려고 한다.</eg>
+					<eg>그 여자는 결국 주변의 남자들 중에서 남편감을 골랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체물</sel_rst>
+					<eg>쌀에서 돌을 골라 내세요.</eg>
+					<eg>다음 보기에서 틀린 문장을 고르시오.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">추상적대상</sel_rst>
+					<eg>기자들은 투표로 국내외 주요뉴스들 중에서 올해의 십대 뉴스를 골라 냈다.</eg>
+					<eg>우리 학교에는 매년 연말에 학생들은 지난 1년 동안 학교 안에서 일어난 여러 가지 사건들 중에서 최악의 사건을 고르는 전통이 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">장소</sel_rst>
+					<eg>월드컵 조직위원회는 여러 후보 도시들 중에서 8 개 도시를 골랐다.</eg>
+					<eg>우리 가족은 여러 휴양지 가운데에서 이번 휴가를 보낼 곳을 골랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">시간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">시간</sel_rst>
+					<eg>철수는 오후 시간 대에서 비교적 덜 붐비는 시간을 골랐다.</eg>
+					<eg>너는 그 많은 시간 중에서 제일 바쁜 이 시간을 골라서 만나자고 했니?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간</sel_rst>
+					<eg>김 회장은 사장감에 박 이사를 이미 골랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(사건)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상(사건)</sel_rst>
+					<eg>신문들은 올해의 10대 뉴스에 남북 적십자 회담을 골랐다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="FNS">인간</sel_rst>
+					<eg>김 회장은 사장감으로 박 이사를 이미 골랐다.</eg>
+					<eg>박 사장은 몇 년 전부터 큰 아들을 후계자로 골라 훈련을 시키고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(사건)</sel_rst>
+					<sel_rst arg="Z" tht="FNS">추상적대상(사건)</sel_rst>
+					<eg>신문들은 올해의 10대 뉴스로 남북 적십자 회담을 골랐다.</eg>
+					<eg>그들은 지난 번 대지진을 평생 잊을 수 없는 재앙으로 골랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">장소</sel_rst>
+					<sel_rst arg="Z" tht="FNS">장소</sel_rst>
+					<eg>정부는 제주도를 관광 단지로 골랐다.</eg>
+					<eg>독재자는 망명지로 스위스를 골랐다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="FNS">장소</sel_rst>
+					<eg>김 기자는 톱기사로 남북 회담이 재개된 것을 골랐다.</eg>
+					<eg>그는 우리 나라가 월드컵에서 4강에 들어간 것을 평생 가장 기쁜 사건으로 골랐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/15</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>flatten</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(흙|붓)|장소(땅|바닥)</sel_rst>
+					<eg>경기 진행 요원들이 씨름판의 모래를 평평하게 골랐다.</eg>
+					<eg>정원사는 화단의 흙을 잘 골랐다.</eg>
+					<eg>짐승들은 자기 잠자리를 잘 고른 다음에야 잠이 든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

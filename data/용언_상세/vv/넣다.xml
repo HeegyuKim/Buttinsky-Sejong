@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+
+<superEntry>
+	<orth>넣다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+				<lr>
+					<ant type="compl">꺼내다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(책|물건|잡동사니)|신체부위(손|발)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체인공물(가방|상자|우체통)</sel_rst>
+					<eg>철수는 가방에 책을 넣었다.</eg>
+					<eg>영희는 우체통에 편지를 넣었다.</eg>
+					<eg>철수는 양손을 주머니에 넣고 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="perfect">타다</syn>
+					<syn type="perfect">치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">양념(간장|소금)|(커피|설탕|프림)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">음식</sel_rst>
+					<eg>국이 너무 싱거우니 소금을 조금 넣어 드십시오.</eg>
+					<eg>내 커피에는 설탕을 넣지 말아라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>inflate</trans>
+				<lr>
+					<syn type="sino">주입하다</syn>
+					<ant type="compl">빼다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">바람</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체인공물(타이어|풍선)</sel_rst>
+					<eg>철수는 타이어에 바람을 넣었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>deposit</trans>
+				<lr>
+					<syn type="perfect">맡기다</syn>
+					<syn type="sino">예치하다</syn>
+					<syn type="sino">입금하다</syn>
+					<ant type="compl">찾다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈(돈|수표)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">금융기관|(통장)</sel_rst>
+					<eg>그는 모은 돈을 모두 통장에 넣었다.</eg>
+					<eg>1억 원을 은행에 넣으면 일 년에 이자가 얼마나 됩니까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>submit</trans>
+				<lr>
+					<syn type="perfect">내다</syn>
+					<syn type="sino">제출하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">문서(원서|지원서|서류)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">기관</sel_rst>
+					<eg>그는 올해에도 몇 군데 회사에 지원서를 넣은 상태였다.</eg>
+					<eg>지원자는 오늘 오후까지 지원 대학에 서류를 넣어야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make enter</trans>
+				<lr>
+					<syn type="sino">입학시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">교육기관</sel_rst>
+					<eg>그녀는 아이를 사립학교에 넣고 싶어 안달이 났다.</eg>
+					<eg>그는 올해 둘째를 유치원에 넣었다.</eg>
+					<eg>금품을 받고 고위층 자녀를 자신의 대학에 넣어 준 이사장이 구속되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make join</trans>
+				<lr>
+					<syn type="perfect">끼우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간집단|행위</sel_rst>
+					<eg>그는 새로 전학 온 친구를 우리 팀에 넣고 싶지 않아 한다.</eg>
+					<eg>이번 일에 저도 좀 넣어 주십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>let</trans>
+				<trans>let enter</trans>
+				<lr>
+					<syn type="perfect">들여보내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">건물|건물부분장소</sel_rst>
+					<eg>일단 아이들은 방에 넣고 이야기합시다.</eg>
+					<eg>그녀는 막 아이를 유치원에 넣고 오는 길이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="perfect">보내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">교도소</sel_rst>
+					<eg>그는 이런 일이 재발하면 우리 모두를 감옥에 넣어 버리겠다고 윽박질렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>turn on</trans>
+				<lr>
+					<syn type="perfect">켜다</syn>
+					<ant type="compl">끄다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(전원|스위치)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">기계</sel_rst>
+					<eg>그는 방에 들어서자 먼저 오디오에 전원을 넣었다.</eg>
+					<eg>먼저 전원 플러그가 제대로 꽂혔는지 확인한 후 스위치를 넣으십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="perfect">올리다</syn>
+					<syn type="sino">기입하다</syn>
+					<syn type="sino">등재하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">기호</sel_rst>
+					<sel_rst arg="Z" tht="GOL">텍스트(프로그램|계획서|청구서)</sel_rst>
+					<eg>그는 계약서에 자신의 이름도 넣기를 원한다.</eg>
+					<eg>신청자 명단에 내 이름도 넣어 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>include</trans>
+				<lr>
+					<syn type="sino">포함시키다</syn>
+					<ant type="compl">빼다</ant>
+					<ant type="compl">제외하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|계획사건|행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">계획사건</sel_rst>
+					<eg>주최측은 이번 행사에 주민 장기 자랑을 넣기로 했다.</eg>
+					<eg>우리는 송년 행사에 꼬마들의 공연을 넣었으면 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>goal in</trans>
+				<lr>
+					<syn type="sino">기록하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(추가골|결정골)</sel_rst>
+					<eg>그 선수가 추가골을 넣어 경기를 승리로 이끌었다.</eg>
+					<eg>그 선수가 세 골을 넣어 해트트릭을 기록했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>sow</trans>
+				<lr>
+					<syn type="perfect">심다</syn>
+					<syn type="perfect">뿌리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(씨|씨앗)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">농경지|(땅)</sel_rst>
+					<eg>그는 씨를 넣고 기다리는 농부의 마음으로 이번 일의 결과를 기다렸다.</eg>
+					<eg>땅에 씨를 넣을 무렵이 되면 마을 사람들의 일손이 바빠지기 시작한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>손에 넣다</idm>
+			<idm>손아귀에 넣다</idm>
+			<idm>수중에 넣다</idm>
+			<idm>바람을 넣다</idm>
+			<idm>눈에 넣어도 아프지 않다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에|에게 W=S3-고 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">소통행위(청|부탁|전화|압력)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="W" tht="CNT"/>
+					<eg>비서실에서는 담당 부서에 그 일을 빨리 처리해 달라고 압력을 넣었다.</eg>
+					<eg>노인은 아들에게 내일 잠시 들르라고 전화를 넣었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에|에게 W=S3-도록 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">소통행위(청|부탁|전화|압력)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>비서실에서는 담당 부서에 그 일을 빨리 처리하도록 압력을 넣었다.</eg>
+					<eg>노인은 아들에게 내일 잠시 들르도록 전화를 넣었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Y=N1-을 Npr2-에 V</frame>
+				<subsense>
+					<sel_rst arg="Npr2">추상적행위(고려|계산|계획|셈)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그들의 반응을 계산에 넣고 일을 처리하시오.</eg>
+					<eg>그는 이런 상황을 고려에 넣지 않은 모양이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr2">추상적행위(고려|계산|계획|셈)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>내일이면 그가 온다는 것은 계산에 넣었니?</eg>
+					<eg>그는 어머니의 반대가 심할 것이라는 것을 고려에 넣지 않고 일을 벌였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

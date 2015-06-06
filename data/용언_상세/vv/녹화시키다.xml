@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>녹화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 및 어원 제시방식 수정</mod_note>
+				<mod_note>어원 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">녹화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">錄怜__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>record a scene on video tape</trans>
+				<lr>
+					<rel>녹음시키다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">미술작품|영상|방송물(텔레비젼방송)|사태</sel_rst>
+					<eg>오늘 오후에 있는 축구경기를 꼭 녹화시켜야 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">전기전자기구</sel_rst>
+					<sel_rst arg="Y" tht="THM">미술작품|영상|방송물(텔레비젼방송)|사태</sel_rst>
+					<eg>이렇게 하면 예고된 방영시간이 변경되더라도 비디오가 프로그램을 자동으로 추적해 녹화시킨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 및 어원 제시방식 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">녹화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">綠化__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>plant trees</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소|지역</sel_rst>
+					<eg>현재 우리는 세계로부터 온 국민들로부터 칭송 받을 만큼 국토를 녹화시켰다.</eg>
+					<eg>그 유명한 제지기업이 산림청을 설득해 그동안 2천만평이 훨씬 넘는 국유림을 녹화시켰다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

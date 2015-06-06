@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>의심쩍다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/01</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">의심스럽다</var>
+			<str>RS</str>
+			<org lg="si">疑心_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be suspicious</trans>
+				<trans>be doubtful</trans>
+				<lr>
+					<syn type="perfect">수상쩍다</syn>
+					<syn type="perfect">미심쩍다</syn>
+					<syn type="kor">못미덥다</syn>
+					<ant type="grad">믿음직하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-에게는|이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="MAG">행위|상태|속성|방법|역할|기준|관계추상적대상|(태도)</sel_rst> <!--후보 대상이 상당히 많음-->
+					<eg>우리는 그들의 저의가 매우 의심쩍다.</eg>
+					<eg>저 흉악범이 흘리는 눈물은 악어의 눈물만큼이나 의심쩍다.</eg>
+					<eg>그가 과연 이 문제를 해결할 수 있을 지 심히 의심쩍다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>높직하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/23</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rather high</trans>
+				<lr>
+					<syn type="perfect">높다랗다</syn>
+					<ant type="grad">나지막하다</ant>
+					<ant type="grad">얕으막하다</ant>
+					<rel>짤따랗다</rel>
+					<rel>기다랗다</rel>
+					<rel>널따랗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(해|달)|구체물</sel_rst>
+					<eg>형당 문 앞엔 붉은 등불이 높직하게 매달려 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be rather tall</trans>
+				<lr>
+					<syn type="perfect">높직하다</syn>
+					<ant type="grad">나지막하다</ant>
+					<ant type="grad">얕으막하다</ant>
+					<rel>짤따랗다</rel>
+					<rel>기다랗다</rel>
+					<rel>널따랗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(담장|울타리|건물)</sel_rst>
+					<eg>제일 높직하게 우뚝 솟아 있는 건물이 소위 정당이라는 건물이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

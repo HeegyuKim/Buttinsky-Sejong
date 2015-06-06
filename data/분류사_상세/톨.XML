@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>톨</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/31</mod_date>
+				<mod_writer>방성원</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2002/04/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>쌀 한 ~이라도 아껴야 한다</eg>
+				<eg>아버지는 금새 토실토실한 밤 열 ~을 주우셨다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>도토리</rel_n>
+				<rel_n>곡식</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

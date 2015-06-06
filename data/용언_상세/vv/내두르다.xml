@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내두르다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내어두르다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>wave</trans>
+				<trans>brandish</trans>
+				<lr>
+					<syn type="perfect">내돌리다</syn>
+					<syn type="perfect">휘두르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(주먹)</sel_rst>
+					<eg>아직도 아무 데서나 주먹을 내두르는 습관을 못고쳤니?</eg>
+					<eg>그녀는 손을 내두르며 완강히 거절했지만 주인아주머니의 성의를 받아들이는 수밖에 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>control</trans>
+				<trans>dominate</trans>
+				<lr>
+					<syn type="perfect">거느리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>그 악덕업주는 종업원들을 마음대로 내두르지만 종업원들은 생계가 달린 일이라서 함부로 반항하지도 못한다.</eg>
+					<eg>너무 아랫사람을 내두르지 말고 푸근하게 감싸주는 것이 좋다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>혀를 내두르다</idm>
+			<idm>머리를 내두르다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

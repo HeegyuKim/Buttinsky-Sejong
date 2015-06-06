@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재빠르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속도속성값</sem_class>
+				<trans>be quick</trans>
+				<trans>be nimble</trans>
+				<lr>
+					<syn type="perfect">잽싸다</syn>
+					<syn type="perfect">날렵하다</syn>
+					<syn type="sino">신속하다</syn>
+					<ant type="grad">굼뜨다</ant>
+					<hyper>빠르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|몸짓및동작</sel_rst>
+					<eg>세월은 흘렀지만 그의 몸놀림은 여전히 재빠르고 날렵했다.</eg>
+					<eg>소년의 재빠른 판단이 위험에 노출된 많은 사람들을 구하는 데 큰 도움이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

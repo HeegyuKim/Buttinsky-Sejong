@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>죄없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">죄가 없다</var>
+			<str>NA</str>
+			<org lg="si">罪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be not guilty</trans>
+				<trans>be blameless</trans>
+				<trans>be innocent</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>이 세상에 죄없는 사람이 어디 있을까?</eg>
+					<eg>형사는 죄없는 기영이를 다구쳐 신문을 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be ineffectual</trans>
+				<trans>be blameless</trans>
+				<lr>
+					<syn type="perfect">애?다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>기영이는 화가 나서 죄없는 책상만 걷어찼다.</eg>
+					<eg>기영이는 원고가 안써지니까 죄없는 컴퓨터 탓만 하고 있다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

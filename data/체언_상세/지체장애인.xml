@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지체장애인</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>str 정보 기호 수정;변이형 정보(띄어쓰기) 추가;대역어 수정;단위표현 추가;n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see>지체장애자</see>
+		<morph_grp>
+			<var type="spr">지체 장애인</var>
+			<str type="N_N">지체+장애인</str><!--김성용(2004/07/15)'지체'를 어근으로 볼 가능성은 없는지 확인 요망--> <!--(호정은) 표준사전에 따라 '지체'를 명사로 기술함-->
+			<org lg="si">肢體障&#31001;人</org> <!--'애'에 해당하는 한자 없음-->
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>아직도 국내에는 ~을 위한 시설이 부족하다.</eg>
+				<trans>the physcially challenged</trans>
+				<trans>persons with physcial disabilities</trans>
+				<trans>the handicapped</trans>
+				<trans>the disabled</trans>
+				<domain></domain>
+				<sem_class>부정적신체속성인간</sem_class>
+				<lr>
+					<syn type="perfect">지체장애자</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">중증 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 살아가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>간</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/08</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정</note>
+			<note>둘로 나뉘어 있던 superEntry를 하나로 통합(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">刊</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>내 국어 사전은 1988년 ~이다</eg>
+				<lr>
+					<syn type="etc">출간</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n>N</pre_n>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/02</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>복합어 분과 요구에 따라 합성어 처리했음</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">間</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="prefix">부부~</comp>
+			<comp pos="n" type="prefix">대륙~</comp>
+			<comp pos="n" type="prefix">이틀~</comp>
+			<comp pos="n" type="prefix">가부~</comp>
+			<comp pos="n" type="prefix">마굿~</comp>
+			<comp pos="n" type="prefix">방앗~</comp>
+			<metc pos="av" type="suffix">~~이</metc>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>남편과 아내 ~에도 비밀이 생길 수 있다</eg>
+				<eg>서울과 부산 ~의 거리는 아주 멀다</eg>
+				<trans>between</trans>
+				<lr>
+					<syn type="etc">사이</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n>N</pre_n>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>두 달이나 세 달 ~ 여행을 떠날 예정이다</eg>
+				<eg>오 년 ~에 걸쳐서 공사가 진행되었다</eg>
+				<trans>during</trans>
+				<lr>
+					<syn type="etc">동안</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n>N</pre_n>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>그가 어떤 신분이건 ~에 여기에서는 이곳의 규칙에 따라 생활해야 한다</eg>
+				<eg>네가 무슨 일을 하든지 ~에 나는 너를 믿는다</eg>
+				<eg>이 자리에서는 사장이고 말단 직원이고 ~에 마음을 터놓고 이야기해 봅시다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt required="yes">~에</prt>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S거나 ~</s_n>
+				<s_n>S건 ~</s_n>
+				<s_n>S고 ~</s_n>
+				<s_n>S든 ~</s_n>
+				<s_n>S든지 ~</s_n>
+				<s_n>S든가 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

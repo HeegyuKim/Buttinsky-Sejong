@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>올곧다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be upright</trans>
+				<trans>be honest</trans>
+				<lr>
+					<syn type="perfect">올바르다</syn>
+					<syn type="sino">방정하다</syn>
+					<syn type="sino">정직하다</syn>
+					<ant type="dir">비굴하다</ant>
+					<ant type="dir">거짓되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|행위</sel_rst>
+					<eg>그 아이는 말과 행실이 올곧다.</eg>
+					<eg>그는 사리에 바르고 성품이 올곧은 사람이다.</eg>
+					<eg>공평무사한 그 분은 공직자로서 처신이 올곧다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>straight</trans>
+				<lr>
+					<syn type="perfect">똑바르다</syn>
+					<ant type="dir">굽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">길|건물|다리|나무</sel_rst>
+					<eg>새로 정비한 도로가 올곧게 뻗어 있다.</eg>
+					<eg>평야를 가로질러 연결된 수로가 올곧다.</eg>
+					<eg>몇 해 전에 심은 나무가 크고 올곧게 자라났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

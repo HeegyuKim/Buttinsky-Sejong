@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>간척하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>영어대역어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">간척을 하다</var>
+			<str>N.하</str>
+			<org lg="si">干拓_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>reclaim by drainage</trans>
+				<trans>drain off</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">지상장소</sel_rst>
+					<eg>이 지역 주민들은 황무지와 습지들을 개간하고 간척하여 농경과 목축에 활용했다.</eg>
+					<eg>각 섬에는 구릉성 산지가 많고 평지의 발달은 미약하나 연안의 갯벌을 간척한 평지는 넓다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시원찮다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/15</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.찮</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be unsatisfactory</trans>
+				<trans>be unsatisfying</trans>
+				<trans>be poor</trans>
+				<trans>be not good</trans>
+				<trans>be dull</trans>
+				<lr>
+					<ant type="grad">훌륭하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst> <!-- EXP를 포함시켜야 할지도 모르겠음 -->
+					<eg>시원찮은 놈 열 명보다 똑똑한 놈 하나가 낫다.</eg>
+					<eg>요즘 벌이가 시원찮아서 돈이 말랐다.</eg>
+					<eg>어째 대답이 시원찮은 게, 마음에 안 드는 모양이지?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>아침밥 먹은 것이 시원찮아서 그런지 벌써 배가 고프네.</eg>
+					<eg>저 사람 연설하는 게 영 시원찮은데.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be ill in</trans>
+				<trans>be in a bad state of health</trans>
+				<trans>be indisposed</trans>
+				<trans>be out of sorts</trans>
+				<lr>
+					<syn type="sino">불편하다</syn>
+					<rel>아프다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(몸|눈)</sel_rst>
+					<eg>그는 오늘 안색이 안 좋은 것이 몸이 시원찮아 보였다.</eg>
+					<eg>나는 근래에 눈이 시원찮아서 작은 글자는 안 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

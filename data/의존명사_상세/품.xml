@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>품</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/08</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>선원들은 칼바람이 살갗을 할퀴어 놓더라도 꿈쩍도 않을 ~이었다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

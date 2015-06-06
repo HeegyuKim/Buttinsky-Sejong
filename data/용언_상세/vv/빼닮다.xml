@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>빼닮다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">빼어 닮다</var>
+			<str>VV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>resemble closely</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|신체부위|속성(성격)|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물</sel_rst>
+					<eg>그 집 형제들은 아버지를 쏙 빼닮았다.</eg>
+					<eg>그 여자 아이의 얼굴은 그 아주머니를 빼닮아 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|속성|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|속성|행위</sel_rst>
+					<eg>그들은 서로 쏙 빼닮았다.</eg>
+					<eg>그녀와 그녀의 어머니는 외모나 성격이 서로 쏙 빼닮았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|속성|행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|속성|행위</sel_rst>
+					<eg>그녀는 자기 어머니와 쏙 빼닮았다.</eg>
+					<eg>영화의 이야기 구조는 역설적으로 우리의 실제 삶의 모습과 빼닮아 있다는 생각을 갖게 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">쏙</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

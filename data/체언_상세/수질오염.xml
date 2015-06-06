@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>수질오염</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/05</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>var 정보 기술</mod_note>
+				<mod_note>str 정보 기술</mod_note>
+				<mod_note>n_v 정보 수정 및 추가</mod_note>
+				<mod_note>max_n 정보 추가</mod_note>
+				<mod_note>선택제약 추가</mod_note>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">수질 오염</var>
+			<str type="N_N">수질+오염</str>
+			<org lg="si">水質汚染</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>공장폐수의 방류로 심각한 ~이 일어났다.</eg>
+				<eg>하수처리시설을 통해 한강의 ~을 방지할 계획이다.</eg>
+				<eg>음식물 쓰레기도 ~의 원인이 된다.</eg>
+				<trans>water pollution</trans>
+				<domain></domain>
+				<sem_class>현상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">심각한 ~</comb_aj>
+				<comb_n type="compound"> ~ 방지대책</comb_n>
+				<comb_n type="compound">~ 문제</comb_n> <!--띄어쓰기(미현)-->
+				<comb_n type="compound">~ 현황</comb_n>
+				<comb_v type="npred_vsupvar"> <!--narg->npred, vpred->vsupvar로 수정하여 재기술-->
+					<form vcompound="no">~이 일어나다</form> <!--합성동사형이 불가능하므로  no로 수정(미현)-->
+					<frame>X-에서 ~이 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form> <!--추가(미현)-->
+					<frame>X-에서 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 조사하다</form> <!--추가(미현)-->
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!--추가(미현)-->
+				<sel_rst arg="X">물장소</sel_rst> <!--추가(미현)-->
+				<cl type="uni">차례</cl> <!--추가(미현)-->
+				<cl type="uni">번</cl> <!--추가(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

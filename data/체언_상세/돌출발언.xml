@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>돌출발언</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note>술어동사 및 단위표현 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">돌출 발언</var>
+			<str type="R_N">돌출+발언</str>
+			<org lg="si">突出發言</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>김의원의 ~으로 정치권과 검찰은 바짝 긴장한 분위기이다.</eg>
+				<trans>unexpected utterance</trans>
+				<domain></domain>
+				<sem_class>이야기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에게 S라는 ~을 하다</frame>
+					<frame>X-이 Y-에 S라는 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 S라는 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">마디</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

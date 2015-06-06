@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>환경부담금</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/25</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>spr수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<var type="spr">환경 부담금</var>
+			<str type="N_N">환경+부담금</str><!--'환경+부담+금'으로 분석할 수 있음-->
+			<org lg="si">環境負擔金</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>디젤 차의 경우에 ~을 더 많이 내야 한다.</eg>
+				<eg>시민단체들은 대기오염을 줄여야 한다며 더 많은 ~의 납부를 주장하고 나섰다.</eg>
+				<trans>Environment Tax</trans>
+				<domain></domain>
+				<sem_class>세금</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">많은 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 내다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~을 납부하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

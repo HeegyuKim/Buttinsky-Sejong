@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>에</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/07/30</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/09/04</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/03</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/23</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/08</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/03</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/25</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--2003/06/03(김진형)센스8,9는 다른 센스에 통합 가능해 보임. 특히 센스9는 센스3 '대상'과 유사함.;2003/07/08(박만규)센스9의 의미표상을 '원인'으로 수정함.-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jkb</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>장소</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=장소|구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>범인이 서울에 나타났다.</eg>
+				<eg>내가 만일 텔레비젼에 나온다면.</eg>
+				<eg>그 사람, 호텔에 머무르고 있어.</eg>
+				<eg>의자에 앉아라.</eg>
+				<eg>영호는 학교에 갔어요.</eg>
+				<eg>벽에 기대고 있었다.</eg>
+				<eg>종이에 글씨를 써 봐라.</eg>
+				<!--문법관계=부사어, 의문사=어디, 대리사=거기-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>비유적장소</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=장소|구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 이야기는 춘향전에 나온다.</eg>
+				<eg>우리 팀이 결승에 진출했다.</eg>
+				<eg>나는 그 기업에 자금을 댔다.</eg>
+				<eg>속담에 '아니 땐 굴뚝에 연기나랴'라고 한다.</eg>
+				<eg>춘향이(역)에 심혜진.</eg>
+				<!--문법관계=부사어, 의문사=어디, 대리사=거기-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>대상</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<frame>S데-J</frame>
+				<frame>S것-J</frame>
+				<sel_rst>N=구체물|추상적대상|인간집단|감정</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 사람은 요즘 정치에 관계하고 있습니다.</eg>
+				<eg>미국에 이겨야 입상권에 들어.</eg>
+				<eg>선생님의 솜씨는 전문가에 필적합니다.</eg>
+				<eg>공부에 전념해라.</eg>
+				<eg>공부하는 데에 전념해라.</eg>
+				<eg>작가들은 작품 창작을 산모가 아이를 출산하는 데에 비교한다.</eg>
+				<eg>매일 똑같은 일 하는 (데|것)에 진력이 났어.</eg>
+				<eg>이 제품은 고전압에 강하다.</eg>
+				<eg>슬픔에 잠긴 사람.</eg>
+				<eg>나는 요즘 그 사람 시에 매료되어 있어.</eg>
+				<!--문법관계=부사어, 의문사=무엇|어디 대리사=그것에|거기에-->
+			</sense>
+			<sense n="4">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>시간</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=시간|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>요즘은 밤에 작업합니다.</eg>
+				<eg>3시에 떠나자.</eg>
+				<eg>그 선수는 100미터를 11초에 뛴다.</eg>
+				<eg>그 배는 1시간만에 침몰해 버렸다.</eg>
+				<!--문법관계=부사어, 삭제=불가-->
+			</sense>
+			<sense n="5">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>도구</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>가다가 돌부리에 채였어요.</eg>
+				<eg>유리잔에 마셔라.</eg>
+				<eg>나는 그 책을 영호에게서 만원에 샀다.</eg>
+				<!--문법관계=부사어, 삭제=불가-->
+			</sense>
+			<sense n="6">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>행위주</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=인간</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>나, 지금 경찰에 쫓기고 있어.</eg>
+				<!--문법관계=부사어, 삭제=불가; '에 의해'로 교체 가능-->
+			</sense>
+			<sense n="7">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>상황</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<sel_rst>N=추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>김교수는 학장에 임명되었다.</eg>
+				<eg>이 판국에 내가 뭘 할 수 있겠니?</eg>
+				<eg>계속되는 기자의 질문에 그만 털어놓고 말았다.</eg>
+				<!--문법관계=부사어, 삭제=불가-->
+			</sense>
+			<sense n="8">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>기준</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<frame>S데-J</frame>
+				<frame>Ef-J</frame>
+				<sel_rst>N=추상적대상|신체부위|구체물</sel_rst>
+				<sel_rst>Ef=(기)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>좋은 약은 입에 쓰다.</eg>
+				<eg>통행에 불편하다.</eg>
+				<eg>통행하는 데에 불편하다.</eg>
+				<eg>이 옷을 입기(에|가) 거북해.</eg>
+				<eg>여러 번에 나누어 드세요.</eg>
+				<eg>하루에 열 시간씩 자면 되겠어?</eg>
+				<eg>열에 아홉은 가짜요.</eg>
+				<eg>A는 B에 비례한다.</eg>
+				<eg>성공의 가능성은 얼마나 열심히 했느냐에 비례한다.</eg>
+				<!--문법관계=부사어-->
+			</sense>
+			<sense n="9">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>원인</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<frame>S데-J</frame>
+				<frame>S것-J</frame>
+				<sel_rst>N=추상적대상|구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>낙엽이 바람에 날린다.</eg>
+				<eg>그는 두려움에 떨고 있었다.</eg>
+				<eg>나는 더위에 지쳤어.</eg>
+				<!--문법관계=부사어; '때문에', '로 인해'로 교체 가능-->
+			</sense>
+			<sense n="10">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>첨가</gm>
+				</sem_rep>
+				<frn>만</frn>
+				<frn>마다</frn>
+				<fol>는</fol>
+				<fol>만</fol>
+				<fol>도</fol>
+				<fol>의</fol>
+				<fol>야</fol>
+				<fol>요</fol>
+				<fol>가</fol>
+				<fol>뿐</fol>
+				<fol>나</fol>
+				<fol>나마</fol>
+				<fol>다</fol>
+				<fol>든</fol>
+				<fol>라야</fol>
+				<fol>로</fol>
+				<fol>를</fol>
+				<fol>마저</fol>
+				<fol>ㄴ</fol>
+				<fol>ㄴ가</fol>
+				<fol>ㄴ들</fol>
+				<frame>N-J</frame>
+				<frame>S데-J</frame>
+				<frame>S것-J</frame>
+				<sel_rst>N=추상적대상|구체물</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>영희는 남색 치마에 흰 저고리를 입었다.</eg>
+				<eg>약식에 식혜에 나박김치를 얹으면 그야말로 꿀맛이지.</eg>
+				<!--삭제=불가-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm>그러기-J</idm>
+				<idm_eg>그러기에 내가 뭐라고 했냐?</idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/07/30</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/09/04</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/01</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/23</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/08</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/03</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/05/25</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--2003/06/01(김진형)의미를 '장소'에서 '열거'로 수정-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jc</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>열거</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep>필수</rep>
+					<sms></sms>
+				</fol_s>
+				<eg>밥에 반찬에 국에 마음껏 먹었다.</eg>
+				<eg>재산에 명예에 권력에 그는 없는 것이 없었다.</eg>
+				<!--삭제=불가-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm>N-J~N-J</idm>
+				<idm_eg>아군은 후퇴에 후퇴를 거듭했다.</idm_eg>
+				<!--반복=필수, N=N-->
+			
+		</idm_grp>
+	</entry>
+</superEntry>

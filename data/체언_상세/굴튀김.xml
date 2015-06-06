@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>굴튀김</orth>
+	<entry n="1" pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/30</cre_date>
+				<cre_writer>염신현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/03/30</mod_date>
+				<mod_writer>염신현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/24</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>str 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/01</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2003/03/30(염신현)예문수정, comb_v를 add로 이동</note>
+			<add>~을 만들다|먹다</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="N_Vn">굴+튀김</str><!--튀김은 더 분석할 수 있음-->
+			<org lg="temp"></org>
+		
+			<hom exist="temp"></hom>
+			<der pos="temp" type="temp"></der>
+			<comp pos="temp" type="temp"></comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="temp"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>철수가 ~을 먹는 것을 보면 군침이 돈다.</eg>
+				<trans>fried oysters</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<curs type="C"/>
+				<sem_class>음식</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<hyper>튀김</hyper>
+					<rel>굴</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">개</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

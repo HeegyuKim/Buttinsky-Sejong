@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보궐선거</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>의미부류검토요망</cre_note><!--검토했습니다(김이정)-->
+			</cre>
+			<mod>
+				<mod_date>2004/07/19</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>sense1에 n_v frame에 'Y' 추가</mod_note>
+				<mod_note>sense1 예문 수정</mod_note>
+				<mod_note>sense1 n_n 수정</mod_note>
+				<mod_note>sense2 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술 방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="abb">보선</var>
+			<var type="spr">보궐 선거</var>
+			<str type="N_N">보궐+선거</str>
+			<org lg="si">補闕選擧</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>내일 우리 구의 국회의원 ~를 한다.</eg>
+				<trans>special election</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class><!-- 권오희(2004/07/08)정치적 행위(투표, 선거...)의 의미부류는 어디가 좋을지..종교및의례행위와 같은 층위에 하나 만드는 것은 어떨까요?-->
+				<lr>
+					<syn type="perfect">보결선거</syn>
+					<syn type="etc">보충선거</syn><!--권오희(2004/07/08)상위어-->
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">국회의원 ~</comb_n>
+				<comb_n type="compound">~ 결과</comb_n>
+				<comb_n type="compound">~ 투표</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 치르다</form>
+					<frame>X-이 Y ~를 치르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 실시하다</form>
+					<frame>X-이 Y ~를 실시하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<sel_rst arg="X">지역집단</sel_rst>
+				<sel_rst arg="Y">역할인간(대통령|국회의원|단체장|의원)</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>내일 영국 중부 2개 도시에서 ~가 있다.</eg>
+				<trans>special election</trans>
+				<domain></domain>
+				<sem_class>계획사건</sem_class>
+				<lr>
+					<syn type="perfect">보결선거</syn>
+					<syn type="etc">보충선거</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">국회의원 ~</comb_n>
+				<comb_n type="compound">~ 결과</comb_n>
+				<comb_n type="compound">~ 공천</comb_n>
+				<comb_n type="compound">~ 후보</comb_n>
+				<comb_n type="compound">~ 기간</comb_n>
+				<comb_n type="compound">~ 출마</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>Z-에서 Y ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 시작되다</form>
+					<frame>Z-에서 Y ~가 시작되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 끝나다</form>
+					<frame>Z-에서 Y ~가 끝나다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에서 패하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에서 당선되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에서 승리하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 출마하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Z-에서의 Y ~</max_n_str><!--가능한지 확인 바람(김이정)-->
+				<sel_rst arg="Y">역할인간(대통령|국회의원|단체장|의원)</sel_rst>
+				<sel_rst arg="Z">지역</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

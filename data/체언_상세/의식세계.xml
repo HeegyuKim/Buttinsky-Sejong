@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의식세계</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note>의미부류 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>영어대역어 수정;동사결합 정보 추가;논항 명사구, 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>comment</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 속성을 수정했으나 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>동사 결합 정보 추가, 논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의식 세계</var>
+			<str type="N_N">의식+세계</str>
+			<org lg="si">意識世界</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>작가는 주변 상황에 대한 묘사를 통하여 주인공의 ~를 간접적으로 드러낸다.</eg>
+				<eg>우리의 기억 속에 잔상이 남았는가에 따라 ~와 무의식세계로 구분할 수 있다.</eg>
+				<trans>consciousness</trans> <!-- 'someone's' 삭제함 --><!--그렇다면 '의식'과 어떻게 구분?-->
+				<trans>conscious world</trans>
+				<domain></domain>
+				<sem_class>개체상황</sem_class> <!--'개념', '기준', '개체상황'?-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 묘사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 지배하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 반영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 드러내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혁신시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혁신을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">革新_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>reform</trans>
+				<trans>make a reform</trans>
+				<trans>renovate</trans>
+				<trans>innovate</trans>
+				<lr>
+					<syn type="perfect">쇄신시키다</syn>
+					<syn type="etc">유신하다</syn>
+					<syn type="etc">정신하다</syn>
+					<hyper>바꾸다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|규범|관습|제도|종교|산업|분야|개념|상황</sel_rst>
+					<eg>오늘날의 기업가들은 기업을 끊임없이 혁신시켜 나가고 있다.</eg>
+					<eg>젊은 정치가들을 중심으로 정치계를 혁신시키고 새로운 출발을 해야 한다는 자성의 목소리가 높아지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

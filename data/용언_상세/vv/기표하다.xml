@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기표하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기표를 하다</var>
+			<str>N.하</str>
+			<org lg="si">記票_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>fill out a voting card</trans>
+				<lr>
+					<rel>투표하다</rel>
+					<rel>개표하다</rel>
+					<rel>선거하다</rel>
+					<rel>경선하다</rel>
+					<rel>입후보하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">권리인간(유권자)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">일시적역할인간(후보)|정당</sel_rst>
+					<eg>일반 병사들이 압력으로 원하지 않는 후보자에게 기표한 사실이 확인됐다.</eg>
+					<eg>담당자가 가르쳐 주는 대로 기표하면 됩니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

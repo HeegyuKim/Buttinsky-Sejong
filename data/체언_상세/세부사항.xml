@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>세부사항</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>서진숙</cre_writer>
+				<cre_note>의미부류 검토요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>박재연</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>str 정보 기술</mod_note>
+				<mod_note>var 정보 기술</mod_note>
+				<mod_note>합성동사 정보 수정</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/15</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스 번호 추가;사실명제를 관계추상적대상으로 수정;맥스엔, 선택제약, 단위표현 정보 추가;동사에 '검토하다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">세부 사항</var>
+			<str type="N_N">세부+사항</str>
+			<org lg="si">細部事項</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>사장은 그 일의 ~을 지시했다.</eg>
+				<eg>우리는 오늘 회의에서 ~을 논의했다.</eg>
+				<trans>details</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 논의하다</form><!--합성동사 no로 수정(미현)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 결정하다</form> <!--추가(미현)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 검토하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">온</sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">개항</cl>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

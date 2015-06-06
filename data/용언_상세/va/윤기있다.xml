@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>윤기있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/25</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">윤기가 있다</var>
+			<str>NA</str>
+			<org lg="si">潤氣_</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be glossy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>닦아 놓은 난 잎이 윤기있다.</eg>
+					<eg>갓 지은 밥이 윤기있다.</eg>
+					<eg>영희의 긴 머리가 윤기있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<sem_class>소리속성값</sem_class>
+				<trans>be glossy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<eg>지나의 목소리는 참 윤기있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

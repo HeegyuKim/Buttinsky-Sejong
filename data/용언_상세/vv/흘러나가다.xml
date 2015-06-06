@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흘러나가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str>V-어V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>flow</trans>
+				<trans>run</trans>
+				<trans>float along</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|빛|냄새|연기|소리</sel_rst>
+					<sel_rst arg="Y" tht="DIR">건물|건물부분장소|부분장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">건물|건물부분장소|부분장소</sel_rst>
+					<eg>내가 집에 들어섰을 때는 욕조의 물이 넘쳐 이미 거실로 흘러나가고 있었다.</eg>
+					<eg>그들은 불빛이 밖으로 흘러나가지 않도록 커튼을 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|빛|냄새|연기|소리</sel_rst>
+					<sel_rst arg="Y" tht="DIR">건물부분장소</sel_rst>
+					<eg>연기는 굴뚝으로 흘러나간다.</eg>
+					<eg>빛이 창으로 흘러나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>leak through</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게|로|에게로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제|소통행위(소문|욕설|전망|예상)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그 소문은 삽시에 이웃 마을들로 흘러나갔다.</eg>
+					<eg>이 이야기가 다른 사람에게 흘러나가지 않기를 바란다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

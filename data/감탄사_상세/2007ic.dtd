@@ -1,0 +1,48 @@
+<!ELEMENT icDic (superEntry+)>
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, head_grp, morph_grp, sense+)>
+<!ATTLIST entry n NMTOKEN #IMPLIED>
+<!ATTLIST entry pos (ic) #REQUIRED>		
+
+<!ELEMENT mnt_grp (cre, mod+, note+)>
+<!ELEMENT cre (cre_date, cre_writer, cre_note*)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT cre_note (#PCDATA)>
+<!ELEMENT mod (mod_date, mod_writer, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT head_grp (org, hom, osr)>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (si|ko|it|en|hi|ar|temp) #REQUIRED>
+<!ELEMENT hom (#PCDATA)>
+<!ATTLIST hom exist (yes|no|temp) #REQUIRED>
+<!ELEMENT osr (#PCDATA)>
+
+<!ELEMENT morph_grp (var*, str)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (abb|lng|dup|xs|xd|big|small|tense|aspir|plain|hon|v_var|etc) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+
+
+<!ELEMENT sense (sem_grp, syn_grp)>
+<!ATTLIST sense n NMTOKEN #IMPLIED>
+
+<!ELEMENT sem_grp (eg+, sem_class, trans+, domain, reg, lr*)>
+<!ELEMENT eg (#PCDATA)>
+<!ELEMENT sem_class (#PCDATA)>
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT domain (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT lr (#PCDATA)>
+<!ATTLIST lr type (syn|ant|rel) #REQUIRED>
+
+<!ELEMENT syn_grp (dep, ins)>
+<!ELEMENT dep (#PCDATA)>
+<!ATTLIST dep type (yes|no|temp) #REQUIRED>
+<!ELEMENT ins (#PCDATA)>
+<!ATTLIST ins type (yes|no|temp) #REQUIRED>

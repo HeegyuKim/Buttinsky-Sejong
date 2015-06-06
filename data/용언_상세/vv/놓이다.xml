@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+
+<superEntry>
+	<orth>놓이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/31</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be put on</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|구체물</sel_rst>
+					<eg>책상에 책이 펴진 채 놓여 있다.</eg>
+					<eg>그들이 밥을 먹으면서 앉는 정면에는 텔레비전이 놓였고 등뒤에는 안락의자가 놓였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be set up</trans>
+				<lr>
+					<syn type="sino">설치되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">설치물|기기</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>구한말에 기차가 이 땅에 등장하면서 철교가 놓였다.</eg>
+					<eg>전기도 안들어오던 마을에 이제는 전화도 놓이고 차도 많이 드나든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be placed in</trans>
+				<lr>
+					<syn type="sino">처하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|일</sel_rst>
+					<sel_rst arg="Y" tht="GOL">상황|상태</sel_rst>
+					<eg>세계에 어떠한 나라도 그와 같은 상태나 입장에 놓였다면, 이밖의 다른 방법은 취할 수 없었을 것이다.</eg>
+					<eg>그 관광사업이 자금난으로 중단위기에 놓였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>(emphasis) be placed on</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(초점|강조점)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">온</sel_rst>
+					<eg>내 의견의 초점은 바로 여기에 놓여 있다.</eg>
+					<eg>이 확실한 증거에 수사의 초점이 놓여 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be printed or embroidered</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(금박|수)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체착용물|천</sel_rst>
+					<eg>그 한복에는 자수가 놓여 있어서 아주 화사하다.</eg>
+					<eg>저고리에 금박이 놓이면 더욱 화려하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>마음이 놓이다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>비견</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/05/11</cre_date>
+				<cre_writer>김미순</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/05/15</mod_date>
+				<mod_writer>김진형</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/26</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>논항명사구, 논항 의미정보 추가</mod_note>
+				<mod_note>수식어절 정보 추가</mod_note>
+				<mod_note>동형어 엔트리 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">鄙見</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>제 ~에 대해 반론이 있으시면 말씀해 주십시오.</eg>
+				<trans>my humble opinion</trans>
+				<sem_class>의견</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str> <!-- 추가함 -->
+				<max_n_str>S것-에 대한 X-의 ~</max_n_str> <!-- 추가함 -->
+				<max_n_str>S데-에 대한 X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">화시적인간(저|우리)</sel_rst> <!-- 추가함 -->
+				<sel_rst arg="Y">온</sel_rst> <!-- 추가함 -->
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/12/26</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<org lg="si">比肩</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>나의 미천한 재주가 어찌 그대와 ~이 될 수 가 있겠습니까?</eg>
+				<trans>comparison</trans>
+				<domain></domain>
+				<sem_class>관계속성값</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+					<frame>X-이 Y-에 ~을 하다</frame>
+					<frame>X-이 Y-와 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>X-이 Y-에게 ~이 되다</frame>
+					<frame>X-이 Y-에 ~이 되다</frame>
+					<frame>X-이 Y-와 ~이 되다</frame>
+				</comb_v>
+				<sel_rst arg="X">온</sel_rst>
+				<sel_rst arg="X">온</sel_rst>
+				<prt>~을</prt> <!-- 정보 표기 방법이 어떻게 되는지?? -->
+				<prt>~이</prt> <!-- 정보 표기 방법이 어떻게 되는지?? -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

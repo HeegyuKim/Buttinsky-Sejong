@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>숙의하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">숙의를 하다</var>
+			<str>N.하</str>
+			<org lg="si">熟議_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>deliberate on</trans>
+				<trans>consider carefully</trans>
+			</sem_grp>
+			<frame_grp type="FIT" cor="sym" n="01">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간|인간집단</sel_rst>
+					<eg>교장선생님은 담임선생님과 그 학생의 처벌 문제에 대해 숙의하였다.</eg>
+					<eg>태극기는 1882년 고종의 허락을 받아 박영효가 수신사로 일본을 방문하러 가던 중 메이지마루호 선상에서 일행과 숙의해 그렸다고 한다.</eg>
+					<eg>검찰 경찰 청소년보호위원회 등 관계기관이 숙의해 실효성 있는 방안이 만들어지고 집행되길 바란다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간|인간집단</sel_rst>
+					<eg>건설부는 청와대와 일부 공공기관을 지방으로 옮기는 것에 대해 숙의한 바가 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간|인간집단</sel_rst>
+					<eg>그 날 밤 기영이는 이번에 어려움을 당한 준호을 어떻게 도와야 할지를 미진이와 서로 숙의하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Z=N0-이 (서로) Y=N1-을|에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>교장선생님과 담임선생님은 그 학생의 처벌 문제에 대해 숙의하였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>청와대와 건설부는 일부 공공기관을 지방으로 옮기는 것에 대해 숙의한 바가 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|인간집단</sel_rst>
+					<eg>그 날 밤 기영이와 미진이는 이번에 어려움을 당한 준호을 어떻게 도와야 할지를 서로 숙의하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm></idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

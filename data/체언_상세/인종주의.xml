@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인종주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/04</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 수정;형용사결합 정보 추가;명사결합에 일부 정보 추가;동사결합 정보 추가;논항명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">인종+주의</str>
+			<org lg="si">人種主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>뿌리 깊은 ~로 종족과 민족 사이에 잦은 분쟁이 일어난다.</eg> <!-- 예문 수정 -->
+				<trans>racism</trans>
+				<domain></domain>
+				<sem_class>사조</sem_class>
+				<!-- 인종주의를 정치사조에도 포함시킬수 있는지에 대한 의문 (한동훈)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">뿌리 깊은 ~</comb_aj> <!-- 추가함 -->
+				<comb_n type="compound">극우 ~</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_n type="compound">~ 사상</comb_n>
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 확산되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 반대하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str> <!-- 추가함 -->
+				<sel_rst arg="temp"></sel_rst> <!-- 추가함 -->
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

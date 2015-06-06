@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>예속화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/27</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">예속화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">隸屬化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>surbodinate</trans>
+				<lr>
+					<syn type="etc">종속화시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상(정치|경제|군사|문화|예술|제도)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|추상적대상(정치|경제|군사|문화|예술|제도)|구체인공물(기계)|방향성행위(지배)</sel_rst>
+					<eg>경제적 의존은 우리 사회를 강대국에 예속화시키는 결과를 낳게 될 것이다.</eg>
+					<eg>금전만능주의는 마침내 학문과 문화마저 자본에 예속화시키기에 이르렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

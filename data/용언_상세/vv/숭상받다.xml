@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>숭상받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/20</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">숭상을 받다</var>
+			<str>NV</str>
+			<org lg="si">崇想_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be respected</trans>
+				<trans>be revered</trans>
+				<lr>
+					<ant type="dir">멸시받다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에서 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">구체물</sel_rst>
+					<eg>그는 그 나라에서 국부로 숭상받는다.</eg>
+					<eg>많은 기독교인들에게 성경은 하나님의 말씀으로 숭상받는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be respected</trans>
+				<trans>be revered</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게|에서 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">종교</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">종교</sel_rst>
+					<eg>불교는 태국에서 국교로 숭상받는다.</eg>
+					<eg>모든 서양인들에게 기독교가 중요한 종교로 숭상받는 것은 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

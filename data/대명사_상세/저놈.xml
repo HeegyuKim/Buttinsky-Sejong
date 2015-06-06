@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>저놈</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/09</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">조놈</var>
+			<str type="etc">저+놈</str>
+					<img type="xp">조놈</img>
+		</morph_grp>
+		<sense n="1" sem="3" num="singular" ref="human">
+			<sem_grp>
+				<eg>~이 밀고자임에 틀림없다</eg>
+				<reg>비어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>~의 고물 컴퓨터 때문에 고생이 이만저만이 아니다</eg>
+				<eg>비늘이 다 떨어진 걸 보니 ~은 잡은 지 오래된 모양이다</eg>
+				<reg>비어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<etc_cnst>~의 N</etc_cnst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

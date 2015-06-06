@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가늘다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김윤신</cre_writer>
+				<cre_note>다의구분 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be thin</trans>
+				<lr>
+					<ant type="grad">굵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">굵기</n_appr>
+					<eg>그 청년의 몸은 깡마르고, 종아리가 가늘었는데도 동작은 몹시 재빨랐다.</eg>
+					<eg>이 나무는 그늘에 있어서 키가 작고 줄기가 가늘다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be fine</trans>
+				<lr>
+					<ant type="grad">굵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">광물(돌)|기상관련물|(모래)</sel_rst>
+					<n_appr arg="X">굵기</n_appr>
+					<eg>이 해변은 깨끗하고 가는 모래로 유명하다.</eg>
+					<eg>간밤에 심하게 내리던 비가 서서히 잦아 들고 아침에는 가는 빗방울만 떨어지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be fine</trans>
+				<trans>be delicate</trans>
+				<lr>
+					<syn type="perfect">촘촘하다</syn>
+					<ant type="grad">굵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">천|(망|체)</sel_rst>
+					<eg>치마와 저고리가 모두 세모시이지만 저고리보다는 치마가 좀 더 올이 가늘다.</eg>
+					<eg>밀가루를 가는 체로 걸러내야 빵이 부드러워진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리속성값</sem_class>
+				<trans>be faint</trans>
+				<trans>be small</trans>
+				<lr>
+					<ant type="grad">굵다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<eg>아기의 울음소리는 가늘지만 힘이 있었다.</eg>
+					<eg>그 여자의 음성은 가늘고 명랑하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be small</trans>
+				<trans>be weak</trans>
+				<lr>
+					<syn type="sino">약하다</syn>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">몸짓및동작|생리행위|움직임|(맥박)</sel_rst>
+					<eg>맥박이 가늘고 느린 사람은 몸이 차다.</eg>
+					<eg>그 여자는 심한 충격을 받아 쓰려져서 호흡이 가늘고 손발이 차가웠다.</eg>
+					<eg>초상화 속의 여자는 가는 미소를 짓고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be small</trans>
+				<trans>be weak</trans>
+				<lr>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛|연기|물관련현상</sel_rst>
+					<eg>그 남자는 너무 예민해서 가는 진동조차 느낄 수 있다.</eg>
+					<eg>가는 바람 한 줄기가 시원했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>가늘게</infl_rst>
+				<trans>weakly</trans>
+				<defect_eg>그 여자의 몸이 가늘게 떨렸다.</defect_eg>
+				<defect_eg>그의 손가락은 가늘게 떨리고 있었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

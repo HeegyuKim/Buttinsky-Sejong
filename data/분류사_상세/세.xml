@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>세</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/03</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">歲</org>
+					<hom exist="yes"/>
+			<comp pos="av" type="suffix">~~토록</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>이 영화는 이십 ~ 이상만 관람이 가능합니다</eg>
+				<trans>age</trans>
+				<cl_subtype type="fqn"/>
+				<lr>
+					<syn type="etc">살</syn>
+					<rel>나이</rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/08</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">世</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="prefix">2~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>루이 12~</eg>
+				<eg>한인 2~</eg>
+				<cl_subtype type="odr"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl"/>
+				<carord car="etc" ord="si"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

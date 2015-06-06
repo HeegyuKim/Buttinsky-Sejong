@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>후불되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/13</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">후불이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.하</str>
+			<org lg="si">後拂_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>become a deferred payment</trans>
+				<trans>future payment</trans>
+				<lr>
+					<ant type="compl">선불되다</ant>
+					<hyper>지불되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">돈(값|대금|교통비|금액)|(카드)</sel_rst>
+					<eg>일단 계약금만 치르고 나머지 금액은 후불되도록 하자.</eg>
+					<eg>신용카드와 통합된 교통카드의 경우 사용한 교통비는 카드 결제일에 후불된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

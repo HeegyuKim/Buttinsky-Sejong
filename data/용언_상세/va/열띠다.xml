@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>열띠다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+			<org lg="si">熱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>열띤</infl_rst>
+			<trans>enthusiastic</trans>
+			<sel_rst arg="X" tht="THM">행위</sel_rst>
+			<defect_eg>열띤 설전</defect_eg>
+			<defect_eg>열띤 경쟁</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>열띠게</infl_rst>
+			<trans>passionately</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>한 시사토론 프로그램에서 담배값 인상을 놓은 논쟁이 열띠게 벌어지고 있었다.</defect_eg>
+			<defect_eg>성선설은 현대에 와서도 유교학자들 사이에서 열띠게 논의되고 있는 주제이다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

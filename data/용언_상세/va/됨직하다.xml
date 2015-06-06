@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>됨직하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>의미역 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be about</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|금전|시간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">수량</sel_rst>
+					<eg>광장에 모인 사람들이 얼핏 보아도 족히 수천 명은 됨직하다.</eg>
+					<eg>채소재배단지는 아마 수십만 평은 됨직하다.</eg>
+					<eg>포도주의 가장 방대한 산지는 라인강, 모젤강, 자아르강, 마인강 일대가 됨직하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be likely to turn out</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">구체물|추상적대상</sel_rst>
+					<eg>들 가운데로 나 있는 도로가 부산과 진해를 가로 지르는 경계가 됨직하다.</eg>
+					<eg>이번에 과대표는 영철이가 됨직하다.</eg>
+					<eg>삼면 바다 일면 대륙에 연결된 그 위치는 세계의 관문이 됨직하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

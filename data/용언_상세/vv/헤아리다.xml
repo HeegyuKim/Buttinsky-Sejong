@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헤아리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/24</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>count</trans>
+				<trans>calculate</trans>
+				<trans>estimate</trans>
+				<lr>
+					<syn type="perfect">세다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">수</n_appr>
+					<n_appr arg="X">수효</n_appr>
+					<eg>의장은 안건에 찬성하는 사람들의 수를 헤아렸다.</eg>
+					<eg>여기 있는 책들의 수를 헤아려 봐라.</eg>
+					<eg>헤아릴 수 없이 많은 사람들이 광장에 모여 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg>이 상자에 들어있는 포도주가 모두 몇 병이나 되는지를 헤아려 보아라.</eg>
+					<eg>여기 모인 사람들의 수가 얼마나 되는지를 헤아리는 일은 불가능해 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>consider</trans>
+				<trans>fathom</trans>
+				<trans>understand</trans>
+				<lr>
+					<syn type="perfect">헤다</syn>
+					<syn type="sino">짐작하다</syn>
+					<syn type="etc">가늠하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(감정|기분)|인지상태(생각|계획|의도)|개체상황(마음|심정)</sel_rst>
+					<eg>이렇게 부탁드리는 제 심정을 헤아려 주십시오.</eg>
+					<eg>섭섭한 당신의 말씀을 제대로 헤아리지 못해 죄송합니다.</eg>
+					<eg>그 친구의 꿍꿍이속은 도무지 헤아릴 수 없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y">Q</sel_rst>
+					<eg>그가 얼마나 형편이 어려운지를 헤아려 본 적이 있습니까?</eg>
+					<eg>당신이 어떤 생각을 하고 있는지를 헤아려 보지 못해 미안합니다.</eg>
+					<eg>그 사람이 왜 갑자기 집에 가버렸는지를 잘 헤아려 보십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>reach</trans>
+				<trans>extend to</trans>
+				<trans>come to</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="FNS">개체단위</sel_rst>
+					<n_appr arg="X">수</n_appr>
+					<n_appr arg="X">수효</n_appr>
+					<eg>이번 사고로 인한 사상자의 수가 삼사백 명을 헤아린다고 한다.</eg>
+					<eg>보도가 나간 후 하루에 수백 통을 헤아리는 문의 전화가 걸려왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

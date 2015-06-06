@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>닦달하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>205/07/03</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">닦달을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>put sb through the wringer</trans>
+				<lr>
+					<syn type="perfect">닥뜨리다</syn>
+					<syn type="perfect">윽박지르다</syn>
+					<syn type="perfect">닦아세우다</syn>
+					<syn type="perfect">몰아세우다</syn>
+					<syn type="sino">야단치다</syn>
+					<syn type="sino">협박하다</syn>
+					<ant type="grad">타이르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에게|을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>그는 부하직원들에게 일의 경과를 매일 아침 보고하라고 닦달했다.</eg>
+					<eg>그 아이의 부모님은 몇 번이나 학교에 찾아왔고, 선생님들을 닦달했다.</eg>
+					<eg>당국은 나와 제철씨의 '윗 선'을 대라고 심하게 닦달했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-게|도록 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="FNS"></sel_rst>
+					<eg>당국은 나와 제철씨을 윗 선을 대도록 심하게 닦달했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

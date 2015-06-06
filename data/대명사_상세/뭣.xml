@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>뭣</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/08/28</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">뭐</var>
+			<var type="lng">무엇</var>
+			<var type="lng">무어</var>
+		</morph_grp>
+		<idm_grp>
+			<idm type="da">~이라고?</idm>
+		</idm_grp>
+		<sense n="1" sem="interrogative" num="etc" ref="thing">
+			<sem_grp>
+				<eg>지금 ~ 하느라고 그렇게 바빠?</eg>
+				<trans>what</trans>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="indefinite" num="etc" ref="thing">
+			<sem_grp>
+				<eg>나는 ~보다도 그분의 인품을 존경한다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

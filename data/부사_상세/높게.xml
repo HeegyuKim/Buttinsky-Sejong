@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "dic_adverb.dtd">
+<superEntry>
+	<orth>높게</orth>
+	<entry n="1" pos="av">
+		
+		<mnt_grp>
+			<cre>
+				<cre_writer>류병률; 남승호</cre_writer>
+				<cre_date>2001/07/01</cre_date>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/08</mod_date>
+			</mod>
+			<note></note>
+			<see>높다</see>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<str>높-게</str>
+			<org lg="temp"></org>
+			<hom exist="temp"></hom>
+			<comp pos="av">강도~</comp>
+			<comp pos="av">드~</comp>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>목숨보다 정절을 더~ 평가하는 열녀의 정표는 그 집안을 일류가문으로 만들었다</eg>
+				<eg>극복하는 인간의식, 자아실현의식이 ~ 설정되어야 할 필요성을 절감케 한다</eg>
+				<eg>그는 지식계급의 전형으로서 김희준을 ~ 평가한 적이 있다</eg>
+				<eg>1920년 초에 이러한 후계 가능성을 매우 ~ 평가하고 있었다</eg>
+				<eg>위협은 사업가로 하여금 중계료를 좀더 ~ 책정토록 하는 것을 선호하게끔 하였다</eg>
+				<eg>다른 사람들보다 그들에게서 훨씬 더 ~ 나타났다</eg>
+				<eg>문제에 관심을 갖는 사람은 자아를 더 ~ 실현할 수 있다</eg>
+				<trans>highly</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				
+				<sem_rep>성분부사/양태부사/방식</sem_rep>
+				<lr>
+					<syn>높이</syn>
+					<ant>낮게</ant>
+					<hyper></hyper>
+					<cohyp></cohyp>
+					<hypo></hypo>
+					<holo></holo>
+					<mero></mero>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb pos="v" exist="yes">~날다</comb>
+				<comb pos="adj" exist="no"/>
+				<comb pos="det" exist="temp"></comb>
+				<comb pos="av" exist="temp"></comb>
+				<comb pos="n" exist="temp"></comb>
+				<prt>~도</prt>
+				<argdist type="np"></argdist>
+				<argdist type="vp"></argdist>
+				<argdist type="ap"></argdist>
+				<col></col>
+			
+			
+				<conc type="conj"></conc>
+				<conc type="mood"></conc>
+				<conc type="mod"></conc>
+				<conc type="ta"></conc>
+				<conc type="neg"></conc>
+				<conc type="agr"></conc>
+				<distr>S~O~V</distr>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

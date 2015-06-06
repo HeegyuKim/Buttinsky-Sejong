@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>설다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>be unfamiliar</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Z=N2-에게는|이 X=N0-이 Y=N1-에|이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(낯|산|물)|구체물|행위|온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(눈|귀|손)|신체부위</sel_rst>
+					<sel_rst arg="Z" tht="EXP">인간</sel_rst>
+					<eg>처음엔 좀 낯이 설어서 서먹서먹할지 모르지만 이내 서로 정이 들걸세.</eg>
+					<eg>용어는 바른말을 쓰는게 좋겠지만, 핌프락이라는 말은 괜히 설어서, 꼭 필요한 경우가 아니면 등장시키지 않으려 한다.</eg>
+					<eg>저는 아직 운전이나 길이 설어서 서울 시내를 차로 돌아다녀 보지 못 했어요.</eg>
+					<eg>처음에는 영 눈에 설어서 마음에 안들었죠.</eg>
+					<eg>이 독 아직 설어서 못 쓰겠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Z=N2-에게는|이 X=S것0-이 Y=N1-에|이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(낯|산|물)|구체물|행위|온</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(눈|귀|손)|신체부위</sel_rst>
+					<sel_rst arg="Z" tht="EXP">인간</sel_rst>
+					<eg>저는 아직 밭일을 하는 것이 손에 설어서 종일 해도 일이 끝이 안 납니다.</eg>
+					<eg>아직 강의실 찾아다니는 것이 몸에 설어요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be unripe</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">과일|(밥)</sel_rst>
+					<eg>짠 음식이나 선 과일은 피하는 것이 좋다.</eg>
+					<eg>아침에 먹은 밥이 설어서 속이 좋지 않다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be inexperienced</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">직업인간</sel_rst>
+					<eg>선 무당이 멀쩡한 사람 잡는 수가 있다.</eg>
+					<eg>선 의원이 사람 죽인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

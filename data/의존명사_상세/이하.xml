@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>이하</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/12</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/16</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">以下</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그는 가끔 상식 ~의 행동을 한다</eg>
+				<eg>이 엘리베이터에는 10명 ~의 사람들만 탈 수 있다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>이</pre_d>
+				<pre_d>그</pre_d>
+				<pre_n>N</pre_n>
+				<s_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

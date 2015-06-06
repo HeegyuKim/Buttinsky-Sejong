@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대량화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대량화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">大量化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>make st in large quantities</trans>
+				<lr>
+					<syn type="perfect">다량화하다</syn>
+					<ant type="dir">소량화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|사태(생산)</sel_rst>
+					<n_appr arg="Y">수량</n_appr>
+					<eg>그 호텔은 서비스의 규격을 대량화했다.</eg>
+					<eg>수요농가에 저렴한 가격으로 육묘를 공급하기 위해서는 당국에서 생상체계를 대량화하는 방안이 모색되어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|사태(생산)</sel_rst>
+					<n_appr arg="Y">수량</n_appr>
+					<eg>신자유주의적 정책과 자본의 세계화는 노동 유연화를 통해 불완전 고용을 대량화했다.</eg>
+					<eg>새로운 물건에 대한 필요가 상품 생산을 대량화했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

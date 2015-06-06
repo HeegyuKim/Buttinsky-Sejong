@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감격시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.시</str>
+			<org lg="si">感激_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>move sb deeply</trans>
+				<trans>touch sb deeply</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="INS">온</sel_rst>
+					<eg>협동 농장측은 따뜻한 시골 인심으로 남측 대표단을 감격시켰다.</eg>
+					<eg>아들은 고사리같은 손으로 만든 카네이션으로 나를 완전히 감격시킨 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="INS">S것</sel_rst>
+					<eg>7살된 아들이 엄마 선물을 사기 위해 코묻은 돈을 모았다는 것만으로도 나를 너무나도 크게 감격시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대용하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대용을 하다</var>
+			<str>N.하</str>
+			<org lg="si">代用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방식행위</sem_class>
+				<trans>substitute</trans>
+				<lr>
+					<hyper>사용하다</hyper>
+					<hyper>이용하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">구체물|추상적대상</sel_rst>
+					<eg>우리 일행은 젓가락은 미쳐 준비를 못해 꼬치구이 나머지로 젓가락을 하고 종이컵으로 그릇을 대용했다.</eg>
+					<eg>고기를 싫어해서 채식을 하는 사람은 콩을 먹도록 하면 좋고 그렇지 않으면 두부로 대용해도 충분하다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>그전에는 홈페이지가 영화 팜플렛을 대용하는 정도였지만, 지금은 웹의 쌍방향성을 충분히 활용해 네티즌과 영화사를 직접 연결하는 창구가 되고 있다.</eg>
+					<eg>이제는 모든 결재 부문에서 신용카드가 현금을 대용하기에 이르렀다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대용을 하다</var>
+			<str>N.하</str>
+			<org lg="si">貸用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>획득행위</sem_class>
+				<trans>take on loan</trans>
+				<trans>borrow</trans>
+				<lr>
+					<syn type="perfect">차용하다</syn>
+					<syn type="kor">빌리다</syn>
+					<ant type="conv">대부하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>그는 그때 사업자금이 달려서 누군가에게서 급전을 대용해야 하는 상황이었다.</eg>
+					<eg>전세금을 은행에서 대용하지 않고서는 서민들은 집을 얻기가 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>성기다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be sparse</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">(사이|간격|분포|밀도)</n_appr>
+					<eg>땀구멍이 성겨서 조금만 움직여도 얼굴과 가슴에서 땀이 나며 조금 힘든 일을 하게 되면 주체할 수 없을 정도로 땀을 흘리는 사람도 많습니다.</eg>
+					<eg>재래 흑돼지의 외모 특징은 몸 전체가 흑색이고 털은 거칠고 성겨서 살색이 겉으로 드러나 보인다는 것이다.</eg>
+					<eg>잔디가 잘리거나 성겨서 딱딱한 맨땅이 드러났다.</eg>
+					<eg>생리용 해면보다 조직이 성겨서 조각들이 떨어져 나오기도 하거든요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방식속성값</sem_class>
+				<trans>be sporadic</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<n_appr arg="X">(빈도|횟수)</n_appr>
+					<eg>요즘 우리의 만남은 아주 성기다.</eg>
+					<eg>그렇게 성긴 산행으로 얼마나 운동이 되겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>be not in good terms with</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">(관계|사이)</n_appr>
+					<eg>우리는 사이가 점차 성겨져서 갈수록 서먹해지기만 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>불긋불긋하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">볼긋볼긋하다</var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans></trans>
+				<lr>
+					<rel>군데군데 불그스름하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>단풍이 물들어 산이 불긋불긋하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(볼|입술)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>화상을 입은 곳이 아직도 불긋불긋하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+			    <frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(산|하늘|거리)</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물(단풍|노을)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>온 산이 단풍으로 불긋불긋하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

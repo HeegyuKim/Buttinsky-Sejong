@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>내부환경</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/31</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>예문 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">내부 환경</var>
+			<str type="N_N">내부+환경</str>
+			<org lg="si">內部環境</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>새 지하철은 승차감은 물론 역사 등 ~이 쾌적하게 꾸며졌다.</eg><!--조사 결합형으로 예문 추가(권)-->
+				<eg>우리 건축사사무소는 시설물에 부합하는 ~ 조성에 힘쓰고 있다.</eg>
+				<trans>internal environment</trans>
+				<domain></domain>
+				<sem_class>상황</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">외부환경</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 넓다</comb_aj>
+				<comb_aj type="appr">~이 깨끗하다</comb_aj>
+				<comb_aj type="appr">~이 쾌적하다</comb_aj>
+				<comb_n type="compound">~ 개선</comb_n>
+				<comb_n type="compound">~ 분석</comb_n>
+				<comb_n type="compound">~ 조성</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 분석하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 조성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

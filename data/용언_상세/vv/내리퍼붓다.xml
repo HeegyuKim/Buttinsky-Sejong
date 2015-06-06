@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내리퍼붓다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/22</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>강우</sem_class>
+				<trans>fall thick and fast</trans>
+				<trans>rain hard</trans>
+				<lr>
+					<hyper>퍼붓다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상관련물(눈|비)|기상현상</sel_rst>
+					<eg>그날 오후부터 폭우가 내리퍼붓기 시작했다.</eg>
+					<eg>밤새 엄청난 눈이 내리퍼부어서 사람들이 모두 밖에 나와 눈을 치우고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pour down on</trans>
+				<lr>
+					<syn type="perfect">쏟아붓다</syn>
+					<hyper>퍼붓다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|(소방차)</sel_rst>
+					<sel_rst arg="Y" tht="THM">액체</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물|건물</sel_rst>
+					<eg>그 할아버지는 자기 집문 앞에서 떠드는 아이들에게 구정물을 내리퍼부었다.</eg>
+					<eg>오늘은 날씨가 너무 더워서 찬물을 마당에 연신 내리퍼붓고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|(소방차)</sel_rst>
+					<sel_rst arg="Y" tht="THM">액체</sel_rst>
+					<sel_rst arg="Z" tht="DIR">부분장소|관계장소</sel_rst>
+					<eg>물청소를 하느라고 아이들이 물을 바닥으로 내리퍼부었다.</eg>
+					<eg>수비군들은 끓는 물을 성 아래 왜병들 머리 위로 내리퍼부었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>회신하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">회신을 하다</var>
+			<str>N.하</str>
+			<org lg="si">回信_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대답</sem_class>
+				<trans>answer a letter</trans>
+				<trans>send a reply</trans>
+				<lr>
+					<syn type="perfect">답신하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">의견</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|편지</sel_rst>
+					<eg>나는 그에게 그 문제에 대한 내 입장을 회신했다.</eg>
+					<eg>그는 내가 보낸 편지에 회신하지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에|에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|편지</sel_rst>
+					<eg>우리는 회사에 이곳 상황이 점점 더 어려워지고 있다고 회신했다.</eg>
+					<eg>나는 그의 편지에 당분간은 이곳에 더 머무를 생각이라고 회신했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

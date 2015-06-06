@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뜨다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속도속성값</sem_class>
+				<trans>be slow</trans>
+				<lr>
+					<ant type="grad">빠르다</ant>
+					<hypo>굼뜨다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">동물|신체부위</sel_rst>
+					<n_appr arg="X">행위|움직임|속도|동작</n_appr>
+					<eg>나무늘보는 행동이 떠서 위험에 많이 처한다.</eg>
+					<eg>손이 움직임이 뜨면 군대에서 고생을 많이 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시계|음악)</sel_rst>
+					<n_appr arg="X">템포|속도</n_appr>
+					<eg>이 시계는 10분 정도 뜬 것 같다.</eg>
+					<eg>이 노래는 템포가 너무 떠서 지루한 느낌을 준다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be dull</trans>
+				<lr>
+					<syn type="perfect">둔하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(감정|눈치|깨우침)</sel_rst>
+					<eg>그 사람은 눈치가 너무 떠서 자주 사람을 곤란하게 만든다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be taciturn</trans>
+				<trans>be tight-lipped</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(입)</sel_rst>
+					<eg>그는 매우 입이 뜬 사람이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be dull</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">칼</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(날)</sel_rst>
+					<eg>이 칼은 날이 너무 떠서 칼 가는 이를 불러다가 좀 갈아야 되겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be not steep enough</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(지붕)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(물매)</sel_rst>
+					<eg>지붕이 물매가 너무 떠서 비가 오면 물이 잘 빠지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

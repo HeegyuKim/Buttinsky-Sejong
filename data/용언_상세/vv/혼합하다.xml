@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼합하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/09</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/01</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼합을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">混合_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>mix</trans>
+				<trans>blend</trans>
+				<trans>mingle</trans>
+				<trans>compound</trans>
+				<trans>intermix</trans>
+				<lr>
+					<syn type="kor">섞다</syn>
+					<ant type="compl">분리하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<sel_rst arg="Z" tht="GOL">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<eg>그녀는 밀가루에 적당한 양의 전분을 혼합하여 튀김 반죽을 만들었다.</eg>
+					<eg>이 음료는 한약재에 몸에 좋은 각종 과일들을 혼합하여 만든 것이라고 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<sel_rst arg="Z" tht="COM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<eg>그녀는 밀가루를 적당한 양의 전분과 혼합하여 튀김 반죽을 만들었다.</eg>
+					<eg>각종 과일들을 한약재와 혼합하여 만든 이 음료가 요즘 시중에서 인기를 누리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="01">
+				<frame>X=N0-이 Y+Z=N1-을 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<sel_rst arg="Z" tht="THM">광물|기체|액체|자연음식물|약|음식|재료성분</sel_rst>
+					<eg>그녀는 밀가루와 전분을 적당량 혼합하여 걸죽한 튀김 반죽을 만들었다.</eg>
+					<eg>각종 천연 과일과 한약재를 서로 혼합하여 만든 이 음료가 요즘 시중에서 큰 인기를 누리고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내리다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/08/19</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>강우</sem_class>
+				<trans>fall</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="01">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">강우|강설|(이슬|서리)</sel_rst>
+					<eg>갑자기 비가 내리기 시작했다.</eg>
+					<eg>첫눈 내리는 날 만나도록 하죠.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>강우</sem_class>
+				<trans>fall</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="01">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">(하늘|신)</sel_rst>
+					<sel_rst arg="Y" tht="THM">강우|강설</sel_rst>
+					<eg>하늘이 언제나 비를 내리려나?</eg>
+					<eg>신이이여! 우리에게 비를 내리소서.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>drop</trans>
+				<trans>lower</trans>
+				<lr>
+					<syn type="sino">인하하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="02">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수|돈</sel_rst>
+					<eg>내일부터 기름값이 내린다고 한다.</eg>
+					<eg>새해엔 이자율이 좀 내렸으면 좋겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>drop</trans>
+				<trans>lower</trans>
+				<lr>
+					<syn type="sino">인하하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="02">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">수|돈</sel_rst>
+					<eg>정부에서 내년부터 기름값을 내린다고 한다.</eg>
+					<eg>은행이 이자율을 내린다는 소문이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>go down</trans>
+				<trans>take down</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="03">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온도|(열)</sel_rst>
+					<eg>얼른 열이 좀 내려야 할텐데.</eg>
+					<eg>바깥 온도가 요즘 많이 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>go down</trans>
+				<trans>take down</trans>
+				<lr>
+					<syn type="perfect">떨어지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="03">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">(온도|열)</sel_rst>
+					<eg>선생님, 우리아이 열 좀 내리게 해 주세요.</eg>
+					<eg>실내온도를 좀 내려 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>go down</trans>
+				<trans>take down</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="04">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>부기가 내려야 밖으로 나갈 수 있을텐데.</eg>
+					<eg>아이 대학입시 때문에 살이 내릴 지경이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소행위</sem_class>
+				<trans>go down</trans>
+				<trans>take down</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="04">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>부기를 내리지 않으면 밖으로 나갈 수 없잖아.</eg>
+					<eg>살을 내리지 무슨 좋은 방법이 없을까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="05">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(막)</sel_rst>
+					<eg>막이 내리고 관객들은 떠났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="05">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(막)</sel_rst>
+					<eg>전투 장면을 끝으로 막을 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pull down</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(장막|커텐|지퍼|소매)</sel_rst>
+					<eg>그는 일을 마치자 걷었던 소매를 내리고 밖으로 나왔다.</eg>
+					<eg>어머니는 날이 어두워 오자 창문을 닫고 커텐을 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>digest</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="06">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(체증|체기)</sel_rst>
+					<eg>체증이 아직도 안 내렸니?</eg>
+					<eg>체기가 아직도 안 내렸니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>digest</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="06">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(체증|체기)</sel_rst>
+					<eg>체한 것을 내리는 데는 운동이 최고다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>fall</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">안개|연기|(어둠)</sel_rst>
+					<eg>산 속에선 어둠이 훨씬 더 일찍 내린다.</eg>
+					<eg>안개가 내려 앞을 분간하기 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>put down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위|구체물</sel_rst>
+					<eg>이제 그만 손을 내리고 일어나라.</eg>
+					<eg>그는 들었던 돈뭉치를 슬그머니 내려 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>turn off</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(전원|스위치)</sel_rst>
+					<eg>스위치를 내리자 갑자기 방이 어두워졌다.</eg>
+					<eg>그는 바로 전원을 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>하차</sem_class>
+				<trans>get off</trans>
+				<lr>
+					<syn type="sino">하차하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에서|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">교통기관</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>사람들이 기차에서 내리기 시작했다.</eg>
+					<eg>버스를 내려서 지하철로 갈아타세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>하차</sem_class>
+				<trans>get off</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>우리는 버스 정류장에 내려 한참을 걸었다.</eg>
+					<eg>시드니에 내린 그들은 곧바로 항구로 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>put down</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">공중교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(지역|활주로)</sel_rst>
+					<eg>비행기는 마침내 활주로에 내렸다.</eg>
+					<eg>우주선이 달에 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>a root is struck</trans>
+				<trans>take root in the ground</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="07">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">뿌리</sel_rst>
+					<sel_rst arg="Y" tht="GOL">지상장소|(화분)</sel_rst>
+					<eg>땅 속에 뿌리가 잘 내릴 때까지 잘 돌보아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>a root is struck</trans>
+				<trans>take root in the ground</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="07">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">식물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(뿌리)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">지상장소|(화분)</sel_rst>
+					<eg>나무는 매일 조금씩 땅속에 뿌리를 내린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>be possessed by an spirit</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상상적인간(신)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|집단|장소</sel_rst>
+					<eg>그 여자에게 신이 내렸다는 사실을 믿을 수 없다.</eg>
+					<eg>소돔성에 신의 저주가 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>운반</sem_class>
+				<trans>put down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">건물부분장소</sel_rst>
+					<eg>그들은 다락에서 오래된 이불 한 채를 내렸다.</eg>
+					<eg>선반에서 그릇 좀 내려라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>운반</sem_class>
+				<trans>pull down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">건물부분장소</sel_rst>
+					<eg>바닥에 짐을 내리고 잠시 쉬어라.</eg>
+					<eg>마당에 일단 이사짐을 내려라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>pass through</trans>
+				<lr>
+					<syn type="perfect">거르다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(가루|술)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">(체)</sel_rst>
+					<eg>밀가루는 체에 내려야 더 고와진다.</eg>
+					<eg>술을 체에 내려 찌끼를 다 없애도록 해라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/08/19</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/10</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>give</trans>
+				<trans>be given</trans>
+				<trans>make</trans>
+			</sem_grp>
+			<frame_grp type="STR" cor="nut" n="01">
+				<frame>X=N0-이 Y=N2-에|에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">상|벌|명령|(지시|축복|경고)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|지역</sel_rst>
+					<eg>왕이시여, 저에게 축복을 내리소서.</eg>
+					<eg>기상청은 오늘밤을 기해 서해에 폭풍주의보를 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN" cor="nut" n="01">
+				<frame>X=N1-에|에게 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">상|벌|명령|(축복|경고|지시)</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간|인간집단|지역</sel_rst>
+					<eg>선한 일을 한 사람에게는 상이 내리는 법이다.</eg>
+					<eg>오늘밤을 기해 서해에 폭풍주의보가 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(결정|결론|결단|평가)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>이것은 얼른 결정을 내리지 않으면 안 되는 일이다.</eg>
+					<eg>그들은 우리의 이 작업에 대해 결코 좋은 평가를 내리지 않을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

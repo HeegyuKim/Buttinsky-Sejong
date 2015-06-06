@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단교하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단교를 하다</var>
+			<str>N.하</str>
+			<org lg="si">斷交_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>break off relations with</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="COM"></sel_rst>
+					<eg>그 사건으로 한국은 그 나라와 단교하였다.</eg>
+					<eg>이스라엘과 미국은 그 나라와 단교하지 않은 유일한 두 국가이다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="AGT"></sel_rst>
+					<eg>그 사건으로 한국과 그 나라는 서로 단교하였다.</eg>
+					<eg>두 국가는 서로 단교한지 30년 만에 최근에 관계를 회복하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

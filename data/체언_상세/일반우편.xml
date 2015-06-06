@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>일반우편</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/04</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가함;예문 수정;영어대역어 수정 및 추가;의미부류 수정;명사결합, 동사결합, 단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">일반 우편</var> <!-- 추가함 -->
+			<str type="N_N">일반+우편</str>
+			<org lg="si">一般郵便</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>샘플은 ~으로 보내드리니 분실될 우려가 있습니다.</eg> <!-- 수정함 -->
+				<trans>ordinary mail</trans> <!-- 'general post service'을 수정함 -->
+				<trans>ordinary post</trans> <!-- 추가함 -->
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class> <!-- '추상적대상'을 수정함 -->
+				<!-- '우편'의 의미부류가 정확히 어떤 것인지 잘 모르겠음 (한동훈)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 요금</comb_n>
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 발송하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 보내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">통</cl> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

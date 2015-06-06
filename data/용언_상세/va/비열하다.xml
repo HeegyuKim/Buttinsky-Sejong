@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>비열하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/30</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/25</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">卑劣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be mean</trans>
+				<lr>
+					<syn type="perfect">야비하다</syn>
+					<ant type="grad">정당하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">태도</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<eg>그 비열한 녀석과는 더 이상 얼굴도 마주하고 싶지 않다.</eg>
+					<eg>그 젊은이는 비열한 부자가 되기보다는 정정당당하게 가난과 맞서고 싶다고 말했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be mean</trans>
+				<lr>
+					<syn type="perfect">야비하다</syn>
+					<ant type="grad">정당하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">방법|품격속성|인지상태|행위</sel_rst>
+					<eg>내가 성공하고자 그런 비열한 방법을 선택하고 싶지는 않습니다.</eg>
+					<eg>그는 생각과 행동이 비열하기 그지없었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"/>
+					<eg>남에게 그런 부탁을 하는 것이 비열하다고 생각지 않습니까?</eg>
+					<eg>이렇게 행동하는 것이 스스로도 비열하고 천하게 느껴지곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

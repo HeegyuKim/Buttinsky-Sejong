@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기여입학</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>syn 기술</mod_note>
+				<mod_note>max_n 기술</mod_note>
+				<mod_note>sel_res 기술</mod_note>
+				<mod_note>add 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<add>파생어 : 기여입학제</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기여 입학</var>
+			<str type="N_N">기여+입학</str>
+			<org lg="si">寄與入學</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>외국은 이미 ~에 관한 제도가 잘 정립되어 있다.</eg>
+				<trans>entrance into school through the contribution</trans>
+				<domain></domain>
+				<sem_class>가입</sem_class>
+				<lr>
+					<syn type="perfect">기부입학</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">교육기관</sel_rst> <!-- 누락된 Y 선택제약 정보 기술(송근영) -->
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

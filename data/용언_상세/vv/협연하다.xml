@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>협연하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/12</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/05</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/03</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">협연을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">協演_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>play in harmony</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">역할인간(피아니스트|바이올리니스트|첼리스트)|단체(교향악단|오케스트라)</sel_rst>
+					<sel_rst arg="Y" tht="COM">역할인간(피아니스트|바이올리니스트|첼리스트)|단체(교향악단|오케스트라)</sel_rst>
+					<eg>그 피아니스트는 이번 내한 공연에서 국립 교향악단과 협연한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">역할인간(피아니스트|바이올리니스트|첼리스트)|단체(교향악단|오케스트라)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">역할인간(피아니스트|바이올리니스트|첼리스트)|단체(교향악단|오케스트라)</sel_rst>
+					<eg>천재 피아니스트로 불리는 그녀와 국립 교향악단이 협연하는 이번 공연은 입장권이 이미 매진된 상태다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

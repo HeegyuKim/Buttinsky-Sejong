@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>피폐하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">피폐를 하다</var>
+			<str>N.하</str>
+			<org lg="si">疲弊_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be devastated</trans>
+				<trans>fall into ruin</trans>
+				<lr>
+					<syn type="perfect">황폐하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|(자연)</sel_rst>
+					<eg>삼십 년의 내전을 겪으면서 이 땅은 피폐할 대로 피폐해져 있었다.</eg>
+					<eg>이제 우리가 진정 관심을 가져야 할 것은 무분별한 개발로 피폐한 자연을 되살리는 일입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>become impoverished</trans>
+				<trans>become exhausted</trans>
+				<lr>
+					<syn type="perfect">황폐하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>이 작품은 물질 문명 속에서 피폐해 가는 우리 현대인들의 모습을 담고 있다.</eg>
+					<eg>그는 피폐한 친구의 모습에 경악했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>이 작품은 물질 문명 속에서 피폐해 가는 우리 현대인들의 모습을 담고 있다.</eg>
+					<eg>그는 피폐한 친구의 모습에 경악했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

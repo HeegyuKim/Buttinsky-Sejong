@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>와닿다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-아V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>touch</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>기영이의 손이 수진이의 어깨에 와닿자 수진이는 화들짝 놀라 자리에서 일어났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>feel</trans>
+				<trans>smell</trans>
+				<trans>hear</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">바람|기운|냄새|소리속성</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>맨 살갗에 와닿다 밀려가는 바람, 빈 위장을 사포로 미는 듯한 쓰라림이 느껴진다.</eg>
+					<eg>따뜻한 온기가 온 몸에 와닿으니 기분이 훨씬 좋아졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>reach to</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+			<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(물|나무)|길이|높이</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>간 밤의 폭우로 돌다리도 없어지고, 결국 우리는 허리까지 와닿는 개울 물을 헤엄쳐 건널 수밖에 없었다.</eg>
+					<eg>허리까지 와닿을 정도로 쌓인 눈을 치우느라 한나절을 보냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>come to one's heart</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+			<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<n_appr arg="Y">마음</n_appr>
+					<n_appr arg="Y">가슴</n_appr>
+					<n_appr arg="Y">마음 속</n_appr>
+					<n_appr arg="Y">가슴 속</n_appr>
+					<eg>그런 말은 저에게 별로 와닿지는 않는군요.</eg>
+					<eg>기영이의 솔직한 말이 비로소 나의 가슴에 와닿는다.</eg>
+				</subsense>
+				<subsense>
+				<sel_rst arg="X" tht="THM">S것|S음|Q</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<n_appr arg="Y">마음</n_appr><!--적정명사로 표기하는 것이 옳은지.. -->
+					<n_appr arg="Y">가슴</n_appr>
+					<n_appr arg="Y">마음 속</n_appr>
+					<n_appr arg="Y">가슴 속</n_appr>
+					<eg>기영이 말을 들으면서 기영이가 아직도 수진이를 잊지 못하고 있다는 것이 가슴에 와닿았다.</eg>
+					<eg>기영이 말을 들으면서 기영이가 아직도 수진이를 잊지 못하고 있음이 마음에 와닿았다.</eg>
+					<eg>내가 얼마나 너를 좋아하고 있는지가 아직도 가슴에 와닿지 않는단 말이냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>arrive</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">교통기관(배)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(항구)</sel_rst>
+					<eg>배가 항구에 와닿을 때까지는 아직 시간이 2-3분 더 걸릴 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>피부에 와닿다</idm>
+			<idm>
+			</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

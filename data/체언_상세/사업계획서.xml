@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사업계획서</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/24</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사업 계획서</var>
+			<str type="N_N">사업+계획서</str>
+			<!--계획서는 '계획+서'로 분석 가능(미현)-->
+			<org lg="si">事業計劃書</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>김차장은 중국진출에 대한 ~를 준비하고 있다.</eg>
+				<trans>business plan</trans>
+				<domain></domain>
+				<sem_class>문서</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 작성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제출하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="div">장</cl>
+				<cl type="div">쪽</cl>
+				<cl type="div">페이지</cl> <!-- 송근영 추가 -->
+				<!--'쪽, 장'은 이 경우 낱개(uni)라도 볼 수 있고, 부분(div)으로도 볼 수 있는데...어떻게 처리해야하는지(미현)-->
+				<!-- 사업계획서 세 쪽(장)이라는 말이 사업계획서 세 개라는 뜻은 아니니 div로 보는 것이 더 나을 듯, 그러나 한 장짜리 사업계획서라면 사업계획서 한 장은 uni 용법도 가능(송근영) -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

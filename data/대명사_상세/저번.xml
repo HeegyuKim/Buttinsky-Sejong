@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>저번</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/09</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/01</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그 세트에 맞추어 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">전번</var>
+			<str type="etc">저+번</str>
+			<org lg="si">_番</org>
+		</morph_grp>
+		<sense n="1" sem="3" num="etc" ref="time">
+			<sem_grp>
+				<eg>~에 한 약속은 잊지 않았겠지?</eg>
+				<lr>
+					<syn type="etc">지난번</syn>
+					<syn type="etc">전번</syn>
+					<syn type="etc">접때</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<prt>~에</prt>
+				<prt>~같이</prt>
+				<prt>~처럼</prt>
+				<prt>~보다</prt>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

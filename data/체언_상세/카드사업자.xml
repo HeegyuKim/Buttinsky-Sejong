@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>카드사업자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/06</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>'신용카드 사업자'의 준말 의미로만 기술함; '교통', '국제전화' 등이 앞에 오기도 하나 그 내부 구성은 'X + 카드 사업자'이라기보다는 'X 카드 + 사업자'이기 때문에 일반 의미의 '카드 사업자'를 설정하기는 애매함;str 정보 기호 수정;변이형 정보(띄어쓰기) 추가;전문영역 정보 추가;n_n 정보 추가;n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note>cl '명, 인, 사람' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">카드 사업자</var>
+			<var type="lng">신용 카드 사업자</var>
+			<str type="N_N">카드+사업자</str>
+			<org lg="en">card___</org>
+			<org lg="si">__事業者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정부에서는 ~의 연쇄 부도를 막기 위해서 다양한 정책들을 내놓고 있다.</eg>
+				<trans>credit cards services providers</trans><!--(호정은) '신용카드서비스공급자'에 해당하는 표현-->
+				<domain>경제</domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="perfect">신용 카드 사업자</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">금융권 ~</comb_n>
+				<comb_n type="compound">대형 ~</comb_n>
+				<comb_n type="compound">중소 ~</comb_n>
+				<comb_n type="compound">~ 단체</comb_n>
+				<comb_n type="compound">~ 선정</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 등록하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 선정되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl><!--(호정은) '명,사람,인'으로 쓰이지 않음-->
+				<cl type="uni">인</cl><!--(임근석) '명,사람,인'으로 쓰이지 않는다고 보기 어려움-->
+				<cl type="uni">사람</cl> 
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

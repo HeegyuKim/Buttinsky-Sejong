@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>친숙하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김윤신</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>조원형</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">親熟_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be familiar with</trans>
+				<lr>
+					<syn type="etc">익숙하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상|사태|행위</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<eg>그런 작별 인사는 외국인들에게나 친숙할 것이다.</eg>
+					<eg>나는 그런 상황에 친숙하지 않다.</eg>
+					<eg>그 사람은 오랫동안 우리랑 같이 일을 해서 우리들에게 아주 친숙하다.</eg>
+					<eg>나는 축구보다 야구가 친숙하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에게는|이 X=S것0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<eg>반가운 사람을 만났을 때 그렇게 인사하는 것이 나에게는 친숙하지 않다.</eg>
+					<eg>퉁명스럽게 말하는 것이 나에게는 친숙하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be acquainted with</trans>
+				<lr>
+					<syn type="etc">친하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>영수는 재인이와 친숙하다.</eg>
+					<eg>너도 친숙한 사람이 있니?</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Y=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>영수와 재인이는 친숙하다.</eg>
+					<eg>그들은 어려서부터 서로 너무나 친숙하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

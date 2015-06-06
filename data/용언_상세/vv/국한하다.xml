@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>국한하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">국한을 하다</var>
+			<str>N.하</str>
+			<org lg="si">局限_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>localize st to</trans>
+				<trans>limit st to</trans>
+				<lr>
+					<syn type="perfect">한정하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="LOC">집단|장소|추상적대상</sel_rst>
+					<eg>회사는 최소한의 승진에 이번 일반직 인사를 국한하였다.</eg>
+					<eg>여성 단체는 미혼여성들에 입회자격을 국한하기로 하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">집단|장소|추상적대상</sel_rst>
+					<eg>회사는 이번 일반직 인사를 최소한의 승진으로 국한하였다.</eg>
+					<eg>여성 단체는 입회자격을 미혼여성으로 국한하기로 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

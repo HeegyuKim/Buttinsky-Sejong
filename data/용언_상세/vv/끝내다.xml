@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끝내다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">끝을 내다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>finish</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위(일|공사|숙제|연구|훈련)</sel_rst>
+					<eg>내일까지 이 일을 끝내야 한다.</eg>
+					<eg>이번 공사는 1년 안에 끝내기 위해 인원을 많이 동원했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">작품(그림)|텍스트(책|논문)</sel_rst>
+					<eg>나는 내일이면 이 그림을 끝낼 수 있다.</eg>
+					<eg>그는 그 책을 이번 여름에 다 끝냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>finish</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">시간(방학|학기|휴가|축제)</sel_rst>
+					<eg>그들은 휴가를 끝내고 돌아왔다.</eg>
+					<eg>학생들은 축제를 끝냈기 때문에 피곤했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/06</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">끝을 내다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>종료행위</sem_class>
+				<trans>end</trans>
+			</sem_grp>
+			<frame_grp type="STR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N2-와 (서로) Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(관계|협상|사랑)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>순이는 이제 영수와 관계를 끝낸 것 같았다.</eg>
+					<eg>우리는 이제 그 회사하고는 관계를 끝낸 지 오래다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(관계|협상|사랑)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>영수와 순이는 이제 관계를 끝낸 것 같았다.</eg>
+					<eg>우리와 그 회사는 이미 관계를 끝낸 지 오래다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

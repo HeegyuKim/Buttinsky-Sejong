@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맞받아치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">마주받아치다</var>
+			<str>PV</str><!--"V-어.V"로 볼 수도 있음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>hit head-on</trans>
+				<lr>
+					<hyper>맞받다</hyper>
+					<hyper>치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<eg>그 선수는 상대 투수의 초구를 강하게 맞받아쳐서 큰 홈런을 만들어 냈다.</eg>
+					<eg>그는 막대를 사용하여 순간적으로 그것을 맞받아쳐냈다.</eg>
+					<eg>그 글을 읽으면서 떠오른 운동은 사방 벽을 맞고 튕겨 나오는 공을 맞받아쳐내는 스쿼시였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>face head-on</trans>
+				<lr>
+					<syn type="sino">대응하다</syn>
+					<hyper>맞받다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위</sel_rst>
+					<eg>대표팀은 그간 현지 훈련에서 상대의 공격을 재빨리 맞받아쳐 골문을 열어젖히는 훈련을 해왔기 때문에 상대가 공격적으로 나올수록 골찬스가 많아 질 것으로 보인다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>논쟁</sem_class>
+				<trans>respond head-on</trans>
+				<lr>
+					<syn type="perfect">대꾸하다</syn>
+					<hyper>맞받다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>이에 대해 북한은 강도적 논리라면서 먼저 주한미군을 철수하라고 맞받아쳐 왔다.</eg>
+					<eg>이에 상대 구단은 즉각 터무니없는 주장이라고 맞받아쳐 파문이 확산되고 있다.</eg>
+					<eg>참고 또 참으려고 노력했는데 내 말은 들은 척도 않고 고함만 치므로 결국 나도 맞받아 친다.</eg>
+					<eg>사전준비 없이 분위기에 이끌려 대충 말하지 말고, 화가 난 상대방의 말을 감정적으로 맞받아 치는 것은 절대 금물이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

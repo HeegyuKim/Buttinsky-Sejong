@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>철도회원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/18</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>영어 대역어 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/21</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>n_n 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+                        <mod>
+                                <mod_date>2007/08/05</mod_date>
+                                <mod_writer>박진희</mod_writer>
+                                <mod_note></mod_note>
+                        </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">철도 회원</var>
+			<str type="N_N">철도+회원</str>
+			<org lg="si">鐵道會員</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>철도청은 ~에게 전산망에서 열차표 잔여분을 검색할 수 있도록 편의를 제공하고 있다.</eg>
+				<trans>railroad member</trans>
+				<domain></domain>
+				<sem_class>소속인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~카드</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 가입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

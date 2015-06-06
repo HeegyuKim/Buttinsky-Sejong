@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>배설되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/02</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">배설이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>배설.되</str>
+			<org lg="si">排泄_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>be execreted</trans>
+				<lr>
+					<syn type="perfect">배출되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">배설물(똥|오줌|노폐물)</sel_rst>
+					<eg>변이 규칙적으로 배설되지 않으면 변비에 걸릴 수 있다.</eg>
+					<eg>노폐물이 배설되는 것은 신체의 생리작용을 원할하게 하는 데 중요하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be excrete</trans>
+				<lr>
+					<syn type="perfect">배출되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>친구를 만나자 그동안 쌓였던 울분이 모두 배설된 듯하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/09/15</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">배설이 되다</var>
+			<cntr opt="opt" type="i"/>
+			<org lg="si">排設__</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>장식행위</sem_class>
+				<trans>be arranged</trans>
+				<lr>
+					<syn type="perfect">진설되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">도구(제구)|음식</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(상)</sel_rst>
+					<eg>제구가 제삿상에 제대로 배설되었는지 확인해 보거라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

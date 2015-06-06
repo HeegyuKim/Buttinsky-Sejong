@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>무어</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/08/28</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">뭐</var>
+			<var type="lng">무엇</var>
+					<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+			<idm type="da">~야?</idm>
+			<idm type="etc">~니 ~니 해도</idm>
+			<idm type="etc">그게 그거지 ~야?</idm>
+		</idm_grp>
+		<sense n="1" sem="interrogative" num="etc" ref="thing">
+			<sem_grp>
+				<eg>저 사람들이 ~라고 저리 소리지르는 거냐?</eg>
+				<trans>what</trans>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<rep>Vi기는;긴 ~ㄹ Vi?</rep>
+				<etc_cnst>S지 ~예요|야?;S다는|냐는|라는|자는 거요 ~요?</etc_cnst>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="indefinite" num="etc" ref="thing">
+			<sem_grp>
+				<eg>배고프면 ~라도 좀 찾아 먹어</eg>
+				<eg>내 생각을 ~라 말하기 곤란하다</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

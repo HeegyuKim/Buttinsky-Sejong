@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발끈하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/28</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>be fly into a passion</trans>
+				<trans>be fall into a passion</trans>
+				<trans>be flare up in anger</trans>
+				<trans>be flare up</trans>
+				<trans>be flash up in anger</trans>
+				<trans>be flash up</trans>
+				<trans>be fly into a rage</trans>
+				<trans>be flame out</trans>
+				<trans>be see red</trans>
+				<trans>be throw a fit</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">행위|사건|인간</sel_rst> <!--EFF인지도-->
+					<eg>그는 상대방의 발언에 발끈해서 자리를 박차고 일어섰다.</eg>
+					<eg>그는 바보라는 소리에 발끈했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

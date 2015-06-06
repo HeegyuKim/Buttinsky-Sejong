@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>솟구쳐오르다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>raise quickly</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|로|로부터 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물줄기)|(불길)</sel_rst>
+					<sel_rst arg="X" tht="SRC">장소</sel_rst>
+					<eg>금이 간 수도관 틈새로 물이 마구 솟구쳐올랐다.</eg>
+					<eg>화산에서 용암이 솟구쳐오르는 것을 본 적이 있니?</eg>
+					<eg>화재가 난 건물에서 불길이 마구 솟구쳐오르는 것을 보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>raise quickly</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">새|물고기(돌고래)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소(하늘|공중)</sel_rst>
+					<eg>독수리가 힘차게 하늘로 솟구쳐오르는 것 같은 기상을 우리도 이제 발휘할 때입니다.</eg>
+					<eg>조련사가 호각을 불자 돌고래가 물 속에서 힘차게 솟구쳐올랐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+			<sense>
+			<sem_grp>
+				<sem_class>기색</sem_class>
+				<trans>raise quickly</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태|(힘)</sel_rst>
+					<eg>기영이는 미영이의 어이없는 대답에 분노가 솟구쳐올랐다.</eg>
+					<eg>보약을 먹더니 기영이가 요즈음 힘이 아주 솟구쳐오르나 보다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

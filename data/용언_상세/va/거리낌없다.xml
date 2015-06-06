@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>거리낌없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/08</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be without hesitation</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이|에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">범죄및비행|비난욕설</sel_rst>
+					<eg>그들은 이 땅을 강점한 첫날부터 우리 국민 살육만행에 거리낌없었다.</eg>
+					<eg>필자는 욕지거리가 거리낌없는 일부 신세대를 '개욕남'이라고 지칭해주고 싶다.</eg>
+					<eg>일부 연예인들은 웃음을 유발하기 위하여 의도적으로 상대를 깎아내리는 인신공격도 거리낌없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S데</sel_rst>
+					<eg>그는 마켓에서 물건을 훔치는 것이 정말 거리낌없었다.</eg>
+					<eg>일부 몰지각한 역사가들은 이제 한 세기쯤의 역사를 왜곡하는 데에는 전혀 거리낌없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>품격속성값</sem_class>
+				<trans>be with a good conscience</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">품격속성(마음|양심)</sel_rst>
+					<eg>나의 이런 소신은 매우 건전하고 정당하기 때문에 나를 투기꾼이라고 불러도 양심에 한치도 거리낌없다.</eg>
+					<eg>나는 큰 일에 몸바쳐 천지를 떠도니 마음에는 거리낌없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

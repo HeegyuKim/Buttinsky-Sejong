@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>공중전투</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">공중 전투</var>
+			<str type="N_N">공중+전투</str>
+			<org lg="si">空中戰鬪</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>하늘에서는 전투기들 사이에 치열한 ~가 벌어졌다.</eg>
+				<trans>air battle</trans>
+				<trans>air fighting</trans>
+				<domain></domain>
+				<sem_class>물리적충돌</sem_class>
+				<lr>
+					<syn type="etc">공중전</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 치열하다</comb_aj>
+				<comb_n type="compound">~(의) 양상</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-와 ~를 하다</frame>
+					<frame>Y-와 X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 벌이다</form>
+					<frame>X-이 Y-와 ~를 벌이다</frame>
+					<frame>Y-와 X-이 ~를 벌이다</frame>
+				</comb_v>
+				<max_n_str>Y-와 X-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간|공중교통기관</sel_rst>
+				<sel_rst arg="Y">직업인간|공중교통기관</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

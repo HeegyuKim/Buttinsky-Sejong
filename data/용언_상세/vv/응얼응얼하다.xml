@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>응얼응얼하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<see>응얼거리다</see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>hum</trans>
+				<trans>murmur</trans>
+				<lr>
+					<syn type="perfect">응얼거리다</syn>
+					<syn type="perfect">응얼대다</syn>
+					<syn type="perfect">흥얼흥얼하다</syn>
+					<syn type="perfect">흥얼거리다</syn>
+					<syn type="perfect">흥얼대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡(노래|가요|유행가|동요)|텍스트(시|시조|기도문)</sel_rst>
+					<eg>세탁소 아저씨는 온 종일 입으로는 흘러간 유행가를 응얼응얼하며 일을 하셨다.</eg>
+					<eg>손자는 할아버지가 응얼응얼하시는 기도문을 들으며 잠이 들곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>murmur</trans>
+				<trans>mutter</trans>
+				<lr>
+					<syn type="perfect">응얼거리다</syn>
+					<syn type="perfect">응얼대다</syn>
+					<syn type="perfect">중얼중얼하다</syn>
+					<syn type="perfect">중얼거리다</syn>
+					<syn type="perfect">중얼대다</syn>
+					<hyper>말하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT">소통행위(말|이야기|불평|변명)</sel_rst>
+					<eg>그녀는 자기 변명을 응얼응얼했지만 아무도 주목해 들어주지 않았다.</eg>
+					<eg>아들은 불평이 가득한 얼굴로 몇 마디 응얼응얼하더니 제 방으로 들어가 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>복사를 해 달라는 대리의 부탁에 미스 김은 궂은 일은 늘 자기에게만 시킨다고 응얼응얼하며 의자에서 일어났다.</eg>
+					<eg>아들은 불평이 가득한 얼굴로 알겠다고 응얼응얼하더니 제 방으로 들어가 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

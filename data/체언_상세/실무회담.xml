@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>실무회담</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합에서 '~ 개최, 재개' 삭제함;단문구조와 논항명사구에 보문 논항 추가;동사결합에 '가지다, 연기하다, 무산되다' 추가;'열다, 열리다'는 유형값을 수정;논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>다의 분할(지속적활동과 일반모임회의로)후 재기술;이렇게 다의분할할 경우 논항 기술이 맞는지 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>센스 통합하면서 의미부류 수정(지속적활동에서 일반모임회의로)</mod_note>
+			</mod>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">실무 회담</var>
+			<str type="N_N">실무+회담</str>
+			<org lg="si">實務會談</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>'양측은 그 문제에 대해 ~을 열어 협의를 보았다.</eg>
+				<eg>제 12차 한·중 무역 ~이 6일 서울에서 개최된다.</eg>
+				<trans>working-level talk</trans>
+				<domain></domain>
+				<sem_class>일반모임회의</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">군사 ~</comb_n>
+				<comb_n type="compound">경제 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-와 Z-에대해 ~을 하다</frame>
+					<frame>X-이 Y-와 S것-에대해 ~을 하다</frame>
+					<frame>X-와 Y-이 Z-에대해 ~을 하다</frame>
+					<frame>X-와 Y-이 S것-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 Y-와 Z-에대해 ~을 가지다</frame>
+					<frame>X-이 Y-와 S것-에대해 ~을 가지다</frame>
+					<frame>X-와 Y-이 Z-에대해 ~을 가지다</frame>
+					<frame>X-와 Y-이 S것-에대해 ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 열다</form>
+					<frame>X-이 Y-와 Z-에대해 ~을 열다</frame>
+					<frame>X-이 Y-와 S것-에대해 ~을 열다</frame>
+					<frame>X-와 Y-이 Z-에대해 ~을 열다</frame>
+					<frame>X-와 Y-이 S것-에대해 ~을 열다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 개최하다</form>
+					<frame>X-이 Y-와 Z-에대해 ~을 개최하다</frame>
+					<frame>X-이 Y-와 S것-에대해 ~을 개최하다</frame>
+					<frame>X-와 Y-이 Z-에대해 ~을 개최하다</frame>
+					<frame>X-와 Y-이 S것-에대해 ~을 개최하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 연기하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 열리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 개최되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 무산되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 Z-에대한 ~</max_n_str>
+				<max_n_str>X-와 Y-의 S것-에대한 ~</max_n_str>
+				<sel_rst arg="X">국가|기관|위계인간</sel_rst>
+				<sel_rst arg="Y">국가|기관|위계인간</sel_rst>
+				<sel_rst arg="Z">방법|역할|제도|문서|행위|사건</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

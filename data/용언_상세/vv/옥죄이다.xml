@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옥죄이다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/07</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.이2</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get cramped</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">구체물(올가미|덫|족쇄|굴레)</sel_rst>
+					<eg>낙엽송 그득한 휴양림 산책 길은 구두에 옥죄여 있던 발에 자유를 줄 것이며, 등산길에서 만나는 원시림은 잃었던 마음의 여유를 되찾아 줄 것이다.</eg>
+					<eg>하지만 겨울밤이 깊어 갈수록 가위 눌린 가슴은 옥죄여 들기만 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get oppressed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">추상적대상</sel_rst>
+					<eg>연좌제에 옥죄여 반세기를 살아온 사람들의 고통과 회한 등이 처음으로 전파를 통해 생생히 밝혀졌다.</eg>
+					<eg>아저씨는 오랜 동안 가난에 옥죄여 살았던 인생이었지만 큰 굴곡 없이 지낼 수 있었던 것에 감사했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잘다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/03</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/03</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">자디잘다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be fine</trans>
+				<lr>
+					<syn type="perfect">자잘하다</syn>
+					<ant type="grad">큼직하다</ant>
+					<ant type="grad">굵다</ant>
+					<hyper>작다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계구체물|재료성분</sel_rst>
+					<eg>양념에 쓸 것이 아닌데, 썰어 놓은 양파와 당근이 너무 잘다.</eg>
+					<eg>이 나무는 버팀목으로 쓰기에는 잘다.</eg>
+					<eg>부채살에 쓸 대나무는 너무 굵지 않고 적당히 잘아야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be small-minded</trans>
+				<trans>be timid</trans>
+				<lr>
+					<syn type="sino">소심하다</syn>
+					<syn type="perfect">쩨쩨하다</syn>
+					<syn type="vulgar">쪼잔하다</syn>
+					<syn type="vulgar">쫀쫀하다</syn>
+					<ant type="grad">대범하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|품격속성</sel_rst>
+					<eg>그 아이 마음 씀씀이가 그렇게 잘아서, 커서 뭐가 되려고 그러나.</eg>
+					<eg>사람이 좀 대범해야지. 네 신랑감, 좀 쩨쩨하고 잘다고 생각지 않니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

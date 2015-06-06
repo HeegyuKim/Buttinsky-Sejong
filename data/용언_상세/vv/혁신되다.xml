@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혁신되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/21</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혁신이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">革新_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be reformed</trans>
+				<trans>be renovated</trans>
+				<trans>be innovated</trans>
+				<lr>
+					<syn type="perfect">쇄신되다</syn>
+					<syn type="perfect">유신되다</syn>
+					<syn type="perfect">정신되다</syn>
+					<hyper>바뀌다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|규범|관습|제도|종교|산업|분야|개념|상황</sel_rst>
+					<eg>제도가 혁신되기 전에는 이 난국을 해결할 방법이 없다.</eg>
+					<eg>제조 방법이 혁신되지 않는다면 가격 경쟁에서 우리가 불리할 수밖에 없습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

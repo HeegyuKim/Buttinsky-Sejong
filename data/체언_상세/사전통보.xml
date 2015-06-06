@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사전통보</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>동의어 추가</mod_note>
+				<mod_note>n_v 정보 중 조사 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>프레임 정보에 대상 논항 정보 추가;맥스엔 정보 수정;논항 의미부류 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사전 통보</var>
+			<str type="N_N">사전+통보</str>
+			<org lg="si">事前通報</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>지키기 어려운 상황이 발생했을 때는 꼭 ~를 해 약속을 변경하거나 이해를 구해야 한다.</eg>
+				<trans>advance notice</trans>
+				<domain></domain>
+				<sem_class>보고제안</sem_class>
+				<lr>
+					<syn type="etc">사전 고지</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Z-에게 Y-을 ~를 하다</frame>
+					<frame>X-이 Z-에 S것-을 ~를 하다</frame>
+					<frame>X-이 Z-에게 S다고 ~를 하다</frame>
+					<frame>X-이 Z-에 S다고 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 주다</form>
+					<frame>X-이 Z-에게 Y-을 ~를 주다</frame>
+					<frame>X-이 Z-에 S것-을 ~를 주다</frame>
+					<frame>X-이 Z-에게 S다고 ~를 주다</frame>
+					<frame>X-이 Z-에 S다고 ~를 주다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Z-이 X-에게 Y-을  ~를 받다</frame>
+					<frame>Z-이 X-에게서 S것-을 ~를 받다</frame>
+					<frame>Z-이 X-에게 S다고 ~를 받다</frame>
+					<frame>Z-이 X-에게서 S다고 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 S다는 ~</max_n_str><!--김성용(2004/07/04)Y를 설정한다면 어떻게 처리해야 하는지?-->
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>S다는 ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 S것-에대한 ~</max_n_str>
+				<max_n_str>Y-에대한 ~</max_n_str>
+				<max_n_str>S것-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">행위|계획사건</sel_rst>
+				<sel_rst arg="Z">인간|인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차</cl>
+				<cl type="uni">차례</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

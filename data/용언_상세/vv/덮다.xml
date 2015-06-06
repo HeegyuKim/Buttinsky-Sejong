@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>덮다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 부분 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>포장행위</sem_class>
+				<trans>cover</trans>
+				<lr>
+					<syn type="perfect">씌우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물</sel_rst>
+					<eg>그는 신문지로 밥상을 덮었다.</eg>
+					<eg>그는 먹던 술병을 보자기로 덮었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물</sel_rst>
+					<eg>그는 밥상에 신문지를 덮었다.</eg>
+					<eg>그는 먹던 술병에 보자기를 덮었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(이불|담요)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">신체부위</sel_rst>
+					<eg>아무리 더워도 이불을 덮고 자라.</eg>
+					<eg>이불을 배에만 덮어라.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물</sel_rst>
+					<eg>머리를 귀를 덮을 만큼 자랐다.</eg>
+					<eg>쌓인 눈이 걸을 때마다 신발을 덮을 만큼 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>포장행위</sem_class>
+				<trans>close</trans>
+				<lr>
+					<syn type="perfect">닫다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">부분</sel_rst>
+					<sel_rst arg="Z" tht="LOC">용기</sel_rst>
+					<eg>그는 장독에 뚜껑을 덮었다.</eg>
+					<eg>어머니는 가마솥에 뚜껑을 덮었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트담지물</sel_rst>
+					<eg>그는 보던 책을 조용히 덮었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>cover</trans>
+				<trans>block</trans>
+				<lr>
+					<syn type="perfect">가리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|장소</sel_rst>
+					<eg>담장이덩굴이 온 벽을 덮고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>fill</trans>
+				<lr>
+					<syn type="perfect">채우다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>이상한 열기가 온 방안을 덮고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기상관련물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>안개가 산 전체를 덮고 있다.</eg>
+					<eg>어둠이 계곡을 덮고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>파괴행위</sem_class>
+				<trans>hide</trans>
+				<lr>
+					<syn type="perfect">숨기다</syn>
+					<syn type="perfect">가리다</syn>
+					<syn type="perfect">감추다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>그는 지난 날의 자신의 과오를 덮으려고 그런 일을 벌였다.</eg>
+					<eg>학교 재단 측은 그 일을 덮고 얼렁뚱땅 넘어가려고 하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

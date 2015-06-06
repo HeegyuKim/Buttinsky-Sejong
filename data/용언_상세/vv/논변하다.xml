@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>논변하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">논변을 하다</var>
+			<str>N.하</str>
+			<org lg="si">論辯_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>debate</trans>
+				<lr>
+					<syn type="perfect">변론하다</syn>
+					<syn type="perfect">논고하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">이론|(주장|사상|생각)</sel_rst>
+					<eg>그는 정합론을 논변하기 위해 전지적 해석자 논변을 사용한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

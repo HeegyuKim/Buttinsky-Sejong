@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달성시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/14</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">달성을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">達成__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st achieved</trans>
+				<lr>
+					<syn type="perfect">성취시키다</syn>
+					<syn type="perfect">성공시키다</syn>
+					<syn type="kor">이루다</syn>
+					<ant type="compl">실패시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">계획|상황값|행위|계획사건|상태변화</sel_rst>
+					<eg>허 사장은 지난해 최고경영자로 취임하면서부터 고객만족경영, 환경안전경영 등을 통해 회사 설립 30년만에 최고 수익을 달성시켰다.</eg>
+					<eg>한국팀은 16강에 멈추지 않고 8강진출, 4강진출로 한꺼번에 꿈의 염원을 달성시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

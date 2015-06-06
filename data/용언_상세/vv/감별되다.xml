@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감별되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>내부구조, 영어대역어 수정, 빠진 선택제약 영역 추가 및 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">감별이 되다</var>
+			<str>N.되</str>
+			<org lg="si">鑑別_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be discriminated</trans>
+				<lr>
+					<syn type="perfect">식별되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|상태</sel_rst>
+					<sel_rst arg="Y" tht="COM">구체물|상태</sel_rst>
+					<eg>졸도는 초기에 빈혈증세처럼 어지러움을 느끼다가 쓰러지는데, 이것이 간질이나 심장질환에 의한 의식소실과 감별되는 중요한 특징이다.</eg>
+					<eg>시중에 돌아다니는 많은 가짜 골동품들은 진짜와 반드시 감별되어야 피해를 줄일 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|상태</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|상태</sel_rst>
+					<eg>정신질환과 인격장애는 감별되기 쉽지 않다.</eg>
+					<eg>그 두 사람의 체질은 잘 감별되지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">식별되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|상태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|상태</sel_rst>
+					<eg>그 고려청자는 가짜로 감별되어 가치가 거의 없음이 밝혀졌다.</eg>
+					<eg>그 병아리는 암컷으로 감별되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

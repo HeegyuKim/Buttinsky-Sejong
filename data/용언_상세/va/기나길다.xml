@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기나길다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"구체물의 길이"에 관한 것은 기술하지 않았음</cre_note>
+				<cre_note>"기나길다/기다랗다/기름하다" 간의 관계를 굳이 명시하지는 않음</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A-나.A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be very long</trans>
+				<lr>
+					<hyper>길다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>기나긴</infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="THM">시간|사건|상태|자연현상</sel_rst>
+			<defect_eg>기나긴 세월</defect_eg>
+			<defect_eg>기나긴 싸움</defect_eg>
+			<defect_eg>기나긴 행렬</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

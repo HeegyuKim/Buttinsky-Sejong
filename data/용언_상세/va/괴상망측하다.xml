@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>괴상망측하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/08</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">怪常罔測_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be strange and inordinate</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<n_appr arg="X">모습</n_appr>
+					<eg>언뜻보아 세계지도인 듯 한데 그 모양이 괴상망측했다.</eg>
+					<eg>더우기 공연이 시작되자 배우들의 분장한 모습을 보았는데, 한마디로 괴상망측하다.</eg>
+					<eg>그 외국인은 사자탈을 쓴 괴상망측한 인물들이 나오는 연극을 보았다고 말했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>남자 형제 넷을 키우는 그녀의 아들 사랑은 한마디로 괴상망측하다.</eg>
+					<eg>국적 불명의 괴상망측한 조형행위들이 '현대'라는 이름으로 이 땅에 창궐하는 현실에서 선생의 존재는 더욱 아쉽기만 하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(운|세계)</sel_rst>
+					<eg>이런 괴상망측한 팔자에 대한 나의 대처방법을 공개하는 것으로 이 글을 마치겠다.</eg>
+					<eg>아마 젊은 작가들의 괴상망측한 정신세계를 이해하지 못하는 세대 차이 때문일 수도 있을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

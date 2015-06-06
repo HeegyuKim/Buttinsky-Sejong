@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훼손당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>조현경</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/19</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">훼손을 당하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.당</str>
+			<org lg="si">毁損_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be defamed</trans>
+				<lr>
+					<syn type="perfect">손상당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(이름|명예|명성|위신)</sel_rst>
+					<sel_rst arg="Z" tht="EFF">추상적대상|사태</sel_rst>
+					<eg>뇌물수수 사건으로 그 정치가는 명예를 크게 훼손당했다.</eg>
+					<eg>이번이야 말로 지난 번 실수로 훼손당한 그의 위신을 되찾을 기회가 될 수 있을 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be damaged</trans>
+				<trans>be destroyed</trans>
+				<lr>
+					<syn type="perfect">손상당하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">사태</sel_rst>
+					<eg>이번 화재로 이 지역 문화 유산들이 많이 훼손당했다.</eg>
+					<eg>당신의 무분별한 행동에 자연이 훼손당하고 있다는 걸 명심하십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

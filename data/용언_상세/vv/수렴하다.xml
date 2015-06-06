@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>수렴하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/05/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>박철우 원고 음두은 원고 통합 수정(박진호)</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">수렴을 하다</var>
+			<str>N.하</str>
+			<org lg="si">收斂_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>collect</trans>
+				<lr>
+					<syn type="kor">모으다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태(의견|여론|생각)|보고제안|이야기</sel_rst>
+					<eg>정부는 한 달 동안 전문가들의 의견을 좀 더 수렴한 후에 새 입시제도를 결정하기로 했다.</eg>
+					<eg>시장은 시민 의견을 수렴해 지하철 운행 중단 여부를 결정하겠다고 밝혔다.</eg>
+					<eg>이 학교는 홈페이지 설문조사를 통해 학무모와 교사의 의견까지 수렴해 최종 개정안을 채택했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>converge</trans>
+				<lr>
+					<ant type="conv">발산하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수학적대상(수열|급수)</sel_rst>
+					<eg>위의 수열은 수렴한다.</eg>
+					<eg>위의 급수는 수렴한다</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>extort heavy taxes</trans>
+				<lr>
+					<syn type="perfect">가렴하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">세금</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단</sel_rst>
+					<eg>그 왕은 백성들에게서 가혹하게 세금을 수렴하므로써 백성들의 원성을 샀다.</eg>
+					<eg>그 왕은 백성들에게서 수렴한 세금을 자기의 사치스런 생활을 위해 썼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

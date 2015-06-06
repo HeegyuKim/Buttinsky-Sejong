@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/12/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>be earned</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<eg>너는 그 큰 돈이 도대체 어디에서 났니?</eg>
+					<eg>나한테 그런 돈이 날 곳이라고는 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>come out</trans>
+				<trans>grow</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(상처|자국)|(여드름|종기)|(털|이)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>손가락에 종기가 나서 아파 죽겠다.</eg>
+					<eg>내 조카는 요즘 얼굴에 여드름이 나서 고민이 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>flow out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|에서 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">분비물(땀|눈물|콧물|피|진물|고름)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">신체부위</sel_rst>
+					<eg>울지 않으려 했지만 자꾸만 눈물이 났다.</eg>
+					<eg>조금만 움직여도 겨드랑이에 땀이 나서 끈적거린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>sprout</trans>
+				<lr>
+					<syn type="perfect">돋다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|에서 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(싹|잎)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">식물|식물의부분(줄기|가지)</sel_rst>
+					<eg>뒷뜰 감나무 나뭇가지에 잎이 났다.</eg>
+					<eg>텃밭 채소에 싹이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>come out</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(곰팡이|녹)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물|구체물의부분</sel_rst>
+					<eg>어제 먹다 남은 빵이 가장자리에 곰팡이가 났다.</eg>
+					<eg>밥그릇 바닥에 녹이 나서 이젠 버려야겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>come into being</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(자국|구멍)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물</sel_rst>
+					<eg>사진에 손자국이 나지 않도록 조심해서 봐라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>be opened up</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(길|창|문)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>우리 동네에 새 길이 날 거라는 소문이 자자하다.</eg>
+					<eg>일조 여건을 고려할 때 여기에 창이 나면 좋겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(기사|광고|사진)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(신문|잡지)</sel_rst>
+					<eg>오늘 신문에 그 기사가 났더라.</eg>
+					<eg>잡지에 난 사진을 보고 옆집 아저씨가 유명인인 걸 알게 됐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>출생</sem_class>
+				<trans>be born</trans>
+				<lr>
+					<syn type="perfect">태어나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|에서 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(인간|호걸|영웅)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소|인간집단</sel_rst>
+					<eg>이 마을에서 나라를 구할 영웅이 날 거라는 예언이 있었어.</eg>
+					<eg>우리 집안에 천재가 났구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>get a proposal of marriage</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에게 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(일자리|혼처)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간</sel_rst>
+					<eg>좋은 혼처가 나도 다 마다 하더니 이젠 생각이 달라지나 보구나.</eg>
+					<eg>좋은 일자리가 나도 내가 감당할 능력이 없으면 소용이 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>become efficient</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(효과|이익|능률)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">행위</sel_rst>
+					<eg>그렇게 산만하게 일해서는 일이 노력에 비해 효과가 안 난다.</eg>
+					<eg>아무리 노력해도 이익이 안 나는 일을 억지로 계속할 수는 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>be openned up</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(길|창|문)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">방향</sel_rst>
+					<eg>일조 여건을 고려할 때 창이 남으로 나면 좋겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>feel like</trans>
+				<lr>
+					<syn type="perfect">나오다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에게|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(한숨|웃음|울음)</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간</sel_rst>
+					<eg>난 널 보면 한숨만 난다.</eg>
+					<eg>그녀를 생각하면 나는 웃음이 나서 참기 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>미각적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(맛|맛깔)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">음식</sel_rst>
+					<eg>조미료를 안 쓰면 이 고기는 맛이 안 난다.</eg>
+					<eg>밥은 같이 먹어야 맛이 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>시각적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(빛|빛깔)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">구체물</sel_rst>
+					<eg>이 도자기는 투명한 빛이 난다.</eg>
+					<eg>나는 금색 빛이 나는 자동차를 원한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>be stirred up</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+					<syn type="sino">발생하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(먼지)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">구체물|장소</sel_rst>
+					<eg>비포장 도로에는 먼지가 너무 많이 난다.</eg>
+					<eg>먼지가 나는 원인은 바로 이불입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>existe</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시간|짬|틈)</sel_rst>
+					<eg>요즘 회사 일이 바빠 전혀 여행 갈 시간이 안 나고 있다.</eg>
+					<eg>짬이 나면 한번 저한테 들러 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>말이 난 김에</idm>
+			<idm>정신이 나다</idm>
+			<idm>엄두가 나다</idm>
+			<idm>탐이 나다</idm>
+			<idm>샘이 나다</idm>
+			<idm>들통이 나다</idm>
+			<idm>가락이 나다</idm>
+			<idm>길이 나다</idm>
+			<idm>동이 나다</idm>
+			<idm>바닥이 나다</idm>
+			<idm>거덜이 나다</idm>
+			<idm>몸이 나다</idm>
+			<idm>골이 나다</idm>
+			<idm>뿔이 나다</idm>
+			<idm>성이 나다</idm>
+			<idm>열이 나다</idm>
+			<idm>N 짝이 나다</idm>
+			<idm>눈(밖)에 나다</idm>
+			<idm>가물|가뭄에 콩 나다</idm>
+			<idm>엉덩이에 뿔이 나다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/12/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>spend</trans>
+				<trans>hibernate</trans>
+				<lr>
+					<syn type="perfect">보내다</syn>
+					<syn type="perfect">지내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">시간단위(계절|주|개월|년)</sel_rst>
+					<eg>곰은 동굴에서 겨울을 난다.</eg>
+					<eg>절간에서 겨울을 두 번 나고서야 시험에 합격할 수 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/12/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이|에게는 Y=N2-이|에대해 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(기억|생각)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>나는 내 친부모가 전혀 기억이 나지 않아요.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">(기억|생각)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>나는 그 곳에서 경험한 것들이 하나도 기억이 나지 않아요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>명령</sem_class>
+				<trans>get</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=N2-에|로 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(발령)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>김 선생님은 의정부로 발령이 났다.</eg>
+					<eg>나는 이번에 서울에 발령이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>occur</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+					<syn type="perfect">들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이|에게는 Y=N2-에 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(의심)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">소통행위(말|이야기)</sel_rst>
+					<eg>너는 그 건달이 합격했다는 말에 의심이 안 나니?</eg>
+					<eg>나는 정부 발표에 의심이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이|에게는 Y=N2-이|에 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(겁)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>나는 이제 물이 겁이 난다.</eg>
+					<eg>이 나이에 내가 무엇이 겁이 나겠니?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">(겁)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>나는 발이 닿지 않는 수영장에 들어가는 것이 겁이 난다.</eg>
+					<eg>이 나이에 무엇을 하는 것이 겁이 나겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>get</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=N2-에|에게 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(탄로|들통)</sel_rst>
+					<sel_rst arg="X" tht="THM">인지상태</sel_rst>
+					<sel_rst arg="Y" tht="MAG">인간|인간집단</sel_rst>
+					<eg>미국으로 도망가려던 그의 의도가 친구들에게 탄로가 났다.</eg>
+					<eg>혼자 가려고 한 나의 계획이 만인에게 들통이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>get</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N0-이 Y=N2-에|에게 Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(혼|혼쭐)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|동물</sel_rst>
+					<eg>나는 어머니에게 공부 안 한다고 혼쭐이 났다.</eg>
+					<eg>너 나한테 한번 혼 좀 나 볼 테야?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>have</trans>
+				<lr>
+					<syn type="perfect">있다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N2-와 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(차이)</sel_rst>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="COM">온</sel_rst>
+					<eg>이 집은 저 집과 구조가 차이가 난다.</eg>
+					<eg>나는 우리 반 1등과 이번 시험에서 차이가 많이 났다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(차이)</sel_rst>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>나와 친구는 성적이 비슷하지만 수학에서 차이가 많이 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>우발사건</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN" cor="sym" n="02">
+				<frame>X=N0-이 Y=N2-와 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(바람|정분)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>이웃집 아줌마는 수영 강사와 바람이 났다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN" cor="sym" n="02">
+				<frame>X+Y=N0-이 (서로) Npr1-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(바람|정분)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>두 사람은 같은 직장에 다니다가 눈이 맞아 정분이 났다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>허락</sem_class>
+				<trans>happen</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=S1-고 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(결정|결론|결말|인가|허락)</sel_rst>
+					<sel_rst arg="X" tht="CNT"></sel_rst>
+					<eg>구청에서 재건축을 해도 좋다고 인가가 났다.</eg>
+					<eg>정부에서 대통령 아들을 구속한다고 결정이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소문</sem_class>
+				<trans>happen</trans>
+				<lr>
+					<syn type="perfect">떠돌다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=S1-고 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(소문)</sel_rst>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>전교에 노처녀 선생님이 결혼한다고 소문이 났다.</eg>
+					<eg>그 여자 영화배우가 이혼한다고 소문이 난 것을 들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>연기</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|에서 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(김|연기)</sel_rst>
+					<sel_rst arg="X" tht="SRC">구체물|장소</sel_rst>
+					<eg>김이 모락모락 나는 막 쪄 낸 만두가 먹고 싶다.</eg>
+					<eg>저녁 무렵 고향 집 굴뚝에는 밥 짓는 연기가 나겠지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사건</sem_class>
+				<trans>happen</trans>
+				<lr>
+					<syn type="perfect">일어나다</syn>
+					<syn type="perfect">터지다</syn>
+					<syn type="sino">발생하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">우발사건(사고|전쟁|장마|홍수|일|난리|화재|불)</sel_rst>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>한반도에 전쟁이 날 가능성은 별로 없다.</eg>
+					<eg>한강 하류 지역에 홍수가 나서 피해가 컸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피해</sem_class>
+				<trans>happen</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(부도)</sel_rst>
+					<sel_rst arg="X" tht="LOC">인간집단(회사|기업)</sel_rst>
+					<eg>아버지 회사는 돌아온 수표를 막지 못해 부도가 나고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">질병및증세(배탈|설사|열|쥐)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>넌 점심에 뭘 먹었기에 설사가 나니?</eg>
+					<eg>철수는 열이 심하게 나도 병원에 안 간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>미각적행위</sem_class>
+				<trans>have</trans>
+				<lr>
+					<syn type="perfect">돌다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(입맛)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>더워서 그런지 할아버지는 입맛이 안 나시나 보다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피의도적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">속성값(폼|테|모양)</sel_rst>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>내 동생은 아무리 좋은 옷을 입어도 테가 안 난다.</eg>
+					<eg>이 안경을 써야 폼이 나지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>have</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">속성값(힘|기운)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>그 사람은 깡말랐는데 어디서 그런 힘이 나는지 모르겠다.</eg>
+					<eg>밥을 든든히 먹고 나니까 좀 기운이 나는구나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Y=N2-에 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(표|표시|티)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(얼굴)</sel_rst>
+					<eg>누나는 마음을 숨기지 못해서 얼굴에 다 표가 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>have</trans>
+				<lr>
+					<syn type="perfect">생기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">심리상태(기분|조바심|짜증|꾀)</sel_rst>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>나는 아들 녀석만 생각하면 조바심이 난다.</eg>
+					<eg>짜증이 날 때면 나는 뒷산으로 산책을 가곤 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>happen</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(박살|산산조각|동강|끝)</sel_rst>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>아버지가 아끼시던 자기가 장롱에서 떨어져 박살이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>기상현상</sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">빛(해|햇빛|햇볕)</sel_rst>
+					<eg>볕이 나면 이불이랑 요를 내다 말려야 한다.</eg>
+					<eg>해가 나면 일광욕을 좀 해야겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>have</trans>
+				<lr>
+					<syn type="perfect">붙다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=N1-에|이 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0">(속력|스피드|속도)</sel_rst>
+					<sel_rst arg="X" tht="LOC">교통기관</sel_rst>
+					<eg>이 차는 속력이 잘 안 난다.</eg>
+					<eg>차에 스피드가 난다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr0">(속력|스피드)</sel_rst>
+					<sel_rst arg="X" tht="LOC">행위</sel_rst>
+					<eg>이 일이 이제야 속도가 난다.</eg>
+					<eg>일의 진행에 이제 좀 스피드가 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="4" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/12/28</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-고 Vaux</frame>
+				<subsense>
+					<eg>푹 자고 나니 좀 피로가 풀리는구나.</eg>
+					<eg>그런 일을 겪고 나서 어떻게 바로 정상적인 생활을 할 수 있겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

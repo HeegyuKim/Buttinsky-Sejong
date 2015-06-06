@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>폐쇄시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">폐쇄를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">閉鎖_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>shut</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(문)</sel_rst>
+					<eg>방문객이 많아서 집주인이 정문을 폐쇄시켰다.</eg>
+					<eg>정상에서 백두대간 길은 북쪽 희운각 대피소로 이어지는 산줄기가 대간 마루금인데 등산로를 폐쇄시켜 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>중단행위</sem_class>
+				<trans>lock out|wind up</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간집단(기관|단체)|장소(사무실)</sel_rst>
+					<eg>정부는 당분간 기념관을 폐쇄시키기로 하였다.</eg>
+					<eg>동아리연합회에서는 종교 관련 동아리 전체를 폐쇄시켜 주시기 바랍니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>close (the door)</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<eg>상대국은 문호를 개방하기보다는 폐쇄시키려는 의도를 지니고 있는 듯하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

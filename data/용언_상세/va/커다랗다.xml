@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>커다랗다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be very big</trans>
+				<trans>be huge</trans>
+				<trans>be gigantic</trans>
+				<lr>
+					<syn type="perfect">크다</syn>
+					<ant type="compl">조그맣다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|크기(크기|키)|단위|소리속성|현상</sel_rst>
+					<eg>배를 몰고 가는데 눈 앞에 커다란 아이스버그가 나타났다.</eg>
+					<eg>그 모델들은 커다란 키를 자랑하며 무대 위를 행진하고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건|추상적대상</sel_rst>
+					<eg>기영이가 그 사업에서 그렇게 커다란 성과를 올릴지 몰랐다.</eg>
+					<eg>그 당시 그것은 온 나라를 뒤흔들 만큼 커다란 사건이었다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

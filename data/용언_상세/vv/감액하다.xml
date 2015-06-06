@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감액하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/30</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>'부담(금액?, 심리상태?)을 감액하였다'와 같은 경우, 다의어처리할지</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">減額_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>감소행위</sem_class>
+				<trans>curtail</trans>
+				<lr>
+					<ant type="grad">증액하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">관계인간(정부)|국가기관(의회)</sel_rst>
+					<sel_rst arg="Y" tht="THM">금전(세금|비용|소득)|수량</sel_rst>
+					<eg>정부는 부가가치세 공급가액을 재계산하여 부가가치세를 감액하였다.</eg>
+					<eg>광역시의회는 하천정비 유지비 예산을 조정하여 감액하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

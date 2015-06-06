@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이루어지다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/07/31</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+				<mod_note>형태정보, 표기정보 수정, 형식 통일</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/10</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V-어.지</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be made up of</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>그녀가 앞장섰고 그 뒤로 긴 행렬이 이루어졌다.</eg>
+					<eg>공기 중의 작은 물방울이 모여 구름이 이루어지는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<neg_rst>posan</neg_rst>
+					<neg_rst>posmo</neg_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>get settled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태|추상적대상</sel_rst>
+					<eg>환경 오염이 계속되는 것은 사회 구성원의 적극적 참여가 이루어지지 않고 있기 때문이다.</eg>
+					<eg>근소한 의견 차이도 있어서는 안 되고 사전에 충분한 논의가 이루어지기를 바라는 것입니다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+					<neg_rst>posan</neg_rst>
+					<neg_rst>posmo</neg_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>get realized</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(꿈|희망|소원)</sel_rst>
+					<eg>꿈이나 목표가 이루어지고 안 이루어지는 것이 중요한 것이 아니다.</eg>
+					<eg>오랫동안 꿈꾸던 소원이 이루어졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>get settled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물|추상적대상</sel_rst>
+					<eg>넓은 운동장에 카드섹션으로 금새 다양한 문자와 도형이 이루어졌다.</eg>
+					<eg>그 산은 처음에는 작은 화산재들로 이루어졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

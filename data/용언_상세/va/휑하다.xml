@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휑하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/12</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">횅하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be familiar with</trans>
+				<lr>
+					<syn type="perfect">횅하다</syn>
+					<syn type="perfect">훤하다</syn>
+					<ant type="grad">어둡다</ant>
+					<ant type="grad">무지하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에대해 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>김 대리는 법대를 나와 법률 상식에 휑하다. </eg>
+					<eg>어릴 적부터 아버지가 하는 일을 보고 자라 그는 기계 구조에 대해서는 휑하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hollow</trans>
+				<lr>
+					<syn type="perfect">휑뎅그렁하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>휴가철이면 이 도시는 마치 버려진 듯 휑하다.</eg>
+					<eg>그녀는 아이들이 모두 떠난 휑한 교실을 둘러보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be open</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">길|관계장소(밖|앞)</sel_rst>
+					<eg>시야를 가로막고 있던 나무를 베어 버리고 나니 창밖이 휑하다.</eg>
+					<eg>정체 구간을 지나고 나자 길이 휑하게 뚫려 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>have big and lackluster eyes</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(눈|눈가)</sel_rst>
+					<eg>그녀는 또 뜬눈으로 밤을 지샜는지 눈이 휑하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>휑하니</infl_rst>
+				<trans>suddenly</trans>
+				<defect_eg>몇 마디 잔소리에 그녀는 화를 내고 휑하니 나가 버렸다.</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>휑하니</infl_rst>
+				<trans>widely</trans>
+				<defect_eg>무슨 일이라도 있었는지 대문을 휑하니 열어 둔 채 모두들 어디론가 사라지고 없었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

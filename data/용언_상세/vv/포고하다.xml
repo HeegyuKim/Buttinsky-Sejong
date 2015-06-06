@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>포고하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">포고를 하다</var>
+			<str>N.하</str>
+			<org lg="si">布告_</org>
+			<org lg="si">佈告_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>announce</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사실명제</sel_rst>
+					<eg>우리는 이 사실을 널리 포고할 필요가 있다.</eg>
+					<eg>이제는 이미 요망한 무리를 말끔히 쓸어 없애 멀고 가까운 데 걱정이 없게 되었으니, 소집한 병력을 신속하게 되돌려보내고 사방에 포고해 이 뜻을 알게 할 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>proclaim</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">제도|규범|명령(대통령령|계엄령)</sel_rst>
+					<eg>국가의 중대사는 당연히 널리 포고해야 한다.</eg>
+					<eg>마침내 옐친은 대통령령을 포고해 의회 양원의 해산을 명령하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>declare war against</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">물리적충돌(선전|개전)</sel_rst>
+					<eg>드디어 미국이 이라크에 선전을 포고했다.</eg>
+					<eg>박 참령의 총소리는 서울에 있던 국방군 전체로 하여금 선전을 포고하는 나팔이 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

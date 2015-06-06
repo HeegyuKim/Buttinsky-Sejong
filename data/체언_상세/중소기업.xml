@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>중소기업</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/20</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">중소 기업</var>
+			<str type="N_N">중소+기업</str>
+			<org lg="si">中小企業</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>종업원이 백 명 이하이면 ~으로 분류된다.</eg>
+				<eg>헌법에 의하면 국가는 ~을 보호하고 육성해야 한다.</eg>
+				<eg>대기업에서 나온 제품 중 상당수는 ~의 하청 작업으로 만들어진 것이다.</eg>
+				<eg>각종 지원책에도 불구하고 자금이나 인력 때문에 어려움을 겪는 ~은 계속 늘고 있다.</eg>
+				<trans>small and medium enterprises</trans>
+				<domain></domain>
+				<sem_class>기업</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">대기업</ant>
+					<ant type="grad">영세기업</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 경영</comb_n>
+				<comb_n type="compound">~ 관계자</comb_n>
+				<comb_n type="compound">~ 대표</comb_n>
+				<comb_n type="compound">~ 문제</comb_n>
+				<comb_n type="compound">~ 분야</comb_n>
+				<comb_n type="compound">~ 사장</comb_n>
+				<comb_n type="compound">~ 설립</comb_n>
+				<comb_n type="compound">~ 임원</comb_n>
+				<comb_n type="compound">~ 입사</comb_n>
+				<comb_n type="compound">~ 종업원</comb_n>
+				<comb_n type="compound">~ 제품</comb_n>
+				<comb_n type="compound">~ 지원</comb_n>
+				<comb_n type="compound">~ 직원</comb_n>
+				<comb_n type="compound">국내 ~</comb_n>
+				<comb_n type="compound">국외 ~</comb_n>
+				<comb_n type="compound">해외 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 차리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 경영하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입사하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 근무하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 다니다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

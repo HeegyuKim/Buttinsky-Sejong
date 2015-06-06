@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>일방주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note>trans 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/04</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>영어대역어 수정;명사결합 정보 일부 추가;동사결합 정보 추가;논항 명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">일방+주의</str>
+			<org lg="si">一方主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>강대국들의 ~에 기초한 정책들로 인해 약소국들이 많은 피해를 보고 있다.</eg>
+				<trans>unilateralism</trans> <!-- 'one-way policy'를 수정함 -->
+				<domain></domain>
+				<sem_class>사조</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 정책</comb_n>
+				<comb_n type="compound">~ 외교</comb_n> <!-- 추가함 -->
+				<comb_n type="compound">~ 노선</comb_n> <!-- 추가함 -->
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 끝내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 버리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 맞서다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str> <!-- 추가함 -->
+				<sel_rst arg="temp"></sel_rst> <!-- 추가함 -->
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

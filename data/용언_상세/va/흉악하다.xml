@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉악하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">凶惡_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be atrocious</trans>
+				<trans>be heinous</trans>
+				<trans>be wicked</trans>
+				<trans>be cruel</trans>
+				<lr>
+					<syn type="perfect">흉괴하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<eg>저 집 남자는 성격이 흉악해서 가족들을 늘 긴장시킨다.</eg>
+					<eg>저 사람들은 행동이 흉악하니 가까이 하지 않는 것이 좋을 것이다.</eg>
+					<eg>그가 처음부터 그렇게 흉악했던 건 아닌 듯하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">범죄및비행(범죄|범행|살인|테러)</sel_rst>
+					<eg>이번 테러는 흉악하기 이를 데 없다.</eg>
+					<eg>청소년들의 범행이 갈수록 더 흉악해져 사회를 놀라게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적인성속성값</sem_class>
+				<trans>be rugged</trans>
+				<trans>be rough</trans>
+				<trans>be sinister</trans>
+				<trans>be savage-looking</trans>
+				<lr>
+					<syn type="perfect">험상궂다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(모습|얼굴|몰골)</sel_rst>
+					<eg>그 사람은 모습은 흉악하지만 마음은 비단결 같다.</eg>
+					<eg>화상으로 망가진 그의 얼굴은 말로 차마 표현할 수 없이 흉악했다.</eg>
+					<eg>집을 떠난 지 삼년이 지나 아들은 아주 흉악한 몰골이 되어 돌아왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

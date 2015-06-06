@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>관심대상</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/24</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>frame 수정</mod_note>
+				<mod_note>sel_res의 S것,S지 삭제</mod_note>
+				<mod_note>cl추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>max_n기술</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/04</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">관심 대상</var>
+			<str type="N_N">관심+대상</str>
+			<org lg="si">關心對象</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이제 한국도 ~에 포함됐다.</eg>
+				<eg>대만 최고의 농산품들이 전 세계 무역업자들의 ~이 되고 있다.</eg>
+				<eg>회원국들이 원유 생산량을 얼마나 더 확대하느냐가 ~이다.</eg>
+				<trans>object of concern</trans>
+				<domain></domain>
+				<sem_class>속성값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn" pred="no">큰 ~</comb_aj>
+				<comb_n type="lexfunc">최대 ~</comb_n>
+				<comb_n type="lexfunc">최고 ~</comb_n>
+				<comb_n type="lexfunc">주요 ~</comb_n>
+				<comb_n type="lexfunc">최대의 ~</comb_n>
+				<comb_n type="lexfunc">최고의 ~</comb_n>
+				<comb_n type="compound">특별 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이다</form>
+					<frame>X-이 Y-에게 ~이다</frame>
+					<frame>S것-이 Y-에게 ~이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form>
+					<frame>X-이 Y-에게 ~이 되다</frame>
+					<frame>S것-이 Y-에게 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~으로 떠오르다</form>
+					<frame>X-이 Y-에게 ~으로 떠오르다</frame>
+					<frame>S것-이 Y-에게 ~으로 떠오르다</frame>
+				</comb_v>
+				<max_n_str>Y-의 ~</max_n_str>
+				<max_n_str>Y-의 X-라는~</max_n_str>
+				<sel_rst arg="X">온</sel_rst>
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

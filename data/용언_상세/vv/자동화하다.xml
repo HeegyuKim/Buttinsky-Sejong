@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자동화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">자동화를 하다</var>
+			<str>N.하</str>
+			<org lg="etc">自動化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>automate</trans>
+				<trans>automatize</trans>
+				<lr>
+					<syn type="perfect">자동화시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|기관|기업</sel_rst>
+					<sel_rst arg="Y" tht="THM">물리적행위|경로(공정|과정)|상업건물</sel_rst>
+					<eg>우리 은행에서는 올해부터 공과금 수납을 자동화하기로 했습니다.</eg>
+					<eg>이 회사는 모든 공정을 자동화하여 인건비를 최소화시키는 데 성공했다.</eg>
+					<eg>사장은 공장을 최대한 자동화할 수 있는 방안을 모색 중이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>automate</trans>
+				<trans>be automatized</trans>
+				<lr>
+					<syn type="perfect">자동화되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물리적행위|경로(공정|과정)|상업건물</sel_rst>
+					<eg>대부분의 은행에서 공과금 수납이 자동화했다.</eg>
+					<eg>업무가 많은 부분 자동화함에 따라 인원의 감축이 불가피해졌다.</eg>
+					<eg>이제는 공장이나가게 뿐만 아니라 가정도 자동화하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼼짝하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">꼼짝을 하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>꼼짝하지 말고</infl_rst>
+			<infl_rst>꼼짝하지 않고</infl_rst>
+			<infl_rst>꼼짝 못하다</infl_rst>
+			<infl_rst>꼼짝 안하다</infl_rst>
+			<trans>do not move</trans>
+			<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+			<defect_eg>영희는 꼼짝하지 말고 여기 있어라.</defect_eg>
+			<defect_eg>누렁이는 밤새 꼼짝 안하고 같은 장소에서 구환이를 기다리고 있었다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

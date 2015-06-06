@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>뇌사판정</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note>센스2의 의미를 '판정 내용'과 '뇌사상태라는 판정 행위' 가운데 어떤 것으로 봐야할지 검토 요망;센스2의 의미부류에 따라 동사결합 정보를 수정할 필요 있음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">뇌사 판정</var>
+			<str type="N_N">뇌사+판정</str>
+			<org lg="si">腦死判定</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>의사는 환자에게 ~을 내렸다.</eg> <!-- 결정 이전의 판단 행위 -->
+				<trans>judgment on brain death</trans>
+				<domain></domain>
+				<sem_class>추상적행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 기준</comb_n>
+				<comb_n type="compound">~ 절차</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 내리다</form>
+					<frame>X-이 Y-에대해 ~을 내리다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)</sel_rst>
+				<sel_rst arg="Y">인간(환자)</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>~을 받은 사람 중에도 다시 살아난 사람이 있다고 한다.</eg> <!-- 뇌사상태라는 결과와 관련 -->
+				<trans>pronouncement of brain death</trans>
+				<domain></domain>
+				<sem_class>사실명제</sem_class> <!-- 단순한 판정 결과인지 아니면 결과의 선언인지 검토 필요한 듯, 특히 동사결합과 관련하여 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 내리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)</sel_rst>
+				<sel_rst arg="Y">인간(환자)</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

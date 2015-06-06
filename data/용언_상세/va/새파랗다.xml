@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>새파랗다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/10</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">시퍼렇다</var>
+			<str>PA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be deep blue</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색|색깔</n_appr>
+					<eg>5월의 하늘은 너무 새파래 눈이 부시다.</eg>
+					<eg>산에 활엽수가 급격히 증가하면서 5월 신록이 갈수록 새파래 지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be deadly pale</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|낯|입술|몸뚱이)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<eg>숨이 갑자기 멈추면 안색이 새파래 지는데 이때는 빨리 맥박을 확인한 다음 인공호흡을 하여야 한다.</eg>
+					<eg>이모도 얼굴이 새파래 진 채, 의사선생님의 입만 쳐다보고 있었다.</eg>
+					<eg>나는 겁이 나서 새파랗게 질렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be young</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>회사의 사장을 만나자고 했더니 새파란 젊은이가 들어왔다.</eg>
+					<eg>그 검사는 아직 새파랗다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

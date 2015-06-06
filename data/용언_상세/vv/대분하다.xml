@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대분하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대분을 하다</var>
+			<str>N.하</str>
+			<org lg="si">大分_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>divide roughly</trans>
+				<lr>
+					<syn type="perfect">대별하다</syn>
+					<ant type="grad">소분하다</ant>
+					<hyper>구분하다</hyper>
+					<hyper>분류하다</hyper>
+					<hyper>나누다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>그는 냉전기간 중 미국의 통상정책을 전기와 후기로 대분하고 있다.</eg>
+					<eg>흔히 학자들은 언어를 직서적인 것과 정서적인 것으로 대분하는데 문학 작품은 후자에 의해 형상화되어야 그 진가를 견고히 할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">텍스트|(연구)</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="FNS">온</sel_rst>
+					<eg>이 기획안은 설립업무를 20개 부문으로 대분하고 다시 60개 분야로 구분하여 각 분야업무를 36단계로 계획하였다.</eg>
+					<eg>이 논문은 충청지역을 차령산맥을 분계선으로 서북부와 동남부로 대분한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>진학상담</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/28</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 기술;기능동사 프레임 수정;선택제약 추가 기술;단위표현 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">진학 상담</var>
+			<!--띄어쓰기 변이형 기술(미현)-->
+			<str type="N_N">진학+상담</str>
+			<org lg="si">進學相談</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>고3학생들을 위해 담임선생님이 한달에 한번 ~을 하고있다.</eg>
+				<trans>consultation of the entrance into a school of higher grade</trans>
+				<domain></domain>
+				<sem_class>상호적언술행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame><!--'Y-을' 대신 'Y-와'로 수정(미현)-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame><!--'Y-을' 대신 'Y-와'로 수정(미현)-->
+				</comb_v>
+
+				<max_n_str>X-의 Y-와의 ~</max_n_str>
+				<max_n_str>Y-의 X-로부터의 ~</max_n_str>
+				<sel_rst arg="X">능력속성인간(전문가)|직업인간(선생님)</sel_rst><!--진학상담의 주체를 선생님이 아닌 전문가로 봄(지혜)-->
+				<!--선생님도 될 수 있으므로 추가(미현)-->
+				<sel_rst arg="Y">비대칭적친족(부모)|직업인간(학생)</sel_rst>
+				<!--단위표현 '번, 차례, 회' 기술(미현)-->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

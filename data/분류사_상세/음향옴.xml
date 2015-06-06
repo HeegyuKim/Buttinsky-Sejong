@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>음향옴</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/19</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>음향+옴</str>
+			<org lg="si">音響_</org>
+			<org lg="en">__ohm</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 MKSA 단위계에서 1N/m2 음압이 1m3/s의 체적 속도를 일으킬 때의 음향 저항이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="rst"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

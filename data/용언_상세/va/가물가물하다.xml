@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가물가물하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/15</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>Q 격틀의 예문에서 사실 '기억이'는 너무 당연해서 생략된 채 쓸 수 있음-숙어 혹은 연어로?</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be flickering</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(등불)</sel_rst>
+					<eg>자세히 보니, 멀리서 등불이 가물가물하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>조그만 집들이 가물가물하였지만 우리는 정확한 방향을 알 수는 없었다.</eg>
+					<eg>저쪽에 방화선이 처음 시작되었던 능선봉이 가물가물하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>have a faint memory</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태(기억)</sel_rst>
+					<eg>나는 이제 오히려 목 안 아플때의 기억이 가물가물하다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Z=Q2 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태(기억)</sel_rst>
+					<sel_rst arg="Z" tht="THM"></sel_rst>
+					<eg>가는 길이 있는 걸로 기억하는데도 산성이 이 방향이었는지 그는 기억이 가물가물했다.</eg>
+					<eg>그 문서를 어떤 폴더에다 넣어 두었는지 나는 기억이 가물가물했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인지상태(추억)</sel_rst>
+					<eg>다시 한번 나는 어릴때의 먼 추억이 가물가물했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>나는 갑자기 10년전 그가 선물을 갖고 온 것이 가물가물했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">Q</sel_rst>
+					<eg>가는 길이 있는 걸로 기억하는데도 산성이 이 방향이었는지 그는 가물가물했다.</eg>
+					<eg>그 문서를 어떤 폴더에다 넣어 두었는지 나는 가물가물했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼬느다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/26</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>lift up</trans>
+				<lr>
+					<syn type="de_vulgar">치켜들다</syn>
+					<hyper>들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(칼|창|펜)</sel_rst>
+					<eg>강희가 던지기라도 할 듯이 칼을 꼬느며 창기를 쏘아보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>grasp tightly</trans>
+				<lr>
+					<hyper>쥐다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(칼|창|펜)</sel_rst>
+					<eg>그렇게 볼펜만 꼬느고 앉아 있으면 취직이 된다니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>꼬나</infl_rst>
+			<trans>upwardly</trans>
+			<sel_rst arg="X" tht="AGT">인간</sel_rst>
+			<defect_eg>그렇게 꼬나 보면 어쩔 건데?</defect_eg>
+			<defect_eg>볼펜을 꼬나 들고 있는 폼이라니.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

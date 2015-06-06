@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시발하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/31</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">시발을 하다</var>
+			<str>N.하</str>
+			<org lg="si">始發_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>depart</trans>
+				<lr>
+					<syn type="perfect">출발시키다</syn>
+					<ant type="compl">도착시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">교통기관</sel_rst>
+					<eg>차장은 열차를 10분 늦게 시발했다.</eg>
+					<eg>그가 탑승하자마자 기장은 비행기를 시발했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개시행위</sem_class>
+				<trans>begin</trans>
+				<lr>
+					<syn type="perfect">시작하다</syn>
+					<ant type="compl">중단하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위|사건</sel_rst>
+					<eg>시민들은 결국 폭동을 시발했고, 상황은 걷잡을 수 없이 커져갔다.</eg>
+					<eg>주최측은 간신히 전시회를 시발했지만 진행은 여전히 엉망이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

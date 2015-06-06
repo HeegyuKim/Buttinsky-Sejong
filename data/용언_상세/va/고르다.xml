@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>고르다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/06</cre_date>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>허용</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택제약 수정 및 추가</mod_note>
+				<mod_note>대역어 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<infl type="leu"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be seasonable</trans>
+				<trans>be appropriate</trans>
+				<lr>
+					<syn type="perfect">한결같다</syn>
+					<ant type="grad">변화무쌍하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">날씨|소리|(숨결)</sel_rst>
+					<n_appr>상태</n_appr>
+					<eg>며칠 째 고르지 못한 날씨가 계속되고 있다.</eg>
+					<eg>이제 열도 없고 숨소리도 고른 것을 보니 아이가 곧 회복될 듯하다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+					<ad_rel>고르게 분배하다</ad_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be even</trans>
+				<trans>equal</trans>
+				<trans>regular</trans>
+				<lr>
+					<syn type="perfect">가지런하다</syn>
+					<syn type="sino">일정하다</syn>
+					<syn type="sino">균일하다</syn>
+					<ant type="grad">울퉁불퉁하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(키|능력)|(이)</sel_rst>
+					<eg>앞에 선 아이들의 키가 고르지 못하니, 키가 큰 아이들은 뒷줄로 올라가 주시기 바랍니다.</eg>
+					<eg>동생은 엄마를 닮아 이가 고르다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

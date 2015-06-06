@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼬부라지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">꾸부러지다</var>
+			<var type="etc">까부라지다</var>
+			<var type="etc">고부라지다</var>
+			<var type="etc">구부러지다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>bend</trans>
+				<lr>
+					<hyper>굽다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|지상장소</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<eg>할머니의 허리는 엄청나게 꼬부라졌다.</eg>
+					<eg>이 길은 꼬부라져 있지만, 막상 걸을 때는 그 사실이 느껴지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>범죄및비행</sem_class>
+				<trans>go astray</trans>
+				<lr>
+					<syn type="perfect">비뚤어지다</syn>
+					<syn type="perfect">엇나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">행동</n_appr>
+					<eg>최 사장 아들은 요즘 들어 부쩍 꼬부라져서 툭하면 대들기 일쑤다.</eg>
+					<eg>부족한 게 없는데도 꼬부라진 사람들을 보면 화가 나.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

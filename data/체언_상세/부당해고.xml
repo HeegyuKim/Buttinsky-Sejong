@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부당해고</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/07</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>예문 추가, n_aj 기술, n_n와 n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>합성동사형 수정</mod_note>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부당 해고</var>
+			<str type="N_N">부당+해고</str>
+			<org lg="si">不當解雇</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>법원은 이 사건에서 원고에 대한 면직 처분이 ~가 아니라고 판단하였다.</eg>
+				<eg>~를 당한 근로자는 사용자를 근로기준법 위반으로 관할 검찰청에 고발할 수 있다.</eg>
+				<eg>그 회사는 결혼 및 임신, 출산 등의 이유로 여직원들을 ~를 했다.</eg>
+				<eg>언론인들이 국가공권력에 의해 ~가 됐다면 보상이 아닌 배상이 이루어져야 한다.</eg>
+				<trans>unfair dismissal</trans>
+				<trans>wrongful dismissal</trans>
+				<domain>법률</domain>
+				<sem_class>방향성행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">갑작스런 ~</comb_aj>
+				<comb_n type="compound">~ 판정</comb_n>
+				<comb_n type="compound">~ 혐의</comb_n>
+				<comb_n type="compound">~ 방지</comb_n>
+				<comb_n type="compound">~ 철회</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form> <!--합성동사형 no로 수정(미현)-->
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 시키다</form> <!--합성동사형 no로 수정(미현)--> 
+					<frame>X-이 Y-을 ~를 시키다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 당하다</form><!--합성동사형 no로 수정(미현)-->
+					<frame>Y-이 X-에 의해 ~를 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 되다</form><!--합성동사형 no로 수정(미현)-->
+					<frame>Y-이 X-에 의해 ~가 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 막다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 방지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 철회하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">직위인간|기업</sel_rst>
+				<sel_rst arg="Y">직업인간</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

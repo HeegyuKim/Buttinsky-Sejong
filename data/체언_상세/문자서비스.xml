@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>문자서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/21</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/17(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">문자 서비스</var>
+			<str type="N_N">문자+서비스</str>
+			<org lg="si">文字___</org>
+			<org lg="en">__service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>휴대폰을 사용하는 인구가 많아지면서 ~를 제공하는 업체가 우후죽순으로 생겨나고 있다.</eg>
+                <eg>새로 휴대폰을 구입하면 한 달간 ~를 무료로 이용할 수 있습니다.</eg>
+                <trans>No charge for written message</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">휴대폰 ~</comb_n>
+				<comb_n type="compound">무료 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

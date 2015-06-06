@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헌정하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">헌정을 하다</var>
+			<str>N.하</str>
+			<org lg="si">獻呈_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성 행위</sem_class>
+				<trans>dedicate</trans>
+				<trans>inscribe</trans>
+				<trans>present</trans>
+				<trans>offer</trans>
+				<lr>
+					<syn type="kor">바치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트담지물(책|시집)|문학텍스트|작품|음악작품</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그는 첫 시집을 아내에게 헌정했다.</eg>
+					<eg>그는 이번 앨범을 자신의 후원회에 헌정하고 싶다고 밝혔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

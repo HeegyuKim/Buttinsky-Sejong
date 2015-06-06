@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>박두하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">박두를 하다</var>
+			<str>N.하</str>
+			<org lg="si">迫頭_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>draw near</trans>
+				<lr>
+					<syn type="perfect">임박하다</syn>
+					<syn type="perfect">당두하다</syn>
+					<hyper>다가오다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|시간</sel_rst>
+					<eg>지금 미국의 이라크 침공이 박두해 자라나는 어린이들과 무고한 사람들의 목숨이 경각에 달려있는 긴박한 상황이다.</eg>
+					<eg>급속도로 감행되는 무력 증강 책동은 미국의 우리에 대한 선제 군사행동의 시각이 박두해 오고 있다는 것을 말해 준다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

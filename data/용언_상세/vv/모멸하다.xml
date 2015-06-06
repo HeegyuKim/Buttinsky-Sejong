@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>모멸하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">모멸을 하다</var>
+			<str>N.하</str>
+			<org lg="si">侮蔑_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>contempt</trans>
+				<lr>
+					<syn type="perfect">천시하다</syn>
+					<syn type="perfect">냉대하다</syn>
+					<syn type="perfect">멸시하다</syn>
+					<syn type="kor">업신여기다</syn>
+					<ant type="compl">존중하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|행위</sel_rst>
+					<eg>운동으로서의 국어 연구를 모멸해 왔고 고고한 제도로서의 학문을 추구해 온 집단이 갑자기 대중성을 지녀야 할 국가 기관을 운영할 때 모순에 빠지게 될 수 있다.</eg>
+					<eg>마침내 그도 언제나 가장 어리석은 것으로서 제일 경멸하고 모멸해 왔었던 악덕인이 되고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

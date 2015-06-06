@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>강경진압</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/07</cre_date>
+				<cre_writer>목정수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">강경 진압</var>
+			<str type="R_N">강경+진압</str>
+			<org lg="si">强硬鎭壓</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>학생들의 데모가 터지자마자 경찰은 ~에 나섰다.</eg>
+				<eg>전경들의 ~에 자극을 받은 노조원들은 돌을 던지며 맞섰다.</eg>
+				<trans>hard suppression</trans>
+				<domain></domain>
+				<sem_class>물리적행위</sem_class> <!-- 목(2004/7/7) 적절한지 의심스러움 -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">연성진압</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 심하다</comb_aj>
+				<comb_n type="compound">~ 부대</comb_n>
+				<comb_n type="compound">~ 요원</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 나서다</form>
+					<frame>X-이 Y-을 ~에 나서다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 들어가다</form>
+					<frame>X-이 Y-을 ~에 들어가다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

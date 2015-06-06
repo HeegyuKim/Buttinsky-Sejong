@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>금융시스템</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_n 정보 수정</mod_note>
+			</mod>
+			<note>2007/08/02(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">금융 시스템</var>
+			<str type="N_N">금융+시스템</str>
+			<org lg="si">金融___</org>
+			<org lg="si">__system</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>카드 사태의 가장 큰 책임은 당시 ~을 지배한 재경부에 있다.</eg>
+				<trans>financial system</trans>
+				<domain></domain>
+				<sem_class>제도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 불안하다</comb_aj>
+				<comb_aj type="appr">~이 불안정하다</comb_aj>
+				<comb_aj type="appr">~이 취약하다</comb_aj>
+				<comb_aj type="appr">~이 투명하다</comb_aj>
+				<comb_aj type="appr">~이 경쟁적이다</comb_aj>
+				<comb_aj type="appr">~이 좋다</comb_aj>
+				<comb_aj type="appr">~이 튼튼하다</comb_aj>
+				<comb_n type="compound">첨단 ~</comb_n><!--띄어쓰기,type 값 수정(미현)-->
+				<comb_n type="compound">최첨단 ~</comb_n><!--추가(권)--><!--띄어쓰기,type 값 수정(미현)-->
+				<comb_n type="compound">~ 구축</comb_n>
+				<comb_n type="compound">~ 선진화</comb_n>
+				<comb_n type="compound">~ 마비</comb_n>
+				<comb_n type="compound">~ 개선</comb_n>
+				<comb_n type="compound">~ 안정</comb_n>
+				<comb_n type="compound">~ 붕괴</comb_n>
+				<comb_n type="compound">글로벌 ~</comb_n>
+				<comb_n type="compound">국제 ~</comb_n>
+				<comb_n type="compound">선진 ~</comb_n>
+				<comb_n type="compound">네트워크 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 마비되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 붕괴되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 구축하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 개선하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 위협하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 정착시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 안정시키다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">가지</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

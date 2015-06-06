@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걷어치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/02</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>걷어치우다 의 잘못된 표기형으로 나와 있어 기술 안함</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/08/27</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>형태론적 정보 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<see>걷어치우다</see>
+		<morph_grp>
+			<var type="spr">걷어를 치다</var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

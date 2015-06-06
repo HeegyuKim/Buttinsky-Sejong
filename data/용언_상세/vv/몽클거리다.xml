@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>몽클거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>의미부류 구체화</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>센스 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">몽글거리다</var>
+			<var type="etc">뭉클거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>one's heart be filled with</trans>
+				<lr>
+					<syn type="perfect">복받치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(가슴|마음|애국심|효심)</sel_rst>
+					<sel_rst arg="Z" tht="EFF">구체물|사태</sel_rst>
+					<eg>상희는 부쩍 많아진 어머니의 주름살에 마음이 몽클거려 참을 수 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>feel uneasy</trans>
+				<lr>
+					<syn type="perfect">거북스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(가슴)</sel_rst>
+					<eg>먹은 것이 체했는지 가슴이 몽클거리고 신트림이 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be squashy</trans>
+				<trans>feel lumpy</trans>
+				<lr>
+					<syn type="perfect">물렁거리다</syn>
+					<syn type="perfect">물컹거리다</syn>
+					<syn type="perfect">물씬거리다</syn>
+					<hyper>무르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">채소|생선|육류|과일</sel_rst>
+					<eg>요리를 시작하기 전에 덩어리가 몽클거리는 육즙을 충분히 내 두어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

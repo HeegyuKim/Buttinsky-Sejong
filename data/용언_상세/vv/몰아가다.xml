@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>몰아가다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>drive</trans>
+				<lr>
+					<ant type="dir">몰아오다</ant>
+					<hyper>몰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|동물|행위</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>영수는 친구를 방 한구석으로 몰아가서는 심하게 두들겨팼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>drive</trans>
+				<lr>
+					<ant type="dir">몰아오다</ant>
+					<hyper>몰다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|동물|행위</sel_rst>
+					<sel_rst arg="Z" tht="FNS">상태</sel_rst>
+					<eg>사람을 극한 상황으로 몰아가 보아야 그 사람의 본래 성품을 알 수 있다.</eg>
+					<eg>신이 나다가도 가슴이 미어지는 슬픔의 판국으로 몰아가 일회적이고 순간적인 신바람이 아니라, 기쁨과 슬픔이 진하게 배어들어 마음 깊은 바닥에 이르러서야 청중들을 놓아주는 판소리의 진정한 멋을 느끼게 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>take away all together</trans>
+				<lr>
+					<syn type="perfect">몰고가다</syn>
+					<syn type="perfect">가져가다</syn>
+					<syn type="perfect">쓸어가다</syn>
+					<hyper>가다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>그 아이들은 수퍼마켓의 과일들을 모두 몰아갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>기상현상</sem_class>
+				<trans>take away all together</trans>
+				<lr>
+					<syn type="perfect">몰고가다</syn>
+					<syn type="perfect">가져가다</syn>
+					<syn type="perfect">쓸어가다</syn>
+					<hyper>가다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">기상관련물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>홍수가 그 마을의 집들을 모두 몰아가 버렸다.</eg>
+					<eg>이곳은 잔득 흐렸다가 바람이 구름을 몰아갔답니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>두텁다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>적정명사 제시방식 수정</mod_note>
+				<mod_note>"의미역" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">도탑다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계상태</sem_class>
+				<trans>be affectionate</trans>
+				<lr>
+					<syn type="sino">돈독하다</syn>
+					<syn type="sino">돈후하다</syn>
+					<ant type="grad">얄팍하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X=N0-이 Z=N2-와 (서로) Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst><!--THM은 절대 안 되는지.-->
+					<sel_rst arg="Y" tht="THM">품격속성|심리상태</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>내 동생은 나와 우애가 두텁다.</eg>
+					<eg>옛날에는 우리 집은 우리 이웃과 정이 두터웠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="sym" n="1">
+				<frame>X+Z=N0-이 (서로) Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">품격속성|심리상태</sel_rst>
+					<sel_rst arg="Z" tht="EXP">인간</sel_rst>
+					<eg>내 동생과 나는 우애가 두텁다.</eg>
+					<eg>옛날에는 우리 집과 우리 이웃은 정이 두터웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be thick</trans>
+				<lr>
+					<syn type="perfect">두껍다</syn>
+					<ant type="grad">얇다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">두께</n_appr>
+					<n_appr arg="X">폭</n_appr>
+					<eg>종이가 두께가 두텁다.</eg>
+					<eg>모니터가 폭이 두텁다 보니 놓기가 애매하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

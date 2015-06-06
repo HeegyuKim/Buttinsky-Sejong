@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>걸다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>hook</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>상대 팀 수비수가 한국 선수의 다리를 걸어서 넘어뜨렸다.</eg>
+					<eg>철수는 친구들의 발을 슬쩍 거는 장난을 즐겨 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>hook</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(손가락)</sel_rst>
+					<eg>철수는 나에게 새끼손가락을 걸며 약속을 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>hang</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(옷|간판|모자|달력)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">부분장소(벽)|(옷걸이)|신체부위</sel_rst>
+					<eg>영수가 옷걸이에 옷을 걸었다.</eg>
+					<eg>기영이는 가게 문 위에 새 간판을 걸었다.</eg>
+					<eg>목에 금메달을 걸고 금의환향하는 선수들을 마중나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(솟)</sel_rst>
+					<eg>아내는 이내 솟을 걸고 밥을 짓기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과적행위</sem_class>
+				<trans>power</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(시동|발동)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">교통기관|기계</sel_rst>
+					<eg>철수가 차에 시동을 걸었지만 걸리지 않았다.</eg>
+					<eg>그는 마음이 급해 열쇠도 꽂지 않고 차에 시동을 걸려고 했다.</eg>
+					<eg>그는 발전기에 발동을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>물리적행위</sem_class>
+				<trans>bet</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(목숨|명예|운명)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상(일|문제)</sel_rst>
+					<eg>철수는 이번 일에 목숨을 걸었다.</eg>
+					<eg>그런 장래성없는 사업에 일생을 걸다니 한심하구나.</eg>
+					<eg>우리 회사는 신기술 개발에 마지막 승부를 걸고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>물리적행위</sem_class>
+				<trans>bet</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(희망|기대)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상(일|문제)|인간</sel_rst>
+					<eg>철수는 자기 자식들에게 모든 희망을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>call</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">시간(작전타임)</sel_rst>
+					<eg>감독은 바로 작전타임을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>bet</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="LOC">온</sel_rst>
+					<eg>철수는 그 말에 돈을 걸었다.</eg>
+					<eg>나는 그 말이 이기는 쪽에 만 원을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>deposit</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<sel_rst arg="Z" tht="FNS">돈</sel_rst>
+					<eg>철수는 계약금으로 50만원을 걸었다.</eg>
+					<eg>나는 상금으로 만 원을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<eg>철수는 그 방을 잡기 위해 계약금을 걸었다.</eg>
+					<eg>나는 상금을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>숙어 항목 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>hang</trans>
+			</sem_grp>
+			<frame_grp type="CTR">
+				<frame>X=N0-이 Z=N2-에 C1-을 V</frame>
+				<subsense>
+					<sel_rst arg="C1">(브레이크|제동)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">인간|추상적대상(일)</sel_rst>
+					<eg>영수는 사장의 말에 제동을 걸었다.</eg>
+					<eg>고삐 풀린 영숙이에게 제동을 걸 사람은 영철이밖에 없다.</eg>
+					<eg>국회가 드디어 정부의 독주에 브레이크를 걸기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(딴죽)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상(일)</sel_rst>
+					<eg>그는 번번이 내가 하는 일에 딴죽을 걸었다.</eg>
+					<eg>그 사람은 남이 하는 일에 항상 딴죽을 건다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(목)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상(일)</sel_rst>
+					<eg>그는 이번 일에 목을 걸었다.</eg>
+					<eg>아무 일에나 자기 목을 걸고 나서는 것은 바람직하지 못하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(빗장)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상</sel_rst>
+					<eg>그는 한 번 마음에 빗장을 걸고 나면 다시 열기가 쉽지 않다.</eg>
+					<eg>네 마음에 건 빗장이 풀어지길 바래.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(시동)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상</sel_rst>
+					<eg>한동안 잠잠하더니 그는 다시 그 일에 시동을 걸기 시작했다.</eg>
+					<eg>그 녀석은 무슨 일에든 시동을 걸면 철저하게 해낸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="C1">(트집)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">추상적대상</sel_rst>
+					<eg>사사건건 트집을 거는 데야 당해 낼 재간이 없었어요.</eg>
+					<eg>그 여자는 트집을 거는 데에 이골이 난 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="CTR" cor="sym" n="1">
+				<frame>X=N0-이 Z=N2-와 (서로) C1-을 V</frame>
+				<subsense>
+					<sel_rst arg="C1">손가락</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>영수는 순이와 서로 결혼하기로 손가락을 걸었다.</eg>
+					<eg>아이는 다시는 그렇지 않겠다고 엄마와 손가락을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="CTR" cor="sym" n="1">
+				<frame>X+Z=N0-이 (서로) C1-을 V</frame>
+				<subsense>
+					<sel_rst arg="C1">손가락</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<eg>영수와 순이는 서로 결혼하기로 손가락을 걸었다.</eg>
+					<eg>엄마와 아이는 다시는 그렇지 않기로 손가락을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="CTR">
+				<frame>X=N0-이 C1-을 V</frame>
+				<subsense>
+					<sel_rst arg="C1">(선손)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>이유야 어떻든 선손 건 사람이 먼저 사과를 하게.</eg>
+					<eg>선손 거는 것은 나쁜 짓이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>제동을 걸다</idm>
+			<idm>딴죽을 걸다</idm>
+			<idm>목을 걸다</idm>
+			<idm>빗장을 걸다</idm>
+			<idm>시동을 걸다</idm>
+			<idm>손가락을 걸다</idm>
+			<idm>선손을 걸다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/08/14</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>의미역할 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="l"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>hang</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에게 W=N3-에대해 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(시비|소송)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<sel_rst arg="W" tht="THM">추상적대상</sel_rst>
+					<eg>영수는 술을 마시다가 옆 손님에게 시비를 걸었다.</eg>
+					<eg>그 여자는 나한테 사사건건 시비를 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(말|전화)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>영수는 옆에 앉은 사람에게 말을 걸었다.</eg>
+					<eg>나는 집사람한테 늦게 들어가겠다고 전화를 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에게 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(최면)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>영수는 옆에 앉은 사람에게 최면을 걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

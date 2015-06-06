@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헝클어뜨리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/21</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>유경민</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="i"/>
+			<str>V-어.뜨</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>tangle</trans>
+				<trans>entangle</trans>
+				<trans>dishevel</trans>
+				<trans>kink</trans>
+				<trans>ravel</trans>
+				<lr>
+					<syn type="perfect">엉클어뜨리다</syn>
+					<ant type="dir">풀다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성구체물(실|실타래|끈|머리카락)</sel_rst>
+					<eg>그는 아이가 헝클어뜨려 놓은 낚시줄을 인내심 있게 풀어 정리하고 있었다.</eg>
+					<eg>그는 내가 애써 정리해 둔 끈들을 마구잡이로 헝클어뜨려 서랍 속에 쑤셔넣었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성구체물(실|실타래|끈|머리카락)</sel_rst>
+					<eg>바람이 그녀의 곱게 빗어 넘긴 머리카락을 헝클어뜨려 버렸다.</eg>
+					<eg>선풍기 바람이 잘 널어 둔 끈들을 헝클어뜨려 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>disarrange</trans>
+				<trans>litter</trans>
+				<trans>scatter</trans>
+				<trans>mess up</trans>
+				<trans>put in disorder</trans>
+				<lr>
+					<syn type="perfect">엉클어뜨리다</syn>
+					<syn type="perfect">어지르다</syn>
+					<ant type="dir">정리하다</ant>
+					<ant type="dir">정돈하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|건물|건물부분장소</sel_rst>
+					<eg>그는 책상 위에 책들을 가득 헝클어뜨려 놓은 채 외출을 하고 없었다.</eg>
+					<eg>그 여자는 아이가 헝클어뜨려 놓은 방을 치우다 짜증이 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>ruin</trans>
+				<trans>spoil</trans>
+				<trans>mar</trans>
+				<trans>destroy</trans>
+				<trans>make a muddle</trans>
+				<lr>
+					<syn type="perfect">엉클어뜨리다</syn>
+					<syn type="perfect">망치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(생각|구상|계획|질서|일|생활|삶|인생)</sel_rst>
+					<eg>이번 계약의 파기가 잘 되어가던 그의 사업을 헝클어뜨려 버렸다.</eg>
+					<eg>새 정부는 사회의 안정과 질서를 헝클어뜨리는 모든 행위에 대해서는 단호한 조치를 취하겠다고 천명했었다.</eg>
+					<eg>실연의 상처가 이렇게도 한 사람의 꿈과 인생을 엉망으로 헝클어뜨릴 줄은 상상하지 못했었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>confuse</trans>
+				<trans>complicate</trans>
+				<trans>agitate</trans>
+				<trans>upset</trans>
+				<trans>move</trans>
+				<lr>
+					<syn type="perfect">엉클어뜨리다</syn>
+					<syn type="perfect">흔들다</syn>
+					<syn type="sino">동요시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태(감정|기분)|인지상태(생각|믿음|의지)|개체상황(머릿속|마음)</sel_rst>
+					<eg>그의 태도가 내 기분을 헝클어뜨려 버려서 더 이상 좋은 얼굴로 모임에 앉아 있을 수가 없었다.</eg>
+					<eg>그 소식이 내 머릿속을 엉망으로 헝클어뜨려 놓아 더 이상 아무런 생각도 할 수 없을 지경이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국가경쟁력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/04</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note>코멘트정보!->!!</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>n_aj기술</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<note>2007/08/10(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국가 경쟁력</var>
+			<str type="N_N">국가+경쟁력</str> <!--경쟁력은 더 분석될 수 있음-->
+			<org lg="si">國家競爭力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>야당은 최근의 파업사태로 경제는 물론 ~까지 추락하고 있다고 주장했다.</eg>
+				<trans>national compettiive power</trans>
+				<domain></domain>
+				<sem_class>능력</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 있다</comb_aj>
+				<comb_aj type="appr">~이 없다</comb_aj>
+				<comb_n type="compound">~(의) 제고</comb_n>
+				<comb_n type="compound">~(의) 강화</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 제고하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

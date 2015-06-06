@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>충만되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/15</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">충만이 되다</var>
+			<str>N.되</str>
+			<org lg="si">充滿_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be filled</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소|(공간)</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물|추상적대상</sel_rst>
+					<eg>방 안이 꽃 향기로 충만되었다.</eg>
+				</subsense>
+			</frame_grp>
+				<frame_grp type="FIN" cor="cross" n="1">
+				<frame>X=N0-에 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="INS">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|(공간)</sel_rst>
+					<eg>방 안에 꽃 향기가 충만되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

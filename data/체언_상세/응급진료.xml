@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>응급진료</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합 정보 추가;동사결합 정보 수정;논항명사구 정보 일부 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>동사결합 정보 격틀에서 조사 일부 삭제(대표형만 남겨둠);comment</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">응급 진료</var>
+			<str type="N_N">응급+진료</str>
+			<org lg="si">應急診療</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>일요일 저녁이라서 담당의사가 ~를 해주기까지 꽤 기다려야했다.</eg>
+				<trans>medical emergency consultation and treatment</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">야간 ~</comb_n>
+				<comb_n type="compound">~ 센터</comb_n>
+				<comb_n type="compound">~ 절차</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 Y-을 S는 ~를 하다</frame>
+					<frame>X-이 Y-에게 S는 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 받다</form>
+					<frame>Y-이 X-에게 S는 ~를 받다</frame> <!--'X에서'일 경우 'X=기능장소(병원)'되는 것 아닌지?-->
+					<frame>Y-이 X-에게서 S는 ~를 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 S는 ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사|간호사)</sel_rst>
+				<sel_rst arg="Y">인간</sel_rst> <!-- '일시적역할인간'은 '인간'에 포함되므로 삭제함 -->
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

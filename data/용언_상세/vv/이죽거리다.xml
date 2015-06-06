@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이죽거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/10</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">이기죽거리다</var>
+			<str>R.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>make provacative</trans>
+				<trans>quip</trans>
+				<lr>
+					<syn type="perfect">이죽대다</syn>
+					<syn type="perfect">이기죽거리다</syn>
+					<syn type="perfect">이기죽대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 Z=N2-에대해 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="THM">온</sel_rst>
+					<eg>오늘도 그는 아침부터 그녀에게 옷차림에 대해 이죽거리며 시비를 걸었다.</eg>
+					<eg>나는 심술궂게 이죽거리기만 하는 그 녀석을 한 대 때리고 싶은 충동을 느꼈다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>그는 나에게 무슨 바람이 불어 이렇게 일찍 나왔냐고 이죽거리기부터 했다.</eg>
+					<eg>아내는 부엌으로 가면서 살다 보니 별일이 다 있다고 이죽거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

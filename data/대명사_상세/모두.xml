@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>모두</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/09</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/09</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/05</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1" sem="3" num="plural" ref="human">
+			<sem_grp>
+				<eg>이 소식을 식구들 ~에게 알리자</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>이</pre_d>
+				<pre_d>그</pre_d>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

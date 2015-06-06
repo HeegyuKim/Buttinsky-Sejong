@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짜다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/19</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>동사 부류 수정(FIT->FTR)</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>추상적행위</sem_class>
+				<trans>draw up a plan</trans>
+				<lr>
+					<syn type="sino">계획하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">계획|(안|시간표|일정)</sel_rst>
+					<eg>일을 하기 전에 우선 정밀한 계획을 짜는 것이 필요하다.</eg>
+					<eg>초등학교 때 늘 방학이 되면 제일 먼저 하던 일이 생활계획표를 짜던 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>assemble</trans>
+				<lr>
+					<hyper>만들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(틀|문짝|상자|골격)</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물(나무|쇠)</sel_rst>
+					<eg>아저씨는 나무로 박스를 짜서 거기에 사과를 담았다.</eg>
+					<eg>튼튼한 나무로 책꽂이를 잘 짜야 잘 휘어지지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>weave</trans>
+				<lr>
+					<hyper>만들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(옷|천|가마니)</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체물(실|짚)</sel_rst>
+					<eg>옛날 시골에서는 겨울에 짚으로 가마니를 짜는 것도 중요한 일이었다.</eg>
+					<eg>그 여자는 추운 겨울에 고생할 남편을 위해서 털실로 따뜻한 목도리를 짜고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>organize</trans>
+				<lr>
+					<syn type="sino">조직하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">단체(조|팀|반)</sel_rst>
+					<sel_rst arg="Z" tht="INS">인간</sel_rst>
+					<eg>김 검사는 검사 5명으로 특별검사반을 짰다.</eg>
+					<eg>이번에 현지조사를 위해서 열두명의 참여자들로 모두 3개의 조를 짰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>추상적행위</sem_class>
+				<trans>conspire</trans>
+				<lr>
+					<syn type="sino">공모하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>사기꾼은 보험회사 직원과 서로 짜고 보험사기극을 벌였다.</eg>
+					<eg>그 회사의 직원들은 다른 회사의 직원들과 짜고 회사돈 수십억원을 유용하다가 경찰에 적발되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1"><!--격틀 순서 수정-->
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst><!--격틀 수정-->
+					<n_appr>인간</n_appr>
+					<eg>사기꾼과 보험회사 직원은 서로 짜고 보험사기극을 벌였다.</eg>
+					<eg>관련 업체의 직원들이 서로 짜고 회사돈 수십억원을 유용하다가 경찰에 적발되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/19</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>예문 추가</mod_note>
+				<mod_note>선택 제약 수정</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="a"/>
+			<str></str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>squeeze</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(빨래|걸레|행주)</sel_rst>
+					<eg>젖은 빨래는 먼저 어느 정도 짠 다음에 말리는 편이 좋다.</eg>
+					<eg>너는 손목이 그렇게 약해서 걸레나 짤 수 있겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>extract</trans>
+				<lr>
+					<syn type="sino">추출하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(여드름|종기)|(젖|우유)</sel_rst>
+					<eg>그 여드름은 지금 짜면 안 된다.</eg>
+					<eg>종기는 함부로 짜서 덧나면 큰일난다.</eg>
+					<eg>이 목장에서는 매일 이른 아침에 우유를 짠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>extract</trans>
+				<lr>
+					<syn type="sino">추출하다</syn>
+					<hyper>만들다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(기름|즙|치약)</sel_rst>
+					<eg>역시 참기름은 집에서 직접 짠 것이 좋지.</eg>
+					<eg>사람들 사이에서 건강에 좋다고 채소나 과일 생즙을 짜서 먹는 것이 한때 유행이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>추상적행위</sem_class>
+				<trans>rack one's brain</trans>
+				<lr>
+					<syn type="perfect">굴리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(머리)</sel_rst>
+					<eg>이번 일에는 아무리 머리를 짜도 좋은 생각이 떠오르지 않는다.</eg>
+					<eg>한번 머리를 짜내서 이번에 획기적인 방법을 좀 생각해 보자.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>shed tears</trans>
+				<lr>
+					<syn type="perfect">내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈물|콧물)</sel_rst>
+					<eg>나는 이산가족의 상봉장면은 언제 보아도 눈물을 짠다.</eg>
+					<eg>그렇게 눈물 콧을 다 짜도 한번 떠난 사람은 다시 돌아 오지 않아.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner2">찔찔</col>
+					<col type="manner2">찔끔찔끔</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

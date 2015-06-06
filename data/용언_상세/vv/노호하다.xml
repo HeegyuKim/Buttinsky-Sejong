@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>노호하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">노호를 하다</var>
+			<str>N.하</str>
+			<org lg="si">怒號_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>roar in anger</trans>
+				<lr>
+					<hyper>포효하다</hyper>
+					<hyper>소리지르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>사나이는 미친 사람처럼 노호하면서 칼을 허공에 휘둘렀다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리속성(목소리|소리)</sel_rst>
+					<eg>귓전으로 노호한 목소리가 쇠못처럼 박혀왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>howl</trans>
+				<lr>
+					<hyper>물결치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">바다|호수|바람|(파도)</sel_rst>
+					<eg>벼락치는 소리에 깊은 바다가 서로 노호했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

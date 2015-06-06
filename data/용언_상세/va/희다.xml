@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be white</trans>
+				<lr>
+					<syn type="perfect">하얗다</syn>
+					<ant type="grad">검다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>정원에 새로 심은 나무는 꽃 색깔이 희다.</eg>
+					<eg>그는 흰 색깔의 물건들을 좋아한다.</eg>
+					<eg>그녀는 얼굴이 참 희다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">눈처럼</col>
+					<col type="magn">종잇장처럼</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bright</trans>
+				<trans>be clear</trans>
+				<lr>
+					<syn type="perfect">밝다</syn>
+					<ant type="grad">어둡다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛(빛|불빛|달빛|별빛)</sel_rst>
+					<eg>그 날 밤 가로등 불빛은 유난히 희고 차가왔다.</eg>
+					<eg>그는 창가에 앉아 흰 달빛을 바라보며 생각에 잠겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>흰</infl_rst>
+			<trans>be showy</trans>
+			<trans>be vain</trans>
+			<sel_rst arg="X" tht="THM">행위</sel_rst>
+			<defect_eg>노인는 가진 것도 없으면서도 이리저리 다니며 흰 소리만 하는 아들이 영 못마땅했다.</defect_eg>
+			<defect_eg>그 따위 흰 수작이나 하려면 다신 내 앞에 나타나지 마라.</defect_eg>
+		</defect>
+		<idm_grp>
+			<idm>흰 눈으로 보다</idm>
+			<idm>흰 것은 종이요 검은 것은 글씨라</idm>
+			<idm>희기가 까치 배 바닥 같다</idm>
+			<idm>흰 개 꼬리 굴뚝에 삼 년 두어도 흰 개 꼬리다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

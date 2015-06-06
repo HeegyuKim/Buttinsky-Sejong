@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE affixDic SYSTEM "AFFIX_2007.dtd">
+
+<affixDic>
+<superEntry>
+	<orth>적</orth>
+	<entry n="1" pos="xs">
+		
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/12</cre_date>
+				<cre_writer>이상규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/04/29</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/08</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note>2003/04/29(김진형)새로운 구조에 맞춰 기술 내용 수정;sense2는 '가급적, 비교적'과 같이 부사를 만드는 예를 근거로 구분</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small"></var>
+			<var type="tense"></var>
+			<var type="plain"></var>
+			<var type="etc"></var>
+			<str></str>
+			<org lg="si">的</org>
+			<hom exist="yes"></hom>
+		</morph_grp>
+		<sense n="1">
+			<trans>-al</trans>
+			<con></con>
+			<lr>
+				<syn></syn>
+				<ant></ant>
+			</lr>
+			<comb_morph>
+				<comb type="np_x">
+					<result type="np">경제(經濟)^외(外)~</result>
+					<result type="np">서구(西歐)^자본주의(資本主義)~</result>
+					<result type="np">8,^90년대(年代)~</result>
+				</comb>
+				<comb type="n_x">
+					<result type="n">미(美)~</result>
+					<result type="n">법(法)~</result>
+					<result type="n">병(病)~</result>
+					<result type="n">성(性)~</result>
+					<result type="n">수(數)~</result>
+					<result type="n">경제(經濟)~</result>
+					<result type="n">국가(國家)~</result>
+					<result type="n">이성(理性)~</result>
+					<result type="n">학문(學問)~</result>
+					<result type="n">가부장(家父長)~</result>
+					<result type="n">카리스마~</result>
+					<result type="n">페미니즘~</result>
+					<result type="n">마르크스주의~</result>
+				</comb>
+				<comb type="va_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="ma_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xr_x">
+					<result type="n">단(端)~</result>
+					<result type="n">전(全)~</result>
+					<result type="n">학(學)~</result>
+					<result type="n">가변(可變)~</result>
+					<result type="n">거시(擧示)~</result>
+					<result type="n">국제(國際)~</result>
+					<result type="n">노골(露骨)~</result>
+					<result type="n">대외(對外)~</result>
+					<result type="n">독자(獨自)~</result>
+					<result type="n">본격(本格)~</result>
+					<result type="n">부수(附隨)~</result>
+					<result type="n">심미(審美)~</result>
+					<result type="n">편파(偏頗)~</result>
+				</comb>
+				<comb type="xp_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xs_x">
+					<result type="temp"></result>
+				</comb>
+				<redup type="temp"></redup>
+			</comb_morph>
+		</sense>
+		<sense n="2">
+			<trans>-ally</trans>
+			<con></con>
+			<lr>
+				<syn></syn>
+				<ant></ant>
+			</lr>
+			<comb_morph>
+				<comb type="np_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="n_x">
+					<result type="ma">비교(比較)~</result>
+				</comb>
+				<comb type="va_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="ma_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xr_x">
+					<result type="ma">가급(可及)~</result>
+				</comb>
+				<comb type="xp_x">
+					<result type="temp"></result>
+				</comb>
+				<comb type="xs_x">
+					<result type="temp"></result>
+				</comb>
+				<redup type="temp"></redup>
+			</comb_morph>
+		</sense>
+	</entry>
+</superEntry>
+</affixDic>
+

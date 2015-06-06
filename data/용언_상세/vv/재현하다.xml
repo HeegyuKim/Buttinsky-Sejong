@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>재현하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>두번째 의미의 의미역 배당은?</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">재현을 하다</var>
+			<str>N.하</str>
+			<org lg="si">재현_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>reproduce</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">상황|사건|장소</sel_rst>
+					<eg>이 영화를 통해 작가는 당시의 위기 상황을 재현하고자 했다.</eg>
+					<eg>우리 동아리에서는 잊혀져 간 전통 놀이를 재현하기 위해 이번 행사를 마련했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>reproduce</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">상황|사건|장소</sel_rst> <!--tht="EFF"?-->
+					<sel_rst arg="Y" tht="THM">상황|사건|장소</sel_rst>
+					<eg>이 공연은 우리의 전통 혼례 절차를 재현하고 있다.</eg>
+					<eg>이번 작품을 위해 제작진은 당시의 어촌을 재현한 세트장을 만들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

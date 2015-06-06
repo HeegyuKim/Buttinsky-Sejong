@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>부옇다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/22</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">보얗다</var>
+			<var type="etc">뿌옇다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hazy</trans>
+				<trans>be misty</trans>
+				<lr>
+					<syn type="perfect">보얗다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="INS">연기(김|연기|수증기)|무생물(먼지)|기상현상(안개|물안개|안개비)</sel_rst>
+					<eg>목욕탕이 수증기로 부예 앞이 잘 보이지 않았다.</eg>
+					<eg>주인의 오랜 부재를 말해주는 듯 책상은 쌓인 먼지로 부옜다.</eg>
+					<eg>초겨울 이른 새벽 주위는 온통 안개로 부옇다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be hazy</trans>
+				<trans>be misty</trans>
+				<lr>
+					<syn type="perfect">보얗다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="1">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">연기(김|연기|수증기)|무생물(먼지)|기상현상(안개|물안개|안개비)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>목욕탕에는 수증기가 부예 앞이 잘 보이지 않았다.</eg>
+					<eg>주인의 오랜 부재를 말해주는 듯 책상에는 쌓인 먼지가 부옜다.</eg>
+					<eg>초겨울 이른 새벽 주위에는 온통 안개가 부옇다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be milky</trans>
+				<trans>be creamy</trans>
+				<lr>
+					<syn type="perfect">허옇다</syn>
+					<ant type="grad">거멓다</ant>
+					<hyper>희다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴|볼|피부|살결)</sel_rst>
+					<eg>그간의 부유하고 편안한 생활을 말해주 듯 그녀의 얼굴은 부옇게 살이 올라 있었다.</eg>
+					<eg>그는 피부도 부옇고 풍채가 좋아 여자들에게 인기가 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be milky</trans>
+				<trans>be creamy</trans>
+				<lr>
+					<syn type="perfect">보얗다</syn>
+					<syn type="perfect">허옇다</syn>
+					<hyper>희다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|음식(국|국물)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>그녀는 쌀을 씻어 낸 부연 뜨물에 준비한 재료를 넣고 된장국을 끓였다.</eg>
+					<eg>큰 솥에는 가득 부연 곰국이 끓고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>찬반비율</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 추가;명사결합, 동사결합, 논항명사구, 논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="lng">찬성반대비율</var>
+			<str type="N_N">찬반+비율</str>
+			<org lg="si">贊反比率</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>교통체계의 변화에 관한 시민들의 ~이 그다지 큰 차이를 보이지 않는다.</eg>
+				<eg>새 정책에 대한 ~이 대략 7대 3으로 나타나고 있다.</eg> <!-- 추가함 -->
+				<trans>percentage of assent and objection</trans>
+				<domain></domain>
+				<sem_class>비율</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 통계</comb_n> <!-- 추가함 -->
+				 <!-- 추가함 -->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~이 바뀌다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes">~이 변하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-에 대한 X-의 ~</max_n_str> <!-- 추가함 -->
+				<max_n_str>S것-에 대한 X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간|인간집단</sel_rst> <!-- 추가함 -->
+				<sel_rst arg="Y">온</sel_rst> <!-- 추가함 -->
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

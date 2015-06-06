@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내뻗다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/23</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">내어뻗다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>put forth</trans>
+				<lr>
+					<syn type="perfect">내뻗치다</syn>
+					<hyper>뻗다</hyper>
+					<hyper>뻗치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<sel_rst arg="Y" tht="DIR">구체물|장소</sel_rst>
+					<eg>허리가 한껏 휘어진 몸의 자세와 천의의 곡선, 뒤쪽으로 죽죽 내뻗은 옷자락의 모양들이 그 비상의 속도를 암시해 주고도 남았다.</eg>
+					<eg>국제공항으로 내뻗은 가로등이 아름다웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>몸짓및동작</sem_class>
+				<trans>spread out</trans>
+				<lr>
+					<hyper>펴다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N1-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="DIR">구체물|장소</sel_rst>
+					<eg>나는 팔을 창 밖으로 내뻗었다.</eg>
+					<eg>앞을 가로막는 괴한을 향해 소리치며 그는 양손을 앞으로 내뻗었다.</eg>
+					<eg>그녀가 손에 들고 있던 몽둥이를 어설프게 내뻗는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>insist on having one's own way</trans>
+				<lr>
+					<syn type="sino">억지부리다</syn>
+					<syn type="perfect">떼쓰다</syn>
+					<syn type="perfect">뻗대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-다고|라고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>빌려준 돈을 받지 못하면 여기서 꼼짝하지 않겠다고 내뻗는 그 아저씨를 아무도 말리지 못했다.</eg>
+					<eg>이것은 그렇게 무조건 내뻗는다고 해결되는 문제가 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

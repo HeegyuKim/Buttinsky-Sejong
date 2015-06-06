@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>일상화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/07/12</cre_date>
+				<cre_writer>안소진</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2007/10/25</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">일상화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">日常化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>파동적행위</sem_class>
+				<trans>routinize </trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|집단</sel_rst>
+					<eg>현대 사회에서는 경쟁이 일상화되었다.</eg>
+					<eg>여전히 몇몇 학교에서는 폭력에 가까운 체벌이 일상화되어 있다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단</sel_rst>
+					<eg>주차공간이 비좁다 보니 동네 주민들에게 접촉사고가 일상화됐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

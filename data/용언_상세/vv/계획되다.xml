@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계획되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>의미역 적합 여부 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>하위센스 추가</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계획이 되다</var>
+			<str>N.되</str>
+			<org lg="si">計劃_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be planned</trans>
+				<lr>
+					<syn type="perfect">기획되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건</sel_rst>
+					<eg>그 재판의 생중계가 계획되었다.</eg>
+					<eg>추석 연휴 동안의 세계 여행이 계획되었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>재판을 생중계하는 것이 계획되었다.</eg>
+					<eg>추석 연휴 동안 세계 여행 하는 것이 계획되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be reckoned</trans>
+				<lr>
+					<syn type="perfect">계산되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건</sel_rst>
+					<eg>그 범행은 이미 계획되어 있었던 것이었다.</eg>
+					<eg>이번 사고도 계획된 것이었습니까?</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|Q</sel_rst>
+					<eg>그가 그렇게 행동한 것도 계획된 것이었다고 말할 수 있을까?</eg>
+					<eg>얼마의 보험금을 탈지가 이미 계획돼 있었기 때문에 그런 사고를 위장했던 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>a plan be made</trans>
+				<lr>
+					<syn type="perfect">예정되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">행위|사건</sel_rst>
+					<eg>그 사람은 대학원 진학이 계획되어 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그 사람은 대학원 진학할 것이 계획되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S기</sel_rst>
+					<eg>그 학교는 내년에 폐교처리하기로 계획되었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S것1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>그 학교는 내년에 폐교처리할 것으로 계획되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>폭증하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">폭증을 하다</var>
+			<str>N.하</str>
+			<org lg="si">暴增_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가</sem_class>
+				<trans>increase heavily</trans>
+				<trans>rise heavily</trans>
+				<trans>augment sharply</trans>
+				<lr>
+					<syn type="perfect">급증하다</syn>
+					<ant type="dir">급감하다</ant>
+					<hyper>증가하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량</sel_rst>
+					<eg>이 지역은 신도시로 편입되면서 인구가 폭증했다.</eg>
+					<eg>최근 몇 주 사이 주식 시장의 증권 거래량이 폭증했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|추상적대상</sel_rst>
+					<n_appr arg="X">수</n_appr>
+					<eg>이 도시를 찾는 관광객이 폭증하면서 인근 지역까지 호황을 누리고 있다.</eg>
+					<eg>자동차 수가 폭증하면서 주차 공간과 환경 오염 문제 등 여러 가지 문제점들이 생겨나기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|사건</sel_rst>
+					<eg>과연 방송이 나간 후 그 제품에 대한 주문이 폭증했다.</eg>
+					<eg>젊은이들 사이에 그 사람에 대한 관심이 폭증하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

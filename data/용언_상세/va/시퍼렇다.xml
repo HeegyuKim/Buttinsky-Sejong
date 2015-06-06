@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시퍼렇다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/16</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">새파랗다</var>
+			<str>PA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be deep blue</trans>
+				<lr>
+					<hyper>퍼렇다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>대문을 시퍼런 페인트로 칠했다.</eg>
+					<eg>시퍼런 가을 하늘을 바라보니 가슴까지 시원해진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be pale</trans>
+				<trans>be deadly pale</trans>
+				<trans>be pallid</trans>
+				<lr>
+					<hyper>퍼렇다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(낯빛|안색)|신체부위(얼굴|입술)</sel_rst>
+					<eg>그는 추위에 떨어서 그런지 얼굴이 시퍼렇다.</eg>
+				</subsense>
+				<subsense> <!--추워서/무서워서 시퍼레진 것과 멍들어서 시퍼레진 것을 별도의 sense로 구분해야 할지도-->
+					<sel_rst arg="X" tht="THM">신체부위(눈|눈두덩)|(멍)(</sel_rst>
+					<eg>나는 그의 시퍼렇게 멍든 눈을 어루만져 주었다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="etc">시퍼렇게 질리다</col>
+					<col type="etc">시퍼렇게 멍들다</col>
+					<!--표제항이 base가 아니라 collocator라는 점에서 보통의 경우와 다름. 이런 것도 여기에 제시할 것인지 문제임.-->
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be sharp</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물의부분(칼날|칼끝|서슬)|칼창(칼|비수)</sel_rst>
+					<eg>그는 시퍼런 칼날을 들이대며 협박했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be sharp</trans>
+				<trans>be stately</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(서슬|기세)</sel_rst>
+					<eg>그의 시퍼런 서슬에 다들 숨을 죽였다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="etc">시퍼렇게 살아 있다</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

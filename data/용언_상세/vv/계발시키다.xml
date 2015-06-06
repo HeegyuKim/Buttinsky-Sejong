@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계발시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/17</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>예문 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계발을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">啓發__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>illuminate</trans>
+				<lr>
+					<syn type="perfect"></syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">능력(지능|재능|상상력|창의력)|감각|품격속성</sel_rst>
+					<eg>부모들이 자녀들의 능력을 잘 계발시켜 주면 적성 찾기가 수월해진다.</eg>
+					<eg>위대한 음악가 중에는 어렸을 적 부모님이 음악적 감각을 충분히 계발시켜 준 경우가 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>develop</trans>
+				<lr>
+					<syn type="perfect">개발시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">방법|기술|인지상태</sel_rst>
+					<eg>새로운 아이디어를 많이 계발시켜 줘야 회사가 삽니다.</eg>
+					<eg>우리 직원들이 충실한 기획안을 많이 계발시켜 주어서 좋은 사업을 펼칠 수 있는 기회가 많아졌다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">계획사건(축제)</sel_rst>
+					<eg>이 지방 공무원 및 단체들은 축제를 참 잘 계발시켜 놨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>표착하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">표착을 하다</var>
+			<str>N.하</str>
+			<org lg="si">漂着_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>be cast ashore</trans>
+				<trans>be washed ashore</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|수상교통기관(배|어선)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">지상장소(해변|바닷가|해안)</sel_rst>
+					<eg>북한 어선 한 척이 동해안에 표착했다.</eg>
+					<eg>이백 년 전 우리 나라 상선 하나가 조난을 당해 일본 서해안 한 작은 마을에 표착한 일이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

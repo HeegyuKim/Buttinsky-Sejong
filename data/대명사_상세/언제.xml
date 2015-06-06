@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>언제</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/08/28</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<der pos="av" type="suffix">~나</der>
+			<der pos="av" type="suffix">~ㄴ가</der>
+		</morph_grp>
+		<sense n="1" sem="interrogative" num="etc" ref="time">
+			<sem_grp>
+				<eg>너는 ~까지 이렇게 빈둥거리면서 살 거냐?</eg>
+				<eg>그 행사가 ~인지 알고 있는 사람은 드물다</eg>
+				<trans>when</trans>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="indefinite" num="etc" ref="time">
+			<sem_grp>
+				<eg>~는 죽겠다고 난리더니 이제 살 만한가 보구나</eg>
+				<eg>이 근처에 올 일이 있거든 ~라도 연락을 하려무나</eg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d>그</pre_d>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>본향</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/17</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/17</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/21</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사결합 정보 추가</mod_note>
+				<mod_note>논항명사구, 의미제약 정보 추가</mod_note>
+				<mod_note>센스2 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/22</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스2 의미부류 '계통'을 수정</mod_note>
+				<mod_note>센스2 n_v, 최대논항구조, 선택제약 Y 추가기술</mod_note>
+				<mod_note>센스1 n_v 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">本鄕</org>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>가끔 ~을 그리워하며 술잔을 기울이곤 한다.</eg>
+				<trans>hometown</trans>
+				<sem_class>인간관계장소</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 그리워하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~으로 돌아가다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간|종족|혈연집단</sel_rst> <!-- 추가함 -->
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>안동은 우리나라 유교의 ~으로 알려져 있다.</eg>
+				<eg>족히 수백년은 넘었을 제단에서 이 지역 토속 신앙의 ~을 본다.</eg>
+				<trans>home</trans>
+				<trans>origin</trans>
+				<domain></domain>
+				<sem_class>관계속성값</sem_class> <!-- 두번째 예문의 경우, 추상적부분으로 볼 수 있음 -->
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이다</form>
+					<frame>X-이 Y-의 ~이다</frame>
+				</comb_v>
+				<max_n_str>Y-의 ~</max_n_str>
+				<sel_rst arg="X">구체물|집단|장소|추상적대상</sel_rst>
+				<sel_rst arg="Y">구체물|집단|추상적대상</sel_rst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

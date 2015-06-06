@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>내갈기다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/21</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>trash</trans>
+				<trans>slap</trans>
+				<lr>
+					<syn type="perfect">후려치다</syn>
+					<hyper>갈기다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>그가 벌떡 일어나 자신을 모욕한 남자에게 대들면서 뺨을 한번 보기 좋게 내갈겼다.</eg>
+					<eg>나는 바닥을 꽝 차며 뛰어올라, 병사의 얼굴을 힘껏 내갈겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>fire at random</trans>
+				<trans>discharge at random</trans>
+				<lr>
+					<syn type="perfect">내깔기다</syn>
+					<syn type="de_vulgar">쏘다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">무기(총포)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물|장소</sel_rst>
+					<eg>그 탈영병은 너무나 두려운 나머지 땅바닥에 미친듯이 총을 내갈겼다.</eg>
+					<eg>사람들에게 총을 내갈기다니 정말 제정신이 아니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>urinate</trans>
+				<lr>
+					<syn type="perfect">내깔기다</syn>
+					<syn type="perfect">싸다</syn>
+					<syn type="de_vulgar">누다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물|인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">배설물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<eg>술취한 그 남자는 문을 두드리다 열어주지 않자 문에다 오줌을 내갈겼다.</eg>
+					<eg>서른 다섯 마리나 되는 비둘기들이 이러 저리 사람들의 머리 위로 어지러이 날아가 그들에게 똥을 내갈겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>scribble</trans>
+				<trans>scrawl</trans>
+				<lr>
+					<syn type="de_vulgar">쓰다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">문자|텍스트</sel_rst>
+					<eg>보통 사람들이 보기에는 그 고명한 스님의 글씨는 그야말로 붓 가는 대로 마음 내키는 대로 내갈기는 그러한 글씨였다.</eg>
+					<eg>그렇게 글씨를 내갈기지 말고 좀 잘 써봐라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>say rudely</trans>
+				<lr>
+					<syn type="perfect">내깔기다</syn>
+					<syn type="de_vulgar">내뱉다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(말)</sel_rst>
+					<eg>남자는 항상 퉁명스럽고 귀찮은 듯이 지껄였는데,예의라고는 조금치도 없이 말을 함부로 내갈겼다.</eg>
+					<eg>그 아저씨는 너무 화가 나서 거침없이 비난의 말들을 쏟아내면서 육두문자를 내갈겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

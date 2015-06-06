@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>조달되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/14</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/19</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">조달이 되다</var>
+			<str>N.되</str>
+			<org lg="si">調達_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be supplied</trans>
+				<lr>
+					<syn type="perfect">공급되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="SRC">인간|인간집단|장소</sel_rst>
+					<eg>생필품이 제 때에 그들에게 조달되지 않고 있다.</eg>
+					<eg>현장에 자재가 제 때에 조달되지 않아서 공사에 차질이 많다.</eg>
+					<eg>해외 동포들에게서 조달된 독립자금이 임시정부에 보내졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>극대화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">극대화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">極大化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>증가행위</sem_class>
+				<trans>maximize</trans>
+				<lr>
+					<syn type="perfect">극다화시키다</syn>
+					<ant type="compl">극소화시키다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(이윤|효율)</sel_rst>
+					<eg>고 사장이야말로 우리 회사의 이윤을 극대화시킬 수 있는 최고의 지도자이다.</eg>
+					<eg>이번엔 상상력을 극대화시켜서 좀 더 재미있는 작품을 만들어 보자.</eg>
+					<eg>구 대리의 기획안이 업무효율을 극대화시키는 데 큰 역할을 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

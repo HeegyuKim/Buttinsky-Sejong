@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다운되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>의미역 부분 수정</mod_note>
+				<mod_note>센스 추가</mod_note>
+				<mod_note>적정명사 처리</mod_note>
+				<mod_note>의미부류 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">다운이 되다</var>
+			<str>N.되</str>
+			<org lg="en">down_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be knocked down</trans>
+				<lr>
+					<hyper>맞다</hyper>
+					<hyper>눕다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|동물</sel_rst>
+					<eg>다음날 알고 보니 나는 술먹고 객기를 부리다가 친구에게 다운됐던 것이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be knocked down</trans>
+				<domain>운동</domain>
+				<lr>
+					<syn type="perfect">케이오되다</syn>
+					<hyper>맞다</hyper>
+					<hyper>눕다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>챔피언이 도전자에게 다운됐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>get depressed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">사태</sel_rst>
+					<n_appr arg="X">기분</n_appr>
+					<n_appr arg="X">사기</n_appr>
+					<eg>우리 작업조의 조원들은 작업 감독의 말에 다운되어서 일할 의욕을 잃고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>be broken down</trans>
+				<lr>
+					<syn type="kor">멈추다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기계(컴퓨터|서버)|시설망(전화선)|(게시판)|(시스템|프로그램)</sel_rst>
+					<eg>하드 디스크나 KSSM 카드를 추가했을 때 시스템이 다운되는 경우가 자주 발생하게 된다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>get down</trans>
+				<lr>
+					<syn type="kor">낮아지다</syn>
+					<ant type="dir">업되다</ant>
+					<ant type="dir">올라가다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">금전|크기|수량</sel_rst>
+					<sel_rst arg="Y" tht="FNS">속성</sel_rst>
+					<eg>정부의 노력 덕분에 계속 치솟고 있던 부동산 가격이 조금이나마 다운되었다.</eg>
+					<eg>대기업의 상품가격이 다운되는 바람에 중소기업들이 고생하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

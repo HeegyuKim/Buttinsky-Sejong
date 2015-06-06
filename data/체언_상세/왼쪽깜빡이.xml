@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>왼쪽깜빡이</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>송근영</cre_writer>
+				<cre_note>동의어 정보 검토요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var, 동의어 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xx">왼쪽깜박이</var>
+			<var type="spr">왼쪽 깜빡이</var>
+			<str type="N_N">왼쪽+깜빡이</str> <!-- 왼쪽과 깜빡이를 각각 더 분석할 수 있음 -->
+			<org lg="si"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>뒷차가 ~를 켜고 우리 차를 추월하기 시작했다.</eg>
+				<trans>left turn signal indicator</trans>
+				<domain></domain>
+				<sem_class>교통기관의부분</sem_class>
+				<lr>
+					<syn type="etc">왼쪽 방향지시등</syn> <!-- 완전한 한자 동의어가 아니어서 sino 유형값을 주지 않았음 -->
+					<syn type="etc">왼쪽깜박등</syn><!--추가(김이정)-->
+					<syn type="sino">좌측 방향지시등</syn>
+					<ant type="dir">오른쪽깜빡이</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 켜다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 넣다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 깜빡거리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

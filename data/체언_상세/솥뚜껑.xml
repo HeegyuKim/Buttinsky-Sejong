@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+
+<superEntry>
+	<orth>솥뚜껑</orth>
+	<entry n="1" pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/15</cre_date>
+				<cre_writer>목정수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/07/15</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/10</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note>cl 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/10/17</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note>add정보이동</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/06</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2003/07/15(목정수)</note>
+			<add>~을 열다|닫다</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="xs">소댕</var>
+			<var type="xd">솥다깨</var>
+			<str type="N_N">솥+뚜껑</str>
+			<org lg="temp"></org>
+		
+			<hom exist="temp"></hom>
+			<der pos="temp" type="temp"></der>
+			<comp pos="n" type="suffix">~운전수</comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="prv">~에 엿을 놓았나</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>콩나물을 데칠 때에는 ~을 잘 덮어야 한다.</eg>
+				<trans>the lid of a kettle</trans>
+				<domain></domain>
+				<reg></reg>
+				<con></con>
+				<sem_class>부분</sem_class>
+				<lr>
+					<syn type="temp"></syn>
+					<ant type="temp"></ant>
+					<holo>솥</holo>
+					<rel></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="temp"></comb_aj>
+				<comb_n type="temp"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 열다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 닫다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni">개</cl>
+				<prt></prt>
+				<av></av>
+				<pre_d/>
+				<pre_n/>
+				<s_n/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

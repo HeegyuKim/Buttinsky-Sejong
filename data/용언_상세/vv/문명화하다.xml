@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>문명화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">문명화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">文明化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>civilize</trans>
+				<lr>
+					<syn type="perfect">개화하다</syn>
+					<syn type="perfect">개명하다</syn>
+					<ant type="compl">미개화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">국가|종족</sel_rst>
+					<eg>로마인들은 고대 영국인을 문명화하기 시작했다.</eg>
+					<eg>당시 제국주의자들은 야만인들을 문명화하는 것은 백인들의 의무라는 명분을 내걸었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>전이</sem_class>
+				<trans>get civilized</trans>
+				<lr>
+					<syn type="perfect">개화하다</syn>
+					<syn type="perfect">개명하다</syn>
+					<ant type="compl">미개화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">국가|종족</sel_rst>
+					<eg>양계초는 급변하는 세계사적 환경에서 중국이 문명화하기 위한 첫 번째 요소로서 자유를 주창하였다.</eg>
+					<eg>이 책은 이누이트들이 자신들의 삶의 방식을 버리고 문명화하는 아쉬움도 함께 그려내고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

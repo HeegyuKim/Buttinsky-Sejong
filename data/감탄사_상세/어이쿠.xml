@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE icDic SYSTEM "2007ic.dtd">
+
+<icDic>
+<superEntry>
+	<orth>어이쿠</orth>
+	<entry n="1" pos="ic">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/09/25</cre_date>
+				<cre_writer>김진형</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2003/06/22</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/12/07</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>기술 형식 검증</mod_note>
+			</mod>
+			<note>2003/06/22(김진형)센스2 sem 수정</note>
+		</mnt_grp>
+		<head_grp>
+			<org lg="temp"></org>
+			<hom exist="temp"/>
+			<osr></osr>
+		</head_grp>
+		<morph_grp>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<var type="dup"></var>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="big"></var>
+			<var type="small">아이코</var>
+			<var type="tense"></var>
+			<var type="aspir"></var>
+			<var type="plain">어이구</var>
+			<var type="hon"></var>
+			<var type="v_var"></var>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어이쿠! 머리 아파.</eg>
+				<sem_class>아픔</sem_class>
+				<trans>Ouch!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아유|아이|악</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>어이쿠! 화분이 너무 커서 혼자 들 수가 없네요.</eg>
+				<sem_class>고됨</sem_class>
+				<trans>Good heavens!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아유|아이</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>어이쿠! 컵이 깨졌네.</eg>
+				<sem_class>놀람</sem_class>
+				<trans>Oops!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아|아유|앗|아니</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="4">
+			<sem_grp>
+				<eg>어이쿠! 이렇게나 귀한 선물을 주시다니.</eg>
+				<sem_class>기쁨</sem_class>
+				<trans>Ah!</trans>
+				<trans>Oh!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아유|아|아이|오</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="5">
+			<sem_grp>
+				<eg>어이쿠! 마지막 남은 희망마저 사라졌군.</eg>
+				<sem_class>절망</sem_class>
+				<trans>Good heavens!</trans>
+				<trans>Good lord!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아|아아</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="6">
+			<sem_grp>
+				<eg>어이쿠! 이번 주말에 친구들과 놀러 가기로 했었지.</eg>
+				<sem_class>깨달음</sem_class>
+				<trans>Well!</trans>
+				<domain></domain>
+				<reg>구어</reg>
+				<lr type="syn">아|아차|앗</lr>
+				<lr type="ant"></lr>
+				<lr type="rel"></lr>
+			</sem_grp>
+			<syn_grp>
+				<dep type="no"/>
+				<ins type="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
+</icDic>
+

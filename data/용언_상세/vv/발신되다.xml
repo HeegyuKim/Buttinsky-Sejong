@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발신되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발신이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<org lg="si">發信_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be sent</trans>
+				<lr>
+					<ant type="conv">착신되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|에게서 Z=N2-에|에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">물리학적대상|기호</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간|인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>여기서 조난 신호가 발신될 수 있어서 다행이야.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>be sent</trans>
+				<lr>
+					<ant type="conv">착신되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|에게서 Z=N2-에|에게|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">편지</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간|인간집단|장소</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>각 가정으로 발신되는 우편물 속에 독극물이 들어있는 사건이 발생해서 온나라가 공포에 떨었다.</eg>
+					<eg>중국에서 발신된 편지가 있으면 대신 받아주시면 고맙겠습니다.</eg>
+					<eg>이것은 미국에서 중국으로 발신되는 편지인데 우리에게로 잘못 온 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

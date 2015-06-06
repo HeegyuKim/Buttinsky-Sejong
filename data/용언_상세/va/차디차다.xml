@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>차디차다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cold as can be</trans>
+				<trans>be ever so cold</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소|기상현상(비)|기운|물관련현상(파도)</sel_rst>
+					<eg>차디찬 얼음물이 마시고 싶다.</eg>
+					<eg>불을 안 땠더니 방이 차디차다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cold as can be</trans>
+				<trans>be ever so cold</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(느낌)|시각적행위(시선)|몸짓및동작(인사)|소통행위|의견(이미지)((</sel_rst>
+					<eg>그 여배우는 이번 역할에서 그녀의 차디찬 이미지를 관객들에게 각인시켰다.</eg>
+					<eg>준호는 미영이를 차디찬 시선으로 바라보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

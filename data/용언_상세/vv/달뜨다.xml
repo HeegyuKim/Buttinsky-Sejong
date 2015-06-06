@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달뜨다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/13</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>grow restless</trans>
+				<lr>
+					<syn type="perfect">들뜨다</syn>
+					<syn type="sino">흥분되다</syn>
+					<ant type="compl">가라앉다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">온</sel_rst>
+					<n_appr arg="X">마음</n_appr>
+					<n_appr arg="X">몸</n_appr>
+					<eg>고향에 닿자마자 화가는 어린애마냥 달떠서 어쩔 줄 모른다.</eg>
+					<eg>결국에 그는 피폐하여 가는 농민 사이를 감도는 엉뚱한 투기심에 몸이 달떴다.</eg>
+					<eg>그는 젊은 여승의 모습을 떠올리자 마음이 적잖이 달떴다.</eg>
+					<eg>그의 마음은 괜스레 달떴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

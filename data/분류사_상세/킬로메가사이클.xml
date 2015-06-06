@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>킬로메가사이클</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/14</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>킬로+메가사이클</str>
+			<org lg="en">kilomegacycle</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 1사이클의 10억 배이다</eg>
+				<cl_subtype type="fqn"/>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

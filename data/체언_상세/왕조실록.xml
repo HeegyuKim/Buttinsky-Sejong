@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>왕조실록</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/29</cre_date>
+				<cre_writer>전미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/06/29</mod_date>
+				<mod_writer>이성헌</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스(텍스트담지물) 추가 후 전체 수정;센스1 의미부류 문학텍스트를 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/04</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">왕조 실록</var>
+			<str type="N_N">왕조+실록</str>
+			<org lg="si">王朝實錄</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그는 조선왕조시대의 문화유산을 안내하는 일을 하면서 고려의 ~을 읽는다.</eg>
+				<trans>record of Dynasty</trans>
+				<domain>역사</domain>
+				<sem_class>텍스트</sem_class><!--'문서'에서 수정 문서는 영수증 등 낱장으로 된 것이고 책의 형태 대부분은 '문학텍스트'로 (이성헌) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n><!--이렇게 쓸수도 있겠지만 한번 이 정보항목의 내용이 되기는 힘들것 같음;괜찮다면 고려~/신라/백제 등을 빠뜨릴 수 없음(이성헌)  -->
+				<!--주의 <frame>은 술어명사와 기능동사 혹은 변이형 결합 두 경우에만 기술하고 나머지 경우에는 기술하지 않음;지침확인(이성헌)  -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 쓰다</form><!--'쓰여지다'를 원형 '쓰다'로 수정;마침표삭제;마침표는 예문에서만 사용;원래있던 frame 삭제(이성헌)  -->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 보존되다</form><!--전미현(2004/06/29) '보존되다'의 원형을 써야 하는지?;(이성헌) 그렇다고 생각함 '보존되어 있다'를 '보존된다'로 고침;마침표 삭제-->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 의하다</form><!--추가(이성헌)  -->
+				</comb_v>
+				<max_n_str></max_n_str><!--해당사항이 없으므로 아래의 기술내용 삭제(이성헌) -->
+				<sel_rst arg="X"></sel_rst>
+				<sel_rst arg="Y"></sel_rst>
+				<cl type="uni"></cl>
+				<!--이 항목은 표제어와 결합하는 조사들에 제약이 따를 때 가능한 것들만을 나열기재함;이표제어는 주격, 목적격 등 모든 조사와 결합가능하므로 기술내용 모두 삭제힘(이성헌)-->
+				<!--'왕조실록에' 처럼 장소보어는 부사적 용법을 간주하지 않아 삭제;'아침|아침에'나 '만약|만약에'등이 여기에 해당 (이성헌)-->
+				</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>세종대왕의 측우기 발명 이후 500 여년동안 전국의 강우를 측정하였고 그 중 100년 이상의 기록이 ~에 남아 있다.</eg>
+				<eg>조선의 ~이 박물관에 보존되어 있다.</eg>
+				<trans>record of Dynasty</trans>
+				<domain>역사</domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 적다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 기록하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 보관하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">권</cl><!--'부'외에 추가(이성헌) -->
+				<cl type="uni">부</cl>
+				<cl type="div">편</cl><!--'uni'를 div로 수정 위치조정  -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

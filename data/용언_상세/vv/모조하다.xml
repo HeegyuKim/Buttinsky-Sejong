@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>모조하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">모조를 하다</var>
+			<str>N.하</str>
+			<org lg="si">模造_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>imitate</trans>
+				<lr>
+					<syn type="perfect">모방하다</syn>
+					<ant type="compl">독창하다</ant>
+					<ant type="compl">창조하다</ant>
+					<hyper>만들다</hyper>
+					<hyper>베끼다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>초석은 통일신라 시대의 것을 그대로 모조하여 회랑지를 제외한 주 건물터에만 배치해 놓았다.</eg>
+					<eg>상인들이 홍인차품을 모조하여 가짜품을 시중에 유통시켜 어느 것이 진품이고 어느 것이 가짜인지 분별하기가 난분하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

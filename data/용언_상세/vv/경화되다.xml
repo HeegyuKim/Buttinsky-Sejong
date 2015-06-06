@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">硬化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get hard</trans>
+				<trans>be hardened</trans>
+				<lr>
+					<syn type="perfect">경색되다</syn>
+					<syn type="kor">딱딱해지다</syn>
+					<ant type="compl">연화되다</ant>
+					<hyper>굳다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>유충은 수서성으로 몸은 굵은 원통형에 가깝고, 겉은 단단하게 경화되었다.</eg>
+					<eg>고혈압 환자는 동맥이 경화되기 쉽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get inflexible</trans>
+				<trans>be stiffened</trans>
+				<lr>
+					<syn type="perfect">경색되다</syn>
+					<hyper>굳다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|행위</sel_rst>
+					<eg>68년 체코슬로바키아에의 침공 이후 중국의 문화정책은 더욱 경화되었다.</eg>
+					<eg>결국 프랑스와 호지명 정권의 협조무드는 깨어지고 호 정권의 대불 태도는 경화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

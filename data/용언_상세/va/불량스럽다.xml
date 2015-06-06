@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>불량스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/29</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RS</str>
+			<org lg="si">不良_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bad</trans>
+				<trans>be evil</trans>
+				<lr>
+					<syn type="perfect">불량하다</syn>
+					<ant type="grad">선량하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>그녀는 아들이 불량스러운 친구들과 어울려 다니는 것은 아닌 지 늘 노심초사했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be bad</trans>
+				<trans>be evil</trans>
+				<lr>
+					<syn type="perfect">불량하다</syn>
+					<ant type="grad">선량하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">품격속성(성격|마음씨)|행위(태도|자세|행동)</sel_rst>
+					<eg>그는 환경 탓에 그늘진 면이 있긴 하지만 그다지 불량스러운 성격을 지닌 것은 아니었다.</eg>
+					<eg>학생들의 불량스러운 태도에 그는 잠시 주춤했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

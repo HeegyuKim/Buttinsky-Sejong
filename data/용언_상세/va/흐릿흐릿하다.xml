@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흐릿흐릿하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/07/22</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>신지원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/25</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">흐릿하다</var>
+			<str>II.하</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be cloudy</trans>
+				<trans>be overcast</trans>
+				<lr>
+					<syn type="perfect">흐리다</syn>
+					<ant type="grad">맑다</ant>
+					<ant type="grad">쾌청하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상태(날|날씨)|(하늘)</sel_rst>
+					<eg>가을철엔 이곳은 늘 날씨가 흐릿흐릿하다.</eg>
+					<eg>하늘이 흐릿흐릿한 게 비라도 오려나 보다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be vague</trans>
+				<trans>be dim</trans>
+				<lr>
+					<syn type="sino">희미하다</syn>
+					<ant type="grad">밝다</ant>
+					<ant type="grad">환하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">조명기구|빛</sel_rst>
+					<eg>그는 흐릿흐릿한 전등 아래서 뭔가를 열심히 들여다보고 있었다.</eg>
+					<eg>전구를 갈아야 할 때가 되었는지 불빛이 흐릿흐릿하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be vague</trans>
+				<trans>be dim</trans>
+				<trans>be obscure</trans>
+				<trans>be indistinct</trans>
+				<lr>
+					<syn type="sino">희미하다</syn>
+					<ant type="grad">선명하다</ant>
+					<ant type="grad">뚜렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<n_appr arg="X">윤곽</n_appr>
+					<n_appr arg="X">모습</n_appr>
+					<n_appr arg="X">형태</n_appr>
+					<eg>저 멀리 흐릿흐릿하게 보이는 것이 대마도입니다.</eg>
+					<eg>안개 탓에 집들의 형태가 흐릿흐릿하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dull</trans>
+				<trans>be dim</trans>
+				<trans>be blurred</trans>
+				<lr>
+					<syn type="sino">침침하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(눈)|속성(시야)</sel_rst>
+					<eg>노안이 오는 탓인지 눈이 흐릿흐릿하고 쉽게 피곤해진다.</eg>
+					<eg>쏟아지는 눈물 때문에 시야가 흐릿흐릿했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be vague</trans>
+				<trans>be hazy</trans>
+				<trans>be fuzzy</trans>
+				<trans>be obscure</trans>
+				<lr>
+					<syn type="sino">희미하다</syn>
+					<syn type="perfect">가물가물하다</syn>
+					<ant type="grad">뚜렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(기억|추억|생각)</sel_rst>
+					<eg>이제는 기억도 흐릿흐릿하지만 언젠가 그 사람과 이곳을 온 적이 있었다.</eg>
+					<eg>그는 흐릿흐릿한 추억 속에서 그의 얼굴을 떠올려 보려고 노력했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be vague</trans>
+				<trans>be hazy</trans>
+				<trans>be fuzzy</trans>
+				<lr>
+					<syn type="perfect">흐리다</syn>
+					<syn type="perfect">가물가물하다</syn>
+					<ant type="grad">맑다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(정신|의식)</sel_rst>
+					<eg>나이가 들면서 그는 정신이 흐릿흐릿해서 곧잘 실수를 저지르곤 했다.</eg>
+					<eg>그는 정신이 흐릿흐릿한 상태에서도 딸의 이름만 부르고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

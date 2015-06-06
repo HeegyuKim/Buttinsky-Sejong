@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>호감</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/09/16</cre_date>
+				<cre_writer>서진숙</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/26</mod_date>
+				<mod_writer>서진숙</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/05</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/11/17</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/20</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>관계어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/08</mod_date>
+				<mod_writer>신선옥</mod_writer>
+				<mod_note>합성어 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="temp"></var>
+			<str type="temp"></str>
+			<org lg="si">好感</org>
+			<hom exist="yes"></hom>
+			<der pos="n" type="suffix">~도</der>
+			<comp pos="temp" type="temp"></comp>
+			<metc pos="temp" type="temp"></metc>
+			<img type="temp"></img>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그를 만날수록 더욱 ~이 갔다.</eg>
+				<trans>good feeling</trans>
+				<trans>goodwill</trans>
+				<trans>favorable impression</trans>
+				<sem_class>외향적심리상태</sem_class>
+				<lr>
+					<syn type="perfect">호감정</syn>
+					<ant type="etc">악감정</ant>
+					<ant type="etc">반감</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 느끼다</form>
+					<frame>X-이 Y-에게 ~을 느끼다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 Y-에게 ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 가다</form>
+					<frame>X-이 Y-에게 ~이 가다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 주다</form>
+					<frame>Y-이 X-에게 ~을 주다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 사다</form>
+					<frame>Y-이 X-에게 ~을 사다</frame>
+					<frame>Y-이 X-의 ~을 사다</frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">온</sel_rst>
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

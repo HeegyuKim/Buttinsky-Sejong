@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쓰잘데없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/24</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be needless</trans>
+				<trans>be unnecessary</trans>
+				<trans>be gratuitous</trans>
+				<trans>be useless</trans>
+				<trans>be unworthy</trans>
+				<trans>be unusable</trans>
+				<trans>be unserviceable</trans>
+				<trans>be of no use</trans>
+				<trans>be of no service</trans>
+				<trans>be of no avail</trans>
+				<trans>be of no good</trans>
+				<trans>be no-good</trans>
+				<trans>be good for nothing</trans>
+				<trans>be unhelpful</trans>
+				<trans>be superfluous</trans>
+				<trans>be redundant</trans>
+				<trans>be spare</trans>
+				<trans>be expletive</trans>
+				<lr>
+					<syn type="perfect">쓸데없다</syn>
+					<syn type="perfect">쓸모없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에|에게 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(짓|수작|일|소리|이야기)|인지상태(생각)|인간|구체물|추상적대상(지식)|장소</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단|행위</sel_rst>
+					<eg>그런 소리는 아무리 해 봐야 우리한테 전혀 쓰잘데없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(짓|수작|일|소리|이야기)|인지상태(생각)|인간|구체물|추상적대상(지식)|장소</sel_rst>
+					<sel_rst arg="Y" tht="CRT">S데</sel_rst>
+					<eg>그런 행동은 우리의 목표를 달성하는 데에 전혀 쓰잘데없는 짓이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단|행위</sel_rst>
+					<eg>다 지나간 이야기를 하는 것은 우리에게 쓰잘데없다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="CRT">S데</sel_rst>
+					<eg>다 지나간 이야기를 하는 것은 우리의 목표를 달성하는 데에 전혀 쓰잘데없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

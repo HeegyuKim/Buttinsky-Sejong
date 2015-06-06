@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>절대화되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/24</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">절대화가 되다</var>
+			<str>N.되</str>
+			<org lg="si">絶對化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be absolutized</trans>
+				<lr>
+					<ant type="compl">상대화되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">방법|역할|능력|사실명제|언어요소|자연법칙|규범|관습|권력|제도|속성값|행위</sel_rst>
+					<eg>외환 위기 당시 한국경제에서 미국의 입김은 더욱 절대화되었다.</eg>
+					<eg>중세에 교황권은 경제, 모든 세속적 영역까지 확대되었으며 절대화되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

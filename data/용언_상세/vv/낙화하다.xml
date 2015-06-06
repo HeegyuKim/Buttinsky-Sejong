@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>격틀 관련 메모</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">낙화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">落花_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>flowers fall</trans>
+				<lr>
+					<syn type="perfect">낙영하다</syn>
+					<syn type="perfect">낙홍하다</syn>
+					<ant type="compl">개화하다</ant>
+					<hyper>떨어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame><!--주어 없이 쓰이는 경우도 있음.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">꽃</sel_rst>
+					<eg>목련꽃이 낙화한 모습을 보니 인생이 무상하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

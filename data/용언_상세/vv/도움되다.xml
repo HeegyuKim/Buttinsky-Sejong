@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도움되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.되</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be helpful</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|사건</sel_rst>
+					<eg>이 책이 너에게 크게 도움될 것으로 나는 믿는다.</eg>
+					<eg>이 운동이 너 건강에는 도움될 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|사건</sel_rst>
+					<eg>이 책을 읽는 것이 너에게 크게 도움될 것으로 나는 믿는다.</eg>
+					<eg>이 운동을 하는 것이 너 건강에는 도움될 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="GOL">S데</sel_rst>
+					<eg>이 책이 네가 그 공부를 하는 데에 크게 도움될 것으로 생각된다.</eg>
+					<eg>이 운동이 네가 건강을 유지하는 데에 분명 도움될 것이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="GOL">S데</sel_rst>
+					<eg>이 책을 읽는 것이 네가 그 공부를 하는 데에 크게 도움될 것으로 나는 믿는다.</eg>
+					<eg>이 운동을 하는 것이 네가 건강을 유지하는 데에 많이 도움될 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

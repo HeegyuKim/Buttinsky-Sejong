@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>마무리되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">마무리가 되다</var>
+			<str>N.되</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be completed</trans>
+				<lr>
+					<syn type="perfect">일단락되다</syn>
+					<syn type="perfect">끝나다</syn>
+					<syn type="sino">완성되다</syn>
+					<ant type="grad">미완되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물|결과행위</sel_rst>
+					<eg>그 일이 마무리되기까지는 열흘 정도 걸릴 것이다.</eg>
+					<eg>이번 작품이 마무리되면 어딘가로 훌쩍 떠나고 싶다.</eg>
+					<eg>청계천 공사 구간에는 이미 하수관 등이 묻혔으며 양안 벽면 공사도 대부분 마무리돼 물길이 빠르게 드러나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

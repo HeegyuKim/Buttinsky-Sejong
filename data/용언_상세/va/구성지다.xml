@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>구성지다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/02</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/09</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리속성값</sem_class>
+				<trans>be becoming</trans>
+				<trans>be tasteful</trans>
+				<trans>be elegant</trans>
+				<trans>be charming</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리|소리속성|음악작품</sel_rst>
+					<eg>가을 들판에 추수하는 농부들의 노랫소리가 구성지게 울려 퍼진다.</eg>
+					<eg>밀양아리랑은 경상도 특유의 뚝심이 배어나 씩씩하고, 진도아리랑은 호남들판이 베푸는 맛처럼 구성지다.</eg>
+					<eg>입동이 지난 후에 내리는 빗소리는 사뭇 구성지다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

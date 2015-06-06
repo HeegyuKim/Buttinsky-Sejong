@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계량되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정</mod_note>
+				<mod_note>예문 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계량이 되다</var>
+			<str>N.되</str>
+			<org lg="si">計量_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be measured</trans>
+				<lr>
+					<rel>계측되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">곡식(밀가루|쌀)|액체(물)</sel_rst>
+					<eg>계량된 밀가루를 사용했더니 수제비가 평소보다 더 맛있는 것 같다.</eg>
+					<eg>말씀하신 양만큼 물이 계량되어 있으니 요리하실 때 사용하시기 바랍니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be expressd numerically</trans>
+				<lr>
+					<syn type="perfect">수치화되다</syn>
+					<hyper>산출되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>신용리스크가 잘 계량되면 은행을 경영하는 데에 장기적으로 도움이 된다.</eg>
+					<eg>우리 회사는 해마다 있었던 수출입 내역이 잘 계량되어 있는 편인데도, 가끔 어긋난 예측을 하기도 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

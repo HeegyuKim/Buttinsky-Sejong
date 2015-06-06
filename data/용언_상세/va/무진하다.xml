@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무진하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">無盡_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be unlimited</trans>
+				<lr>
+					<syn type="perfect">무궁무진하다</syn>
+					<syn type="kor">끝없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">긍정적인성속성값(호기심|상상력|창의력)</sel_rst>
+					<eg>우리는 이 글을 통해 아이들의 무진한 호기심과 상상력을 엿볼 수 있다.</eg>
+					<eg>젊은 여러분에게는 가능성이 무진하다는 점을 잊지 마시기 바랍니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>무진한</infl_rst>
+			<trans>unlimited</trans>
+			<defect_eg>그들은 이번 사업의 성공을 위해 무진한 노력을 기울여 왔다.</defect_eg>
+			<defect_eg>노배우는 팬들의 무진한 사랑과 성원에 감사드린다고 수상 소감을 밝혔다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

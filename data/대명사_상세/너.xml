@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>너</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/08/20</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xs">네</var>
+			<var type="xd">니</var>
+					<hom exist="yes"/>
+			<der pos="n" type="suffix">~네</der>
+			<comp pos="av" type="suffix">~나없이</comp>
+			<comp pos="av" type="suffix">~도나도</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="prv">~ 자신을 알라</idm>
+		</idm_grp>
+		<sense n="1" sem="2" num="singular" ref="human">
+			<sem_grp>
+				<eg>~는 뭘 살래?</eg>
+				<eg>어릴 적의 ~는 참 귀엽기도 했지</eg>
+				<trans>you</trans>
+				<lr>
+					<syn type="etc">네</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

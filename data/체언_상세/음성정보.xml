@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>음성정보</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;의미를 '말소리의 정보'와 '음성으로 전달되는 정보'로 분할</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스1 n_aj 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">음성 정보</var>
+			<str type="N_N">음성+정보</str>
+			<org lg="si">音聲情報</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~가 제대로 전달이 되지 않아서 무슨 말을 하는지 알 수가 없다.</eg>
+				<eg>기계가 ~를 정확하게 인식하고 합성하는 분야는 현대 산업의 꽃이라 할 수 있다.</eg>
+				<trans>speech information</trans>
+				<domain></domain>
+				<sem_class>사실명제</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 정확하다</comb_aj>
+				<comb_n type="compound">~ 처리</comb_n> <!-- '~ 처리'는 '논항+술어명사' 구성임, 단 빈도수가 확연히 높을 듯한데,,, -->
+				<comb_n type="compound">~ 시스템</comb_n>
+				<comb_n type="compound">~ 기술</comb_n>
+				<comb_n type="compound">~ 산업</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 처리하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 분석하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>아래 번호에 전화를 걸면 각종 문화행사에 관한 ~를 들을 수 있다.</eg>
+				<trans>oral information</trans>
+				<trans>audio information</trans>
+				<domain></domain>
+				<sem_class>사실명제</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 서비스</comb_n> <!-- '~ 서비스'는 '논항+술어명사' 구성임, 단 빈도수가 확연히 높을 듯한데,,, -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

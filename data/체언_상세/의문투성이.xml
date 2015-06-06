@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의문투성이</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem 검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/18</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '속성'에서 '높은정도'로 수정했으나 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의문 투성이</var>
+			<str type="N_R">의문+투성이</str>
+			<org lg="si">疑問___</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 녀석이 어디서 태어나고 어떻게 우리집 막내가 되었는지 모든 것이 ~이다.</eg>
+				<eg>그간의 당 재정 운영 상황은 통장에 당비와 후원회비가 뒤섞여 입금되어 있는 등 ~였다.</eg>
+				<trans>mass of a doubt</trans>
+				<domain></domain>
+				<sem_class>높은정도</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 이다</form>
+					<frame>X-이 ~이다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">온</sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n><!--불가능하지 않나요?(김이정)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

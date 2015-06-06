@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전기자동차</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전기 자동차</var>
+			<str type="N_N">전기+자동차</str><!--'자동+차'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">電氣自動車</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>기름값이 계속 치솟자 ~에 대한 연구가 다시 시작되었다.</eg>
+				<eg>이 회사의 ~는 충전된 에너지가 바닥나면 태양광을 활용한 에너지로 계속 달릴 수 있다.</eg>
+				<trans>battery car</trans>
+				<trans>electric automobile</trans>
+				<domain></domain>
+				<sem_class>육상교통기관</sem_class><!--전기전자기구?(권오희)--><!--육상교통기관 ok(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">소형 ~</comb_n>
+				<comb_n type="compound">순수 ~</comb_n>
+				<comb_n type="compound">시험용 ~</comb_n>
+				<comb_n type="compound">풍력 ~</comb_n>
+				<comb_n type="compound">하이브리드 ~</comb_n>
+				<comb_n type="compound">~ 개발</comb_n>
+				<comb_n type="compound">~ 도입</comb_n>
+				<comb_n type="compound">~ 출시</comb_n>
+				<comb_n type="compound">~ 판매</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개발하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 도입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 출시하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 판매하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">대</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

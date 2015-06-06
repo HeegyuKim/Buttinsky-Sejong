@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대변하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>의미역 수정</mod_note>
+				<mod_note>프레임 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대변을 하다</var>
+			<str>N.하</str>
+			<org lg="si">代辯_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>speake for</trans>
+				<lr>
+					<hyper>변호하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(태도|의견|입장)|정적사태|추상적대상</sel_rst>
+					<eg>그는 정부 안에서 항상 대중보다는 금융자산가의 이익을 대변했다는 비판은 받았다.</eg>
+					<eg>그 동안 정부 여당측은 재벌을 대변했다는 비판을 피하기 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물|텍스트|텍스트담지물|소통행위</sel_rst><!--적절한 의미역부여가 어려워 확인요망-->
+					<sel_rst arg="Y" tht="THM">(태도|의견|입장)|정적사태</sel_rst>
+					<eg>'시간은 돈이다'라는 슬로건이 산업사회를 대변했다.</eg>
+					<eg>한 시민이 성당에 떨어뜨리고 간, 비닐 봉투에 성금과 함께 들어 있었던 쪽지는 민주주의를 갈망하는 온 국민의 마음을 이렇게 대변했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

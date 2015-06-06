@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>평가절하하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">평가절하를 하다</var>
+			<str>N.하</str>
+			<org lg="si">平價切下_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>devaluate</trans>
+				<trans>devalue</trans>
+				<domain>경제</domain>
+				<lr>
+					<ant type="compl">평가절상하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">국가|국가기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">돈</sel_rst>
+					<eg>북한이 거의 와해된 상태의 경제를 소생시키려는 조치의 일환으로 자체의 원화 환율 을 대폭 평가절하했다.</eg>
+					<eg>당시 정부는 원화를 평가절하하는 방안을 검토한 바 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>devalue</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상|사태</sel_rst>
+					<eg>그 여배우는 영화사의 이번 결정은 자신을 평가절하한 데서 나온 것이라며 격분했다.</eg>
+					<eg>나는 우리의 고유 문화를 평가절하하는 듯한 그 사람의 말에 기분이 상했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

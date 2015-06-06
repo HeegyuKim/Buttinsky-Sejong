@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>사이</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/11</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/09/11(방성원)시간적 의미만 의존명사의 용법으로 처리하였음</note>
+			<note>필수성을 고려하여 synt_b, synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">새</var>
+					<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">눈 깜짝할 ~</idm>
+			<idm type="etc">눈 코 뜰 ~가 없다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>내가 잠깐 외출한 ~에 딸애가 집을 나가 버렸다</eg>
+				<eg>너를 기다리는 ~에 숙제를 다 마쳤다</eg>
+				<eg>이틀 ~에 이 많은 일들을 다 해 낼 수 있을까요?</eg>
+				<lr>
+					<syn type="etc">동안</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<prt>~(에)</prt>
+				<pre_d>그</pre_d>
+				<pre_d>어느</pre_d>
+				<pre_n>N</pre_n>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>하도 바빠서 저녁을 준비할 ~가 없었다.</eg>
+				<lr>
+					<syn type="etc">시간</syn>
+					<syn type="etc">틈</syn>
+					<syn type="etc">여유</syn>
+					<syn type="etc">겨를</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<prt>~가</prt>
+				<comb_aj type="appr">~가 없다</comb_aj>
+				<comb_aj type="appr">~가 있다</comb_aj>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

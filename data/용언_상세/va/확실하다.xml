@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>확실하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/04/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">確實_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be certain</trans>
+				<trans>be definite</trans>
+				<lr>
+					<syn type="perfect">분명하다</syn>
+					<ant type="grad">불확실하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>이번 대선에서는 야당의 승리가 거의 확실하다.</eg>
+					<eg>이 일을 상부에 보고하기 위해서는 단순한 짐작이 아닌 확실한 증거를 확보해야 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것|S음</sel_rst>
+					<eg>내일 휴강하는 것이 확실하니?</eg>
+					<eg>여러 가지 정황으로 볼 때 그 여자가 범인임이 확실하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be thorough</trans>
+				<lr>
+					<syn type="perfect">분명하다</syn>
+					<syn type="kor">빈틈없다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|물리적행위(직무|일|매사)</sel_rst>
+					<eg>그는 금전 문제에 확실하다.</eg>
+					<eg>그 사람은 매사에 확실하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>그는 사람들과의 관계를 맺고 끊는 데에 확실하다.</eg>
+					<eg>그 사람은 자신이 맡은 일을 마무리하는 데에 확실하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be efficient</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>무좀 치료에 이보다 확실한 약이 없다.</eg>
+					<eg>아이들의 영어 교육에는 이 방법이 확실하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>이 약은 설사를 멈추게 하는 데에 확실하다.</eg>
+					<eg>이 방법이 그를 설득하는 데에 가장 확실해 보인다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>괜한 핑계를 늘어 놓기보다는 솔직히 사실을 말하는 것이 그의 분노를 가라앉히는 데에 더 확실할 것이다.</eg>
+					<eg>그 곳에 가는 데는 버스보다 지하철을 타는 것이 더 확실하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

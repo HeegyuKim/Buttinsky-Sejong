@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>휘말리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.리2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be rolled</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">옷|천|종이</sel_rst>
+					<eg>나는 치마가 자꾸 휘말려 올라가는 바람에 곤욕을 치뤄야 했다.</eg>
+					<eg>너무 얇은 탓인지 종이가 자꾸 휘말린다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(혀|혀끝)</sel_rst>
+					<eg>잔뜩 취한 남편은 혀가 휘말린 소리로 횡설수설했다.</eg>
+					<eg>약 기운 탓인지 그는 스스로 혀끝이 휘말리는 듯한 느낌이 들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be swept</trans>
+				<trans>be swallowed</trans>
+				<lr>
+					<syn type="perfect">휨쓸리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="EFF">물관련현상(급류|물살)</sel_rst>
+					<eg>배는 거친 물살에 휘말려 하류로 떠내려갔다.</eg>
+					<eg>물놀이를 하던 일가족 세 명이 급류에 휘말려 실종되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be involved</trans>
+				<trans>be entangled</trans>
+				<lr>
+					<syn type="perfect">휩쓸리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="EFF">정적사태|행위|사건</sel_rst>
+					<eg>그는 표절 소송에 휘말려 위기를 맞게 되었다.</eg>
+					<eg>나는 친구 사무실에 우연히 들렀다가 괜한 싸움에 휘말려 난처한 꼴이 되고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>고유브랜드</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/30</cre_date>
+				<cre_writer>송신지</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>박진호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/06(정아름)org 정보 수정, 동사결합정보추가</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">고유+브랜드</str>
+			<org lg="si">固有_</org>
+			<org lg="en">__brand</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>캐릭터 업계에서는 일본이 장악하고 있는 국내 캐릭터 시장에서 ~의 입지를 굳히기 위해 게임, 영화 등 다른 산업에도 적용이 가능한 캐릭터 상품 개발에 주력하고 있다.</eg>
+				<trans>peculiar merchandise</trans>
+				<domain></domain>
+				<sem_class>식별속성</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개발하다</form>
+					<frame>X-이 ~를 개발하다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 육성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-이 Y-에 대해 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">경제분야</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

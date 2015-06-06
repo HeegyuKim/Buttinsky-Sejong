@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>누설되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">누설이 되다</var>
+			<str>N.되</str>
+			<org lg="si">漏洩_</org>
+			<org lg="si">漏泄_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be leaked out</trans>
+				<lr>
+					<syn type="perfect">누출되다</syn>
+					<hyper>새다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기체|액체|(물질|폐기물|방사선)</sel_rst>
+					<eg>가스가 저장 탱크에서 누설되는 사고가 발생했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be out</trans>
+				<lr>
+					<syn type="perfect">누출되다</syn>
+					<syn type="kor">새어나가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(비밀|기밀|정보|내용|사실)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>회사 기밀이 누설되는 바람에 우리 회사는 큰 타격을 받았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트담지물(자료|문제지|시험지)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|인간집단</sel_rst>
+					<eg>외부에 문제지가 누설되어 시험이 연기되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

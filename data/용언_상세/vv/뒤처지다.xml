@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뒤처지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/20</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비교</sem_class>
+				<trans>fall behind</trans>
+				<lr>
+					<syn type="perfect">뒤떨어지다</syn>
+					<hyper>처지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>앞에서 출발했는데 어느새 뒤처지기 시작했다.</eg>
+					<eg>그 친구는 다른 사람들보다 훨씬 뒤처진 채 걸어오고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-보다 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(걸음)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>그는 몸이 약해서 친구보다 걸음이 뒤처지기 쉽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비교</sem_class>
+				<trans>fall behind</trans>
+				<lr>
+					<syn type="perfect">뒤떨어지다</syn>
+					<syn type="perfect">뒤지다</syn>
+					<syn type="sino">낙오되다</syn>
+					<hyper>처지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-보다|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>남들한테 뒤처지는 건 정말 싫어.</eg>
+					<eg>다른 회사보다 뒤처지지 않으려면 열심히 해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CRT">(변화)</sel_rst>
+					<eg>변화에 뒤처지는 사람이 되어서는 안 된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(성적|기록)</sel_rst>
+					<sel_rst arg="Y" tht="CRT">인간|인간집단</sel_rst>
+					<eg>성적이 친구보다 뒤처졌다는 사실에 화가 났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

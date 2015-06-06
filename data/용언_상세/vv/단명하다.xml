@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>단명하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김윤신</cre_writer>
+				<cre_note>형용사인지 동사인지 사전마다 다르나 동사로 처리하였음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">단명을 하다</var>
+			<str>N.하</str>
+			<org lg="si">短命_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>단독행위</sem_class>
+				<trans>live short</trans>
+				<trans>die young</trans>
+				<lr>
+					<syn type="perfect">단세하다</syn>
+					<syn type="perfect">단수하다</syn>
+					<syn type="perfect">박명하다</syn>
+					<ant type="grad">장수하다</ant>
+					<ant type="grad">오래살다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물|인간집단|구체인공물</sel_rst>
+					<eg>단백질 섭취가 적은 사람은 빨리 늙고 단명한다.</eg>
+					<eg>사고는 차의 수명을 단축시키는 최대의 적이므로 사고차는 단명한다.</eg>
+					<eg>국민의 뜻을 저버리는 정권은 반드시 단명한다.</eg>
+					<eg>경쟁 업체가 빠르게 확산되는 아이템은 노하우가 없고 모방이 용이하여 단명한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

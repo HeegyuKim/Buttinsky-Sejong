@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계도하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 보충</mod_note>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계도를 하다</var>
+			<str>N.하</str>
+			<org lg="si">啓導_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>guide</trans>
+				<lr>
+					<syn type="perfect">지도하다</syn>
+					<syn type="perfect">계몽하다</syn>
+					<syn type="perfect">교화하다</syn>
+					<hyper>일깨우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간(선생)|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간(학생)|인간집단</sel_rst>
+					<eg>선생님이 학생들을 잘 계도하여 학업에 충실할 수 있게 하였다.</eg>
+					<eg>김 목사가 소년원의 많은 아이들을 계도해 주었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">행위</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<eg>이번 수련이 죄수들을 제대로 계도한 듯, 사람들이 하나같이 모두들 착해졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

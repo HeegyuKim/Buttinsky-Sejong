@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>결산되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/04</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">결산이 되다</var>
+			<str>N.되</str>
+			<org lg="si">決算_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>balance accounts</trans>
+				<lr>
+					<ant type="compl">예산되다</ant>
+					<hyper>계산되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수량|관계추상적대상(결과)</sel_rst>
+					<eg>상반기 경상수지가 결산되었다.</eg>
+					<eg>수출입 실적이 결산되었지만 예상대로 작년보다 훨씬 못하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>sum up</trans>
+				<lr>
+					<syn type="kor">마무리되다</syn>
+					<hyper>끝나다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|추상적대상</sel_rst>
+					<eg>2000년 한해를 보내면서 노동당의 활동을 보면, 올해 노동운동이 결산된다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="FNS">사건|추상적대상</sel_rst>
+					<eg>그러나 독일 좌파의 집권 100일은 라퐁텐의 최근 사임으로 결산되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

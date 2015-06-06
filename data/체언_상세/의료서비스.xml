@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료서비스</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v에서 '~를 제공받다' 삭제,uni 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 서비스</var>
+			<str type="N_N">의료+서비스</str>
+			<org lg="si">醫療___</org>
+			<org lg="en">__service</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 병원은 지역 주민에게 양질의 ~를 제공하고 있다.</eg>
+				<eg>우리는 의료보험제도를 통하여 언제든지 필요한 ~를 받을 수 있게 되어 있다.</eg>
+				<eg>그는 전체적인 ~의 질을 향상시키는 방안의 하나로 의약 분업을 들었다.</eg>
+				<trans>medical service</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 좋다</comb_aj>
+				<comb_aj type="appr">~가 나쁘다</comb_aj>
+				<comb_aj type="appr">~가 약하다</comb_aj>
+				<comb_aj type="appr" pred="no">원활한 ~</comb_aj>
+				<comb_n type="lexfunc">양질의 ~</comb_n>
+				<comb_n type="compound">종합 ~</comb_n>
+				<comb_n type="compound">첨단 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 받다</form>
+					<frame>X-이 Y-에게 ~를 받다</frame>
+					<frame>X-이 Y-에게서 ~를 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 제공하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 이용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>Y-의 X-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|상태인간</sel_rst>
+				<sel_rst arg="Y">국가|의료기관</sel_rst>
+				<cl type="uni">가지</cl>
+				<cl type="uni">개</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

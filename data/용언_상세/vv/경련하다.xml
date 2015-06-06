@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경련하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/29</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경련하다</var>
+			<str>N.하</str>
+			<org lg="si">痙攣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생리행위</sem_class>
+				<trans>be convulsed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<eg>아기가 경련할 때 엄마가 침착하게 대처하는 것이 중요하다.</eg>
+					<eg>그 여자는 두려워서 몸을 떠는 게 아니라 경련하고 있었던 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

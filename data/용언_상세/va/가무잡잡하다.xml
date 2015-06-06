@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가무잡잡하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/27</cre_date>
+				<cre_writer>김건희</cre_writer>
+				<cre_note>색깔을 나타내는 형용사는 적정명사로 색, 색깔 등이 와야 하나, 가무잡잡하다는 피부나 얼굴을 주로 나타내는 말로 적정명사를 좀 다르게 설정, 재검요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">까무잡잡하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be darkish</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">얼굴</n_appr>
+					<n_appr arg="X">피부</n_appr>
+					<n_appr arg="X">피부색</n_appr>
+					<eg>그는 얼굴이 가무잡잡하다.</eg>
+					<eg>영아는 피부색이 가무잡잡한게 아주 매력적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

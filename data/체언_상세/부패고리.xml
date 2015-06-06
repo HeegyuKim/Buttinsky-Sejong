@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부패고리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj, n_v 기술, n_n 추가, 의미부류 기술했으나 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>idm 정보를 n_v로 이동</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사정보에 '형성하다, 연결되다' 추가;형용사정보에 '깊다, 강하다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부패 고리</var>
+			<str type="N_N">부패+고리</str>
+			<org lg="si">腐敗__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="nv"></idm><!--vpred로 기술하는 게 낫지 않을까요?(김이정)-->
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>최상층의 권력과 소수 재벌들의 ~가 형성되면 사회 전체가 부패하기 십상이다.</eg>
+				<eg>세제 개혁과 함께 공무원들의 ~를 끊어 불균형을 시정하려는 노력을 해야 한다.</eg>
+				<trans>link of corruption</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 긴밀하다</comb_aj>
+				<comb_aj type="magn">~가 깊다</comb_aj>
+				<comb_aj type="magn">~가 강하다</comb_aj>
+				<comb_aj type="appr" pred="no">불법적 ~</comb_aj>
+				<comb_n type="compound">~의 단절</comb_n>
+				<comb_n type="compound">~ 청산</comb_n>
+				<comb_n type="compound">~ 척결</comb_n>
+				<comb_n type="compound">~ 근절</comb_n>
+				<comb_n type="compound">~ 형성</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 청산하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 차단하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 끊다</form><!--idm 정보 구획에서 이동시킴(미현)-->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 근절하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 척결하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 연결되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 얽히다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 이어지다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

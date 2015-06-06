@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발단되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/24</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">발단하다</var>
+			<str>N.되</str>
+			<org lg="si">發端_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>get begun from</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|로부터 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|행위</sel_rst>
+					<sel_rst arg="Y" tht="SRC">사건|행위|인지상태</sel_rst>
+					<eg>지난 4월 개업한 모 다방은 지난 5월 종업원이 손님과 대금 관계로 시비가 붙은 사건이 발단돼 벌금은 물론 행정처분으로 영업 정지 2개월을 당했다.</eg>
+					<eg>그의 돌출 행동에서 발단되어 지금 우리 회사는 사원들 간의 반목이 극에 달했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

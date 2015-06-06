@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>응얼거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/07</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/27</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>hum</trans>
+				<trans>murmur</trans>
+				<lr>
+					<syn type="perfect">응얼대다</syn>
+					<syn type="perfect">응얼응얼하다</syn>
+					<syn type="perfect">흥얼거리다</syn>
+					<syn type="perfect">흥얼대다</syn>
+					<syn type="perfect">흥얼흥얼하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">성악곡(노래|가요|유행가|동요)|텍스트(시|시조|기도문)</sel_rst>
+					<eg>어머니는 라디오에서 나오는 노래를 따라 응얼거리며 저녁 준비를 하고 계셨다.</eg>
+					<eg>아이는 선생님이 숙제로 내 주신 시조를 응얼거리며 외고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>murmur</trans>
+				<trans>mutter</trans>
+				<lr>
+					<syn type="perfect">응얼대다</syn>
+					<syn type="perfect">응얼응얼하다</syn>
+					<syn type="perfect">중얼거리다</syn>
+					<syn type="perfect">중얼대다</syn>
+					<syn type="perfect">중얼중얼하다</syn>
+					<hyper>말하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT">소통행위(말|이야기|불평|변명)|추상적대상</sel_rst>
+					<eg>그녀가 늦은 이유를 응얼거리는 동안 어머니는 꼼짝 않고 앉아 계셨다.</eg>
+					<eg>하고 싶은 이야기가 있으면 응얼거리지 말고 똑바로 말해라.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에게 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>기다리는 시간이 길어지자 아이들은 언제 영화가 시작되느냐고 응얼거렸다.</eg>
+					<eg>내 재촉에 남편은 아직 잠이 덜 깬 목소리로 도대체 무슨 일이냐고 나한테 응얼거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

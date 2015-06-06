@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>자본주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>장원철</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/17</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/30</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>동사 결합 정보 기입</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">자본+주의</str>
+			<org lg="si">資本主義</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이윤획득을 목적으로 상품 생산이 이루어진다는 것이 공산주의와 대별되는 ~의 가장 큰 특징이다.</eg>
+				<trans>capitalism</trans>
+				<domain></domain>
+				<sem_class>정치사조</sem_class>
+				<lr>
+					<syn type="etc">화폐경제</syn>
+					<syn type="etc">자유주의경제</syn>
+					<ant type="compl">공산주의</ant>
+					<ant type="grad">사회주의</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 체제</comb_n>
+				<comb_n type="compound">~ 경제</comb_n>
+				<comb_n type="compound">천민 ~</comb_n>
+				<comb_n type="compound">국가 ~</comb_n>
+				<comb_n type="compound">후기 ~</comb_n> <!--항목 분리; 목-->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 발달하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 발전하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 정착되다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

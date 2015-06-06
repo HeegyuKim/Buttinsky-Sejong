@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>불심검문</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>의미부류, 분류사 확인 요망, 자세한 사항은 해당 항목에서 언급했음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+				<mod_note>격틀 정보 위치 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미부류를 '단독행위'에서 '방향성행위'로 수정;맥스엔에 'X-의 ~' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">불심 검문</var>
+			<str type="R_N">불심+검문</str> <!-- '불심'이 어근에 있는지?? -->
+			<org lg="si">不審檢問</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>요즘은 경찰들이 수시로 거리에서 ~을 하고 있다.</eg>
+				<trans>questioning of a suspicious person by a patrolman</trans>
+				<domain></domain>
+				<sem_class>방향성행위</sem_class><!--김성용(2004/07/02)의미부류 설정이 애매함, 확인 요망-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form><!--김성용(2004/07/02)vcompound를 yes라고 한 이유는 연세한국어사전에서 '불심검문하다'를 파생어로 처리했기 때문임. 참고로 표준국어대사전에는 파생어로 처리하지 않았음-->
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame>
+					<frame>Y-이 X-에의해 ~을 받다</frame><!--김성용(2004/07/02)같은 격 틀이라도 반복하기로 결정되어서 반복했음-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 당하다</form>
+					<frame>Y-이 X-에게 ~을 당하다</frame>
+					<frame>Y-이 X-에의해 ~을 당하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 응하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 불응하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 거부하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">직업인간(경찰|군인)</sel_rst>
+				<sel_rst arg="Y">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl><!--김성용(2004/07/02)회,차,건이 가능한지 확인 요망-->
+				<cl type="uni">회</cl>
+				<cl type="uni">차</cl> <!--추가(미현)-->
+				<cl type="uni">건</cl> <!--추가(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

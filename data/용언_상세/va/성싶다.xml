@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>성싶다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>RA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>seem</trans>
+			</sem_grp>
+			<frame_grp type="Aaux">
+				<frame>X=S0-은|을 Aaux</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg>나는 예비군을 동원하는 것이 나을 성싶어 재향군인회를 찾아갔으나 책임자가 없어 만나지 못했다.</eg>
+					<eg>다 뒤져보아도 야단스러운 세상과 담 쌓고 지내기로는 여기만한 곳도 없을 성싶어.</eg>
+					<eg>좋은 일을 한 것 같으면서도 어쩐지 성의가 부족한 성싶어 서먹하기가 이를 데 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

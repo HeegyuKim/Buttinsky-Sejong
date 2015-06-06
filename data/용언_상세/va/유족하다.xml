@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>유족하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/23</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/01</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">裕足_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>well off</trans>
+				<lr>
+					<syn type="perfect">풍족하다</syn>
+					<syn type="perfect">부유하다</syn>
+					<syn type="kor">넉넉하다</syn>
+					<ant type="grad">빈한하다</ant>
+					<ant type="grad">가난하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소득|상황</sel_rst> <!--일반적으로 가정형편, 소득수준 등을 지칭하므로-->
+					<eg>이 집은 살림살이가 유족하다.</eg>
+					<eg>저 친구는 어려서부터 유족하게 자라나서, 가난이 뭔지 잘 모른다.</eg>
+					<eg>그 집안 형편은 그리 유족하지 못하지만, 마음 씀씀이만은 넉넉하지.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

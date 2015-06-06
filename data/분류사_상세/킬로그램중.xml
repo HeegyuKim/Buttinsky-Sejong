@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>킬로그램중</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/20</cre_date>
+				<cre_writer>조형실</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>킬로그램+중</str>
+			<org lg="en">kilogram_</org>
+			<org lg="si">____重</org>
+			<symb>kgw</symb>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 질량 1kg의 물체에 작용하는 표준 중력의 크기이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="wgt"/>
+				<lr>
+					<syn type="etc">중량킬로그램</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

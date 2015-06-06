@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>먹먹하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/28</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>항목 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>"변이형" 관련 메모</mod_note>
+				<mod_note>"어휘의미관계" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">막막하다</var><!--그러나 "막막하다"와 동일한 의미로 사용되는 일은 드문 듯함.-->
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>질병및증세</sem_class>
+				<trans>be deaf</trans>
+				<lr>
+					<rel>깜깜하다</rel><!--"눈" 관련.-->
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(귀)</sel_rst>
+					<eg>하도 소리를 질렀더니 귀가 다 먹먹하다.</eg>
+					<eg>콘서트장의 소음 때문에 귀가 먹먹해서 옆사람 얘기도 잘 들리질 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

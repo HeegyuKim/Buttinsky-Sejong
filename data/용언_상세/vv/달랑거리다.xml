@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달랑거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/13</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>의미부류 부분 수정</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">덜렁거리다</var>
+			<var type="etc">탈랑거리다</var>
+			<var type="etc">딸랑거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>jingle</trans>
+				<lr>
+					<syn type="perfect">흔들거리다</syn>
+					<syn type="perfect">소리내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>방울은 굴러가며 몇 번 달랑거리다가 조용해졌다.</eg>
+					<eg>조심스럽게 말하고 있는 그 여자의 고개를 따라 동그란 귀걸이가 안타깝게 달랑거렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>움직임</sem_class>
+				<trans>make st jingle</trans>
+				<lr>
+					<syn type="perfect">흔들거리다</syn>
+					<syn type="perfect">소리내다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>학교가 지척인 상아는 오늘도 가벼운 가방을 달랑거리며 팔자 걸음으로 등교하다가 교문 지도를 하고 있는 담임과 마주쳤다.</eg>
+					<eg>그 허름한 옷차림의 스님은 손에는지팡이를 들고, 등에는 바랑을 메고, 옆구리에는 묵주를 하나 달랑거리며 걷고 있엇다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>be restless</trans>
+				<lr>
+					<syn type="perfect">달싹거리다</syn>
+					<syn type="perfect">가볍다</syn>
+					<ant type="compl">침착하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상|사태</sel_rst>
+					<eg>그 신입생은 모든 일에 달랑거려서 무엇인든 맡기기가 겁난다.</eg>
+					<eg>너는 그렇게 매사에 달랑거리고 안정감이 없어서 무슨 일을 해낼 수 있겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>종료</sem_class>
+				<trans>get short of</trans>
+				<lr>
+					<syn type="perfect">바닥나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(밑천|용돈)|돈|구체인공물|추상적대상</sel_rst>
+					<eg>이제 밑천이 달랑거려서 더 이상 할 이야기가 없다.</eg>
+					<eg>어제 너무 과용하는 바람에 용돈이 달랑거려서 더 이상은 아무 것도 못하겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

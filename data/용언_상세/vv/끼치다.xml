@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>끼치다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/24</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/12</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>연기</sem_class>
+				<trans>have goose</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">기체</sel_rst>
+					<eg>목욕탕 문을 열자, 더운 김이 갑자기 확 끼쳤다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner3">확</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>냄새</sem_class>
+				<trans>smell</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새</sel_rst>
+					<eg>어디선가 비린내가 훅 끼치는 것 같아 나는 창문을 열어 보았다.</eg>
+					<eg>실내로 들어가자 이상한 풀 타는 냄새가 확 끼쳐 왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner3">확</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인간관련현상</sem_class>
+				<trans>come out</trans>
+				<lr>
+					<syn type="perfect">돋다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(소름)</sel_rst>
+					<eg>그 광경을 보자 나는 소름이 확 끼쳤다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner3">확</col>
+				</col_grp>
+			</com>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/24</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/12</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>cause</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(폐|걱정|해)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그 사람은 늘 남에게 폐를 끼친다.</eg>
+					<eg>나는 그 당시에 부모님께 많은 걱정을 끼쳐 드렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>영향</sem_class>
+				<trans>hand down</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(공적|영향|공로)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그 분은 후세에 크나큰 공적을 끼쳤다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(공적|영향|공로)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>그 책이 후세에 크나큰 공적을 끼쳤다.</eg>
+					<eg>민주주의가 우리 사회에 끼친 영향을 한번 살펴보자.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>제약</sem_class>
+				<trans>cause</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(빚|해)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|추상적대상</sel_rst>
+					<eg>그 사람은 자기 아들에게 빚만 끼치고 저 세상으로 가 버렸다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(빚|해)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|추상적대상</sel_rst>
+					<eg>담배는 인체에 해만 끼친다.</eg>
+					<eg>그런 식습관은 건강에 해를 끼친다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

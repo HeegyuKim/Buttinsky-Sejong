@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>잘못짚다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/26</cre_date>
+				<cre_writer>김현권</cre_writer>
+				<cre_writer>박정준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/21</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>DV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>guess wrong</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"/>
+					<eg>나는 그 문제가 나올 것이라고 잘못짚었다.</eg>
+					<eg>우리는 철수가 나타날 것이라고 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S것1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="FNS"/>
+					<eg>그는 비가 올 것으로 잘못짚었다.</eg>
+					<eg>정부는 실업자 문제가 올해는 풀릴 것으로 완전히 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상|구체인공물</sel_rst>
+					<sel_rst arg="Z" tht="FNS">인간|추상적대상|구체인공물</sel_rst>
+					<eg>경찰은 그를 범인으로 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>guess wrong</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체인공물|추상적대상</sel_rst>
+					<eg>그는 범인을 잘못짚었다.</eg>
+					<eg>나는 예상문제를 잘못짚었다.</eg>
+					<eg>경찰은 범인이 타고 올 차를 잘못짚었다.</eg>
+					<eg>아내가 날짜를 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체인공물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">S는것</sel_rst>
+					<eg>나는 오늘을 그날인 것으로 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|구체인공물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>나는 그를 범인이라고 잘못짚었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

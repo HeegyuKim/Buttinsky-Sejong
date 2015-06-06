@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계측하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계측을 하다</var>
+			<str>N.하</str>
+			<org lg="si">計測_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>measure</trans>
+				<lr>
+					<syn type="perfect">측정하다</syn>
+					<hyper>재다</hyper>
+					<rel>계량되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">금전|시간|속성|수학적대상|물리학적대상(치수|압력|소득)</sel_rst>
+					<sel_rst arg="Z" tht="INS">측정도구</sel_rst>
+					<eg>지질학자들이 계측기로 지압의 크기를 계측하였다.</eg>
+					<eg>전문가들은 경주 불국사 경내 석가탑을 첨단시설로 계측하여 보존 정비하기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기사화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/23</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">기사화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">記事化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>write an article on</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(기자)|기업(언론사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">사건|현상</sel_rst>
+					<eg>언론사들이 앞다투어 차 의원의 스캔들을 기사화하였다.</eg>
+					<eg>요즘 기자들은 젊은 여성들의 이중적 소비 양상을 활발하게 기사화하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(기자)|기업(언론사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>언론사들이 앞다투어 차 의원이 뇌물을 받은 것을 기사화하였다.</eg>
+					<eg>김 기자는 요즘 프로야구에서 끝내기 안타가 속출하고 있는 것을 기사화하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>화평하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">和平_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be peaceful</trans>
+				<lr>
+					<syn type="perfect">평화롭다</syn>
+					<syn type="perfect">평안하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개체상황(얼굴|모습|표정|마음)</sel_rst>
+					<eg>신부님은 사람들 앞에서도 언제나 화평한 모습을 잃지 않았다.</eg>
+					<eg>나는 그의 화평한 얼굴에서 안식을 얻곤 했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(가정|사회)|상황(분위기)</sel_rst>
+					<eg>저 아이는 화평한 가정에서 좋은 교육을 받으며 자란 표시가 난다.</eg>
+					<eg>질투나 반목이 없는 화평한 사회를 이루는 것이 우리 모두의 바람이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

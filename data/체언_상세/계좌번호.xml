@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>계좌번호</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>sem 코멘트;sense1 n_v 기술, eg 수정, cl 추가;sense2 n_v frame 삭제</mod_note>
+			</mod>
+			<mod>
+                <mod_date>2007/07/29</mod_date>
+                <mod_writer>이홍식</mod_writer>
+                <mod_note></mod_note>
+            </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">계좌 번호</var>
+			<str type="N_N">계좌+번호</str>
+			<org lg="si">計座番號</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>선생님의 ~를 여기에 적으세요.</eg>
+				<eg>갑자기 내 ~ 끝 여섯 자리가 생각나지 않는다.</eg> <!-- cl 용법을 잘 보이기 위해 예문을 조금 수정(송근영) -->
+				<trans>bank account number</trans>
+				<domain></domain>
+				<sem_class>기호</sem_class> <!-- 식별속성으로도 볼 수 있을 듯(송근영) -->
+				<lr>
+					<syn type="perfect">구좌번호</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 알려주다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="div">자리</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>아래 ~로 송금하시오.</eg>
+				<trans>bank account</trans>
+				<domain></domain>
+				<sem_class>기호</sem_class> <!-- 식별속성으로도 볼 수 있을 듯(송근영) -->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 송금하다</form>
+					<frame></frame>
+						<!-- frame 정보가 불필요해 삭제(송근영) -->
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입금하다</form>
+					<frame></frame>
+						<!-- frame 정보가 불필요해 삭제(송근영) -->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

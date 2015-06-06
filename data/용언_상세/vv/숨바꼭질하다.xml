@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>숨바꼭질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">숨바꼭질을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>play hide-and-seek</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="COM"></sel_rst>
+					<eg>우리 집 아기는 미끄럼틀 아래 공간에 장난감을 들여놓고 친구와 숨바꼭질해 가며 아주 잘 놀아요.</eg>
+					<eg>모래사장에서 시원하고 짭잘한 바닷바람 맞으며 인어공주와 숨바꼭질해 봐요.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT"></sel_rst>
+					<sel_rst arg="Y" tht="AGT"></sel_rst>
+					<eg>우리 집 아기들이 미끄럼틀 아래 공간에 장난감을 들여놓고 숨바꼭질해 가며 아주 잘 놀아요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

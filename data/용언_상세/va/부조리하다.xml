@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>부조리하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">不條理_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be irrational</trans>
+				<trans>be unreasonable</trans>
+				<lr>
+					<syn type="perfect">불합리하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단|인간</sel_rst>
+					<eg>그의 소설은 사회의 부조리한 모습을 담아 내고 있다.</eg>
+					<eg>사람들은 우리 사회가 뭔가 부조리하다는 걸 알면서도 '현실'이라는 말로 무마시키곤 한다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">규범|관습|제도|역사</sel_rst>
+					<eg>시험이란 제도가 부조리하다는 걸 느낍니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

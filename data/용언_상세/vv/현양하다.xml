@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>현양하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">현양을 하다</var>
+			<str>N.하</str>
+			<org lg="si">顯揚_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>extol</trans>
+				<trans>exalt </trans>
+				<lr>
+					<syn type="kor">기리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단|추상적대상|사태|행위|사건</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|사태|행위|사건</sel_rst>
+					<eg>이 상은 우리 나라 법조 문화의 발전에 현저한 공을 세운 이들을 현양하기 위해 만들어졌다.</eg>
+					<eg>우리 선교회는 순교자들의 얼을 현양할 목적으로 설립되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

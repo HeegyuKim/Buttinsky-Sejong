@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>성인방송</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 추가</mod_note>
+				<mod_note>단위표현 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/14</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>지속적활동을 결과행위로 수정;조사 변이형 분할 표기;'방송물'을 별도 의미로 분할해야 할지 검토 필요</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">성인 방송</var>
+			<str type="N_N">성인+방송</str>
+			<org lg="si">成人放送</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>저 방송사는 불법으로 ~을 하다가 적발되었다.</eg> <!--예문 추가(김)-->
+				<eg>이 채널은 10년 동안 심야에 ~을 내보냈다.</eg>
+				<eg>그는 밤늦게 ~을 즐겨 본다.</eg>
+				<eg>과도한 노출로 인해 인터넷의 ~이 비판을 받는다.</eg>
+				<trans>broadcast for adult</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class> <!--행위에서 지속적활동으로 수정(김)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 채널</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame> <!--조사 대표형 수정(김)-->
+					<frame>X-에서 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 내보내다</form>
+					<frame>X-이 ~을 내보내다</frame>
+					<frame>X-에서 ~을 내보내다</frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!--추가(미현)-->
+					<form vcompound="no">~을 보다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단|건물(방송사)</sel_rst>
+				<cl type="uni">번</cl> <!--'번' 삭제(지속적활동으로 보면 '번|회|차례' 등과 공기하기 어려움)(김)--> <!--'번, 차례'와 공기하므로 추가(미현)-->
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

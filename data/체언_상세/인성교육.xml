@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>인성교육</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/04</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;명사결합 정보 추가;'~을 하다'에 형태정보, 조사 변이 정보 추가;동사결합에 '~을 받다' 추가;논항명사구 정보 추가;논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+			<mod_date>2007/07/25</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>기능동사 변이형 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">인성 교육</var> <!-- 추가함 -->
+			<str type="N_N">인성+교육</str>
+			<org lg="si">人性敎育</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>부모는 어렸을 때 부터 자식들의 ~에 중점을 두어야 한다.</eg>
+				<trans>education of human nature</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 프로그램</comb_n> <!-- 추가함 -->
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 Y-을 ~을 하다</frame>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup"> <!-- 추가함 -->
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게 ~을 받다</frame>
+					<frame>Y-이 X-에게서 ~을 받다</frame>
+					<frame>Y-이 X-에서 ~을 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 실시하다</form> <!-- 형태정보 추가 -->
+					<frame>X-이 Y-을 ~을 실시하다</frame>
+					<frame>X-이 Y-에게 ~을 실시하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str> <!-- 추가함 -->
+				<max_n_str>Y-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간|교육기관|혈연집단|지역집단</sel_rst> <!-- 수정함 -->
+				<sel_rst arg="Y">인간|인간집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

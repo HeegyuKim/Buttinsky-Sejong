@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>뻘겋다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/07</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>조원형</mod_writer>
+				<mod_note>정보확장</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">빨갛다</var>
+			<var type="etc">발갛다</var>
+			<var type="etc">벌겋다</var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be deep-red</trans>
+				<lr>
+					<syn type="perfect">붉다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+			    <frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>방안에 온통 뻘건 물건 뿐이다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">빛|불|기상현상|천문현상</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>뻘건 불길이 솟아 올랐다.</eg>
+					<eg>노을 빛이 아주 뻘겋다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(볼|눈)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>술을 많이 마신 듯 볼이 뻘겋다.</eg>
+					<eg>눈이 왜 이렇게 뻘건 거야?</eg>
+					<eg>더운지 얼굴이 뻘겋다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be deep-red</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+			    <frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(산|하늘|거리)</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물(단풍|노을|등|산업폐기물)</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>온 산이 단풍으로 뻘겋다.</eg>
+					<eg>거리가 홍등 빛으로 뻘겋다.</eg>
+					<eg>강물이 산업폐기물로 뻘겋게 변했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

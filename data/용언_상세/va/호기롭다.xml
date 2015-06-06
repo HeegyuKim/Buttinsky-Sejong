@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호기롭다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/10</mod_date>
+				<mod_writer>한선혜</mod_writer>
+				<mod_note>defect 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/08/20</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">豪氣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be heroic</trans>
+				<trans>be gallant</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">기질</n_appr>
+					<eg>고대 신화에 나오는 영웅들의 공통점은 대부분 호기롭다는 것이다.</eg>
+					<eg>그녀는 작은 일에 연연하지 않는 호기로운 남자를 원했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be brave</trans>
+				<trans>be gallant</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위(말|행동|태도)</sel_rst>
+					<eg>그의 호기로운 행동이 때로는 우리를 감동시키기도 한다.</eg>
+					<eg>그의 말과 행동이 호기로웠지만 실제로 충분한 대책을 가지고 있는지 의심스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>호기롭게</infl_rst>
+				<trans>stately</trans>
+				<defect_eg>그는 남들 앞에서는 호기롭게 굴지만 실제로는 겁많고 소심한 사람이다.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>분식</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/25</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/25</mod_date>
+				<mod_writer>한동훈</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사결합 정보 추가</mod_note>
+				<mod_note>동형어 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">粉食</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~을 많이 먹게 되면 속이 나빠지게 된다.</eg>
+				<trans>flour-based meals</trans>
+				<sem_class>음식</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 맛있다</comb_aj>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/12/23</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note>단독으로 쓰이나, 분식회계의 준말로 사용되는 듯</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/09/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<org lg="si">粉飾</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>재계는 2005년 이전에 이루어진 ~에 대해서는 면책해줄 것을 정부에 요구했다.</eg>
+				<trans>window dressing</trans>
+				<domain>경제</domain>
+				<sem_class>결과행위</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_n type="compound">~ 회계</comb_n>
+				<comb_n type="compound">~ 결산</comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 해소하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vsup"> <!-- 추가함, 단 용례가 있는지 검토 필요한 듯 -->
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<!-- SK글로벌의 1조 5000천원대 ~의 배경에는 30년 묵은 부실이 누적되어 있는 것으로 검찰 수사에서 드러났다 -->
+				<sel_rst arg="X">기업</sel_rst>
+				<sel_rst arg="Y">금전</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

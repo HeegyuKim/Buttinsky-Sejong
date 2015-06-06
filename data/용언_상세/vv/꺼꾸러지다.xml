@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꺼꾸러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/25</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">꼬꾸라지다</var>
+			<var type="etc">거꾸러지다</var>
+			<var type="etc">고꾸라지다</var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>fall down</trans>
+				<lr>
+					<hyper>넘어지다</hyper>
+					<hyper>엎어지다</hyper>
+					<hyper>쓰러지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>수희는 어릴 적에 뛰어놀다 꺼꾸러진 적이 한두 번이 아니다.</eg>
+					<eg>커튼을 달다가 바닥으로 꺼꾸러졌을 때의 고통은 당해본 사람만 안다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>lose</trans>
+				<trans>destroy</trans>
+				<lr>
+					<syn type="de_vulgar">패배하다</syn>
+					<syn type="de_vulgar">지다</syn>
+					<hyper>꺾이다</hyper>
+					<hyper>무너지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>전쟁을 오래 하면 언젠가 어느 한 쪽은 꺼꾸러지게 돼 있다.</eg>
+					<eg>그 기업은 사업확장에 실패해서 결국엔 꺼꾸러지고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>die</trans>
+				<lr>
+					<syn type="de_vulgar">죽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|동물</sel_rst>
+					<eg>영수는 엑스트라로 적들의 공격에 꺼꾸러지는 병사 역할을 맡았다.</eg>
+					<eg>기세 좋던 누렁이가 아저씨들의 몽둥이질에 꺼꾸러진 모습을 보니 마음이 아프다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

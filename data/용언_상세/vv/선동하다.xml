@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선동하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>보문의 의미역과 선택제약 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선동을 하다</var>
+			<str>N.하</str>
+			<org lg="si">煽動_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>agitate</trans>
+				<trans>stir</trans>
+				<trans>instigate</trans>
+				<lr>
+					<syn type="kor">부추기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=S2-고 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>국가사회주의당원들은 독일의 경제 불안이 유태인들 때문이라고 사람들을 선동하였다.</eg>
+					<eg>관동대지진시 일본은 한국인들이 사회불안을 조장한다고 국민들을 선동하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="INS">방법|사실명제|언어요소|작품|방송물|비난욕설|텍스트|텍스트담지물|연설</sel_rst>
+					<eg>히틀러는 감정적인 연설로 국민들을 선동했다.</eg>
+					<eg>탁월한 선동가는 말 한 마디로 사람들을 얼마든지 선동할 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

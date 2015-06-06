@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>안배시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/11</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">안배를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">按排_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>distribute</trans>
+				<lr>
+					<syn type="kor">나누다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>새로 뽑힌 집행부는 당직을 각 계파 수장에게 적절히 안배시켰다.</eg>
+					<eg>새 대통령은 국가 기관을 전국 각지에 골고루 안배시키겠다고 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

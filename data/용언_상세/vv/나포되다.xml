@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+
+<superEntry>
+	<orth>나포되다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>선지성</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/30</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">拿捕_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get arrested</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간(범인|죄인)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간(경찰)</sel_rst>
+					<eg>오리무중에 있던 그 사건의 범인이 드디어 경찰에게 나포되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be captured</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|교통기관(선박|비행기)</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단|교통기관(경비정)</sel_rst>
+					<eg>우리 어선 한척이 북측 경비정에 의해 나포되었다.</eg>
+					<eg>미군 병사가 반군에게 나포되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be seized</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">수상교통기관</sel_rst>
+					<sel_rst arg="Y" tht="AGT">수상교통기관</sel_rst>
+					<eg>2차대전 때 연합국의 군함이 독일의 군함에 나포돼 위기를 맞기도 하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

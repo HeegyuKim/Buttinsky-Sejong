@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>감치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be flavory</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">감각(맛)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위</sel_rst>
+					<eg>우리집 된장찌게의 감칠 맛은 온 동네 사람들이 다 안다.</eg>
+					<eg>커다란 뚝배기에 끓여내는 된장찌개는 입안에 감치고 그 맛은 잊을 수가 없다.</eg>
+					<eg>이 요리는 굳이 비린내를 제거하지 않아도 깔끔한 뒷맛이 먹을수록 입에 감치고 깊은 여운을 안겨준다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>be impressed on one's memory</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|신체부위|(마음)</sel_rst>
+					<eg>어제 만난 그 소녀의 얼굴이 계속 머리 속에 감치고 잊혀지지 않는다.</eg>
+					<eg>나는 학창시절의 즐거웠던 기억이 항상 마음 속에 감쳐 그때를 생각하면 늘 마음이 따뜻해진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hem</trans>
+				<trans>whip</trans>
+				<lr>
+					<hyper>꿰매다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체착용물|천</sel_rst>
+					<eg>전삼에는 옷고름을 홑으로 말아 감치고, 다른 부분만 2겹으로 접어 달았다.</eg>
+					<eg>그 여자는 여러 번 삶아내 뽀얗게 된 무명을 손으로 감치고 들꽃 수를 놓는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

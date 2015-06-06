@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>물질하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">물질을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>일</sem_class>
+				<trans>dive into the sea to catch marine products</trans>
+				<lr>
+					<hypo>채취하다</hypo>
+					<hypo>잠수하다</hypo>
+					<hypo>수영하다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">(해녀)</sel_rst>
+					<eg>재주 해녀들이 물질하는 모습을 보면 참 신비스럽다.</eg>
+					<eg>신양리 앞바다는 강인한 생활력으로 평생을 물질해 온 해녀들을 숨비 소리로 가득하다.</eg>
+					<eg>그 마을에는 총 9명의 해녀가 물질해서 생활을 꾸려나가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지지세력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 수정 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지지 세력</var>
+			<str type="N_N">지지+세력</str>
+			<org lg="si">支持勢力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>우리 당의 ~은 대체로 젊은 편이다.</eg>
+				<eg>이승만은 자신의 원내외 ~을 규합하여 자유당을 창당하였다.</eg>
+				<trans>supporter</trans>
+				<domain></domain>
+				<sem_class>정치유파</sem_class><!--정치유파인 듯. 단체로 분류해야 함(김)--><!--정치유파로 수정(권)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">반대세력</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 있다</comb_aj>
+				<comb_aj type="appr">~이 없다</comb_aj>
+				<comb_aj type="appr">~이 적극적이다</comb_aj>
+				<comb_aj type="appr">~이 소극적이다</comb_aj>
+				<comb_aj type="appr">~이 확실하다</comb_aj>
+				<comb_aj type="appr" pred="no">전통적인 ~</comb_aj>
+				<comb_aj type="magn" pred="no">강력한 ~</comb_aj>
+				<comb_n type="compound">개혁 ~</comb_n>
+				<comb_n type="compound">야당 ~</comb_n>
+				<comb_n type="compound">여당 ~</comb_n>
+				<comb_n type="compound">정당 ~</comb_n>
+				<comb_n type="compound">정치적 ~</comb_n>
+				<comb_n type="compound">~ 규합</comb_n>
+				<comb_n type="compound">~ 확장</comb_n>
+				<comb_n type="compound">~의 대립</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 얻다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 잃다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 의식하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확보하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 규합하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 겨냥하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<cl type="grp">무리</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

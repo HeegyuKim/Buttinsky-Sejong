@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>선견하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/08/04</cre_date>
+				<cre_writer>노윤채</cre_writer>
+				<cre_writer>선지성</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/08/04</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/10/20</mod_date>
+				<mod_writer>음두은</mod_writer>
+				<mod_note>동의어, subsense 추가, entry 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선견을 하다</var>
+			<str>N.하</str>
+			<org lg="si">先見_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>foresee</trans>
+				<lr>
+					<syn type="perfect">예견하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태</sel_rst>
+					<eg>그는 장차 일어날 일을 선견하는 능력이 있다.</eg>
+					<eg>적의 전술을 선견할 수만 있다면 전쟁에 이길 수 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그는 장차 그와 같은 비극이 벌어질 것을 선견한 바 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/10/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선견을 하다</var>
+			<str>N.하</str>
+			<org lg="si">先遣</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>accredit</trans>
+				<trans>send out in advance</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소</sel_rst>
+					<eg>정상회담에 앞서 대통령이 특사를 우방국에 선견했다.</eg>
+					<eg>위원회가 사절단을 선견했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/10/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">선견을 하다</var>
+			<str>N.하</str>
+			<org lg="si">選繭</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>select a cocoon </trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(누에|누에고치|고치)</sel_rst>
+					<eg>질좋은 누에고치를 선견하여야 좋은 실을 얻을 수 있다.</eg>
+					<eg>실을 뽑기에 앞서 선견하는 과정이 중요하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

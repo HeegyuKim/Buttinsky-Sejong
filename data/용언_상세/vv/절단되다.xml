@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>절단되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/29</mod_date>
+				<mod_writer>임유종</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">절단이 되다</var>
+			<str>N.되</str>
+			<org lg="si">切斷_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be cut off</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|구체인공물|다리</sel_rst>
+					<sel_rst arg="Y" tht="EFF">기기</sel_rst>
+					<eg>그는 작업 중 전기톱에 손가락 하나가 절단되었다.</eg>
+					<eg>쇠창살이 날카로운 기구에 의해서 절단된 흔적이 있었다.</eg>
+					<eg>한강 철교가 국군에 의해 절단되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

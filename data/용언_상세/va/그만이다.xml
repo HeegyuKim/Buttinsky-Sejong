@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>그만이다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/12</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>격틀 V를 A로 바꿈, 격틀 지수 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.이</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be the end</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=S0-면 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg>그 남자는 이대로 가버리면 그만이라고 생각했다.</eg>
+					<eg>팔고 나면 그만이라는 생각은 이제 더 이상 고객들에게 먹히지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상황값</sem_class>
+				<trans>be enough</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=S0-면 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM"></sel_rst>
+					<eg>그 여자는 이 정도 최선을 다했으면 그만이라고 생각했다.</eg>
+					<eg>이제는 누군가에게 무엇인가 기쁨을 줄 수 있으면 그만이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be the best</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="FNS">온</sel_rst>
+					<eg>삼계탕은 여름철 보양식으로 그만이다.</eg>
+					<eg>이 오솔길은 짧은 산책로로 그만이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be the best</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-에|에게 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">온</sel_rst>
+					<eg>가벼운 맨손체조가 춘곤증에 그만이다.</eg>
+					<eg>넓은 백사장은 더위를 식히기에 그만이다.</eg>
+					<eg>뱀장어는 기력과 정력을 돕는 효과가 탁월하며 특히 수척하고 허약한사람에게 아주 그만이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

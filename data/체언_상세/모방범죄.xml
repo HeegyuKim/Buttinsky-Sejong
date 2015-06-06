@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>모방범죄</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/07</cre_date>
+				<cre_writer>호정은</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/01</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/19</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>논항명사를 술어명사로 수정;n_v 추가;최대논항구조, 선택제약 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/0/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>'우발사건'으로 다의분할 후 전체재기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">모방 범죄</var>
+			<str type="N_N">모방+범죄</str>
+			<org lg="si">模倣犯罪</org>
+			<org lg="si">摹倣犯罪</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>청소년들이 폭력물을 보고 ~를 할 수도 있다.</eg>
+				<trans>copycat crime</trans>
+				<domain></domain>
+				<sem_class>범죄및비행</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 저지르다</form>
+					<frame>X-이 ~를 저지르다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 일삼다</form>
+					<frame>X-이 ~를 일삼다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 계획하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>폭력물이 많아지면서 청소년들의 ~가 잇따르고 있다.</eg>
+				<trans>copycat crime</trans>
+				<domain></domain>
+				<sem_class>범죄및비행</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 일어나다</form>
+					<frame>X-에서 ~가 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 발생하다</form>
+					<frame>X-에서 ~가 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 잇따르다</form>
+					<frame>X-에서 ~가 잇따르다</frame>
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str>
+				<sel_rst arg="X">지역</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<cl type="uni">건</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

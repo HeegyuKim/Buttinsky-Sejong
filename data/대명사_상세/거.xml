@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>거</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/15</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/06/15</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="xd">그</var>
+			<var type="lng">그거</var>
+					<hom exist="yes"/>
+			<comp pos="av" type="suffix">~참</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="nv">~ 보시오</idm>
+			<idm type="nv">~ 봐라</idm>
+		</idm_grp>
+		<sense n="1" sem="3" num="singular" ref="thing">
+			<sem_grp>
+				<eg>~ 좋은 아이디어로구나</eg>
+				<trans>that</trans>
+				<reg>구어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/15</cre_date>
+				<cre_writer>호정은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/06/15</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">거기</var>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1" sem="3" num="etc" ref="place">
+			<sem_grp>
+				<eg>~까지 가는 데 얼마나 걸리니?</eg>
+				<trans>there</trans>
+				<reg>구어</reg>
+				 
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

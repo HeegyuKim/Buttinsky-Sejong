@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>만기되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_note>표제어 자격 의문</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/16</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태정보수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">만기가 되다</var>
+			<str>N.되</str>
+			<org lg="si">滿期_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>expire</trans>
+				<lr>
+					<syn type="perfect">만료하다</syn>
+					<syn type="perfect">실효하다</syn>
+					<syn type="kor">끝나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사태(대출|인증)|시간(기간)|증명서|권리증</sel_rst>
+					<eg>다음달 12일 이후에 공인인증서가 만기돼 갱신하려고 하면 수수료를 내야 한다.</eg>
+					<eg>은행 대출이 만기돼 연장하려고 했더니 담보로 잡힌 부동산 값이 떨어져 추가 담보가 필요하다고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

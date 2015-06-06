@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>점</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/23</cre_date>
+				<cre_writer>목정수</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/01/10</mod_date>
+				<mod_writer>목정수</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/20</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">點</org>
+					<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">구름 한 ~ 없다</idm>
+			<idm type="etc">바람 한 ~ 없다</idm>
+			<idm type="etc">의혹 한 ~ 없다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>점수 일 ~에 당락이 결정된다</eg>
+				<eg>상대 팀이 또 한 ~을 따라붙었다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>성적</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko_si" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>그림 두 ~을 구입했다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>소품</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+		<sense n="3">
+			<sem_grp>
+				<eg>고기 한 ~ 먹지 못하고 술만 마셨다</eg>
+				<eg>백이 흑 세 ~을 따냈다</eg>
+				<cl_subtype type="uni"/>
+				<rel_n>바둑</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

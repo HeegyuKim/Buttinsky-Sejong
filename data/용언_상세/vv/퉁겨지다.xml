@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>퉁겨지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/16</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/14</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V-어.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>come apart</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>충돌 충격이 얼마나 컸는지 담벼락의 벽돌이 퉁겨져 나왔다.</eg>
+					<eg>오랜 기억 속에 묻혔던 일이 불현듯 퉁겨져 나왔다.</eg>
+					<eg>불똥이 엉뚱한 곳으로 퉁겨졌다.</eg>
+					<eg>그 사람은 무리들로부터 퉁겨지더니 중심을 잡지 못하고 넘어지고 말았다.</eg>
+					<eg>뼈가 퉁겨진 듯한 고통이 느껴졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

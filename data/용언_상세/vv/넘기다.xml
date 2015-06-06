@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>넘기다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/04/17</cre_date>
+				<cre_writer>김재욱</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V.기1</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>pass over</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소</sel_rst>
+					<eg>도둑이 훔친 물건을 담장 밖으로 넘긴 후 자신도 몸을 날려 담장을 뛰어넘었다.</eg>
+					<eg>그는 책가방을 던져서 철조망 위로 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>pass over</trans>
+				<domain>운동</domain>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(담장|펜스)</sel_rst>
+					<eg>그는 초구를 받아쳐 오른쪽 담장을 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>hand over</trans>
+				<lr>
+					<syn type="perfect">주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게|로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단|장소</sel_rst>
+					<eg>나는 아파트분양권을 적당한 값에 제3자에게 넘겼다.</eg>
+					<eg>그는 원고를 출판사에 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>transmit</trans>
+				<lr>
+					<syn type="sino">인도하다</syn>
+					<syn type="sino">이양하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게|로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|추상적대상(일|문제)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>정부는 지방경제의 활성화를 위해 세금 관련 업무를 대폭 지방정부에 넘겼다.</eg>
+					<eg>한 용감한 시민이 격투 끝에 도둑을 붙잡아 경찰서에 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>postpone</trans>
+				<lr>
+					<syn type="perfect">미루다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(일)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">시간</sel_rst>
+					<eg>오늘 일을 내일로 넘기면 안돼.</eg>
+					<eg>이번 사건은 내년으로 넘긴다는 소문이 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>섭취행위</sem_class>
+				<trans>swallow</trans>
+				<lr>
+					<syn type="perfect">삼키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">자연음식물|음식</sel_rst>
+					<sel_rst arg="Z" tht="DIR">신체부위(목구멍)</sel_rst>
+					<eg>맛없는 음식을 겨우 목구멍으로 넘겼다.</eg>
+					<eg>아이들의 감기약은 달지 않으면 아이들이 쉽게 넘길 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>pass over the head</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(머리카락)</sel_rst>
+					<sel_rst arg="Z" tht="DIR">(뒤|옆)</sel_rst>
+					<eg>여자는 긴 머리를 뒤로 넘기는 것을 좋아한다.</eg>
+					<eg>머리에 기름을 발라서 뒤로 넘겨 주세요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>exceed</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="CRT">시간(기한)</sel_rst>
+					<eg>기한을 넘길 경우에는 서류를 받을 수 없습니다.</eg>
+					<eg>아직도 돈을 안 갚고 있으니 이러다가 해를 넘기는 것 아니오?</eg>
+					<eg>해를 넘기지 말고 결혼해라.</eg>
+					<eg>오늘을 넘기지 말고 꿔간 돈을 갚아라.</eg>
+					<eg>나는 기한을 일주일이나 넘겨서 책을 반납했다.</eg>
+					<eg>처는 초산이라서 그런지 출산예정일을 많이 넘기고 결국 유도분만으로 출산을 했다.</eg>
+					<eg>때를 넘기지 말고 밥을 제때 제때 잘 챙겨 먹어라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>keep over</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(위기|고비)|시간(밤|여름)</sel_rst>
+					<eg>그는 몇 번이나 죽을 고비를 넘겼다.</eg>
+					<eg>할아버지께서는 오늘밤을 못 넘기실 것같다.</eg>
+					<eg>우리 회사가 이번 겨울을 잘 넘기면 좀 형편이 나아질 것 같다.</eg>
+					<eg>그는 수 차례의 죽을 고비를 넘기고 여기까지 왔다.</eg>
+					<eg>이번 위기만 넘기면 다음부터는 희망이 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>fell</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">동물|인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">동물|인간</sel_rst>
+					<eg>이번 판에서는 일본 선수가 중국 선수를 쉽게 넘길 수 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>turn over</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">텍스트담지물(종이|페이지|서류)</sel_rst>
+					<eg>종이에 풀이 붙어 페이지를 넘기기가 어렵다.</eg>
+					<eg>서류를 넘기다가 문득 내용에 큰 문제가 있음을 발견했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>neglect</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사건(일)|추상적대상(말)|질병및증세(감기)</sel_rst>
+					<sel_rst arg="ADV">Adj-게</sel_rst>
+					<eg>나는 그 일을 대수롭지 않게 넘겼다.</eg>
+					<eg>철수는 내 말을 너무 가볍게 넘겨 버리는 것 같았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사건(일)|추상적대상(말)|질병및증세(감기)</sel_rst>
+					<sel_rst arg="ADV">V-어</sel_rst>
+					<eg>나는 그 일을 웃어 넘겼다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="ADV">Adj-게</sel_rst>
+					<eg>나는 철수가 영희를 만난 것을 너무 가볍게 넘겼다.</eg>
+					<eg>철수는 감기 기운이 있는 것을 대수롭지 않게 넘기다가 크게 혼이 났다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="ADV">V-어</sel_rst>
+					<eg>나는 철수가 영희를 만난 것을 웃어 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">사건(일)|추상적대상(말)|질병및증세(감기)</sel_rst>
+					<sel_rst arg="Z" tht="INS">(웃음)</sel_rst>
+					<eg>나는 그 일을 웃음으로 넘겼다.</eg>
+					<eg>철수는 내 말을 너무 가볍게 넘겨 버리는 것 같았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<sel_rst arg="Z" tht="INS">(웃음)</sel_rst>
+					<eg>철수는 영희가 자신를 맹렬히 비난한 것을 그저 웃음으로 넘겼다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+					<col type="manner3">가볍게 넘기다</col>
+					<col type="manner3">대수롭지 않게 넘기다</col>
+					<col type="manner3">웃음으로 넘기다</col>
+					<col type="manner3">웃어 넘기다</col>
+				</col_grp>
+				<mor_rel>
+				</mor_rel>
+			</com>
+		</sense>
+	</entry>
+</superEntry>

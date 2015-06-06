@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경제학자</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>orth 누락 표제어 표기;str 수정;n_n 형식 수정;cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/012/29</mod_date>
+				<mod_writer>목정수</mod_writer>
+				<mod_note>n_n type 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경제 학자</var>
+			<str type="N_R">경제학+자</str> <!-- 경제+학자->경제학+자, N_N->N_R로 수정(송근영) -->
+			<org lg="si">經濟學者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 이론은 ~들 사이에서도 찬반양론이 분분하다.</eg>
+				<trans>economist</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 대회</comb_n> <!-- 목(2004/012/29) ~대회를 ~ 대회로 수정 -->
+				<comb_n type="compound">~ 포럼</comb_n> <!-- 목(2004/012/29) ~포럼을 ~ 포럼으로 수정 -->
+					<!-- 두 개 이상 정보 제시하는 경우 element 반복(송근영) -->
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~로 활동하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">분</cl>
+				<cl type="uni">인</cl> <!-- 송근영 추가  -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

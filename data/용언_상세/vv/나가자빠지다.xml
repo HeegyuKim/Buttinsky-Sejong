@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나가자빠지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>센스에 따라 주어의 의미역을 따로 둔 것에 대해 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>전반적 보충 기술</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">나자빠지다</var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>tumble down</trans>
+				<trans>fall flat on one's back</trans>
+				<trans>be knocked down</trans>
+				<lr>
+					<syn type="de_vulgar">넘어지다</syn>
+					<syn type="perfect">나가떨어지다</syn>
+					<syn type="perfect">나둥그러지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>그가 주먹으로 일격을 가하자 장교가 길바닥에 나가자빠졌다.</eg>
+					<eg>젊은 남자가 여자를 힘껏 밀치자 여자는 소파 위에 나가자빠졌다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>소년은 발을 헛디뎌 뒤로 벌렁 나가자빠졌다.</eg>
+					<eg>도전자는 챔피언의 주먹에 바닥으로 나가자빠졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>fail</trans>
+				<trans>lose</trans>
+				<trans>back out</trans>
+				<lr>
+					<syn type="sino">실패하다</syn>
+					<syn type="kor">내빼다</syn>
+					<syn type="de_vulgar">포기하다</syn>
+					<syn type="de_vulgar">불이행하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">산업|분야|(일)</sel_rst>
+					<eg>이번 사건으로 기고만장하던 자칭 명문들이 모두 정계에서 나가자빠졌다.</eg>
+					<eg>비슷한 사업을 했던 업체 몇 군데는 이미 업계에서 나가자빠졌다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>영수는 꼭 중요한 순간에 그걸 이기지 못하고 나가자빠진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비의도적행위</sem_class>
+				<trans>be worn out</trans>
+				<lr>
+					<syn type="perfect">지치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>어제 밤에 과음을 했는지 그 남자는 나가자빠져서 일어날 줄을 모른다.</eg>
+					<eg>어린 아이들과 함께 놀아주다가 내가 지쳐 나가자빠졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

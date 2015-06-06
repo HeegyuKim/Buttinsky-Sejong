@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부사</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/18</cre_date>
+				<cre_writer>한동훈</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/18</mod_date>
+				<mod_writer>한동훈</mod_writer>
+				<mod_note>2003/10/18(한동훈)의미부류 검토 요망</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동형어 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/09/25</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>add정보를 n_v로 이동</mod_note>
+			</mod>
+			<add>동사자유구성에'~가 쓰이다'추가</add>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">副詞</org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>~가 많이 쓰여서 문장 자체가 풍요로운 느낌을 준다.</eg>
+				<trans>adverb</trans>
+				<domain>언어</domain>
+				<sem_class>언어범주</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 쓰이다</form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/12/22</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/09/25</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_aj, n_v 기술</mod_note>
+			</mod>
+			<add>옛날 관직명을 표현하는 어휘를 추가할 필요가 있을지?</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<org lg="etc"></org>
+		
+			<hom exist="yes"/>
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~ 3 개를 천 원에 팔고 있다.</eg>
+				<trans>apple</trans>
+				<domain></domain>
+				<sem_class>과일</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 맛있다</comb_aj>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 먹다</form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

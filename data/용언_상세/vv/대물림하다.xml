@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대물림하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대물림을 하다</var>
+			<str>N.하</str>
+			<org lg="si">代___</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>hand down</trans>
+				<lr>
+					<syn type="perfect">대물리다</syn>
+					<syn type="perfect">이어주다</syn>
+					<syn type="perfect">넘겨주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상|사태</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>창업주인 할머니는 자신의 국밥집을 며느리에게 대물림했다.</eg>
+					<eg>한 신문사의 조사에 따르면 극빈층의 3분의 2 가량이 가난을 자식에게 대물림했다.</eg>
+					<eg>재산과 가업을 자식에게 대물림하고 싶어하는 것은 동서양을 물론하고 일반적인 일이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>succeed</trans>
+				<lr>
+					<syn type="perfect">대물리다</syn>
+					<syn type="sino">계승하다</syn>
+					<syn type="perfect">이어주다</syn>
+					<syn type="perfect">넘겨주다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상|사태</sel_rst>
+					<eg>나는 조부의 직업과 신앙을 그대로 대물림했다.</eg>
+					<eg>음지를 어루만지는 가슴 따뜻한 경찰관 삼대는 가업뿐 아니라 열정도 대물림했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

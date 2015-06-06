@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자극시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/18</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">자극을 시키다</var>
+			<str>N.시</str>
+			<org lg="si">刺戟</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>stimulate</trans>
+				<trans>excite</trans>
+				<lr>
+					<syn type="perfect">자극하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물|빛|냄새|소리</sel_rst>
+					<sel_rst arg="Y" tht="THM">감각(시각|후각|청각)|신체부위(눈|코|귀)</sel_rst>
+					<eg>병실에 들어서니 강한 알콜 냄새가 코를 자극시켰다.</eg>
+					<eg>요즘 우리 젊은이들은 눈과 귀를 자극시키는 각종 매체의 노예가 되어 가고 있다는 생각이 든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>stimulate</trans>
+				<trans>excite</trans>
+				<lr>
+					<syn type="perfect">자극하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">심리상태</sel_rst>
+					<eg>그를 둘러싸고 있는 모든 것들이 그의 호기심과 상상력을 자극시켰다.</eg>
+					<eg>그녀의 싸늘한 말투가 그의 분노를 한층 자극시켰다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

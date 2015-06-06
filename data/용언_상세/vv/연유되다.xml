@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>연유되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/27</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/03</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">연유가 되다</var>
+			<str>N.되</str>
+			<org lg="si">緣由_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be due to</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사건|기호체계|규범|학문과목|사조|텍스트|제도|개념|수학적대상|물리학적대상|종교</sel_rst>
+					<sel_rst arg="Y" tht="SRC">사건|기호체계|규범|학문과목|사조|텍스트|제도|개념|수학적대상|물리학적대상|종교</sel_rst>
+					<eg>간디의 비폭력 사상은 힌두교에서 연유한 것이다.</eg>
+					<eg>윌슨의 민족자결주의는 약소국의 권리 보호와는 그다지 관련이 없는 이유에서 연유하였다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<sel_rst arg="Y" tht="SRC">S것</sel_rst>
+					<eg>철수가 거기에 간 것은 영희가 여기에 오지 않은 것에 연유한 것이다.</eg>
+					<eg>윌슨의 민족자결주의는 약소국의 권리 보호를 보호하겠다는 것에서 연유지는 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

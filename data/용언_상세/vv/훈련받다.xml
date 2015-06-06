@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훈련받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">훈련을 받다</var>
+			<str>NV</str>
+			<org lg="si">訓練_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be trained</trans>
+				<trans>undergo training</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게|에게서|에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">방법|기술</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|단체</sel_rst>
+					<eg>참가자들은 이 곳에서 목표물에 대한 정보를 분석하고 암호화하는 방법을 훈련받는다.</eg>
+					<eg>훌륭한 조교에게 잘 훈련받은 대원들은 실제 상황에서 당황하는 일 없이 완벽하게 임무를 수행했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

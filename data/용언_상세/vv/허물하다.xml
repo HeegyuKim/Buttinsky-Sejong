@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>허물하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">허물을 하다</var>
+			<str>N.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>reproof</trans>
+				<trans>reproach</trans>
+				<trans>rebuke</trans>
+				<trans>reprimand</trans>
+				<trans>censure</trans>
+				<trans>blame</trans>
+				<lr>
+					<syn type="perfect">꾸짖다</syn>
+					<syn type="perfect">나무라다</syn>
+					<syn type="sino">책망하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|상태|행위</sel_rst>
+					<eg>지혜로운 사람은 다른 사람을 허물하기 전에 자신의 행동을 되돌아보는 법이다.</eg>
+					<eg>실장은 그의 잦은 실수를 허물했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그는 우리가 신중하게 행동하지 못한 것을 허물했다.</eg>
+					<eg>이제 와서 그가 경솔했음을 허물해 봐야 아무 소용이 없습니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">상태|행위</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>나는 그에게 허황된 생각을 허물하고 싶었지만 괜한 짓이란 생각이 들어 그만두기로 했다.</eg>
+					<eg>오늘도 아내는 내게 아이들에 대한 무관심을 허물했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>나는 그에게 허황된 생각을 품고 있는 것을 허물하고 싶었다.</eg>
+					<eg>아내는 내게 지금까지 아이들에 대해 지나치게 무관심했음을 허물했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=N2-에게|을 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>실장은 나에게 똑같은 실수를 반복한다고 허물했다.</eg>
+					<eg>동네 사람들은 그 여자를 경박하고 수다스럽다고 허물했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

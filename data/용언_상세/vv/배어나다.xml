@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>배어나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/03</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense> <!--액체가 조금씩 또는 작은 방울의 형태로 스며나는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>soak out</trans>
+				<trans>ooze out</trans>
+				<trans>exude</trans>
+				<trans>come out in drops</trans>
+				<trans>come out in beads</trans>
+				<lr>
+					<syn type="etc">배어나오다</syn>
+					<rel>배다</rel>
+					<rel>배어들다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물방울)|분비물(땀|피)|배설물|(습기)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체부위(이마|손바닥)|신체착용물(옷)|구체물(벽)</sel_rst> <!--GOL로 볼 가능성도 있음-->
+					<eg>옷에 땀이 배어나는 걸 보니 더운 모양이구나.</eg>
+					<eg>장마철에 습기가 차서 벽에 물방울이 배어나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물방울)|분비물(땀|피)|배설물|(습기)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">상처|신체부위(이마|손바닥)|구체물</sel_rst>
+					<eg>상처에서 피가 배어나고 있었다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--냄새,맛,빛깔이 액체에/로부터 우러나는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>draw</trans>
+				<trans>soak</trans>
+				<lr>
+					<syn type="etc">우러나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새(향기)|맛속성값(맛)|색속성값(빛깔)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">음식|자연음식물|액체</sel_rst>
+					<eg>야채의 맛이 국에 충분히 배어나지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새(향기)|맛속성값(맛)|색속성값(빛깔)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">음식|자연음식물|액체</sel_rst>
+					<eg>차에서 은은한 향기가 배어나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--추상적인 것이 느껴지는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>appear</trans>
+				<trans>be felt</trans>
+				<lr>
+					<rel>묻어나다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|정적사태|(웃음|미소|조소)|심리행위|(흔적|향기)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위(얼굴)|소리(목소리)|속성|텍스트|작품|소통행위|몸짓및동작|행위</sel_rst>
+					<eg>그의 목소리에 쓸쓸함이 배어나고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|정적사태|(웃음|미소|조소)|심리행위|(흔적|향기)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">신체부위(얼굴|몸)|소리(목소리)|속성|텍스트|작품|추상적대상|소통행위|몸짓및동작|행위</sel_rst>
+					<eg>그의 동작 하나하나에서 기품과 위엄이 배어나고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

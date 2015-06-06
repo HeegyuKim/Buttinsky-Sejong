@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국고보조금</orth>
+	<entry pos="nng_c">
+		<mnt_grp> <!--이홍식/이광호, 김이정/권오희 중복 기술. 통합함-->
+			<cre>
+				<cre_date>2004/08/27</cre_date>
+				<cre_writer>이홍식</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl 추가</mod_note>
+			</mod>
+			<note>2007/08/01(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국고 보조금</var>
+			<str type="N_N">국고+보조금</str><!--'보조+금'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">國庫補助金</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>행락지 쓰레기 관리를 제대로 하지 못한 자치단체에는 앞으로 ~이 줄어들게 된다.</eg>
+				<eg>우리 정당은 최근 5억2000만원의 ~을 받았다.</eg>
+				<eg>우리 정당은 의원수가 늘어나면서 ~이 크게 늘어났다.</eg>
+				<eg>국가행정목적에 기여한다고 판단될 경우 ~을 지급할 수 있다.</eg>
+				<trans>state subvention fund</trans>
+				<trans>national grant</trans>
+				<domain></domain>
+				<sem_class>금전</sem_class>
+				<lr>
+					<syn type="etc">국고보조</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 막대하다</comb_aj>
+				<comb_n type="compound">~ 유용</comb_n>
+				<comb_n type="compound">~ 착복</comb_n>
+				<comb_n type="compound">~ 사업</comb_n>
+				<comb_n type="compound">~ 정비</comb_n>
+				<comb_n type="compound">~ 지급</comb_n>
+				<comb_n type="compound">~ 배분</comb_n>
+				<comb_n type="compound">~ 수령</comb_n>
+				<comb_n type="compound">정당 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 지급하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 배분하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 증액하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 인상하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 삭감하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 받다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수령하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 유용하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 착복하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 늘어나다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 줄어들다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">원</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

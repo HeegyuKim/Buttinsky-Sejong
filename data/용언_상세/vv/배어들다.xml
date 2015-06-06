@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>배어들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/03</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense> <!--액체가 스며드는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>permeate</trans>
+				<trans>soak into</trans>
+				<trans>infiltrate into</trans>
+				<trans>sink in</trans>
+				<lr>
+					<syn type="etc">스며들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체(물방울|잉크|빗물)|분비물(땀|피)|배설물|(습기)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체착용물(옷)|신체부위(몸)|구체물(벽|종이)</sel_rst>
+					<eg>이 종이에 기름이 배어들어서 쓸 수 없게 되었다.</eg>
+					<eg>옷에 땀이 배어들어서 냄새가 난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--냄새,기체 등이 스며드는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>permeate</trans>
+				<trans>soak into</trans>
+				<trans>infiltrate into</trans>
+				<trans>sink in</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새(향기)|기체(연기)|맛속성값(맛)|색속성값(빛깔)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">구체물</sel_rst>
+					<eg>파 향기가 국물에 배어들어서 맛이 좋다.</eg>
+					<eg>훈증할 때 연기가 고기에 배어들어서 독특한 향기가 난다.</eg>
+					<eg>옷감을 쪽물에 담가 두면 쪽빛이 옷감에 배어든다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--추상적인 것이 침투하는 것-->
+			<sem_grp>
+				<sem_class>현상</sem_class>
+				<trans>sink into</trans>
+				<trans>filter into</trans>
+				<trans>be impressed</trans>
+				<trans>be imbued</trans>
+				<trans>spread</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|정적사태|심리행위</sel_rst>
+					<sel_rst arg="Y" tht="GOL">신체부위(얼굴|몸)|소리(목소리)|속성|텍스트|작품|추상적대상|소통행위|몸짓및동작|행위</sel_rst>
+					<eg>자본주의의 천박한 습성이 국민들의 몸과 정신에 배어들기 전에 빨리 손을 써야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

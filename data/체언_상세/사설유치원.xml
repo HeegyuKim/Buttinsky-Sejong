@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>사설유치원</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 기술</mod_note>
+				<mod_note>syn,ant 기술</mod_note>
+				<mod_note>sem 수정</mod_note>
+				<mod_note>n_v 추가</mod_note>
+				<mod_note>cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<add>병설유치원:반의어에 넣어도 되는지?(송근영)</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">사설 유치원</var>
+			<str type="R_N">사설+유치원</str>
+			<org lg="si">私設幼稚園</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>첫째 아이는 동네의 ~에 다닌다.</eg>
+				<trans>private kindergarten</trans>
+				<domain></domain>
+				<sem_class>교육기관</sem_class>
+				<!--'건물'을 '교육기관'으로 수정:'사설'이라는 말 때문에 건물보다는 기관의 의미가 더 적당할 것 같음(송근영)  -->
+				<lr>
+					<syn type="perfect">사립유치원</syn>
+					<ant type="compl">공립유치원</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 다니다</form>
+					<frame></frame>
+				</comb_v>
+						<comb_v type="narg_vpred">
+					<form vcompound="no">~에 보내다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 입학하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 다니다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 졸업하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 세우다</form> <!-- 송근영 추가 -->
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<cl type="uni">개</cl> <!-- 송근영 추가 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

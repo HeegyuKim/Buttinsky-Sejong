@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>기술경쟁력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sense2의 n_aj수정</mod_note>
+				<mod_note>sense2의 sel_rst 수정</mod_note>
+			</mod>	
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>센스1의 s_n 정보 삭제</mod_note>
+			</mod>
+		<note>2007/08/12(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">기술 경쟁력</var>
+			<str type="N_N">기술+경쟁력</str><!--'경쟁+력'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">技術競爭力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>일본은 ~이 우리나라보다 좋고, 중국은 거대시장으로 급부상하고 있다.</eg>
+				<trans>technological competitiveness</trans>
+				<domain></domain>
+				<sem_class>능력</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 좋다</comb_aj>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_n type="compound">~ 저하</comb_n>
+				<comb_n type="compound">~ 하락</comb_n>
+				<comb_n type="compound">~ 평가</comb_n>
+				<comb_n type="compound">~ 확보</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 얻다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 키우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 회복하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 향상시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 저하시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 떨어뜨리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 좌우하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<s_n></s_n> <!--삭제(미현)-->
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>국내 업체들은 내수시장을 통해 검증된 ~을 가지고 있다.</eg>
+				<eg>정부는 ~이 있는 중소 기업을 적극 지원하기로 했다.</eg>
+				<trans>technological competitiveness</trans>
+				<domain></domain>
+				<sem_class>정도속성값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 충분하다</comb_aj>
+				<comb_aj type="appr">~이 강하다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 높다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 낮다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 부족하다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 올라가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 떨어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 가지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 확보하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">기업</sel_rst><!--인간집단에서 수정(권)-->
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

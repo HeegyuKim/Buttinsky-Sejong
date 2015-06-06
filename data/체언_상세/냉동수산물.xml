@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>냉동수산물</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/09</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/13(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">냉동 수산물</var>
+			<str type="N_N">냉동+수산물</str><!--'수산+물'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">冷凍水産物</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그는 ~을 매매하는 전자상거래 시스템을 구축했다.</eg>
+				<trans>frozen marine products</trans>
+				<domain></domain>
+				<sem_class>속성구체물 </sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 판매</comb_n>
+				<comb_n type="compound">~ 제품</comb_n>
+				<comb_n type="compound">~ 유통</comb_n>
+				<comb_n type="compound">~ 가공</comb_n>
+				<comb_n type="compound">~ 수입</comb_n>
+				<comb_n type="compound">~ 수출</comb_n>
+				<comb_n type="compound">~ 거래</comb_n>
+				<comb_n type="compound">~ 교역</comb_n>
+				<comb_n type="compound">수입 ~</comb_n>
+				<comb_n type="compound">수출 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 판매하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 사다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 수출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 유통시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 취급하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="qnt">킬로그램</cl>
+				<cl type="qnt">톤</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>관리감독</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/22</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>영어대역어 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>영어대역어추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/30</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">관리 감독</var>
+			<str type="N_N">관리+감독</str>
+			<org lg="si">管理監督</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>식약청은 식품에 대한 ~을 철저히 해야 한다.</eg>
+				<eg>보안 과장은 보안업무에 대한 모든 사항을 ~을 한다.</eg>
+				<trans>supervision</trans>
+				<trans>control and management</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 철저하다</comb_aj>
+				<comb_aj type="min">~이 소홀하다</comb_aj>
+				<comb_aj type="min">~이 부실하다</comb_aj>
+				<comb_n type="compound">~기관</comb_n>
+				<comb_n type="compound">현장 ~</comb_n>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 업무</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-에대해 ~을 하다</frame>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 강화하다</form>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 완화하다</form>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">온</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>도장하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 통일</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도장을 하다</var>
+			<str>N.하</str>
+			<org lg="si">塗裝_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>장식행위</sem_class>
+				<trans>coat with paint</trans>
+				<lr>
+					<hyper>칠하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="cross" n="1">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">구체물|지상장소|건물|다리|굴|부분장소</sel_rst>
+					<eg>그는 새로 산 중고차에 노란 색 도료를 도장했다.</eg>
+					<eg>시에서는 이 다리에 부식방지용 도료를 도장했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="cross" n="2">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|지상장소|건물|다리|굴|부분장소</sel_rst>
+					<sel_rst arg="Z" tht="INS">구체인공물|색속성값</sel_rst>
+					<eg>그는 새로 산 중고차를 노란 색 도료로 도장했다.</eg>
+					<eg>시에서는 이 다리를 부식방지 도료로 도장했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">도장을 하다</var>
+			<str>N.하</str>
+			<org lg="si">盜葬_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>construct a tomb without permission in other's land</trans>
+				<lr>
+					<syn type="perfect">투장하다</syn>
+					<hyper>묻다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">생물</sel_rst>
+					<sel_rst arg="Z" tht="LOC">지상장소</sel_rst>
+					<eg>그는 시신을 남의 산에 몰래 도장했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

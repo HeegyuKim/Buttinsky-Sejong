@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>흉패하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/16</cre_date>
+				<cre_writer>허용</cre_writer>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>R.하</str>
+			<org lg="si">凶悖_</org>
+			<org lg="si">兇悖_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wicked</trans>
+				<trans>be evil</trans>
+				<trans>be terribly villainous</trans>
+				<lr>
+					<syn type="perfect">패악하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<n_appr arg="X">성격</n_appr>
+					<n_appr arg="X">성질</n_appr>
+					<n_appr arg="X">기질</n_appr>
+					<eg>그들은 그 흉패한 무리들이 마을을 짓밟는 것을 그냥 보고만 있어야 했다.</eg>
+					<eg>그도 자신의 흉패한 성격을 모르는 것은 아니었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">계획(생각|계획|목적)|행위|사건</sel_rst>
+					<eg>건달들의 흉패한 짓거리에 사람들은 치를 떨고 있었다.</eg>
+					<eg>나는 그 놈의 흉패한 계획을 그대로 보고 있을 수는 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

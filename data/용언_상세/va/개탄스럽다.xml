@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>개탄스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/08</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2007/04/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>격틀수정수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+			<org lg="si">慨嘆__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>feel st deplorable</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">인간|인간집단|상황</sel_rst>
+					<eg>마치 황금알을 낳는 거위를 조종하는 것같은 정부가 개탄스러울 뿐이다.</eg>
+					<eg>아직도 이런 유치한 장난이 여전히 먹혀들 수 있는 한국현실이 개탄스럽다.</eg>
+					<eg>나는 정말 조폭 처럼 싸워야 크는 것처럼 비쳐지는 정치현실이 개탄스럽다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">S것</sel_rst>
+					<eg>식민사관에서 벗어나지 못한 사람이 교수로서 강의를 하고 있는 것이 정말 개탄스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

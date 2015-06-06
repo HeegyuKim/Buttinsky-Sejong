@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>독별나다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NV</str>
+			<org lg="si">獨別_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be out of the common</trans>
+				<lr>
+					<syn type="perfect">유별나다</syn>
+					<ant type="compl">평범하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>그 남자의 성격은 내가 이제껏 본 적이 없는 독별난 성격이다.</eg>
+					<eg>그 여자는 너무 독별나서 어디를 가나 문제를 일으킨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be very excellent</trans>
+				<lr>
+					<syn type="perfect">특별나다</syn>
+					<ant type="compl">평범하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<eg>기미의 치료에는 전 세계적으로 독별난 방법은 전혀 없는 상태이다.</eg>
+					<eg>그에게는 자신의 직업에 대한 독별난 믿음을 가지고 있다.</eg>
+					<eg>그 선생님에게는 학생들을 지도하는 독별난 방식이 있다.</eg>
+					<eg>그는 애인에게 사랑을 고백하기 위해서 독별난 이벤트를 몰래 준비했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

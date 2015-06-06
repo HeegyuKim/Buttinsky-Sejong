@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>획일화하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/17</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">획일화를 하다</var>
+			<str>N.하</str>
+			<org lg="si">劃一化_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>unify</trans>
+				<trans>standardize</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>회장은 그룹네 모든 계열사들의 인사 체계를 획일화하겠다고 발표했다.</eg>
+					<eg>그는 학생들의 복장과 두발을 획일화하는 것은 시대착오적 발상이라고 비판했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상</sel_rst>
+					<eg>우리 교육은 아이들 각자가 가진 개성을 무시하고 모든 아이들을 획일화하는 경향이 있다.</eg>
+					<eg>인터넷의 보급으로 인한 정보 사회가 사람들의 사고를 획일화할 지 모른다는 우려의 목소리가 높아지고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

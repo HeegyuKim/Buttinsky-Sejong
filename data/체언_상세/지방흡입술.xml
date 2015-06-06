@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>지방흡입술</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/28</cre_date>
+				<cre_writer>전지혜</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>변이형 기술;선택제약 정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>기능동사구문(받다)추가</mod_note>
+				<mod_note>max_n기술</mod_note>
+				<mod_note>논항선택제약수정</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">지방 흡입술</var>
+			<!--띄어쓰기 변이형 기술(미현)-->
+			<str type="N_N">지방+흡입술</str>
+			<org lg="si">脂肪吸入術</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>다이어트에 실패한 사람들은 ~에 관심을 갖는다.</eg>
+				<trans>suction lipectomy</trans>
+				<domain></domain>
+				<sem_class>방법</sem_class> <!--변형행위도 가능한지?(지혜)-->
+				<!--방법이 더 나을 듯(미현)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-를 ~을 하다</frame>
+					<frame>X-이 Y-에게 ~을 하다</frame>
+					<frame>X-이 Z-에 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에게서 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에대한 ~</max_n_str>
+				<max_n_str>X-의 Z ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)</sel_rst> <!--시술하는 사람을 주체로 봄(지혜)-->
+				<sel_rst arg="Y">역할인간(환자)</sel_rst>
+				<sel_rst arg="Z">신체부위</sel_rst><!--의료기관으로의 논항은 수의적. 대신 신체부위를 Y 논항으로 수정(미현)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

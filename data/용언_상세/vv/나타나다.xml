@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나타나다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/07/24</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/12</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생성</sem_class>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소|추상적대상</sel_rst>
+					<eg>비 속에서 희미한 형체가 나타났다.</eg>
+					<eg>그 집에서 귀신이 종종 나타난다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">온</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|추상적대상</sel_rst>
+					<eg>비 속에 희미한 형체가 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>시각적행위</sem_class>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>직직을 하다보면 오른쪽으로 주유소가 나타날 것입니다.</eg>
+					<eg>이제 곧 산 아래로 불야성의 도시가 나타날 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>show</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에|이 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|구체인공물|신체부위</sel_rst>
+					<eg>이 그림에는 작가의 고뇌의 삶이 나타난다.</eg>
+					<eg>당황한 기색이 그의 얼굴에 나타난다.</eg>
+					<eg>그 시대의 청자에 특히 이런 문양이 많이 나타난다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>arrive</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>그가 짠하고 나타나서 너를 구해 주길 바라겠지.</eg>
+					<eg>드디어 대장처럼 보이는 사내가 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인간관련현상</sem_class>
+				<trans>come into existence</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|추상적대상|사건|현상|집단</sel_rst>
+					<eg>몇 해 전부터 여성 전용 주차장이 나타나기 시작했다.</eg>
+					<eg>예기치 못한 오류가 나타나면 누구나 당황하게 된다.</eg>
+					<eg>그것은 외환위기 이후에 우리 사회에 새로 나타난 사회 현상이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>be found out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물</sel_rst>
+					<eg>잃어 버렸던 시계가 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>인간관련현상</sem_class>
+				<trans>be brought out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상|사태</sel_rst>
+					<eg>IMF 이후, 실업자들의 행태가 아주 일탈적인 행동으로 나타났다.</eg>
+					<eg>청년 실업이 심각한 사회 분열 현상으로 나타나고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">S것</sel_rst>
+					<eg>IMF 이후, 실업자들의 행태가 아주 일탈적인 양상을 보이는 것으로 나타났다.</eg>
+					<eg>청년 실업이 우리 사회를 심각한 수준으로 분열시키고 있는 것로 나타났다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상|사태</sel_rst>
+					<eg>그의 혈당수치가 낮게 나타났다.</eg>
+					<eg>그 조사에 의하면, 우리 사회의 통합지수는 여전히 비교적 높게 나타나고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

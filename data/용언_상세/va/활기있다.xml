@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>활기있다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/21</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">활기가 있다</var>
+			<str>NA</str>
+			<org lg="si">活氣_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be energetic</trans>
+				<trans>be spirited</trans>
+				<trans>be vigorous</trans>
+				<trans>be full of life</trans>
+				<lr>
+					<syn type="perfect">활기차다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단|개체상황(표정|분위기)|물리적행위(태도|행동|걸음걸이)</sel_rst>
+					<eg>오늘도 그 여자는 평상시와 마찬가지로 밝고 활기있어 보였다.</eg>
+					<eg>아이의 든든한 기반인 부모가 늘 건강하고 활기있어야 아이도 훌륭하게 자랄 수 있다는 점을 명심해야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

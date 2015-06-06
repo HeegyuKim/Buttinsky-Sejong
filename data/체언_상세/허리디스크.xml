@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>허리디스크</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/15</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>임근석</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">허리 디스크</var>
+			<str type="N_N">허리+디스크</str>
+			<org lg="en">__disc</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>어머니는 물건을 들다 잘못해서 ~에 걸렸다.</eg><!--예문 주어 보충(김)-->
+				<trans>hernia of intervertebral discs</trans>
+				<domain>의학</domain>
+				<sem_class>질병및증세</sem_class>
+				<lr>
+					<syn type="etc">추간판수핵탈출증</syn>
+					<syn type="etc">추간판헤르니아</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심하다</comb_aj><!--추가(김)-->
+				<comb_n type="compound"></comb_n>
+				 <!--기술자는 '걸리다, 생기다'를 기능동사 변이형으로 기술하였으나 일반동사로 보아 수정함(김)-->
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 걸리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 생기다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!--추가(김)-->
+					<form vcompound="no">~를 치료하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

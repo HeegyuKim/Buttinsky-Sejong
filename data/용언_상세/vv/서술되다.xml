@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>서술되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/10</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>격틀 내에서 보문 처리 재검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/28</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">서술이 되다</var>
+			<str>N.되</str>
+			<org lg="si">徐述_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be described</trans>
+				<trans>be narrated</trans>
+				<trans>be written</trans>
+				<lr>
+					<syn type="etc">기록되다|이야기되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">미술작품|조형물|텍스트담지물|텍스트|공연|보고제안|연설|이야기</sel_rst>
+					<sel_rst arg="Z" tht="FNS">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<eg>일리아드에는 트로이 전쟁이 수십 년 동안의 전쟁으로 서술되어 있다.</eg>
+					<eg>최근의 끈 이론은 정작 이 논문에서는 아주 의미 없는 말장난으로 서술되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 Z=S것2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">미술작품|조형물|텍스트담지물|텍스트|공연|보고제안|연설|이야기</sel_rst>
+					<sel_rst arg="Z" tht="FNS"/>
+					<eg>일리아드에는 트로이 전쟁이 수십 년 동안의 전쟁으로 서술되어 있다.</eg>
+					<eg>일리아드에는 트로이 전쟁이 수십 년 동안 지속되었던 것으로 서술되어 있다.</eg>
+					<eg>최근의 끈 이론은 정작 이 논문에서는 아주 의미 없는 말장난인 것으로 서술되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">미술작품|조형물|텍스트담지물|텍스트|공연|보고제안|연설|이야기</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>일리아드에서 트로이 전쟁은 매우 오랜 기간에 걸쳐 진행되었다고 서술되어 있지만 사실은 다르다.</eg>
+					<eg>이 논문에서 게임 이론은 아주 응용 가능성이 풍부하다고 서술되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

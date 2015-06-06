@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>물컹거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">말캉거리다</var>
+			<var type="etc">몰캉거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be squashy</trans>
+				<trans>feel lumpy</trans>
+				<lr>
+					<syn type="perfect">몽클거리다</syn>
+					<syn type="perfect">물렁거리다</syn>
+					<syn type="perfect">물씬거리다</syn>
+					<hyper>무르다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">채소|생선|육류|과일</sel_rst>
+					<eg>간혹 찌개나 조림에 들어 있는 호박을 먹다 보면 덜 익은 상태이거나 지나치게 물컹거려 맛이 덜 한 경우가 있다.</eg>
+					<eg>황어는 회로 먹으면 물컹거려 맛도 없고 이형흡충의 숙주라 감염되기 쉽습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>백안시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/04</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">백안시를 하다</var>
+			<str>N.하</str> <!--'백안시'가 어근일지도 모름.-->
+			<org lg="si">白眼視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리행위</sem_class>
+				<trans>disregard</trans>
+				<trans>neglect</trans>
+				<trans>ignore</trans>
+				<trans>discount</trans>
+				<trans>look down on</trans>
+				<trans>look coldly upon</trans>
+				<trans>look with indifference</trans>
+				<trans>have a prejudiced view of</trans>
+				<trans>affect a detached irony</trans>
+				<trans>take refuge in cynicism</trans>
+				<lr>
+					<rel>무시하다</rel>
+					<rel>업신여기다</rel>
+					<rel>경멸하다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-을|에대해 V</frame> <!--'Z=N2-로(FNS)' 성분이 나타날 수 있으나 논항으로 안 봄.-->
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|행위|온</sel_rst>
+					<eg>그는 주위 사람들이 자기를 백안시하는 것 같아서 괴로워했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>이곳에는 기독교 선교 활동을 하는 것을 백안시하는 분위기가 아직 남아 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

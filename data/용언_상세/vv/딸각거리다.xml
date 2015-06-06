@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>딸각거리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">딸가닥거리다</var>
+			<var type="etc">떨꺽거리다</var>
+			<var type="etc">덜걱거리다</var>
+			<var type="etc">딸깍거리다</var>
+			<var type="etc">달각거리다</var>
+			<str>I.거</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be clattered</trans>
+				<trans>be rattled</trans>
+				<lr>
+					<syn type="perfect">달그락거리다</syn>
+					<syn type="perfect">덜그럭거리다</syn>
+					<syn type="perfect">딸그락거리다</syn>
+					<syn type="perfect">떨그럭거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체인공물(그릇|도구|기계)</sel_rst>
+					<eg>의자가 자꾸 딸각거려 앉아있을 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>clatter</trans>
+				<trans>rattle</trans>
+				<lr>
+					<syn type="perfect">달그락거리다</syn>
+					<syn type="perfect">덜그럭거리다</syn>
+					<syn type="perfect">딸그락거리다</syn>
+					<syn type="perfect">떨그럭거리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(그릇|도구|기계)</sel_rst>
+					<eg>영희는 그릇을 딸각거리며 열심히 씻는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

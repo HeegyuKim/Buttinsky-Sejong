@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼절시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/22</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/13</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">혼절을 시키다</var>
+			<cntr opt="obl" type="i"/>
+			<str>N.시</str>
+			<org lg="si">昏絶_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>deprive someone of his senses</trans>
+				<trans>make someone insensible</trans>
+				<lr>
+					<syn type="perfect">기절시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">온</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>갑작스러운 비보가 할아버지를 혼절시켰다.</eg>
+					<eg>아이들의 장난이 그 여자를 거의 혼절시킬 뻔했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>남편이 출장 중 실종된 것이 그 여자를 혼절시키고 말았다.</eg>
+					<eg>내가 그런 말을 한 것이 그를 혼절시키기까지 할 줄은 몰랐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>암만하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/27</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<defect> <!--어떤 수를 써도-->
+			<infl_rst>암만해도</infl_rst>
+			<infl_rst>암만해야</infl_rst>
+			<!--부정극성-->
+			<trans>by no means</trans>
+			<trans>on no account</trans>
+			<trans>in no way</trans>
+			<sel_rst arg="X" tht="MAG">인간</sel_rst>
+			<defect_eg>우리가 애를 써 봐야 암만해도 안 될 것 같다.</defect_eg>
+			<defect_eg>그는 이미 결심이 섰는지, 암만해도 말릴 수가 없었다.</defect_eg>
+		</defect>
+		<defect> <!--아무리 생각해도-->
+			<infl_rst>암만해도</infl_rst>
+			<trans>after all</trans>
+			<trans>in the end</trans>
+			<sel_rst arg="X" tht="THM">인간</sel_rst>
+			<defect_eg>저 녀석 암만해도 수상하단 말이야.</defect_eg>
+			<defect_eg>쟤는 암만해도 미덥지가 않아.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>꼬질꼬질하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/20</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>의미부류 재고</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적품격속성값</sem_class>
+				<trans>be grimy</trans>
+				<lr>
+					<syn type="perfect">더럽다</syn>
+					<ant type="dir">깨끗하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">옷|신체부위(몸|얼굴)|구체물</sel_rst>
+					<eg>그들이 입고 있는 티셔츠는 꼬질꼬질했다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(때)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">옷|신체부위(몸|얼굴)|구체물</sel_rst>
+					<eg>그들이 입고 있는 티셔츠에는 때가 꼬질꼬질했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

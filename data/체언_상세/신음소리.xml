@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신음소리</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형태변이에 띄어쓰기 정보 추가;형용사결합 정보 추가;동사결합정보 수정 및 추가;논항명사구 정보 추가;논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>n_v 수정(~가 나다를 vpred에서 vsupvar로);분류사 회 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/29</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>'~를 내다' 기능동사 변이형으로 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신음 소리</var>
+			<str type="N_N">신음+소리</str>
+			<org lg="si">呻吟__</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>폭격을 맞은 집터에는 죽어가며 괴로워하는 사람들의 ~가 가득했다.</eg>
+				<trans>moan</trans>
+				<domain></domain>
+				<sem_class>소리</sem_class>
+				<lr>
+					<syn type="perfect">신음</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 크다</comb_aj>
+				<comb_aj type="magn">~가 길다</comb_aj>
+				<comb_aj type="min">~가 작다</comb_aj>
+				<comb_aj type="min">~가 짧다</comb_aj>
+				<comb_aj type="min" pred="no">낮은 ~</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~를 내다</form>
+					<frame>X-이 ~를 내다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~가 나다</form>
+					<frame>Y-에서 ~가 나다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 들려오다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 뱉어내다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">장소</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

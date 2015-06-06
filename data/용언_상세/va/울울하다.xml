@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>울울하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/7/11</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/06/29</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">鬱鬱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>gloomy</trans>
+				<lr>
+					<syn type="perfect">우울하다</syn>
+					<syn type="perfect">심란하다</syn>
+					<syn type="kor">답답하다</syn>
+					<ant type="grad">후련하다</ant>
+					<ant type="grad">통쾌하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태</sel_rst>
+					<eg>사람은 때로 까닭없이 마음이 울울하다.</eg>
+					<eg>이러지도 저러지도 못하고, 오늘은 기분이 울울하다.</eg>
+					<eg>어딘가 체한 듯하게 속이 편하지 않고, 심사가 울울하다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">너무</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>luxuriant</trans>
+				<lr>
+					<syn type="perfect">무성하다</syn>
+					<syn type="perfect">울창하다</syn>
+					<syn type="kor">빽빽하다</syn>
+					<ant type="grad">엉성하다</ant>
+					<ant type="grad">성기다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">식물(나무)|숲|고지대</sel_rst>
+					<sel_rst arg="Y" tht="LOC">지상장소(고지대)</sel_rst>
+					<eg>이 지역에는 산들이 연이어 울울하다.</eg>
+					<eg>동산에 숲이 울울하다.</eg>
+					<eg>그 산은 전나무가 울울하다.</eg>
+					<eg>한 굽이 돌아가니, 잇닿은 연봉들이 울울하다.</eg> <!-- LOC논항 생략 -->
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

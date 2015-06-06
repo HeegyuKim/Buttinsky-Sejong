@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>죽이다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/09</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/02/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+				<mod_note>의미정보 확장 및 형태정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/17</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>형태론적 내부 구조 수정</mod_note>
+				<mod_note>어휘 의미 관계 추가</mod_note>
+				<mod_note>선택 제약 수정 및 추가</mod_note>
+				<mod_note>예문 수정 및 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>R.이1</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>kill</trans>
+				<lr>
+					<ant type="compl">살리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물|식물</sel_rst>
+					<eg>전쟁터에서는 적을 죽이지 않으면 내가 죽는다.</eg>
+					<eg>밀렵꾼들이 곰을 잔인하게 죽였다.</eg>
+					<eg>영희는 나무에 물을 충분히 주지 않아 나무를 죽이고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>do a false incrimination</trans>
+				<lr>
+					<syn type="sino">고사시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|단체(여당|검찰)</sel_rst>
+					<sel_rst arg="Y" tht="THM">단체(야당|조직범죄단)</sel_rst>
+					<n_appr>힘</n_appr>
+					<eg>이번 조치는 여당이 야당을 죽이려는 음모라고 한다.</eg>
+					<eg>그들은 반대파를 죽여 자신들이 주도권을 잡으려고 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep quite</trans>
+				<lr>
+					<syn type="perfect">줄이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|(라디오|스피커)</sel_rst>
+					<sel_rst arg="Y" tht="THM">소리</sel_rst>
+					<eg>라디오 소리를 좀 죽여라.</eg>
+					<eg>발자국 소리를 완전히 죽여라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go weak</trans>
+				<lr>
+					<syn type="sino">약화시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(불|빛)</sel_rst>
+					<eg>고기가 타니 불을 좀 죽여라.</eg>
+					<eg>눈이 부시니 손전등 빛을 좀 죽여라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>go down</trans>
+				<lr>
+					<syn type="perfect">낮추다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">속도(속력)</sel_rst>
+					<eg>커브 길에서는 속도를 죽여라.</eg>
+					<eg>이런 경사진 곳에서 속력을 죽이지 않고 달리면 사고가 나기 쉽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>keep one's temper</trans>
+				<lr>
+					<syn type="sino">진정시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(성질|개성)</sel_rst>
+					<eg>너 성질 좀 죽여.</eg>
+					<eg>너는 그렇게 성질을 죽이지 못하니 늘 다른 사람들에게 욕을 먹는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>숨을 죽이다</idm>
+			<idm>기를 죽이다</idm>
+			<idm>시간을 죽이다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>밀리뢴트겐</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/05</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/14</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2002/04/25</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/30</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>어원정보에 특수문자 지원 안 됨</note>
+		</mnt_grp>
+		<morph_grp>
+			<str>밀리+뢴트겐</str>
+			<org lg="en">Milli___</org>
+			<org lg="de">__뢴트겐</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>1~은 1000분의 1뢴트겐이다</eg>
+				<domain>물리</domain>
+				<cl_subtype type="amt"/>
+				<rel_n>방사능</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

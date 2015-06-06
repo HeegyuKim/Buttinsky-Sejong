@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>권력구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/10/01</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>cl 기술</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">권력 구조</var>
+			<str type="N_N">권력+구조</str>
+			<org lg="si">權力構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정보통신 기술의 발달은 새로운 형태의 ~를 만들고 있다.</eg>
+				<eg>경제 재건뿐만 아니라 ~를 형성하는데 있어서 자국민들에게 결정권을 부여해야 한다.</eg>
+				<eg>이 작품은 전쟁이 인간에게 주는 고통과 전쟁을 유발하는 ~를 다루고 있다.</eg>
+				<trans>power structure</trans>
+				<domain></domain>
+				<sem_class>상황</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">새로운 ~</comb_aj>
+				<comb_aj type="appr">~가 바람직하다</comb_aj>
+				<comb_n type="compound">핵심 ~</comb_n>
+				<comb_n type="compound">정치 ~</comb_n>
+				<comb_n type="compound">국가 ~</comb_n>
+				<comb_n type="compound">~ 형태</comb_n>
+				<comb_n type="compound">~ 개편</comb_n>
+				<comb_n type="compound">~ 개혁</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 개편하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 바꾸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 창출하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

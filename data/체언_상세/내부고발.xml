@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>내부고발</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>고길수</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/9/06</mod_date>
+				<mod_writer>이선웅</mod_writer>
+				<mod_note>통사정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">내부 고발</var>
+			<str type="N_N">내부+고발</str>
+			<org lg="si">內部告發</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>회사의 비리가 ~에 의해 공개되었다.</eg>
+				<eg>측근의 ~로 회장 일가의 비리가 드러났다.</eg>
+				<trans>complaint of an insider</trans>
+				<trans>indictment of an insider</trans>
+				<domain></domain>
+				<sem_class>단독행위</sem_class> <!--재검토 요망-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Z-에게|에 Y|S것-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 되다</form>
+					<frame>Y|S것-이 X-에 의해 Z-에게|에 ~이 되다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 당하다</form>
+					<frame>Y|S것-이 X-에 의해 Z-에게|에 ~을 당하다</frame>
+				</comb_v>
+				<max_n_str>Y|S것-에 대한 X-의 ~</max_n_str>
+				<sel_rst arg="X">관계인간|시간속성인간|역할인간|행위인간</sel_rst>
+				<sel_rst arg="Y">인간|인간집단|범죄및비행</sel_rst>
+				<sel_rst arg="Z">국가기관|단체의부서</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

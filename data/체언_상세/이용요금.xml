@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이용요금</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>한동훈</cre_writer>
+				<cre_note>trans 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/01</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 일부 추가;영어대역어를 'utilization charge'에서 'rent'로 수정;명사결합 정보 추가;동사결합 정보 일부 추가;논항명사구, 논항 의미정보 추가;단위표현 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">이용+요금</str> <!-- 정보 표기법 수정함 -->
+			<org lg="si">利用料金</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 시설을 이용하려면 ~을 지불해야만 합니다.</eg>
+				<eg>지난 달은 전화의 ~이 십만 원이 넘게 나왔다.</eg>
+				<eg>공휴일에는 ~이 이십 퍼센트가 할인된다.</eg>
+				<trans>rent</trans>
+				<domain></domain>
+				<sem_class>비용</sem_class>
+				<lr>
+					<syn type="perfect">사용요금</syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 싸다</comb_aj>
+				<comb_aj type="appr">~이 비싸다</comb_aj>
+				<comb_n type="compound">연체 ~</comb_n>
+				<comb_n type="compound">일반 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 내다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 납부하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 지불하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 미납하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 청구하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 인상하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 할인하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 오르다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~이 내리다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="qnt">원</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

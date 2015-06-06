@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>까칫하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"까칠하다"의 위치에 대한 검토 요망</cre_note>
+				<cre_note>변이형의 배열순서에 대한 검토 요망</cre_note>
+				<cre_note>형태론적 내부구조에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">가칫하다</var>
+			<var type="etc">까칠하다</var>
+			<var type="etc">꺼칠하다</var>
+			<str>I.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>촉감속성값</sem_class>
+				<trans>be rough</trans>
+				<lr>
+					<hyper>거칠다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(털|살갗|피부)</sel_rst>
+					<eg>잠을 못 잤는지 김씨의 피부가 까칫하다.</eg>
+					<eg>잠을 못 잤는지 김씨의 얼굴이 피부가 까칫하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

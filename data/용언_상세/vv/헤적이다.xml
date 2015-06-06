@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헤적이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/24</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">해작이다</var>
+			<cntr opt="obl" type="i"/>
+			<str>R.이3</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>rummage</trans>
+				<lr>
+					<syn type="perfect">헤적거리다</syn>
+					<syn type="perfect">헤적대다</syn>
+					<hyper>헤치다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|장소(땅|하수구|갯벌)</sel_rst>
+					<eg>양지 바른 마당에서 아이들이 나뭇가지로 땅을 헤적이며 놀고 있었다.</eg>
+					<eg>그들은 무엇을 찾으려는지 서랍 속을 마구 헤적였다.</eg>
+					<eg>쓰레기통을 헤적이던 고양이는 인기척에 놀라 어둠 속으로 도망쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>toy with one's food</trans>
+				<lr>
+					<syn type="perfect">헤적거리다</syn>
+					<syn type="perfect">헤적대다</syn>
+					<syn type="perfect">깨작이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">음식|그릇(밥그릇)</sel_rst>
+					<eg>그 여자는 입맛이 없는지 반찬을 헤적이다가는 이내 젓가락을 내려 놓았다.</eg>
+					<eg>밥그릇만 헤적이던 아이가 투정을 늘어 놓기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

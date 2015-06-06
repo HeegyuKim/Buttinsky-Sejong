@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>쓸어올리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>rat one's hair</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">(머리)</sel_rst>
+					<eg>헤어 왁스는 머리카락에 적당히 발라 쓸어올려 주기만 하면 하루종일 촉촉하고 윤기 있는 헤어스타일을 유지해 준다.</eg>
+					<eg>손으로 머리를 쓸어올려 하나로 느슨하게 묶어 준다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="X" tht="INS">(손|손바닥|손가락)</sel_rst>
+					<eg>손바닥 전체로 양쪽 목선을 한 곳도 빠뜨리지 말고 아래에서 위로 21회 이상 쓸어올려 준다.</eg>
+					<eg>손가락을 이용해서 목 아래 턱선을 따라 반대쪽 귀쪽으로 쓸어올려준다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

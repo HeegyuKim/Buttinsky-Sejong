@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>보수주의</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/21</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>str 코멘트 추가</mod_note>
+				<mod_note>n_n 태그 element 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_S">보수주의+자</str> <!-- 보수주의를 더 분석할 수 있음 -->
+			<org lg="si">保守主義者</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그 선생님은 ~로 자신과 다른 입장에 대해서 아주 배타적이신 분이다.</eg>
+				<trans>conservative</trans>
+				<domain></domain>
+				<sem_class>정치적추종자</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="grad">진보주의자</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="lexfunc">골수 ~</comb_n>
+					<!--'골수 ~'의 경우 magn로 "lexfunc"로 주어도 되는 것 같은데...(미현)-->
+					<!--compound를 lexfunc로 고침 (송근영)  -->
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+				<cl type="grp">무리</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>팽만하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">膨滿_</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be swollen</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>벌에 쏘인 팔뚝이 부어서 팽만하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be widespread</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사조|관습|(풍조)|기운|심리상태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|인간집단</sel_rst>
+					<eg>이 사회에 불신 풍조가 팽만해 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

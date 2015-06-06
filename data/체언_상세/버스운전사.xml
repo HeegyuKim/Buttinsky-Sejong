@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>버스운전사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/24</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>분류사 분 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">버스 운전사</var>
+			<str type="N_N">버스+운전사</str><!--운전사는 더 분석가능함-->
+			<org lg="en">bus___</org>
+			<org lg="si">__運轉士</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+			    <eg>~는 승객들을 목적지까지 안전하게 수송하기 위해 버스를 운전한다.</eg>
+				<eg>서울에 이어 부산에서도 술취한 승객이 ~를 폭행한 사건이 발생했다.</eg>
+				<trans>bus driver</trans>
+				<domain></domain>
+				<sem_class>직업인간</sem_class>
+				<lr>
+					<syn type="perfect">버스기사</syn>
+					<syn type="perfect">버스운전기사</syn>
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">시내 ~</comb_n>
+				<comb_n type="compound">마을 ~</comb_n>
+				<comb_n type="compound">시외 ~</comb_n>
+				<comb_n type="compound">고속 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="yes"></form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">인</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">명</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

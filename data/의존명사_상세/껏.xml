@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>껏</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/08</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>2001/09/08(방성원)</note>
+			<note>접사에서 기술할 경우 morph 정보 수정 필요</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<comp pos="n" type="prefix">마음~</comp>
+			<comp pos="n" type="prefix">정성~</comp>
+			<comp pos="n" type="prefix">힘~</comp>
+			<comp pos="n" type="prefix">눈치~</comp>
+			<comp pos="n" type="prefix">분수~</comp>
+			<comp pos="n" type="prefix">욕심~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>힘 닿는 ~ 노력해 보겠습니다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<comb_ida possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n>N</pre_n>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>살인사건</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/01</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note>통사정보 확인 바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사연어에 '의문의, 인질 ~' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">살인 사건</var>
+			<str type="N_N">살인+사건</str> <!--표시 형식 "n+n"을 "N_N"으로 수정(김)-->
+			<org lg="si">殺人事件</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>이 집에서 ~이 일어났다.</eg>
+				<trans>murder case</trans>
+				<domain></domain>
+				<sem_class>우발사건</sem_class> <!--'사건'을 '우발사건'으로(김)-->
+				<lr>
+					<syn type="etc">살해사건</syn> <!--동의어 기입(김)-->
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">끔찍한 ~</comb_aj> <!--'끔직한,무서운'과 같은 형용사들은 안될까?;형용사 결합 기입(김)-->
+				<comb_aj type="appr">참혹한 ~</comb_aj>
+				<comb_n type="compound">의문의 ~</comb_n>
+				<comb_n type="compound">인질 ~</comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 나다</form> <!--동사별로 분리 기술(김)-->
+					<frame>X-에서 ~이 나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form>
+					<frame>X-에서 ~이 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 터지다</form>
+					<frame>X-에서 ~이 터지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>X-에서 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 일으키다</form>
+					<frame></frame> <!--정보 삭제. 술어명사+일반동사 결합이므로(김)-->
+				</comb_v>
+				<max_n_str>X-에서의 ~</max_n_str>
+				<sel_rst arg="X">장소</sel_rst> <!--사람을 죽일 수 있는 것들은 많으므로(이민우);'구체자연물'을 '장소'로 수정(김)-->
+				<cl type="uni">번</cl> <!--분리기술(김)-->
+				<cl type="uni">회</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">건</cl> <!--추가(김)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

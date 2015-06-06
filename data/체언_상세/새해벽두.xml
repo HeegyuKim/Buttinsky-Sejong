@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>새해벽두</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/02</cre_date>
+				<cre_writer>이민우</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/20</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+				<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>동사정보 추가;조사제약에서 '~부터, 에' 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">새해 벽두</var>
+			<str type="N_N">새해+벽두</str>
+			<org lg="si">__劈頭</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>올해에는 ~부터 나쁜 소식들이 많이 들려왔다.</eg> <!--수정(김)-->
+				<eg>~에 정부의 새로운 정책들이 발표되었다.</eg>
+				<trans>outset of a new year</trans> <!--영어 번역이 맞는지?(이민우);대역표현 수정(김)-->
+				<domain></domain>
+				<sem_class>부분시간</sem_class> <!--'시간'에서 '부분시간'으로(김)-->
+				<lr>
+					<syn type="sino">신년벽두</syn> <!--정보 기입(김)-->
+					<ant type="compl"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 맞다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 열다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 강타하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 밝다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+				<prt></prt>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

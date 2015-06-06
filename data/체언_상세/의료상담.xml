@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>의료상담</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/18</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/09</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>명사결합 정보 추가;동사결합 정보 수정;논항 명사구 정보 수정;논항 의미정보 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>명사결합 정보수정 및 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">의료 상담</var>
+			<str type="N_N">의료+상담</str>
+			<org lg="si">醫療相談</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>예약을 하고 가면 전문의와 자신의 질환에 대해 ~을 할 수 있다.</eg>
+				<trans>medical consultation</trans>
+				<domain></domain>
+				<sem_class>상호적언술행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">무료 ~</comb_n>
+				<comb_n type="compound">전문 ~</comb_n>
+				<comb_n type="compound">온라인 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Z-와 Y-을 ~을 하다</frame>
+					<frame>X-이 Z-와 Y-에대해 ~을 하다</frame>
+					<frame>X-이 Z-와 S것-을 ~을 하다</frame>
+					<frame>X-이 Z-와 S것-에대해 ~을 하다</frame>
+					<frame>X-이 Z-에게 Y-을 ~을 하다</frame>
+					<frame>X-이 Z-에게 Y-에대해 ~을 하다</frame>
+					<frame>X-이 Z-에게 S것-을 ~을 하다</frame>
+					<frame>X-이 Z-에게 S것-에대해 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Z-이 X-에게 Y-에대해 ~을 받다</frame>
+					<frame>Z-이 X-에게 Y-을 ~을 받다</frame>
+					<frame>Z-이 X-에게 S것-에대해 ~을 받다</frame>
+				</comb_v>
+				<max_n_str>Y-에대한 X-와 Z-의 ~</max_n_str>
+				<max_n_str>S것-에대한 X-와 Z-의 ~</max_n_str>
+				<max_n_str>X-와 Z-의 Y ~</max_n_str>
+				<sel_rst arg="X">직업인간(의사)</sel_rst>
+				<sel_rst arg="Y">질병및증세|신체상태|심리상태|상태변화|전염병</sel_rst>
+				<sel_rst arg="Z">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

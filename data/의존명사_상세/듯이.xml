@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>듯이</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/08/07</cre_date>
+				<cre_writer>방성원</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/12/02</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>새 태그세트에 맞추어 수정</mod_note>
+			</mod>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">듯</var>
+			<str type="N_S">듯+이</str>
+					<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>민수는 어이없다는 ~ 웃고 말았다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<comb_aj possible="no"/>
+				<comb_v possible="no"/>
+				<comb_ida possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+				<s_n>S는 ~</s_n>
+				<s_n>S다는 ~</s_n>
+				<s_n>S라는 ~</s_n>
+				<s_n>S자는 ~</s_n>
+				<s_n>S냐는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S었을 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+				<s_n>S을 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

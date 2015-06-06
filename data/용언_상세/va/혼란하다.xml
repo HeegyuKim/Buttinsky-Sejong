@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼란하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">昏亂_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be confused</trans>
+				<trans>be deranged</trans>
+				<trans>be distracted</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">속성(머리|생각|정신|마음)|인간</sel_rst>
+					<eg>마음이 혼란할 때면 그는 강가를 걸었다.</eg>
+					<eg>그 여자는 뭔가 머리가 혼란한지 멍한 표정만 짓고 있었다.</eg>
+					<eg>끊임없이 변하는 입시 제도에 학생들과 학부모들은 그저 혼란할 뿐이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">混亂_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be in confusion</trans>
+				<trans>be disordered</trans>
+				<trans>be chaotic</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(국가|사회|가정)|분야</sel_rst>
+					<eg>폭행을 일삼는 문제아들은 혼란한 가정에서 자란 경우가 많다.</eg>
+					<eg>사회가 혼란한 틈을 타 각종 범죄가 급증하고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(정세|분위기|시국)</sel_rst>
+					<eg>시국이 이리도 혼란한 터에 누군들 자기 일에 열중할 수 있겠습니까?</eg>
+					<eg>입시 부정 사건으로 사회 분위기가 혼란하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(질서|교통)|(정치|경제)</sel_rst>
+					<eg>퇴근 시간 무렵이면 시내 전역에 교통이 혼란하다.</eg>
+					<eg>이렇게 질서가 혼란해서야 어찌 선진국이라 불릴 수 있겠습니까?</eg>
+					<eg>정치는 혼란하고 물가는 치솟고, 서민들의 삶이 갈수록 힘들어지고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간(시기|시대|시절)</sel_rst>
+					<eg>발달 과정상 청소년기는 자아 정체감의 혼미로 혼란한 시기이다.</eg>
+					<eg>내 젊은 시절은 참 혼란하고 힘든 시대였지만 되돌아보면 그리운 시간이기도 하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be disordered</trans>
+				<lr>
+					<syn type="perfect">혼란하다</syn>
+					<syn type="perfect">복잡하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="01">
+				<frame>Y=N1-에 X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체자연물|구체인공물</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>백화점에 명절을 앞두고 쇼핑 나온 사람들이 혼란하다.</eg>
+					<eg>좁은 골목에 무질서하게 내 건 가게 간판들이 혼란했다.</eg>
+					<eg>아이의 방에 마구 내던져 둔 책과 옷가지들이 혼란했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be disordered</trans>
+				<lr>
+					<syn type="perfect">혼란하다</syn>
+					<syn type="perfect">복잡하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="Y" tht="INS">인간|구체자연물|구체인공물</sel_rst>
+					<eg>백화점이 명절을 앞두고 쇼핑 나온 사람들로 혼란하다.</eg>
+					<eg>좁은 골목이 무질서하게 내 건 가게 간판들로 혼란했다. </eg>
+					<eg>아이의 방이 마구 내던져 둔 책과 옷가지들로 혼란했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

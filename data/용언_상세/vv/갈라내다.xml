@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갈라내다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/18</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-아V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>disconnect</trans>
+				<trans>detach</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-을 Z=N2-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="COM">구체물|추상적대상</sel_rst>
+					<eg>그 어린 아이는 빨간색 공을 파란색 공과 갈라내면서 장난을 치고 있다.</eg>
+					<eg>진리를 허위와 갈라내려는 인간의 노력은 태고로부터 오늘날까지 계속되고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="sym" n="1">
+				<frame>X=N0-이 Y+Z=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="THM">구체물|추상적대상</sel_rst>
+					<eg>한 아낙이 대청마루 위에서 곡식 알갱이와 쭉정이를 갈라내고 있다.</eg>
+					<eg>유죄와 무죄를 갈라내는 기준이 인간에게 있는 한, 논리는 법률전문가에 따라서 각각일 수밖에 없다.</eg>
+					<eg>장어는 잘 손질해서 내장과 뼈를 갈라내고 토막내 한번 살짝 굽는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>disconnect</trans>
+				<trans>detach</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체물|추상적대상</sel_rst>
+					<eg>그 아이는 공 상자에서 빨간 공을 정확하게 갈라냈다.</eg>
+					<eg>여러 가지 현상들 가운데에서 유의미한 것을 갈라내는 것도 학자에게는 중요한 능력이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>0</sem_class>
+				<trans>disconnect</trans>
+				<trans>detach</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="SRC">구체물|추상적대상</sel_rst>
+					<eg>한 젊은 여자가 쌀에서 쭉정이를 갈라내고 있다.</eg>
+					<eg>옛날에는 금, 은 광산에서 금, 은을 갈라내는 데 수은을 많이 사용하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

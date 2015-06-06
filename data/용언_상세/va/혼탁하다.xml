@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>혼탁하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">混濁_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성</sem_class>
+				<trans>be turbid</trans>
+				<trans>be muddy</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|기체|분비물</sel_rst>
+					<eg>주변 공장에서 방류한 폐수로 강물은 혼탁하고 역한 냄새까지 났다.</eg>
+					<eg>그들은 도심의 혼탁한 공기를 피해 산골 작은 마을로 이사를 갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성</sem_class>
+				<trans>be corrupt</trans>
+				<trans>be disordered</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간집단(국가|사회)|분야</sel_rst>
+					<eg>이렇게 혼탁한 사회를 개탄하기 보다는 도덕과 진리와 정의가 다시 살아 숨쉬도록 여러분이 이 사회를 이끌어야 합니다.</eg>
+					<eg>지나친 경쟁으로 혼탁한 통신 시장을 바로 잡을 혁신적 조치가 필요하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황(정세|분위기|시국)|시간(시기|시대|시절)</sel_rst>
+					<eg>많은 원로 정치인들이 한국의 혼탁한 대선 정국을 개탄했다.</eg>
+					<eg>경선은 사상 유례가 없을 정도로 혼탁한 양상을 띠어 가고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

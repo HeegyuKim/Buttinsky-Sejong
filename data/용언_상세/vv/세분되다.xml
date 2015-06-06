@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>세분되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">세분이 되다</var>
+			<str>N.되</str>
+			<org lg="si">細分_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be subdivided</trans>
+				<trans>be broken down</trans>
+				<lr>
+					<syn type="kor">나눠지다</syn>
+					<ant type="dir">통합되다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="FNS">구체물|집단|장소|추상적대상|사태</sel_rst>
+					<eg>사람들은 관심사에 따라 몇 개의 그룹으로 세분되었다.</eg>
+					<eg>이 많은 데이터들이 단 3명의 사람에 의해 3일 만에 5개의 하위 분야로 세분되다니.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

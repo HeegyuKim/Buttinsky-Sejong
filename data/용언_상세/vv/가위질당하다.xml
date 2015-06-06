@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가위질당하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/17</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">가위질을 당하다</var>
+			<str>NV</str>
+			<org lg="si">_當_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be eliminated</trans>
+				<trans>be deleted</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">영화|문학텍스트</sel_rst>
+					<n_appr arg="X">부분</n_appr>
+					<eg>국내 배급된 이 영화는 상당부분 가위질당한 것이기 때문에 원래의 영화는 한참 길 것이라고 생각된다.</eg>
+					<eg>당시에는 이 시의 많은 부분이 게엄당국에 의해 가위질당한 채로 그 신문에 실렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>신분보장</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/06</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>예문 수정;센스1의 명사결합에서 '~ 철폐' 삭제, '~ 제도' 추가함;센스1의 동사결합에서 조사변이('에서|에게|에게서') 정보 추가;센스1의 논항의미정보에 '기관' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/02</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>동사결합 조사변이 정보 대표형으로 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>센스2 n_v 수정</mod_note>
+			</mod>
+				<mod>
+				<mod_date>2007/10/17</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">신분 보장</var>
+			<str type="N_N">신분+보장</str>
+			<org lg="si">身分保障</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+			<sense>
+			<sem_grp>
+				<eg>업무상 부당한 간섭을 막기 위해 공무원들은 법으로 ~을 받고 있다.</eg>
+				<trans>guarantee of status</trans>
+				<domain>법률</domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 제도</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 X-에서|에게 ~을 받다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-이 X-에서|에게 ~이 되다</frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">법률|국가|기관</sel_rst>
+				<sel_rst arg="Y">직업인간</sel_rst> <!--'공무원'-->
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>정부는 일시적으로 불법체류자에게 ~을 해주겠다고 발표했다.</eg>
+				<trans>guarantee of status</trans>
+				<domain></domain>
+				<sem_class>지속적활동</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 확실하다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 받다</form>
+					<frame>Y-이 ~을 받다</frame><!--'X-에' 삭제(김이정)-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이 되다</form>
+					<frame>Y-이 ~이 되다</frame><!--'X-에' 삭제(김이정)-->
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">법률|국가</sel_rst>
+				<sel_rst arg="Y">일시적역할인간|지역인간</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

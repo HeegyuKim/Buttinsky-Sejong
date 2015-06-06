@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>현혹되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">현혹이 되다</var>
+			<str>N.되</str>
+			<org lg="si">眩惑_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be dazzled</trans>
+				<trans>be blinded</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">온</sel_rst>
+					<eg>진열장 속의 화려한 보석들에 현혹되어 여자는 걸음을 멈추었다.</eg>
+					<eg>현명한 소비자라면 화려한 선전 문구에 현혹되어 물건을 사는 일은 없어야 할 것이다.</eg>
+					<eg>결국 그의 번지르르한 말에 현혹된 젊은이들이 하나 둘 고향을 떠나는 상황이 벌어지고야 말았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">S데</sel_rst>
+					<eg>단 세 달이면 투자금의 두 배를 벌게 해 준다는 데에 현혹되어 많은 이들이 그의 사기에 말려들었다고 한다.</eg>
+					<eg>그 여자는 사내가 갖은 감언이설로 구슬리는 데에 현혹되어 그를 따라나서고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

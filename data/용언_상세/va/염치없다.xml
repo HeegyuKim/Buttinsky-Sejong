@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>염치없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/04</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/30</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">염치가 없다</var>
+			<str>NA</str>
+			<org lg="si">廉恥_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be shameless</trans>
+				<trans>have no sense of honor</trans>
+				<lr>
+					<syn type="perfect">몰염치하다</syn>
+					<syn type="perfect">파렴치하다</syn>
+					<ant type="grad"></ant>
+					<hypo>파렴치하다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위|인간|인간집단</sel_rst>
+					<eg>빌린 돈을 갚지도 않고 자꾸 돈을 꿔달라니 너도 참 염치없다.</eg>
+					<eg>그런 잘못을 저지르고도 도리어 큰소리를 치다니 그 사람 너무 염치없는 거 아냐?</eg>
+					<eg>선거를 앞두고 남발하는 선심성 공약을 염치없다고 하지만 정치적 공약은 검증되기 전에 소비되는 것이 현실이다.</eg>
+					<eg>이제는 신에게 드리는 기도조차 염치없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>feel shame</trans>
+				<lr>
+					<syn type="etc">부끄럽다</syn>
+					<syn type="etc">죄송하다</syn>
+					<ant type="grad">떳떳하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|인간집단</sel_rst>
+					<eg>이렇게 도와주시니, 제가 정말 염치없습니다.</eg>
+					<eg>염치없지만 선생님께 부탁드리고자 저희들이 이렇게 찾아왔습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>염치없는 조 박말이다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>표상하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">표상을 하다</var>
+			<str>N.하</str>
+			<org lg="si">表象_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>symbolize</trans>
+				<trans>emblematize</trans>
+				<trans>represent</trans>
+				<lr>
+					<syn type="perfect">상징하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|기호|속성값</sel_rst>
+					<sel_rst arg="Y" tht="FNS">추상적대상|사태</sel_rst>
+					<eg>예로부터 흰색은 한민족을 표상하는 색깔로 여겨져 왔다.</eg>
+					<eg>우리는 평화를 표상하는 비둘기를 이용해 포스터를 디자인해 보기로 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

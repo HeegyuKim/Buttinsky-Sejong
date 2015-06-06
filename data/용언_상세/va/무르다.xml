@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/29</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/04</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be soft and flexible</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>칼이 너무 물러서 뭘 썰 수가 없다.</eg>
+					<eg>두부는 무르기 때문에 조심해서 다뤄야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be meek</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">(성품|성격|마음|마음씨)</n_appr>
+					<eg>그는 성격이 너무 물러서 아무 일도 못한다.</eg>
+					<eg>일반적으로 신종 황제는 성품이 무른 것으로 알려져 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be meek</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(성품|성격|마음|마음씨)</sel_rst>
+					<eg>그의 성격은 너무 물러서 아무 일도 못한다.</eg>
+					<eg>일반적으로 신종 황제의 성품은 무른 것으로 알려져 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

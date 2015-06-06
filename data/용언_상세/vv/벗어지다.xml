@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>벗어지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/09</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.지</str>
+		</morph_grp>
+		<sense> <!--표준사전 센스 3: 머리카락이나 몸의 털 따위가 빠지다.-->
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>become bald</trans>
+				<trans>go bald</trans>
+				<trans>grow bald</trans>
+				<trans>get bald in front</trans>
+				<trans>lose one's hair</trans>
+				<lr>
+					<syn type="etc">벗겨지다</syn>
+					<syn type="vulgar">까지다</syn>
+					<rel>대머리</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame> <!--X='[인간]-의 [머리]'에서 재구조화되어 이중주어문을 이룰 수 있음.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(머리|이마|대머리|정수리|앞머리)</sel_rst>
+					<eg>저 사람은 머리가 벗어져서 나이가 더 들어 보인다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="magn">훌러덩</col>
+					<col type="magn">훌렁</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense> <!--표준사전 센스 2: 누명이나 죄 따위가 없어지다.-->
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be cleared</trans>
+				<trans>prove to be innocent</trans>
+				<lr>
+					<syn type="etc">벗겨지다</syn>
+					<rel>벗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(누명|죄|혐의)</sel_rst>
+					<eg>언제쯤 나의 누명이 벗어질 수 있을까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--신체착용물이 신체에서 이탈하다-->
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>come off</trans>
+				<trans>slip off</trans>
+				<trans>slip down</trans>
+				<trans>be taken off</trans>
+				<lr>
+					<syn type="etc">벗겨지다</syn>
+					<rel>벗다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame> <!--Y는 생략되는 경우가 많음.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물(옷|양말|신발|모자|가면|굴레|올가미|올무|멍에)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">신체부위</sel_rst>
+					<eg>양말 고무줄이 늘어나서 자꾸 벗어진다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--어떤 물체의 겉에 덮여 있던 것이 표면으로부터 이탈되다-->
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>be taken off</trans>
+				<trans>get removed</trans>
+				<trans>come off</trans>
+				<trans>come apart</trans>
+				<trans>get out of place</trans>
+				<trans>get loose</trans>
+				<lr>
+					<syn type="etc">벗겨지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="SRC">구체물</sel_rst>
+					<eg>짐 위에 덮어 놓았던 장막이 벗어져 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense> <!--어떤 물체의 겉에 덮여 있던 칠,거죽면 등이 표면으로부터 이탈되다. 위의 센스에 포함시킬 수도 있으나 영어 대역어가 차이나서 따로 분리함.-->
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>peel off</trans>
+				<trans>come off</trans>
+				<trans>strip off</trans>
+				<trans>be worn off</trans>
+				<trans>be grazed</trans>
+				<trans>be abraded</trans>
+				<trans>get skinned</trans>
+				<trans>be skinned</trans>
+				<lr>
+					<syn type="etc">벗겨지다</syn>
+					<syn type="vulgar">까지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서|에게서|에 V</frame> <!--Y는 흔히 생략되고 X의 관형어로 실현되는 일이 많음.-->
+				<subsense>
+					<sel_rst arg="X" tht="THM">(칠|페인트|채색)|부분(표면|거죽|가죽|살갗|살|피부|껍질|껍데기)|(때|땟국물|땟구정물|기미)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">구체물</sel_rst>
+					<eg>대문의 칠이 다 벗어졌다.</eg>
+				</subsense>
+				<subsense> <!--표준사전에는 별도 센스로 되어 있으나 subsense 정도로 구분해 둠.-->
+					<sel_rst arg="X" tht="THM">(촌티)</sel_rst>
+					<sel_rst arg="Y" tht="SRC">인간</sel_rst>
+					<eg>그는 서울 생활을 하더니 촌티가 다 벗어졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>머리에 쇠똥이 벗어지다</idm>
+			<idm>머리에 쇠딱지가 벗어지다</idm>
+			<!--둘 다 주로 부정문으로 씀.-->
+		</idm_grp>
+	</entry>
+</superEntry>

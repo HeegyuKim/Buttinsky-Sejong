@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>현신하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/16</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">현신을 하다</var>
+			<str>N.하</str>
+			<org lg="si">現身_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>present oneself</trans>
+				<trans>appear</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상상적인간(신|귀신|혼령)</sel_rst>
+					<eg>기록에 따르면 그 두 스님은 이 사찰에서 인간으로 현신한 관음보살을 뵈었다고 쓰고 있다.</eg>
+					<eg>마을 사람들은 이맘 때가 되면 마을을 지켜주는 혼령들이 현신하여 제사를 받는다고 믿었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>present oneself</trans>
+				<trans>appear</trans>
+				<domain>역사</domain>
+				<lr>
+					<syn type="de_honor">인사하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<eg>새로 부임한 고을 수령께 현신하려는 사람들이 마당에 줄을 짓고 서 있었다.</eg>
+					<eg>각지에서 올라온 이들이 전하께 현신하기를 바라고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

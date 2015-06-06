@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>굴러들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 의미논항 지수 수정</mod_note>
+				<mod_note>예문 수정 및 보충</mod_note>
+				<mod_note>센스 순서 조정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come rolling</trans>
+				<lr>
+					<hyper>구르다</hyper>
+					<hyper>들어오다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="X" tht="DIR">장소</sel_rst>
+					<eg>눈이 많이 내리는 날 개가 앞산을 향해 하루 종일 짖더니 큰 눈덩이가 집 안으로 굴러들었다.</eg>
+					<eg>웬 돌덩이들이 산아래로 굴러드는 바람에 여럿이 다칠 뻔했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>come and settle</trans>
+				<lr>
+					<hyper>들어오다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|장소</sel_rst>
+					<eg>작년 겨울 정체를 알 수 없는 사내가 우리 마을에 굴러들어 뒷산에 살기 시작했다.</eg>
+					<eg>왜 눈먼 돈이 나에게는 굴러들지 않을까?</eg>
+					<eg>그는 이곳저곳을 전전하다가 결국 달동네로 굴러들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

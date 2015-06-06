@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>노쇠하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>하위센스 통일</mod_note>
+				<mod_note>예문 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">노쇠를 하다</var>
+			<str>N.하</str>
+			<org lg="si">老衰_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>grow old and senile</trans>
+				<trans>become aging</trans>
+				<lr>
+					<syn type="perfect">퇴모하다</syn>
+					<syn type="perfect">노화되다</syn>
+					<syn type="kor">늙다</syn>
+					<ant type="grad">젊어지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">생물|신체부위(몸|조직|세포)|식물의부분</sel_rst>
+					<eg>여자는 심하게 앓고 난 뒤 급격하게 노쇠해 갔다.</eg>
+					<eg>이 소는 노쇠해서 더 이상 일을 못한다.</eg>
+					<eg>나무의 수명이 짧아서 20년 내지 25년이면 노쇠하게 됩니다.</eg>
+					<eg>정년 퇴직과 동시에 갑자기 몸이 노쇠해 버리는 것은 세상에서 자주 볼 수 있는 현상이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

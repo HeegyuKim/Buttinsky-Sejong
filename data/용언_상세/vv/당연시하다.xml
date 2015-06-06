@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>당연시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/17</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>영어대역어 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">當然視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>take st for granted</trans>
+				<lr>
+					<hyper>여기다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|S것|S음</sel_rst>
+					<eg>정치인들은 자신의 이익을 위해 정치적인 행동은 당연시한다.</eg>
+					<eg>요즘 젊은이들은 웬만한 자기 실수를 아무 반성없이 당연시한다.</eg>
+					<eg>실제 맞벌이가 보편화한 서양이나 중국 같은 사회에서는 남편이 가사를 함께 하는 것을 당연시한다.</eg>
+					<eg>미국은 물론 대부분의 한국인들이 한국을 '주권국가'라고 말하기를 당연시한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>한국 사람들은 아파트가 급격한 서구화의 결과라고 당연시한다.</eg>
+					<eg>사람 관계에 있어서 가장 큰 문제점은 모든 사람들이 남들도 그럴 것이라고 당연시한다는 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

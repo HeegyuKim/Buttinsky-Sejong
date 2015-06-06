@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>트이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/03/22</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/19</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/10/30</mod_date>
+				<mod_writer>임유종</mod_writer>
+				<mod_note>str 정보 수정</mod_note>
+				<mod_note>trans 형식 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/01/25</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/09</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.이2</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get cleared</trans>
+				<trans>be opened</trans>
+				<trans>open</trans>
+				<trans>spread out</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(시야|눈앞)|장소</sel_rst>
+					<eg>숲을 빠져나오자 갑자기 눈앞이 확 트였다.</eg>
+					<eg>시야가 트이면서 시원한 바람이 불어왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="manner2">확</col>
+					<col type="manner2">탁</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>have an open mind</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(머리)</sel_rst>
+					<eg>머리가 트인 선각자들이 민족을 개화의 길로 이끌었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>be open hearted</trans>
+				<trans>have an understanding heart</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(속|마음)</sel_rst>
+					<eg>영호는 속이 트인 친구이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>can understand</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(귀)</sel_rst>
+					<eg>프랑스에 온 지도 벌써 1년이 지났는데도, 영호의 귀는 좀체로 트이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>can speak</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(말문)</sel_rst>
+					<eg>그제서야 비로서 그 아이는 말문이 트이기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>feel free</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(숨통|속)</sel_rst>
+					<eg>야외로 나오니 속이 확 트이는 느낌이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>become better</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(운|신수)</sel_rst>
+					<eg>그는 마흔이 넘어서야, 조금씩 운이 트이기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>be cleared</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(목|목청)</sel_rst>
+					<eg>창을 하기 위해서는 목이 트이지 않으면 안된다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<col_grp>
+					<col type="etc">탁</col>
+				</col_grp>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선</sem_class>
+				<trans>become enlightened</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(도|문리)</sel_rst>
+					<eg>영수는 컴퓨터에 대해서는 이제 도가 트인 정도가 되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be pierced</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(옷)</sel_rst>
+					<eg>그 여자 배우의 드레스는 등 뒤가 허리 부분까지 깊게 트여 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be opened to</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(길)|장소(거실|학교)</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>이 아파트 거실은 다용도실로 트여 있어 편리하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get opened</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(물꼬)|(길)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>논에 물꼬가 트이지 않아 물을 댈 수가 없었다.</eg>
+					<eg>이 섬에는 아직 뱃길이 트이지 않아 다 볼 수 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get opened</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>Y=N1-에 X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(물꼬)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">추상적대상(대화|논의)</sel_rst>
+					<eg>남북한 대화에 이제 물꼬가 트이기 시작했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(물꼬)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">S데</sel_rst>
+					<eg>남북한이 교류하는 데에 물꼬가 트였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/01/15</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/09/09</mod_date>
+				<mod_writer>김종명</mod_writer>
+				<mod_note>격틀 수정 및 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/15</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V.이1</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>get opened</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 Npr2-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="Npr2">(거래)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<eg>업체와 아직 거래가 트이지 않아 애를 먹고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 Npr1-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(거래)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간|인간집단</sel_rst>
+					<eg>두 업체가 아직 서로 정식으로 거래가 트이지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

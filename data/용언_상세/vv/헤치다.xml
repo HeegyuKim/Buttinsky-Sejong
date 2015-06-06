@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헤치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/02/23</cre_date>
+				<cre_writer>박영준</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<cntr opt="obl" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>dig up</trans>
+				<trans>turn up </trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">지상장소|구체물|구체물의부분</sel_rst>
+					<eg>아이들이 갯벌을 헤치며 조개를 찾고 있었다.</eg>
+					<eg>고양이가 쓰레기를 헤치면서 먹을 것을 찾고 있다.</eg>
+					<eg>그는 뭔가를 찾는다며 서랍 속을 헤쳐 놓았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">옷</sel_rst>
+					<eg>그는 갑자기 상의를 헤치더니 칼을 꺼집어 내었다.</eg>
+					<eg>할머니는 치맛자락을 헤쳐 꺼낸 작은 주머니를 내 손에 쥐어 주셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>scatter</trans>
+				<trans>disperse</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">일시적집단(군중|청중|시위대)</sel_rst>
+					<eg>경찰이 호루라기를 불며 군중들을 헤쳐 보냈다.</eg>
+					<eg>아이들을 헤쳐 놀게 했다가 두 시간 후 다시 모이게 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>push aside</trans>
+				<trans>make one's way through</trans>
+				<trans>plow one's way through</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">숲(숲|밀림)|일시적집단(군중|시위대)|현상(물결|파도)|(안개|구름)</sel_rst>
+					<eg>경찰들이 범인들을 잡으러 온숲을 헤치며 돌아 다닌다.</eg>
+					<eg>비행기가 구름을 헤치고 날아간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>overcome</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">상태(역경|고난|난관|시국|세상)</sel_rst>
+					<eg>우리는 닥친 역경을 헤치고 나아갈 만한 힘이 없었다.</eg>
+					<eg>젊은이들은 이 험난한 시국을 헤치고 일어서야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

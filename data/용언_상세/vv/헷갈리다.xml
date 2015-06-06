@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>헷갈리다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/15</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>RuV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be confused</trans>
+				<trans>be in confusion</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="X" tht="THM">개체상황(정신)</sel_rst>
+					<eg>아이들이 시끄럽게 떠드는 통에 정신이 헷갈려 도통 계산을 할 수가 없다.</eg>
+					<eg>어제는 제가 술 기운에 정신이 헷갈려 엉뚱한 소리를 했던 것 같습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be confused</trans>
+				<trans>be tangled</trans>
+				<trans>be hard to find</trans>
+				<trans>be hard to make out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>나는 비슷하게 생긴 그 두 아이들이 늘 헷갈린다.</eg>
+					<eg>이 동네는 비슷하게 생긴 골목들이 많아 길이 헷갈리기 쉽다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S지</sel_rst>
+					<eg>막상 그 집 문을 열고 나오니 어떤 길로 가야하는지 헷갈리기 시작했다.</eg>
+					<eg>어떤 사람이 먼저 주문했는지가 헷갈려 배달에 차질이 생겼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

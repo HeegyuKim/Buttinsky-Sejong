@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007md.dtd">
+
+<superEntry>
+	<orth>두째</orth>
+	<entry n="1" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/22</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/01/23</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2001/08/22(김창섭);‘두째’는 ‘만’ 등의 뒤에 나타난다. 단독으로 쓰일 때는 ‘둘째’가 표준어이다. 그런데 단독으로 쓰인 곳의 ‘두째’는 비표준어이다. 따라서 ‘두째’를 두 표제어로 분할한다.</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<allo>둘째</allo>
+			<var type="xs"></var>
+			<var type="xd"></var>
+			<var type="xx">둘째</var>
+			<var type="xx">둘쨋</var>
+			<var type="xx">두쨋</var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str>두+-째</str>
+			<org lg="temp"></org>
+			<comp pos="n"></comp>
+			<metc></metc>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>만 두째 쥐도 쌀알을 하나 물고 창고를 나왔다.</eg>
+				<nclass>확정</nclass>
+				<arab>2째</arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq">서수</sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn>이(二)</syn>
+					<ant></ant>
+					<rel type="car">둘</rel>
+					<rel type="qua">두</rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_md_n>~ 딸</comb_md_n>
+				<comb_md_n>~ 아들</comb_md_n>
+				<comb_md_n>~ 집</comb_md_n>
+				<comb_md_n>~ 이유</comb_md_n>
+				<comb_md_n>~ 번(番)</comb_md_n>
+				<comb_md_n>~ 이야기</comb_md_n>
+				<comb_md_n>~ 일요일</comb_md_n>
+				
+				<post_n></post_n>
+				<synt_sub type="small"/>
+			</syn_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="md">
+		<mnt_grp>
+			
+			<cre>
+				<cre_date>2001/08/22</cre_date>
+				<cre_writer>김창섭</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2007/02/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note></note>
+		</mnt_grp>
+		<see>둘째</see>
+		<morph_grp>
+			<var type="xs">둘째</var>
+			<var type="xd"></var>
+			<var type="xx"></var>
+			<var type="kr"></var>
+			<var type="si"></var>
+			<var type="heavy"></var>
+			<var type="lgt"></var>
+			<var type="abb"></var>
+			<var type="lng"></var>
+			<str></str>
+			<org lg="temp"></org>
+		</morph_grp>
+		<idm_grp>
+			<idm></idm>
+			<prv></prv>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>저 줄 앞에서 두째 사람이 우리 형이야.</eg>
+				<nclass></nclass>
+				<arab></arab>
+				<reg></reg>
+				<con></con>
+				<sem_rep type="dsoq"></sem_rep>
+				<sem_rep type="qi"></sem_rep>
+				<lr>
+					<syn></syn>
+					<ant></ant>
+					<rel type="car"></rel>
+					<rel type="qua"></rel>
+					<rel type="ord"></rel>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<synt_sub type="temp"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

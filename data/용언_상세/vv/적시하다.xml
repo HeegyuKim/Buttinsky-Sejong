@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>적시하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/14</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>N.하</str>
+			<org lg="si">敵視_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>부정적태도</sem_class>
+				<trans>be hostile</trans>
+				<trans>have hostility</trans>
+				<trans>look upon a person as an enemy</trans>
+				<trans>regard a person with hostility</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|종교|사조|제도</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>기영이가 준호를 계속 적시하는 것이 이해가 안 간다.</eg>
+					<eg>기영이는 중국에서 수입한 물건들을 무조건 적시하는 경향이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/14</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">적시를 하다</var>
+			<str>N.하</str>
+			<org lg="si">摘示_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>point out</trans>
+				<trans>indicate</trans>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">지적하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(사실|점)|사태</sel_rst>
+					<sel_rst arg="Z" tht="LOC">텍스트|관계장소|텍스트담지물</sel_rst>
+					<eg>할아버지는 유언장에 유산을 사회에 어떻게 환원할 것인지 구체적인 내용까지 적시하셨다.</eg>
+					<eg>그 보고서는 우려가 되는 상황들을 별도로 적시해 놓았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음|Q</sel_rst>
+					<sel_rst arg="Z" tht="LOC">텍스트|관계장소|텍스트담지물</sel_rst>
+					<eg>할아버지는 유언장에 유산을 사회에 어떻게 환원할 것인지 를 구체적으로 적시하셨다.</eg>
+					<eg>그 국회의원은 그 보고서에 정치체제에 대한 언어적 공격이 광범위하게 진행되고 있음을 여러 사례를 들어 적시하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<sel_rst arg="Z" tht="LOC">텍스트|관계장소|텍스트담지물</sel_rst>
+					<eg>그 국회의원은 정치체제에 대한 언어적 공격이 광범위하게 진행되고 있다고 그 보고서에 적시하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-다고 W=N3-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|텍스트</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<sel_rst arg="W" tht="LOC">텍스트|관계장소|텍스트담지물</sel_rst>
+					<eg>제 2차 바티칸 공의회는 이러한 생활양식을 "세속적 성격"이라고 적시하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

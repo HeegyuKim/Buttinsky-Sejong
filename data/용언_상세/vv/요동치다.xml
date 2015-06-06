@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>요동치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">요동을 치다</var>
+			<str>NV</str>
+			<org lg="si">搖動_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>shake</trans>
+				<trans>vibrate</trans>
+				<lr>
+					<syn type="perfect">요동하다</syn>
+					<syn type="kor">흔들리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|장소</sel_rst>
+					<eg>물살이 빨라지면서 배는 좌우로 심하게 요동치기 시작했다.</eg>
+					<eg>총소리와 함께 숲 전체가 요동치는 듯 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>grow</trans>
+				<trans>swell</trans>
+				<lr>
+					<syn type="perfect">요동하다</syn>
+					<syn type="kor">일다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(감정|호기심|기쁨)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">(가슴|마음)</sel_rst>
+					<eg>그 영화를 보는 동안 짜릿한 감동이 가슴에 요동쳤다.</eg>
+					<eg>그를 발견한 순간 그녀의 마음 한 구석에 야릇한 호기심이 요동치기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>resound</trans>
+				<lr>
+					<syn type="perfect">요동하다</syn>
+					<syn type="kor">울리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">소리</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>그의 고함 소리가 강의실에 요동쳤다.</eg>
+					<eg>아이들의 함성이 운동장 가득 요동쳤다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>smell</trans>
+				<lr>
+					<syn type="perfect">요동하다</syn>
+					<syn type="kor">풍기다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">냄새</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>회식 다음 날이면 술냄새가 사무실에 요동치곤 했다.</eg>
+					<eg>집안에 요동치는 음식 냄새가 잔치 분위기를 더해 주는 듯 하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

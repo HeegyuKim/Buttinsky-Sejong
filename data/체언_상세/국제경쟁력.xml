@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>국제경쟁력</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sense2의 n_aj수정</mod_note>
+			</mod>
+			<note>2007/08/01(정아름)</note>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">국제 경쟁력</var>
+			<str type="N_N">국제+경쟁력</str><!--'경쟁+력'으로 더 분석할 수 있음(권오희)-->
+			<org lg="si">國際競爭力</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>대기업뿐만 아니라 중소기업의 ~을 강화할 경우 수출의 성장기여도 역시 높일 수 있다.</eg>
+				<trans>International competitive power</trans>
+				<trans>international competitiveness</trans>
+				<domain></domain>
+				<sem_class>능력</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 강화</comb_n>
+				<comb_n type="compound">~ 향상</comb_n>
+				<comb_n type="compound">~ 저하</comb_n>
+				<comb_n type="compound">~ 하락</comb_n>
+				<comb_n type="compound">~ 평가</comb_n>
+				<comb_n type="compound">~ 확보</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 얻다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 높이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 키우다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 평가하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 회복하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 향상시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 저하시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 떨어뜨리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 좌우하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 강화하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense n="2">
+			<sem_grp>
+				<eg>북한에서 생산되는 야채류나 곡물, 과일 등은 ~이 있다.</eg>
+				<eg>개개 상품의 디자인이 우수한 것만 가지고는 더이상 ~이 없다.</eg>
+				<eg>한국 금융시장은 프로 정신과 고객 응대 측면에서 ~이 부족한 것 같다.</eg>
+				<eg>이 기관은 기술적으로 상당히 우수한 ~을 갖추고 있다.</eg>
+				<trans>International competitive power</trans>
+				<trans>international competitiveness</trans>
+				<domain></domain>
+				<sem_class>정도속성값</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 충분하다</comb_aj>
+				<comb_aj type="appr">~이 높다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 낮다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_aj type="appr">~이 부족하다</comb_aj><!--magn/min에서 옮김(권)-->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 올라가다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 떨어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 가지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 갖추다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 확보하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">구체자연물|구체인공물|속성|학문과목|인간집단|행위|계획사건</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희뿌옇다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/21</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">희부옇다</var>
+			<str>AA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>색속성값</sem_class>
+				<trans>be milky-white</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물(달|구름|안개|먼지|기체)|빛|연기</sel_rst>
+					<eg>그 남자는 말 없이 희뿌연 새벽 안개 속으로 사라졌다.</eg>
+					<eg>길 건너 공단 쪽 건물 굴뚝들은 하루 종일 희뿌연 연기를 뿜고 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<eg>그가 내민 병 속에는 희뿌연 색의 액체가 들어 있었다.</eg>
+					<eg>그는 여자의 희뿌연 얼굴을 바라보다가 고개를 돌렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-로 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소</sel_rst>
+					<sel_rst arg="X" tht="INS">무생물(흙|먼지|가스)|빛|연기</sel_rst>
+					<eg>방 안은 노름꾼들이 밤새 피워 댄 담배 연기로 희뿌옜다.</eg>
+					<eg>그는 흙먼지로 희뿌연 거리를 걷고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FA" cor="cross" n="01">
+				<frame>X=N0-이 Y=N1-에 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">무생물(흙|먼지|가스)|빛|연기</sel_rst>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>방 안에 노름꾼들이 밤새 피워 댄 담배 연기가 희뿌옜다.</eg>
+					<eg>그는 흙먼지가 희뿌연 거리를 걷고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be hazy</trans>
+				<lr>
+					<syn type="perfect">희미하다</syn>
+					<ant type="grad">선명하다</ant>
+					<ant type="grad">또렷하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>어둠 속에서 뭔가 희뿌연 물체가 지나가는 것이 보였다.</eg>
+					<eg>수술을 한 후 그는 모든 것이 선명하지 않고 희뿌옇게 보인다고 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

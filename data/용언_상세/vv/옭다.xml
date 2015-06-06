@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옭다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/07</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결박</sem_class>
+				<trans>tie up</trans>
+				<trans>bind</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<sel_rst arg="Z" tht="INS">줄</sel_rst>
+					<eg>자승자박이란 포승으로 제 몸을 옭아 묶는다는 뜻이다.</eg>
+					<eg>그 다음 청실 홍실의 둥근 타래실로 위쪽으로부터 매듭지지 않게 옭아 묶는다.</eg>
+				</subsense>
+			</frame_grp>
+			<com>
+				<morph_rst>
+				</morph_rst>
+				<col_grp>
+				</col_grp>
+				<mor_rel>
+					<ad_rel>옭아 매다</ad_rel>
+				</mor_rel>
+			</com>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>추상적행위</sem_class>
+				<trans>entrap</trans>
+				<trans>snare</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>해 보지도 않고 굴절된 생각으로 미리 금을 긋고 한계를 만들어 아이들을 구속하고 옭아 넣기에 바빴던 나 의 교육 자세를 반성하는 계기가 됐다.</eg>
+					<eg>마치 공산주의가 인간을 옭아 놓고 밀봉 교육을 시키는 것과 같이 여러 가지 사상과 학문들이 다 자기주의를 고집하고 있습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>하륙하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/15</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">하륙을 하다</var>
+			<str>N.하</str>
+			<org lg="si">下陸_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>land</trans>
+				<trans>unload</trans>
+				<trans>discharge</trans>
+				<lr>
+					<syn type="perfect">양륙하다</syn>
+					<syn type="kor">내리다</syn>
+					<ant type="dir">올리다</ant>
+					<ant type="dir">싣다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">화물|구체물</sel_rst>
+					<sel_rst arg="Z" tht="SRC">철도교통기관|수상교통기관|공중교통기관</sel_rst>
+					<eg>도착한 배에서 곡식들을 하륙하는 인부들의 이마에 굵은 땀방울이 맺혔다.</eg>
+					<eg>그는 비행기에서 화물들을 하륙하는 일을 책임지고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>land</trans>
+				<trans>unload</trans>
+				<trans>discharge</trans>
+				<lr>
+					<syn type="perfect">양륙하다</syn>
+					<syn type="perfect">하선하다</syn>
+					<syn type="kor">내리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="SRC">수상교통기관(배|여객선)</sel_rst>
+					<eg>배가 부두에 닿자 그는 어린 아들을 등에 업고 천천히 하륙했다.</eg>
+					<eg>배에서 하륙한 사람들은 모두들 지친 모습이었다. </eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

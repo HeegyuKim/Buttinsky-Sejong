@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>의지하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/18</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">의지를 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">依支_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|사태(원조|도움)|추상적대상(연금|보조금)</sel_rst>
+					<eg>맏아들 부부가 남미로 이민을 떠난 이후 노부부는 이제 막내아들에게 의지해서 살 수밖에 없었다.</eg>
+					<eg>김 씨는 이제는 쥐꼬리만한 연금에 의지해서 살아야 한다.</eg>
+					<eg>그들은 이웃의 도움에 의지해서 그날그날을 살아간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="reci" n="01">
+				<frame>X=N0-이 Y=N1-와 서로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간</sel_rst>
+					<eg>지호는 영희와 서로 의지하면서 살아왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="reci" n="01">
+				<frame>X+Y=N0-이 서로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="AGT">인간</sel_rst>
+					<eg>지호와 영희는 서로 의지하면서 살아왔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물|추상적대상</sel_rst>
+					<eg>영희는 머리를 지호의 어깨에 의지한 채 걷고 있었다.</eg>
+					<eg>부상당한 군인은 다리를 목발에 의지한 채 서 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="reci" n="02">
+				<frame>X=N0-이 Z=N2-와 서로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<sel_rst arg="Z" tht="COM">인간</sel_rst>
+					<eg>지호는 영희와 서로 몸을 의지한 채 구조대가 오기를 기다렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR" cor="reci" n="02">
+				<frame>X+Z=N0-이 서로 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위</sel_rst>
+					<eg>지호와 영희는 서로 몸을 의지한 채 구조대가 오기를 기다렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

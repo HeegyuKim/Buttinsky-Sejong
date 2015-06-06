@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>직무유기</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/08</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/15</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>형식검토</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/02</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">직무 유기</var>
+			<str type="N_N">직무+유기</str>
+			<org lg="si">職務遺棄</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>공무원이 직무에 대하여 의식적으로 방임하거나 정당한 사유없이 포기하면 ~에 해당한다.</eg>
+				<eg>부패한 일부 기성 세대에 혐오감을 느껴 목표를 포기하는 것은 자신의 인생에 있어 ~를 하는 것이나 다름없다.</eg>
+				<trans>dereliction of duty</trans>
+				<domain></domain>
+				<sem_class>범죄및비행</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 명백하다</comb_aj>
+				<comb_aj type="appr">~가 심각하다</comb_aj>
+				<comb_aj type="magn" pred="no">엄청난 ~</comb_aj>
+				<comb_n type="compound">~ 사례</comb_n>
+				<comb_n type="compound">~ 사실</comb_n>
+				<comb_n type="compound">~ 차원</comb_n>
+				<comb_n type="compound">~ 책임</comb_n>
+				<comb_n type="compound">~ 행위</comb_n>
+				<comb_n type="compound">~ 혐의</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~이다</form>
+					<frame>Y-이 ~이다</frame>
+					<frame>S것-이 ~이다</frame>
+					<frame>S음-이 ~이다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 범하다</form>
+					<frame>X-이 ~을 범하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 저지르다</form>
+					<frame>X-이 ~을 저지르다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 속하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 해당하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">역할인간</sel_rst>
+				<sel_rst arg="Y">행위</sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">가지</cl>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>전자상거래</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/20</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>예문 추가, 의미부류 '방법'을 '일'로 수정, n_aj, n_n, s_n 추가, 선택제약 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/25</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">전자 상거래</var>
+			<str type="N_N">전자+상거래</str><!--'상+거래'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">電子商去來</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>인터넷을 통한 ~가 활성화되자 정부는 관련 법규를 정비하였다.</eg>
+				<eg>요즈음은 직접 매장을 돌아다니기보다 ~를 통하여 물건을 구입하는 일이 많다.</eg>
+				<eg>이 마을 참외 농가 대부분은 ~를 할 정도로 컴퓨터에 관한 한 전문지식을 갖고 있다.</eg>
+				<trans>electronic commercial transaction</trans>
+				<domain></domain>
+				<sem_class>일</sem_class><!--대칭적행위? 그럴 경우 frame 수정해야 함(김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 편리하다</comb_aj>
+				<comb_aj type="appr">~가 위험하다</comb_aj>
+				<comb_aj type="appr">~가 활발하다</comb_aj>
+				<comb_aj type="appr">~가 안전하다</comb_aj>
+				<comb_n type="compound">인터넷 ~</comb_n>
+				<comb_n type="compound">~ 기본법</comb_n>
+				<comb_n type="compound">~ 업체</comb_n>
+				<comb_n type="compound">~ 정착</comb_n>
+				<comb_n type="compound">~ 지원</comb_n>
+				<comb_n type="compound">~ 활성화</comb_n>
+				<comb_n type="compound">~ 시장</comb_n>
+				<comb_n type="compound">~ 분야</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~를 하다</form>
+					<frame>X-이 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 이루어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 활성화되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 이용하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는|은 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>계급의식</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/27</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_aj 수정;n_v 수정</mod_note>
+			</mod>
+			<mod>
+                <mod_date>2007/07/29</mod_date>
+                <mod_writer>이홍식</mod_writer>
+                <mod_note></mod_note>
+            </mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">계급 의식</var>
+			<str type="N_N">계급+의식</str>
+			<org lg="si">階級意識</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>과거에 비해 ~이 많이 완화되긴 하였으나 아직도 사람들 사이에는 이것이 완전히 사라지지 않고 있다.</eg>
+				<trans>class consciousness</trans>
+				<trans>a sense of class distinction</trans>
+				<domain></domain>
+				<sem_class>인지상태</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~이 철저하다</comb_aj>
+				<comb_aj type="min">~이 해이하다</comb_aj> <!-- 헤이하다->해이하다로 수정(송근영) -->
+				<comb_n type="compound"></comb_n>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 가지다</form>
+					<frame>X-이 ~을 가지다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~에 사로잡히다</form>
+					<frame>X-이 ~에 사로잡히다</frame>	<!-- frame 정보 불필요하여 삭제(송근영) -->
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~으로 무장하다</form>
+					<frame></frame>	<!-- frame 정보 불필요하여 삭제(송근영) -->
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간|집단</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

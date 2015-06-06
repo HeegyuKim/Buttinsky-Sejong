@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>훼손하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/03/28</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/19</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">훼손을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">毁損_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>defame</trans>
+				<trans>injure</trans>
+				<lr>
+					<syn type="perfect">손상하다</syn>
+					<syn type="kor">더럽히다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|추상적대상|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(이름|명예|명성|위신)</sel_rst>
+					<eg>너의 생각 없는 행동이 부모의 위신을 훼손한다는 것을 명심해라.</eg>
+					<eg>이번 사태는 그 회사의 명성을 크게 훼손했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">속성(이름|명예|명성|위신)</sel_rst>
+					<eg>그런 행동을 한 것은 지금까지 쌓아온 너의 명성을 훼손하는 일이다.</eg>
+					<eg>불량 제품을 유통시킨 것이 그 회사의 이름을 크게 훼손했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>damage</trans>
+				<trans>destroy</trans>
+				<lr>
+					<syn type="perfect">손상하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>이 물건을 훼손하는 사람이 있으면 가만 두지 않을거야.</eg>
+					<eg>그는 고의로 남의 자동차를 훼손한 혐의를 받고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간|사태</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>무분별한 개발 계획이 우리의 자연을 훼손하고 있다.</eg>
+					<eg>그는 사용법을 제대로 익히지 않은 탓에 새로 사 들인 비싼 기계를 훼손하고 말았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>defame (one's reputation)</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(명예|긍지)</sel_rst>
+					<eg>정부는 주 브라질 대사를 국가의 명예를 회손하였다는 이유로 소환했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>날염하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/16</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>예문 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">날염을 하다</var>
+			<str>N.하</str>
+			<org lg="si">捺染_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방법</sem_class>
+				<trans>print</trans>
+				<lr>
+					<syn type="perfect">발염하다</syn>
+					<hyper>염색하다</hyper>
+					<hyper>물들이다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">천</sel_rst>
+					<eg>이 공장이 천을 날염하는 솜씨는 가히 일품이다.</eg>
+					<eg>천을 날염하는 대로 신속하게 마무리해서 납품하도록 하겠습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

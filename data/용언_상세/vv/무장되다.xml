@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>무장되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/06</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">무장이 되다</var>
+			<str>N.되</str>
+			<org lg="si">武裝_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태변화</sem_class>
+				<trans>get armed</trans>
+				<lr>
+					<hyper>갖춰지다</hyper>
+					<hyper>준비되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="INS">무기</sel_rst>
+					<eg>군사적인 측면에서 보면 미군은 늘 상대보다 압도적인 화력으로 무장되어 있기 때문에 쌍방의 희생을 요구하는 근접전을 할 필요가 없다.</eg>
+					<eg>이 부대는 산악과 숲 지형을 신속히 이동하기 위한 장비로 무장된 특수 경보병 부대였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>get armed in spirit</trans>
+				<lr>
+					<hyper>갖춰지다</hyper>
+					<hyper>준비되다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">추상적대상</sel_rst>
+					<eg>거의 모든 사람이 다 이슬람으로 철저히 무장되어 있고, 그 이외의 얘기는 아예 통하지가 않는 것을 종종 보게 됩니다.</eg>
+					<eg>그들의 충성심은 김정일에 대한 리더십뿐만 아니라 자신들의 운명과 직결된 사안이기 때문에 그들은 체제 고수에 세뇌적으로, 의식적으로 무장되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

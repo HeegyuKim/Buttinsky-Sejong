@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다니다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>visit</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>명희 어머니는 침을 맞으러 잘 아는 의사에게 1주일을 다녔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>그는 전에는 아는 사람을 만나러 관청을 자주 다녔다.</eg>
+					<eg>인호는 술도 못 하면서 돈 있다는 것을 과시하러 고급 술집을 자주 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>일</sem_class>
+				<trans>go to work</trans>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(학교|회사)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>초등 학교에 6년간 다니면 중학교에 간다.</eg>
+					<eg>우리 집에는 대학에 다니는 애들이 셋이나 있다.</eg>
+					<eg>그는 저 회사에 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="perfect">지나다</syn>
+					<syn type="sino">이용하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=S2-러 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소(길|골목)</sel_rst>
+					<sel_rst arg="Z" tht="PUR"></sel_rst>
+					<eg>그는 지하철을 타러 이 길을 자주 다니는 편이다.</eg>
+					<eg>사람이 어찌나 많은지 길을 다닐 수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>돌아다니기</sem_class>
+				<trans>pass</trans>
+				<lr>
+					<syn type="sino">운행하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">교통기관</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>그 배는 부산과 제주 간을 다닌다.</eg>
+					<eg>여기와 서울 사이에는 버스가 다니고 있다.</eg>
+					<eg>지금 그 지방에는 기차가 다니고 있다.</eg>
+					<eg>140번 버스는 이 구간을 다니지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>visit</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>며느리는 친정에 다니러 광주에 내려갔다.</eg>
+					<eg>나는 퇴근 후에 아버님 댁에 잠시 다녀서 왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="i"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(이사|도망)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="DIR">장소(지방|서울|외국)</sel_rst>
+					<eg>인호는 빚쟁이들을 피해 이리저리 도망을 다녔다.</eg>
+					<eg>철수는 직장 때문에 지방으로 이사를 다녔다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=S3-러 Z=N2-에|로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(출장)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(외국|지방|부산)</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>인호는 한 달에 한 번 정도는 구매자를 만나러 외국으로 출장을 다닌다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 W=S3-러 Z=N2-에|로 Y=Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(여행|낚시|등산|인사)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(외국|산|바다)</sel_rst>
+					<sel_rst arg="W" tht="PUR"/>
+					<eg>인호는 휴가기간 중에 이곳 저곳 구경을 다녔다.</eg>
+					<eg>그들은 신혼여행에서 돌아오자 친척들에게 인사를 다녔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

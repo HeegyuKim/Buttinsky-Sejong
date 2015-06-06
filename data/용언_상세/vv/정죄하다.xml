@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>정죄하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">정죄를 하다</var>
+			<str>N.하</str>
+			<org lg="si">定罪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>condemn</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|모임회의</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|행위|사건</sel_rst>
+					<eg>예수님은 간음하다 붙잡혀 온 그 여자를 정죄하시지 않으셨다.</eg>
+					<eg>그런 착한 사람이 한 조그만 실수를 함부로 정죄해서는 안된다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|모임회의</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>350년 강그라 교회회의는 주일에 금식하는 것을 정죄하였다. </eg>
+					<eg>이슬람교는 돼지고기 먹는 것을 정죄한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|모임회의</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|행위|사건</sel_rst>
+					<sel_rst arg="Z" tht="FNS">인간|인간집단|추상적대상|행위|사건</sel_rst>
+					<eg>중세 교회는 그와 같은 결정에 반대하는 사람들을 이단으로 정죄하였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-다고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단|모임회의</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상|행위|사건</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>제네바 시민공판은 그를 마땅히 죽어야 할 범죄자라고 정죄하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/09/25</cre_date>
+				<cre_writer>음두은</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">정죄를 하다</var>
+			<str>N.하</str>
+			<org lg="si">淨罪_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>purify a person from sin </trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<eg>구약에서는 하나님께 번제를 드림으로써 정죄하게 된다고 생각하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

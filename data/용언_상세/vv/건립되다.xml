@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>건립되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/01</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/25</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">건립이 되다</var>
+			<str>N.되</str>
+			<org lg="si">建立_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be built</trans>
+				<trans>be constructed</trans>
+				<lr>
+					<syn type="perfect">건설되다</syn>
+					<syn type="perfect">건조되다</syn>
+					<syn type="perfect">건축되다</syn>
+					<syn type="kor">세워지다</syn>
+					<syn type="kor">지어지다</syn>
+					<hyper>만들어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">건물|조형물(시비|기념비)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소</sel_rst>
+					<eg>낡은 사옥을 헐고 문화동에 새 사옥이 건립되었다.</eg>
+					<eg>파고다 공원에 용운 선생 시비가 건립되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be organized</trans>
+				<trans>be founded</trans>
+				<lr>
+					<syn type="perfect">건설되다</syn>
+					<syn type="perfect">조직되다</syn>
+					<syn type="kor">세워지다</syn>
+					<ant type="compl">와해되다</ant>
+					<hyper>만들어지다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관계인간|단체</sel_rst>
+					<eg>망명지에서 새로운 정부가 건립된지 꼭 100년만에 국권을 회복하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

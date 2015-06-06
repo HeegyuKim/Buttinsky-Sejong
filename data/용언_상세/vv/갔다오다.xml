@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>갔다오다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/18</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-다V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>get back</trans>
+				<trans>come back</trans>
+				<lr>
+					<syn type="perfect">다녀오다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<eg>지난 일요일 나는 옛 친구들과 어울려 관악산을 갔다왔다.</eg>
+					<eg>어제 그는 할머니 댁에 갔다오다가 초등학교 동창생을 만났다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>탈퇴</sem_class>
+				<trans>get back</trans>
+				<trans>come back</trans>
+				<lr>
+					<syn type="perfect">다녀오다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIT">
+				<frame>X=N0-이 Y=N1-에|을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">단체(군대)|기관</sel_rst>
+					<eg>군대에 갔다온 복학생들은 대부분 달라진 학교생활에 적응하려고 많이 노력한다.</eg>
+					<eg>해외봉사단을 갔다온 후에 그는 인생관이 많이 달라졌다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>도착</sem_class>
+				<trans>get back</trans>
+				<trans>come back</trans>
+				<lr>
+					<syn type="perfect">다녀오다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">지속적활동(심부름)|행위|계획사건</sel_rst>
+					<eg>그는 며칠 전에 지방으로 출장을 갔다왔다.</eg>
+					<eg>지난 학기에는 우리 학교에서 경주로 수학여행을 갔다왔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>약용온스</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/09/10</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/09/19</mod_date>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>약용+ounce</str>
+			<org lg="si">藥用__</org>
+			<org lg="en">__ounce</org>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>약제를 각각 3~씩 나누어 담으세요</eg>
+				<cl_subtype type="wgt">31.1035그램</cl_subtype>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<flt possible="mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

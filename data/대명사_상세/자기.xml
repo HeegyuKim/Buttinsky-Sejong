@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007pron.dtd">
+<superEntry>
+	<orth>자기</orth>
+	<entry pos="np">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/04</cre_date>
+				<cre_writer>김종인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/10/22</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/22(호정은)</note>
+			<note>2001년 모형에 맞게 수정</note>
+			<note>관형 의미로 쓰이는 의미 구획 추가</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">自己</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="suffix">~도취</comp>
+			<comp pos="n" type="suffix">~자신</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="np">~만 안다</idm>
+			<idm type="np">~밖에 모른다</idm>
+		</idm_grp>
+		<sense n="1" sem="reflexive" num="singular" ref="human">
+			<sem_grp>
+				<eg>그는 ~가 저지른 잘못을 알지 못한다</eg>
+				<lr>
+					<syn type="etc">자신</syn>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="2" sem="reflexive" num="singular" ref="human">
+			<sem_grp>
+				<eg>그는 ~ 집을 갖고 있다</eg>
+			</sem_grp>
+			<syn_grp>
+				<prt possible="no"/>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+		<sense n="3" sem="2" num="singular" ref="human">
+			<sem_grp>
+				<eg>~야, 사랑해</eg>
+				<trans>honey</trans>
+				<reg>구어</reg>
+			</sem_grp>
+			<syn_grp>
+				<pre_d yn="no"/>
+				<pre_n yn="no"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

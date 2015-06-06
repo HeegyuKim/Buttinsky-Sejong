@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>대출받다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김종명</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">대출을 받다</var>
+			<str>NV</str>
+			<org lg="si">貸出_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get a loan</trans>
+				<lr>
+					<syn type="perfect">대부받다</syn>
+					<syn type="perfect">융자받다</syn>
+					<ant type="conv">융자하다</ant>
+					<ant type="conv">대부하다</ant>
+					<ant type="conv">빌려주다</ant>
+					<hyper>꾸다</hyper>
+					<hyper>빌리다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=N2-에서|에게서 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="GOL">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">값|금전</sel_rst>
+					<sel_rst arg="Z" tht="AGT">인간|기관</sel_rst>
+					<eg>그는 은행에서 집을 담보로 사업 자금을 대출받았다.</eg>
+					<eg>그는 사채업자에게서 1억 원을 대출받았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

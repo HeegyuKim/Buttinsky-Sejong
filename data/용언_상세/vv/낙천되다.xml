@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>낙천되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/19</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">낙천이 되다</var>
+			<str>N.되</str>
+			<org lg="si">落薦_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>get to fail in one's application</trans>
+				<lr>
+					<rel>공천되다</rel>
+					<rel>입후보되다</rel>
+					<rel>낙선되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간(국회의원)</sel_rst>
+					<sel_rst arg="Y" tht="LOC">경연대회(공천|선거)</sel_rst>
+					<eg>그 삼선의원이 이번 총선에서 낙천되어 화제가 되었다.</eg>
+					<eg>이번 공천에서 낙천된 의원들이 중앙당에 반기를 들고 새로운 정당을 만들자는 의견을 내놓고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호전되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/11/04</cre_date>
+				<cre_writer>김현권</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/11/09</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호전이 되다</var>
+			<cntr opt="opt" type="oi"/>
+			<str>N.되</str>
+			<org lg="si">好轉_</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>improve</trans>
+				<trans>change for the better</trans>
+				<lr>
+					<syn type="perfect">호전하다</syn>
+					<syn type="kor">나아지다</syn>
+					<ant type="dir">악화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|사건|현상</sel_rst>
+					<eg>수출이 호전되면서 경기가 다소 살아나고 있다.</eg>
+					<eg>아직은 증시의 장세가 호전되기를 기대하기가 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be on the mend</trans>
+				<trans>get better</trans>
+				<lr>
+					<syn type="kor">나아지다</syn>
+					<ant type="dir">악화하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">질병및증세</sel_rst>
+					<eg>신약을 쓴 후 아버지의 병세이 많이 호전되었다.</eg>
+					<eg>우리는 어머니의 건강이 다소 호전되면 함께 가까운 곳으로 여행을 떠날 생각이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

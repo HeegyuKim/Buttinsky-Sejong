@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>건</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/09/06</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>신서인</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/10</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">件</org>
+					<hom exist="yes"/>
+			<der pos="n" type="suffix">~당</der>
+			<comp pos="n" type="suffix">~수</comp>
+			<comp pos="n" type="prefix">사사#~</comp>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc">한 ~ 올리다</idm>
+			<idm type="etc">한 ~ 잡다</idm>
+			<idm type="etc">한 ~ 하다</idm>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어젯밤에 교통사고 세 ~이 발생했다</eg>
+				<trans>case</trans>
+				<cl_subtype type="uni"/>
+				<rel_n>일</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<flt possible="mdq-cl-eui-n"/>
+				<carord car="ko" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>병적기록부</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김미현</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/22</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>var 정보 기술</mod_note>
+				<mod_note>str 코멘트 추가</mod_note>
+				<mod_note>센스2 eg 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">병적 기록부</var>
+			<str type="N_N">병적+기록부</str> <!-- 기록부를 더 분석할 수 있음 -->
+			<org lg="si">兵籍記錄簿</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+		<!--센스를 '텍스트담지물'과 텍스트 하위의 '문서'로 구분하여 기술함.(미현)-->
+			<sem_grp>
+				<eg>대대장은 그 사병의 ~를 찾았다.</eg>
+				<trans>military register</trans>
+				<domain></domain>
+				<sem_class>텍스트담지물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 얇다</comb_aj>
+				<comb_aj type="appr">~가 두껍다</comb_aj>
+				<comb_aj type="appr">~가 무겁다</comb_aj>
+				<comb_aj type="appr">~가 가볍다</comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 쓰다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 기입하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 기록하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 기재하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">부</cl>
+				<cl type="uni">권</cl>
+				<cl type="uni">장</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>사단장은 그 장교의 ~를 발급해 주었다.</eg>
+				<eg>그 사람의 ~는 무언가 이해되지 않는 내용이 있다.</eg> <!-- 송근영 추가 -->
+				<trans>military record</trans>
+				<domain></domain>
+                <sem_class>증명서</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+					</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 교부하다</form>
+							<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 발부하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 발급하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">부</cl>
+				<cl type="uni">장</cl>
+				<cl type="uni">권</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

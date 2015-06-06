@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>누증되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">누증이 되다</var>
+			<str>N.되</str>
+			<org lg="si">累增_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be accumulated</trans>
+				<lr>
+					<syn type="perfect">누적되다</syn>
+					<syn type="perfect">누가되다</syn>
+					<syn type="perfect">누진되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">심리상태(고통|압박감)|(잘못)|인간관련현상(적자|흑자|압력)</sel_rst>
+					<eg>새정부에 의한 거센 압력이 누증되는 상황에 처했다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성인간(실업자|재수생)|구체물(재고|부채|이자)</sel_rst>
+					<eg>잘못된 교육 정책으로 재수생들이 누증되는 실정이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

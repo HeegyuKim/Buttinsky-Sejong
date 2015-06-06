@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>음성채팅</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/11</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/31</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>반의어에서 '화상채팅' 삭제;명사결합 정보 일부 추가;'~을 하다'에서 'Z-로'는 도구를 표현하는 부사구로 판단되어 삭제함;동사결합에 '~을 지원하다' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>var 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/15</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">음성 채팅</var>
+			<str type="N_N">음성+채팅</str>
+			<org lg="si">音聲__</org>
+			<org lg="en">__chatting</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>인터넷에 접속하기만 하면 ~을 통해 전화통화처럼 서로 말을 주고 받을 수 있다.</eg>
+				<trans>voice chat</trans>
+				<domain></domain>
+				<sem_class>대화</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">일대일 ~</comb_n>
+				<comb_n type="compound">다자간 ~</comb_n> <!--기술 적절성 검토요망-->
+				<comb_n type="compound">인터넷 ~</comb_n>
+				<comb_n type="compound">실시간 ~</comb_n>
+				<comb_n type="compound">~ 엔진</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 Y-와 ~을 하다</frame>
+					<frame>X-와 Y-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 지원하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<sel_rst arg="X">인간</sel_rst>
+				<sel_rst arg="Y">인간</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

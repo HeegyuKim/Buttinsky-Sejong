@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>귀염성스럽다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"표준"에 의거하여 "스럽다"를 접미사로 간주했음</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/11</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>하나의 sense를 외양, 행위로 둘로 나눔</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>NS</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적인성속성값</sem_class>
+				<trans>be lovely</trans>
+				<lr>
+					<syn type="etc"></syn><!--"귀염성있다"의 형으로 더 많이 쓰임.-->
+					<hyper>귀엽다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">얼굴</n_appr>
+					<n_appr arg="X">외양</n_appr>
+					<eg>그 아이는 얼굴이 귀염성스럽다.</eg>
+					<eg>그 아이는 귀염성스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적품격속성값</sem_class>
+				<trans>have the charm of childhood</trans>
+				<lr>
+					<syn type="etc"></syn><!--"귀염성있다"의 형으로 더 많이 쓰임.-->
+					<hyper>귀엽다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">행동</n_appr>
+					<n_appr arg="X">성격</n_appr>
+					<eg>그 아이는 하는 짓이 귀엽성스럽다.</eg>
+					<eg>그 아이는 귀엽성스럽다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

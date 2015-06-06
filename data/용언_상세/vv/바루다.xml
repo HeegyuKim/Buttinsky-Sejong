@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바루다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A.우1</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>straighten</trans>
+				<lr>
+					<ant type="compl">구부리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">모양</sel_rst>
+					<eg>잘함은 더욱 키우고 잘못은 바루어 줄지언정 결코 그 사람을 미워 해서는 아니될 일이다.</eg>
+					<eg>자연계는 지구의 축을 바루어야 하고 궤도를 타원에서 정원으로 고쳐야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>correct</trans>
+				<lr>
+					<syn type="perfect">고치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">집단|인간|속성값(잘못)|속성(마음)|사건(일)</sel_rst>
+					<eg> 이 시점에서 우리의 시각을 밖으로 사회로 세계로 미래로 향하여 실질적으로 사회를 바뤄 나가도록 합시다.</eg>
+					<eg>소설은 오늘날의 엉터리 세상보다는 진짜에 가깝고, 그런 정직한 번역은 세상을 힘 닿는 데까지 바루어 놓으려는 인간적 노력의 하나일 수 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

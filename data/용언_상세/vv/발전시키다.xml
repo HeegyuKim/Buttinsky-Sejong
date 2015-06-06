@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>발전시키다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/24</cre_date>
+				<cre_writer>허용</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/10/24</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2005/09/15</mod_date>
+				<mod_writer>박보연</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">발전을 시키다</var>
+			<cntr opt="opt" type="i"/>
+			<org lg="si">發展__</org>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>긍정적결과행위</sem_class>
+				<trans>develop</trans>
+				<trans>progress</trans>
+				<lr>
+					<syn type="perfect">발달시키다</syn>
+					<syn type="perfect">성장시키다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단|추상적대상(사회|문화|경제)</sel_rst>
+					<eg>서울시는 전통문화를 발전시키기 위해 대단위 전통마을을 조성하기로 했다.</eg>
+					<eg>학문을 발전시키려면 무엇보다 학문의 자유가 보장되어야 한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>move on</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">사태|추상적대상</sel_rst>
+					<eg>우리도 노력하면 좋은 관계로 발전시킬 수 있다고 생각해.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">사태|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">사태|추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">사태|추상적대상</sel_rst>
+					<eg>그의 말이 별거 아닌 일을 싸움으로 발전시켰다고 생각해.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

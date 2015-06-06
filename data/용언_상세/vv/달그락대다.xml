@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>달그락대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/13</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+				<mod_note>센스 분리</mod_note>
+				<mod_note>중립동사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">덜그럭대다</var>
+			<var type="etc">딸그락대다</var>
+			<var type="etc">떨그럭대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>be rattled</trans>
+				<trans>be clattered</trans>
+				<lr>
+					<syn type="perfect">달가닥대다</syn>
+					<syn type="perfect">달까닥대다</syn>
+					<syn type="perfect">달카닥대다</syn>
+					<syn type="perfect">딸가닥대다</syn>
+					<syn type="perfect">딸까닥대다</syn>
+					<syn type="perfect">딸카닥대다</syn>
+					<syn type="perfect">탈가닥대다</syn>
+					<syn type="perfect">탈까닥대다</syn>
+					<syn type="perfect">덜거덕대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>주머니 속에서 달그락대는 공기 돌을 굴리며 나물 뜯기로 나선다.</eg>
+					<eg>쥐들이 아무런 이득도 없을 스님들 방 천정에서 달그락대고 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소리내기</sem_class>
+				<trans>rattle</trans>
+				<trans>clatter</trans>
+				<lr>
+					<syn type="perfect">달가닥대다</syn>
+					<syn type="perfect">달까닥대다</syn>
+					<syn type="perfect">달카닥대다</syn>
+					<syn type="perfect">딸가닥대다</syn>
+					<syn type="perfect">딸까닥대다</syn>
+					<syn type="perfect">딸카닥대다</syn>
+					<syn type="perfect">탈가닥대다</syn>
+					<syn type="perfect">탈까닥대다</syn>
+					<syn type="perfect">덜거덕대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>주방에서 무엇을 하는지 식기를 달그락대고 있다가 아내가 물었다.</eg>
+					<eg>영희는 하얗고 곧은 손가락으로 찻잔을 달그락대며 말했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>소분하다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/08/28</cre_date>
+				<cre_writer>박철우</cre_writer>
+				<cre_writer>곽새라</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2005/10/20</mod_date>
+				<mod_writer>음두은</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">소분을 하다</var>
+			<str>N.하</str>
+			<org lg="si">小分_</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>인지적행위</sem_class>
+				<trans>classify in detail</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="FNS">추상적대상</sel_rst>
+					<eg>일반적으로 사람들은 철학을 존재론, 인식론, 그리고 윤리학으로 소분한다.</eg>
+					<eg>고대 그리스인은 시간을 카이로스의 시간과 크로노스의 시간으로 소분하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+				<cre_writer></cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">소분을 하다</var>
+			<str>N.하</str>
+			<org lg="si">燒焚</org>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>burn up</trans>
+				<lr>
+					<syn type="kor">태우다</syn>
+					<syn type="perfect">소각하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>마을 사람들은 그 동안 쌓아둔 땅 문서들을 모두 소분했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/20</cre_date>
+				<cre_writer>음두은</cre_writer>
+				<cre_writer></cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">소분을 하다</var>
+			<str>N.하</str>
+			<org lg="si">掃墳</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>visit one´s ancestral graves</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">묘지</sel_rst>
+					<eg>귀국한 그 외교관은 먼저 어머니의 무덤에 소분하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

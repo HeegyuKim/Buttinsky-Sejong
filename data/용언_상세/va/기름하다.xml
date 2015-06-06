@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>기름하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/22</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>"기나길다/기다랗다/기름하다" 간의 관계를 굳이 명시하지는 않음</cre_note>
+				<cre_note>형태론적 내부구조에 대한 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Ru.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be somewhat long</trans>
+				<lr>
+					<hyper>길다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위(얼굴)</sel_rst>
+					<eg>그 남자의 얼굴은 적당히 기름하여 보기 좋다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체자연물|구체인공물</sel_rst>
+					<n_appr arg="X">모양</n_appr>
+					<eg>그 배는 모양이 기름하다.</eg>
+					<eg>그 배는 기름하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>메치다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">메어치다</var>
+			<str>RV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>throw sb over one's shoulder</trans>
+				<lr>
+					<syn type="perfect">메다꽂다</syn>
+					<hyper>둘러메다</hyper>
+					<hyper>내리치다</hyper>
+					<hypo>업어치다</hypo>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(땅|땅바닥|바닥)</sel_rst>
+					<eg>뱀장어가 걸려들면 낚싯줄을 꼬불꼬불 감아버리기 전에 빨리 잡아올려 땅바닥에 사정없이 메쳐 기절시켜야 한다.</eg>
+					<eg>그는 힘이 워낙 좋아 아무리 거구의 상대가 당겨도 끌려가지 않고 적당한 공간을 확보한 뒤 고난도의 테크닉으로 집채 만한 상대를 간단히 바닥에 메쳐 버린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>엎어치나 메치나</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

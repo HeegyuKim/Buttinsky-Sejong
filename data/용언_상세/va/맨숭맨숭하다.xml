@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>맨숭맨숭하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/29</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/07</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">맨송맨송하다</var>
+			<var type="etc">민숭민숭하다</var>
+			<str>II.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정도속성값</sem_class>
+				<trans>be hairless</trans>
+				<lr>
+					<syn type="perfect">번번하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>그 남자아이는 아직 사춘기를 채 지나지 않아서 턱이 맨숭맨숭하다</eg>
+					<eg>그의 맨숭맨숭한 머리를 보니 세월의 무상함이 느껴졌다.</eg>
+					<eg>그의 수염없는 얼굴은 언제 바라보아도 맨숭맨숭했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be treeless</trans>
+				<trans>be bare</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">지상장소|길</sel_rst>
+					<eg>등산길이 마치 대머리처럼 맨숭맨숭하다.</eg>
+					<eg>숲에 나무가 없어 산이 맨숭맨숭하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가속성값</sem_class>
+				<trans>be monotonous</trans>
+				<lr>
+					<syn type="sino">단조롭다</syn>
+					<syn type="perfect">재미없다</syn>
+					<ant type="compl">재미있다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">상황|개체상황|작품|방송물|사태</sel_rst>
+					<eg>요즘에 나오는 신나는 음악도, 짜릿한 감동을 담은 영화도 그저 맨숭맨숭하다.</eg>
+					<eg>그 공연은 마무리가 맨숭맨숭해서 아쉬움이 남는다.</eg>
+					<eg>그림이 다 빠진 그림책은 너무 맨숭맨숭하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>맛속성값</sem_class>
+				<trans>be tasteless</trans>
+				<lr>
+					<syn type="perfect">밍밍하다</syn>
+					<syn type="perfect">심심하다</syn>
+					<syn type="perfect">싱겁하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">자연음식물|음식</sel_rst>
+					<n_appr arg="X">맛</n_appr>
+					<eg>저 식당의 음식은 너무 맛이 맹숭맹숭하다.</eg>
+					<eg>이 갈치조림은 맹숭맹숭한 것이 간이 덜 된 것 같다.</eg>
+					<eg></eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be sober</trans>
+				<lr>
+					<syn type="perfect">말똥말똥하다</syn>
+					<ant type="grad">헤롱헤롱하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|상황|개체상황|(정신)</sel_rst>
+					<eg>그 술이 쎈 남학생은 아무리 술을 마셔도 맨숭맨숭하다.</eg>
+					<eg>벌써 상당히 술을 마셨는데 정신이 맨숭맨숭한 것이 술을 한 잔도 안마신 것 같다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>옥죄다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/10/07</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>PV</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결박</sem_class>
+				<trans>cramp</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물(굴레|올가미|덫|족쇄)</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위|인간|동물</sel_rst>
+					<eg>덫이 얼마나 앞발을 옥죄었던지 그 강아지는 두 번 다시 그 발로 땅을 딛지 못했다.</eg>
+					<eg>그 올가미는 발버둥을 칠수록 오히려 목을 더 옥죄기 때문에 오히려 걸린 부분을 움직이지 말고 매듭을 헐겁게 만들 방법을 찾아야 합니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>oppress</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="EXP">인간|인간집단</sel_rst>
+					<eg>이처럼 죽임의 세력이 우리 삶을 옥죄어 올수록, 살고자 하는 생명의 의지는 더욱 강렬해지는 법이다.</eg>
+					<eg>경제와 직장과 가족의 삼각관계는 점점 내 자신을 옥죄어 들어갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

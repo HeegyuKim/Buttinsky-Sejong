@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부실경영</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 '경제현상'에서 '일'로 수정, 예문 추가, n_n와 n_v 추가, cl 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부실 경영</var>
+			<str type="N_N">부실+경영</str>
+			<org lg="si">不實經營</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>현 경영진은 ~의 책임을 지고 당연히 즉각 물러나야 한다</eg>
+				<eg>회사는 ~ 으로 인한 적자를 만회하기 위해 정부로부터 대출을 받기로 결정했다.</eg>
+				<eg>뚜렷한 수익모델 없이 ~을 해오던 벤처기업이 경기침체가 계속되면서 대거 퇴출위기에 몰렸다.</eg>
+				<trans>insolvent operation</trans>
+				<trans>insolvent management</trans>
+				<domain></domain>
+				<sem_class>일</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">오랜 ~</comb_aj>
+				<comb_aj type="magn" pred="no">극심한 ~</comb_aj>
+				<comb_n type="compound">~ 기업</comb_n>
+				<comb_n type="compound">~ 구조</comb_n>
+				<comb_n type="compound">~ 상황</comb_n>
+				<comb_n type="compound">~ 상태</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~을 하다</form>
+					<frame>X-이 Y-을 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 막다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|인간집단</sel_rst>
+				<sel_rst arg="Y">국가|단체</sel_rst>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

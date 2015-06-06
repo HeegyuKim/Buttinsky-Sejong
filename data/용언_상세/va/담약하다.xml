@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>담약하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/25</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/08/25</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>적정명사 추가</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">膽弱_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>인성속성값</sem_class>
+				<trans>be cowardly</trans>
+				<trans>be timid</trans>
+				<lr>
+					<syn type="perfect">담소하다</syn>
+					<ant type="compl">담대하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">마음</n_appr>
+					<n_appr arg="X">심성</n_appr>
+					<eg>어린 시절의 나는 참 모자라도 한참을 모자라게 담약한 아이였다.</eg>
+					<eg>그 괴기 소설은 담약한 사람이 밤에 혼자서 읽을 수 없을 만큼 무섭다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

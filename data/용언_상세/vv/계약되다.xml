@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>계약되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/21</cre_date>
+				<cre_writer>김민선</cre_writer>
+				<cre_note>격틀 및 의미역 적합 여부 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 및 의미역 수정</mod_note>
+				<mod_note>예문 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">계약이 되다</var>
+			<str>N.되</str>
+			<org lg="si">契約_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>가입</sem_class>
+				<trans>be employed</trans>
+				<trans>belong</trans>
+				<lr>
+					<syn type="perfect">고용되다</syn>
+					<syn type="perfect">소속되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">단체</sel_rst>
+					<eg>그 배우는 거대 기획사에 계약되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-와 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">단체</sel_rst>
+					<eg>그 배우는 거대 기획사와 계약되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>a contract be made</trans>
+				<lr>
+					<syn type="perfect">약정되다</syn>
+					<syn type="perfect">약속되다</syn>
+					<rel>매약되다</rel>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) Z=N2-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">물리적행위|추상적행위|소통행위</sel_rst>
+					<eg>이 회사는 저 회사와 차기 프로젝트 합작이 계약되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) Z=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="THM">물리적행위|추상적행위|소통행위</sel_rst>
+					<eg>저 회사와 이 회사는 차기 프로젝트 합작이 계약되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X=N0-이 Y=N1-와 (서로) Z=S기2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="COM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">S기</sel_rst>
+					<eg>이 회사는 저 회사와 차기 프로젝트를 합작하기로 계약되어 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="2">
+				<frame>X+Y=N0-이 (서로) Z=S기1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="FNS">S기</sel_rst>
+					<eg>저 회사와 이 회사는 차기 프로젝트를 합작하기로 계약됐다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>면도하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태정보,격틀수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/03</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">면도를 하다</var>
+			<str>N.하</str>
+			<org lg="si">面刀_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>get oneself shaved</trans>
+				<lr>
+					<syn type="kor">수염깎다</syn>
+					<syn type="kor">털깎다</syn>
+					<hyper>깎다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<eg>아버지가 매일 아침 면도하는 모습을 아이들은 부러워한다.</eg>
+					<eg>나는 오늘 아침 바빠서 면도할 틈이 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형행위</sem_class>
+				<trans>shave</trans>
+				<lr>
+					<syn type="kor">깎다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|동물|신체부위(털|수염)</sel_rst>
+					<eg>우리 마을의 이 이발사는 스스로 면도하지 않는 사람들 모두를 면도해 준다고 말한다.</eg>
+					<eg>혼자서 겨드랑이를 면도하는 것은 쉬운 일이 아니다.</eg>
+					<eg>거칠고 덥수룩한 수염을 깨끗하고 깔끔하게 면도해 드립니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

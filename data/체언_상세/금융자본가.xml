@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>금융자본가</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/08</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<note>2007/08/02(정아름)</note>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">금융 자본가</var>
+			<str type="N_N">금융+자본가</str><!--'자본+가'로 더 분석할 수 있음(권오희)-->
+			<org lg="si">金融資本家</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>그들은 ~를 만나며 첨단 정보기술산업의 발전을 주도해왔다.</eg>
+				<eg>금융자유화로 가난한 나라의 ~들은 합법적으로 외국으로 돈을 빼돌릴 수 있게 되었다.</eg>
+				<eg>메디치가는 상업자본가에서 출발해 ~로 권력을 잡았다.</eg>
+				<trans>financial capitalist</trans>
+				<domain></domain>
+				<sem_class>사회계급인간</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr" pred="no">세계적인 ~</comb_aj>
+				<comb_aj type="appr" pred="no">전형적인 ~</comb_aj>
+				<comb_n type="compound">국제 ~</comb_n>
+				<comb_n type="compound">외국 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~가 되다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 육성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">명</cl>
+				<cl type="uni">사람</cl>
+				<cl type="uni">인</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

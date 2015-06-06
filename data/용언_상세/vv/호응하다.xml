@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>호응하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2001/06/18</cre_date>
+				<cre_writer>박소영</cre_writer>
+				<cre_writer>권재일</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2001/08/09</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/03/19</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/11/05</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">호응을 하다</var>
+			<cntr opt="opt" type="VDelCCon"/>
+			<str>N.하</str>
+			<org lg="si">呼應_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>hail to each other</trans>
+				<trans>respond</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|소리|소통행위</sel_rst>
+					<eg>내 외침에 호응하듯 멀리서 </eg>
+					<eg>묵묵히 있지만 말고,나에게 좀 호응해 줄 수 없겠니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be in symTHMhy with</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|추상적대상(주장|논리|설득)</sel_rst>
+					<eg>시민들도 드디어 시위대의 주장에 호응하기 시작했다.</eg>
+					<eg>나는 너의 그럴싸한 논리에 호응해 줄수가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be agreed with</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">언어단위(주어|서술어|의문사)</sel_rst>
+					<sel_rst arg="Y" tht="COM">언어단위</sel_rst>
+					<eg>이 문장에서 이 주어는 바로 뒤의 서술어와 호응한다.</eg>
+					<eg>부사 '아마'와 호응하는 문법형식은 '-일 것이다'류가 속한다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="01">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">언어단위</sel_rst>
+					<sel_rst arg="Y" tht="THM">언어단위</sel_rst>
+					<eg>이 문장에서 이 주어와 바로 뒤의 서술어가 호응한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

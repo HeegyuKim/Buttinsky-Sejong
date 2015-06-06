@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>경제개혁</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박만규</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/26</mod_date>
+				<mod_writer>송근영</mod_writer>
+				<mod_note>n_n 수정;cl 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/28</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>~론|론자</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">경제 개혁</var>
+			<str type="N_N">경제+개혁</str>
+			<org lg="si">經濟改革</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~을 서두르지 않으면 후진국으로 다시 추락할지 모른다.</eg>
+				<trans>economic reform</trans>
+				<domain>경제</domain>
+				<sem_class>개선행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound"></comb_n>
+					<!-- ~론|론자 : add로 이동(송근영) -->
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~을 하다</form>
+					<frame>X-이 ~을 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 시행하다</form>
+					<frame>X-이 ~을 시행하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 추진하다</form>
+					<frame>X-이 ~을 추진하다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 이루다</form>
+					<frame>X-이 ~을 이루다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~을 서두르다</form>
+					<frame>X-이 ~을 서두르다</frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">국가|지역집단</sel_rst>
+				<cl type="uni">차례</cl>
+				<cl type="uni">번</cl> <!-- 송근영 추가 -->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

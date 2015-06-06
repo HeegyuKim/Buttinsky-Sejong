@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>높다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/04/22</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be high</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소(산|재|건물)</sel_rst>
+					<eg>남한에서 한라산이 가장 높은 산이냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>look high</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(하늘|구름|바람|물결)|(지붕|천장)</sel_rst>
+					<eg>한국의 가을 하늘은 무척 높다.</eg>
+					<eg>이 집은 지붕이 높다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a high degree</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(기온|압력|습도|열)</sel_rst>
+					<eg>기온이 높아지자 전염병이 돌기 시작했다.</eg>
+					<eg>습도가 높으면 옷이 잘 안 마른다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a high degree</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(소득|성적|평가|수준|수위|도수|주파수|이자|가격|값|주가)</sel_rst>
+					<eg>소득이 높은 자일수록 세금을 적게 내고 있다.</eg>
+					<eg>이 안경도수는 너무 높아서 눈이 빙빙 돈다.</eg>
+					<eg>은행이자가 너무 높아 국민들의 부담이 크다.</eg>
+					<eg>주가가 높으면 하락할 가능성이 크다.</eg>
+					<eg>너는 혈압이 너무 높다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be highly probable</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(합격률|성공률|발병율)|(가능성|확률)</sel_rst>
+					<eg>이 가수들이 성공할 가능성은 높지 않다.</eg>
+					<eg>아마도 우리 학교의 고시 합격률이 가장 높을 거에요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be noble</trans>
+				<trans>be cultivated</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(학력|지위|계급|신분|직급|자리)</sel_rst>
+					<eg>사회적 신분이 높을수록 겸손해야 한다.</eg>
+					<eg>요사이 학력이 높은 실업자들이 많다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>have a high tone</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(소리|노래|음|목소리)</sel_rst>
+					<eg>파바로티의 목소리는 아주 높은 음도 잘낸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be famous</trans>
+				<trans>be notorious</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(이름|명성|악명)</sel_rst>
+					<eg>그의 명성이 아주 높으니 그를 총장으로 모시지요.</eg>
+					<eg>그는 상대팀 공격수의 다리를 절단내는 것으로 악명이 높다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be ideal</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(투지|사기|기상|꿈|이상)</sel_rst>
+					<eg>아군의 투지는 아주 높다.</eg>
+					<eg>높은 이상을 가지시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be highly frequent</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(여론|욕구|비판)</sel_rst>
+					<eg>장관을 갈아치우라는 여론이 매우 높다.</eg>
+					<eg>당신은 국민의 민주화 요구가 얼마나 높은지 아는가?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be efficient</trans>
+				<trans>have a high productivity</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(생산성|가치|품질)</sel_rst>
+					<eg>기업의 생산성이 높지 못하면 망합니다.</eg>
+					<eg>처음에는 우리나라 제품의 품질이 그리 높지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be old</trans>
+				<lr>
+					<syn type="perfect">많다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(연세))</sel_rst>
+					<eg>연세가 높으신 분은 이 운동을 삼가해 주십시오.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="2" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/10/15</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/04/22</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class>높은정도</sem_class>
+				<trans>be high</trans>
+				<lr>
+					<ant type="grad">낮다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="SA">
+				<frame>X=N0-이 C1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="C1">(눈)</sel_rst>
+					<eg>철수는 눈이 높아서 웬만한 것에는 만족하지 않는다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="C1">(눈)</sel_rst>
+					<eg>그녀의 콧대는 얼마나 높은지 말도 못 붙입니다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="SA">
+				<frame>C0-이 A</frame>
+				<subsense>
+					<sel_rst arg="C0">(목소리)</sel_rst>
+					<eg>정치를 잘못한다는 국민들의 목소리가 아주 높습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

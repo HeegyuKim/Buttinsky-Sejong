@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>깜박이다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">껌벅이다</var>
+			<var type="etc">꿈벅이다</var>
+			<var type="etc">끔벅이다</var>
+			<var type="etc">깜빡이다</var>
+			<var type="etc">껌뻑이다</var>
+			<var type="etc">꿈뻑이다</var>
+			<var type="etc">끔뻑이다</var>
+			<str>I.이3</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>blink</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="1">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(눈)</sel_rst>
+					<eg>감독이 눈을 한 번 깜박이면 작전 들어가는 거야.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="1">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(눈)</sel_rst>
+					<eg>감독 눈이 깜박이는 것처럼 보여서 도루를 시도한 것뿐이에요.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>반복적행위</sem_class>
+				<trans>flicker</trans>
+			</sem_grp>
+			<frame_grp type="FTR" cor="nut" n="2">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">조명기구|빛</sel_rst>
+					<eg>영희가 구조요청의 표시로 전조등을 몇 차례 깜박였다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="nut" n="2">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">조명기구|빛</sel_rst>
+					<eg>그때 저쪽에서 희미한 불빛이 깜박이는 것이 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

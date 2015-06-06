@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nb.dtd">
+<superEntry>
+	<orth>축</orth>
+	<entry pos="nb">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/08</cre_date>
+				<cre_writer>신서인</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/05/17</mod_date>
+				<mod_writer>호정은</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/05/22</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>2001/10/21(방성원)</note>
+			<note>동사자유구성 정보 추가</note>
+			<note>수식어-문장 정보 수정</note>
+			<note>필수성을 고려하여 synt_c 정보 수정(호정은,2002)</note>
+		</mnt_grp>
+		<morph_grp>
+			<hom exist="yes"/>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>그들은 건달 중에도 인정이 없는 ~들이었다</eg>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 끼다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 들다</form>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 속하다</form>
+				</comb_v>
+				<comb_ida>~이다</comb_ida>
+				<pre_d>이</pre_d>
+				<pre_d>그</pre_d>
+				<pre_d>저</pre_d>
+				<pre_d>어느</pre_d>
+				<pre_n>N(-의)</pre_n>
+				<s_n>S는 ~</s_n>
+				<s_n>S은 ~</s_n>
+				<s_n>S던 ~</s_n>
+				<s_n>S었던 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>경화시키다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/05</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/09/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 보충</mod_note>
+				<mod_note>어원 제시방식 수정</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">경화를 시키다</var>
+			<str>N.시</str>
+			<org lg="si">硬化__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make st to be hard</trans>
+				<trans>harden</trans>
+				<lr>
+					<syn type="perfect">경색시키다</syn>
+					<ant type="compl">연화시키다</ant>
+					<hyper>굳히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물</sel_rst>
+					<eg>이는 칼슘의 침전물을 경화시켜 만든 것이다.</eg>
+					<eg>동맥을 경화시키는 것으로 작용하는 혈전은 고혈압 환자에겐 치명적이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적행위</sem_class>
+				<trans>make inflexible</trans>
+				<trans>be stiffened</trans>
+				<lr>
+					<syn type="perfect">경색시키다</syn>
+					<hyper>굳히다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상|행위</sel_rst>
+					<eg>언론을 '안보 장사'쯤으로 보는 홍보수석은 대통령의 말을 순화시키기보다 경화시켰다.</eg>
+					<eg>국방장관은 병영 문제 근본에 대한 기조를 경화시키고자 한 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

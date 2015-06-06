@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>세내다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/17</cre_date>
+				<cre_writer>임동식</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/05</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">세를 내다</var>
+			<str>N.V</str>
+			<org lg="si">貰_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>수여</sem_class>
+				<trans>rent</trans>
+				<lr>
+					<syn type="kor">빌리다</syn>
+					<ant type="conv">세주다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|혈연집단(가족)</sel_rst>
+					<sel_rst arg="Y" tht="THM">건물|육상교통기관</sel_rst>
+					<sel_rst arg="Z" tht="CRT">비용</sel_rst>
+					<eg>그 친구는 월 30만원에 단칸방 하나를 세내서 살았다.</eg>
+					<eg>그렇게 싼 가격에 이만큼 좋은 방을 세내기란 어렵다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

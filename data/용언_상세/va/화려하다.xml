@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>화려하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/10/30</cre_date>
+				<cre_writer>노윤채</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/09/30</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+			<org lg="si">華麗_</org>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be splendid</trans>
+				<trans>be magnificent</trans>
+				<trans>be gorgeous</trans>
+				<lr>
+					<syn type="kor">아름답다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<eg>이 뮤지컬은 아름다운 음악과 배우들의 멋진 연기와 더불어  화려한 무대 의상으로도 유명하다.</eg>
+					<eg>그 여자는 화려한 레이스가 달린 드레스를 입고 나타났다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">건물|길|지역</sel_rst>
+					<eg>나는 파리의 화려한 거리들에 매혹되었다.</eg>
+					<eg>우리는 그 화려한 주택의 내부를 구경하고 싶은 충동에 사로잡혔다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(색|색깔|디자인)</sel_rst>
+					<eg>올 가을 패션계에는 화려한 디자인과 심플한 디자인이 공존한다.</eg>
+					<eg>이 새는 앵무새 중에서도 몸집이 크고 깃털의 색깔이 화려하다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(필체|문체)|언어요소(말|표현|문장)</sel_rst>
+					<eg>소설가 발자크는 화려한 문체보다는 꼼꼼하고 사실적인 묘사로 유명하다.</eg>
+					<eg>아무리 화려한 수식어로 치장해도 내용이 없는 문장은 가치가 없다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be splendid</trans>
+				<trans>be magnificent</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">개인사(이력|경력)|속성(명성)|시간(과거|시절)</sel_rst>
+					<eg>그는 평생 사람들 사이에서 화려한 명성을 떨쳤지만 사생활은 어둡고 불행했다.</eg>
+					<eg>우리는 그 사람의 화려한 이력에 입이 벌어질 지경이었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be splendid</trans>
+				<trans>be magnificent</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|행위</sel_rst>
+					<eg>그 가수는 화려한 무대 매너로 오랫 동안 각광을 받았다.</eg>
+					<eg>금년 프로 야구 정기 시즌은 삼성의 화려한 우승으로 막을 내렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be luxurious</trans>
+				<trans>be sumptuous</trans>
+				<trans>be showy</trans>
+				<lr>
+					<syn type="perfect">호화롭다</syn>
+					<syn type="perfect">사치스럽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">속성(생활|삶)</sel_rst>
+					<eg>그 나이 또래의 여자 아이들은 많은 경우 화려한 삶을 동경하게 마련이다.</eg>
+					<eg>애초부터 그는 그 여자가 꿈꾸는 화려한 생활을 누리게 해 줄 자신이 없었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

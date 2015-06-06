@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>몸서리나다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/06/06</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/04</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>격틀 수정</mod_note>
+				<mod_note>센스 추가</mod_note>
+				<mod_note>"격틀" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">몸서리가 나다</var>
+			<str>NV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>shiver</trans>
+				<trans>shudder</trans>
+				<lr>
+					<syn type="perfect">소름끼치다</syn>
+					<syn type="perfect">오싹하다</syn>
+					<syn type="sino">전율하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="EFF">인간|인간집단|사태</sel_rst>
+					<eg>영수는 영희의 연기에 몸서리날 정도로 공포를 느꼈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리상태</sem_class>
+				<trans>get disgusted</trans>
+				<trans>get sick and tired</trans>
+				<lr>
+					<syn type="perfect">진저리나다</syn>
+					<syn type="perfect">넌더리나다</syn>
+					<syn type="perfect">싫증나다</syn>
+					<syn type="perfect">지긋지긋하다</syn>
+					<syn type="perfect">넌덜머리나다</syn>
+					<syn type="perfect">진절머리나다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame><!--"X-이 Y-이"도 가능함.-->
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>나는 이제 이곳 생활에 몸서리나서 더 이상 견디지 못하겠다.</eg>
+					<eg>저도 소음 하면 몸서리나는 사람입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

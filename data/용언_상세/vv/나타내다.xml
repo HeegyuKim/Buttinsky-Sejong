@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나타내다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>생물생리현상</sem_class>
+				<trans>represent</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">질병및증세(증상|증세)</sel_rst>
+					<eg>그 아이는 5살 때부터 자폐증 증세를 나타냈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상(소비|수출)</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(증가|감소)</sel_rst>
+					<eg>소비가 6월 들어 급격한 증가를 나타냈다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<eg>그의 손이 떨리는 것이 그의 긴장을 잘 나타내고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그의 표정은 그가 긴장한 것을 잘 나타내고 있다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">S것</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것|S음</sel_rst>
+					<eg>그의 손이 떨리는 것은 그가 긴장한 것을 잘 나타낸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>관계속성값</sem_class>
+				<trans>represent</trans>
+				<lr>
+					<syn type="sino">표현하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상(말|단어)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">추상적대상(소리|모습)</sel_rst>
+					<eg>한국어에서 소리나 모습을 나타내는 말이 의성어, 의태어다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>represent</trans>
+				<lr>
+					<syn type="sino">표현하다</syn>
+					<syn type="sino">묘사하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">작품(시|소설|음악)</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(감정|심리)</sel_rst>
+					<eg>그 음악은 사랑의 감정을 잘 나타내고 있다.</eg>
+					<eg>그 소설만큼 남녀간의 연예심리를 잘 나타낸 작품은 없다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(감정|심리)</sel_rst>
+					<sel_rst arg="Z" tht="LOC">작품(시|소설|음악)</sel_rst>
+					<eg>그는 시에서 사랑의 감정을 잘 나타냈다.</eg>
+					<eg>그는 신작소설에서 형제간의 갈등을 잘 나타냈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>appear</trans>
+				<lr>
+					<syn type="perfect">보이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에|에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(모습)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|장소</sel_rst>
+					<eg>그는 끝까지 우리에게 모습을 나타내지 않았다.</eg>
+					<eg>환경 파괴로 그 새는 이제 더 이상 서울에 모습을 나타내지 않는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>appear</trans>
+				<lr>
+					<syn type="perfect">보이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EFF">구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(모습)</sel_rst>
+					<eg>열을 가하니 그 물질이 결정체의 형태를 나타내기 시작했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>show</trans>
+				<lr>
+					<syn type="perfect">보이다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>내가 그렇게 말하면 그는 나에게 어떤 반응을 나타낼까?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>두각을 나타내다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

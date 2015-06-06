@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오므라들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>str 재확인요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">우므러들다</var>
+			<str>RuV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>contract</trans>
+				<trans>become narrower</trans>
+				<lr>
+					<syn type="perfect">우므러들다</syn>
+					<ant type="grad">펴지다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|구체물의부분|식물의부분</sel_rst>
+					<eg>진한 소금물에 넣어 둔 꽃은 제대로 피지도 않은 채 꽃봉오리가 오므라들고 시들어 버렸다.</eg>
+					<eg>열을 받은 플라스틱 그릇의 가장자리가 흉하게 오므라들어 있었다.</eg>
+					<eg>한번 늘어진 고무줄은 제대로 오므라들지 않았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>contract</trans>
+				<trans></trans>
+				<lr>
+					<syn type="perfect">오그라들다</syn>
+					<syn type="sino">수축되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위</sel_rst>
+					<eg>추위 때문인지 손이 오므라들어 감각조차도 없었다.</eg>
+					<eg>순간 그는 강한 통증과 함께 심장이 오므라드는 듯한 느낌을 느꼈다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>심리행위</sem_class>
+				<trans>shrink</trans>
+				<lr>
+					<syn type="perfect">오그라들다</syn>
+					<syn type="sino">위축되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">마음</n_appr>
+					<eg>그는 김 선생 앞에만 서면 스스로 오므라드는 자신을 느껴야 했다.</eg>
+					<eg>큰소리를 치고 나섰건만 덩치 큰 상대와 맞서려니 두려움에 마음이 오므라들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

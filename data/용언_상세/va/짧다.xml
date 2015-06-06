@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>짧다</orth>
+	<entry n="1" pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/09/21</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/07/31</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/24</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>형태 정보 구획 및 의미 정보 구획 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2005/08/12</mod_date>
+				<mod_writer>김윤신</mod_writer>
+				<mod_note>예문 수정</mod_note>
+				<mod_note>의미 관계 추가</mod_note>
+				<mod_note>적정 명사 추가</mod_note>
+				<mod_note>태그 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be short</trans>
+				<lr>
+					<ant type="grad">길다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr>길이</n_appr>
+					<eg>끈이 길이가 너무 짧아서 상자를 묶을 수 없습니다.</eg>
+					<eg>이 망치는 자루가 짧아서 쓰기에 불편할 때가 많다.</eg>
+					<eg>그녀는 남들보다 팔이 짧아서 윗도리를 사면 매번 따로 손을 봐야 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be short</trans>
+				<trans>be brief</trans>
+				<lr>
+					<ant type="grad">짧다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">시간(시간|기간|날|낮|밤|휴일)|(인생|일생|수명)|(해)</sel_rst>
+					<eg>아이들은 휴식 시간이 너무 짧다고 늘 투덜거렸다.</eg>
+					<eg>서로 간에 지난 이야기들을 모두 나누기에는 하루가 너무 짧았다.</eg>
+					<eg>길다면 길고 짧다면 짧은 것이 우리들 인생이란다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be short</trans>
+				<trans>be brief</trans>
+				<lr>
+					<ant type="grad">길다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">텍스트(책|글|소설|시|편지)|소통행위(대화|훈시|개회사|보고|연설|이야기|질문|대답)</sel_rst>
+					<n_appr>길이</n_appr>
+					<eg>그는 우선 짧고 재미있는 글들을 골라 아이들과 함께 읽어 보기로 했다.</eg>
+					<eg>그녀의 보고는 짧고 명료했다.</eg>
+					<eg>잠시 동안 그들 간에 짧은 질문과 대답이 오갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be wanting</trans>
+				<trans>be short</trans>
+				<trans>be deficient</trans>
+				<trans>be insufficient</trans>
+				<trans>be poor</trans>
+				<lr>
+					<syn type="sino">부족하다</syn>
+					<ant type="grad">충분하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인지상태(생각|지식)|(경험)|언어명(영어|불어)|(말)|돈(밑천|자본금)</sel_rst>
+					<eg>제가 생각이 짧아서 실수를 한 것 같습니다.</eg>
+					<eg>내 짧은 지식으로는 이 책을 제대로 읽고 이해하기가 힘들다.</eg>
+					<eg>김 차장은 영어가 짧아 외국인 바이어를 상대하기 힘들듯 합니다.</eg>
+					<eg>밑천이 짧아 장사도 할 수 없고, 가진 기술이 없어 취직도 안 되니 답답한 지경이라며 그는 길게 한숨을 내쉬었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>입이 짧다</idm>
+			<idm>가방끈이 짧다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

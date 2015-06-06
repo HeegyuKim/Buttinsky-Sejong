@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>못생기다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>모양속성값</sem_class>
+				<trans>be ugly</trans>
+				<trans>be bad-looking</trans>
+				<lr>
+					<ant type="grad">잘생기다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">생김새</n_appr>
+					<n_appr arg="X">모양</n_appr>
+					<eg>못생긴 호박이 더 맛있다.</eg>
+					<eg>얼굴은 정말 못생겼지만 성격은 참 좋다.</eg>
+					<eg>다리가 못생겨서 치마 입는 것을 싫어한다.</eg>
+				</subsense>
+			</frame_grp>
+			<com> <!--어말어미,현재형어미 제약 기술해야할 듯-->
+				<col_grp>
+					<col type="etc"></col>
+				</col_grp>
+			</com>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>상호작용하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">상호작용을 하다</var>
+			<str>N.하</str>
+			<org lg="si">相互作用_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>대칭적행위</sem_class>
+				<trans>interact</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(요소|힘|원리)|추상적대상|구체물</sel_rst>
+					<sel_rst arg="Y" tht="THM">(요소|힘|원리)|추상적대상|구체물</sel_rst>
+					<eg>그 세 요소들이 상호작용해서 만드는 구조는 필연적으로 경쟁구조이다.</eg>
+					<eg>정치적 측면에서의 정예제 및 경제적 측면에서의 계획경제는 서로 긴밀히 연관되고 서로 유기적으로 상호작용해서 내적 조화를 이루는 완전한 틀을 형성하고 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(요소|힘|원리)|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="COM">(요소|힘|원리)|추상적대상</sel_rst>
+					<eg>어린이들은 질문-답변 형식으로 이야기 속의 등장인물과 상호작용하게 됩니다.</eg>
+					<eg>여성의 영역은 가정이라는 성분업적 고정관념과 끊임없이 상호작용해야 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

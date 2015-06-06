@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>자족하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/20</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">자족을 하다</var>
+			<str>N.하</str>
+			<org lg="si">自足_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적태도</sem_class>
+				<trans>be self-sufficient</trans>
+				<lr>
+					<syn type="perfect">만족하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="INS">인간|인간집단</sel_rst>
+					<eg>나는 그녀의 이성 친구로 자족하기로 했다.</eg>
+					<eg>그는 비록 젊은 시절 꿈을 이루지는 못했지만 고등학교 선생으로 자족하며 살고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적태도</sem_class>
+				<trans>be self-sufficient</trans>
+				<lr>
+					<syn type="perfect">만족하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>네가 가진 것에 자족할 줄 알아야 한다.</eg>
+					<eg>그녀는 자신의 상황에 자족할 줄 모르고 끊임없이 욕심을 부렸다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S것1|S데1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM"/>
+					<eg>나는 내가 시합에 참여할 수 있었던 데에 자족한다.</eg>
+					<eg>그는 먼발치에서나마 그녀를 볼 수 있었던 것에 자족하고 발길을 돌렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>긍정적태도</sem_class>
+				<trans>be self-sufficient</trans>
+				<lr>
+					<syn type="perfect">만족하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=S1-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="MAG">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="CNT"></sel_rst>
+					<eg>당시 나는 이만하면 남들 앞에 부끄러울 것이 없는 삶을 살고 있다고 자족했었다.</eg>
+					<eg>원하던 직장에 들어갔다고 자족하지 말고 보다 나은 자신을 만들기 위해 노력해야 할 것이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

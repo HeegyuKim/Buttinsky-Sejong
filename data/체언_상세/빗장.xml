@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>빗장</orth>
+	<entry n="1" pos="nng_s">
+		<mnt_grp>
+			<cre>
+				<cre_date>2003/06/02</cre_date>
+				<cre_writer>김미순</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/07/04</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note>2003/07/04(김진형)예문 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/10/03</mod_date>
+				<mod_writer>이민우</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/27</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스2 추가</mod_note>
+			</mod>
+			<add>~을 걸다|풀다|열다|따다|잠그다|뽑다|지르다|벗기다</add>
+		</mnt_grp>
+		<morph_grp>
+		
+		</morph_grp>
+		<idm_grp>
+		</idm_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>어머니는 잠자리에 들기 전에 대문의 ~이 제대로 걸렸는지 꼭 확인하신다.</eg>
+				<eg>그들은 외인의 침입을 막기 위해 대문을 닫고 ~을 단단히 질렀다.</eg>
+				<trans>crossbar</trans>
+				<sem_class>도구</sem_class>
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 단단하다</comb_aj>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 걸다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 풀다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 열다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~을 지르다</form>
+					<frame></frame>
+				</comb_v>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>닫힌 ~으로는 열린 민심을 얻을 수 없다.</eg>
+				<eg>지난 반세기 동안 닫혀있던 ~이 서서히 열리기 시작했다.</eg>
+				<trans>bar</trans>
+				<domain></domain>
+				<sem_class>추상적대상</sem_class> <!-- 재검토 필요 -->
+				<lr>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 풀다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 열다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred"> <!-- 추가함 -->
+					<form vcompound="no">~이 닫히다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str> <!-- 추가함 -->
+				<sel_rst arg="X">인간집단|추상적대상(마음)</sel_rst>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

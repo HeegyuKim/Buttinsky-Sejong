@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>상부구조</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/03</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>센스2 의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>의미부류검토했음</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/30</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>센스2의 s_n 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/07</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>센스1, 2에 맥스엔, 논항 의미부류 정보 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">상부 구조</var>
+			<str type="N_N">상부+구조</str>
+			<org lg="si">上部構造</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>교량의 ~를 보면 교각 부분의 두께가 더 두껍다.</eg>
+				<eg>11세기 말에 산마르코성당 재건공사에 롬바르디아의 건축가와 석공이 ~ 건축에 참가했다.</eg>
+				<trans>superstructure</trans>
+				<domain></domain>
+				<sem_class>구체물의부분</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">하부구조</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 튼튼하다</comb_aj>
+				<comb_n type="compound">~ 제작</comb_n>
+				<comb_n type="compound">~ 설계</comb_n>
+				<comb_n type="compound">~ 설치</comb_n>
+				<comb_n type="compound">~ 건축</comb_n>
+				<comb_n type="compound">교량 ~</comb_n>
+				<comb_n type="compound">선체 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 제작하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 만들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설계하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 설치하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<max_n_str>X ~</max_n_str>
+				<sel_rst arg="X">건물|길|다리|터널|부분장소|제방</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>마르크스는 하부구조가 ~를 결정한다고 했다.</eg>
+				<eg>일반적으로 정치가 국가체제 및 근간의 ~를 이룬다고 할 수 있다.</eg>
+				<trans>superstructure</trans>
+				<domain></domain>
+				<sem_class>관계추상적대상</sem_class><!--상부구조는 우선 생산관계를 유지시켜 주는 국가기구, 분쟁의 조정에 사용되는 법체계, 사회성원을 이념적으로 묶어 주는 이데올로기, 그 외에도 규범체계·관습·인습·예술·종교·학문·언어 등을 포함한다.(두산백과중에서-김이정)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="dir">하부구조</ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~가 단순하다</comb_aj>
+				<comb_aj type="appr" pred="no">정치적 ~</comb_aj>
+				<comb_aj type="appr" pred="no">사회적 ~</comb_aj>
+				<comb_aj type="appr" pred="no">문화적 ~</comb_aj>
+				<comb_aj type="appr" pred="no">법률적 ~</comb_aj>
+				<comb_aj type="appr" pred="no">이데올로기적 ~</comb_aj>
+				<comb_n type="compound">~ 형성</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 이루다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~를 형성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 ~</max_n_str>
+				<sel_rst arg="X">인간집단</sel_rst>
+				<cl type="uni">가지</cl>
+				<cl type="uni">개</cl>
+				<s_n></s_n> <!--'S는 ~' 삭제(미현)-->
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

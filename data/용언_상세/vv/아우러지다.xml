@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>아우러지다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/06/30</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>Vu.지</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>get joined together</trans>
+			</sem_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X+Y=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물|집단|장소|추상적대상</sel_rst>
+					<eg>경영학에도 다양한 분야가 아우러져 있다.</eg>
+					<eg>노골적인 섹스 장면과 동물, 그리고 초자연적인 존재와 사냥 장면이 한 데 아우러져 있다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN" cor="sym" n="1">
+				<frame>X=N0-이 Y=N1-와 (서로) V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|집단|장소|추상적대상</sel_rst>
+					<sel_rst arg="X" tht="COM">구체물|집단|장소|추상적대상</sel_rst>
+					<eg>헤이리 마을은 주거단지이자 상업지구와 아우러져 멋진 장소가 되었다.</eg>
+					<eg>그의 조각에서 유출되는 리듬감은 관람자의 몸이나 시선의 움직임과 아우러져 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

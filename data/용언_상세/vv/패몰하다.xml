@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>패몰하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/13</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/17</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/25</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<str>N.하</str>
+			<org lg="si">敗沒_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>실패</sem_class>
+				<trans>be defeated</trans>
+				<lr>
+					<syn type="perfect">패망하다</syn>
+					<syn type="perfect">패멸하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">국가|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="LOC">물리적충돌(전쟁|전투)</sel_rst>
+					<eg>적군이 패몰했으므로 추격할 필요도 없다.</eg>
+					<eg>일본은 제2차 세계대전에서 패몰했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>죽음</sem_class>
+				<trans>lose one's life</trans>
+				<lr>
+					<syn type="perfect">패사하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Y" tht="LOC">물리적충돌(전쟁|전투)</sel_rst>
+					<eg>장군이 패몰하자 병사들은 도망치기 바쁘다.</eg>
+					<eg>용감하게 싸우다 패몰한 장군에게 조의를 표했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

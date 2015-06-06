@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>닦아세우다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/03</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>rebuke</trans>
+				<trans>blame</trans>
+				<trans>reprove</trans>
+				<lr>
+					<syn type="perfect">닦달하다</syn>
+					<syn type="perfect">닥뜨리다</syn>
+					<syn type="perfect">몰아세우다</syn>
+					<syn type="perfect">몰아치다</syn>
+					<syn type="sino">야단치다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 X=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<eg>경관은 그를 닦아세웠다.</eg>
+					<eg>아버지는 화가 나서 어머니를 닦아세웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>비난욕설</sem_class>
+				<trans>censure</trans>
+				<trans>accuse</trans>
+				<lr>
+					<syn type="perfect">몰아세우다</syn>
+					<syn type="perfect">몰아치다</syn>
+					<syn type="sino">비난하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간</sel_rst>
+					<sel_rst arg="Z" tht="CNT"></sel_rst>
+					<eg>카스트로는 미 NBC 방송과의 인터뷰에서 디즈니 월드를 동원한 것이야말로 "쿠바 국민에 대해 무례한 짓거리"라고 닦아세웠다.</eg>
+					<eg>노조위원장은 사용자측에서 무리한 요구를 하고 있다고 사측의 대표를 닦아세웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

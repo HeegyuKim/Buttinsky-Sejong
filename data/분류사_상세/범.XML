@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007cl.dtd">
+<superEntry>
+	<orth>범</orth>
+	<entry pos="cl">
+		<mnt_grp>
+			<cre>
+				<cre_date>2000/10/09</cre_date>
+				<cre_writer>김진해</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2000/10/18</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/01/10</mod_date>
+				<mod_writer>김진해</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2001/10/15</mod_date>
+			</mod>
+			<mod>
+				<mod_date>2003/07/29</mod_date>
+				<mod_writer>김종인</mod_writer>
+			</mod>
+			<note>상세기술</note>
+		</mnt_grp>
+		<morph_grp>
+			<org lg="si">犯</org>
+					<hom exist="yes"/>
+			<comp pos="n" type="prefix">공~</comp>
+			<comp pos="n" type="prefix">상습~</comp>
+			<comp pos="n" type="prefix">잡~</comp>
+			<comp pos="n" type="prefix">재~</comp>
+			<comp pos="n" type="prefix">파렴치~</comp>
+			<comp pos="n" type="prefix">초~</comp>
+			<comp pos="n" type="prefix">현행~</comp>
+		</morph_grp>
+		<sense n="1">
+			<sem_grp>
+				<eg>저 사람은 전과 9~의 조직폭력배입니다</eg>
+				<cl_subtype type="fqn"/>
+				<rel_n>전과</rel_n>
+			</sem_grp>
+			<syn_grp>
+				<flt possible="n-mdq-cl"/>
+				<carord car="si" ord="etc"/>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

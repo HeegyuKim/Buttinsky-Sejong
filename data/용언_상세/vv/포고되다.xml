@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>포고되다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/25</cre_date>
+				<cre_writer>임유종</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/10/18</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/15</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">포고가 되다</var>
+			<str>N.되</str>
+			<org lg="si">布告_</org>
+			<org lg="si">佈告_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>get announced</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">사실명제</sel_rst>
+					<eg>이 문서는 기밀 사항인데도 널리 포고되어 많은 사람들이 그 사실을 알게 되었다.</eg>
+					<eg>수도는 화염에 휩싸였고 아나스타시우스 1세의 조카가 황제로 포고되었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>피동적행위</sem_class>
+				<trans>be proclaimed</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">규범|제도|명령(계엄령)</sel_rst>
+					<eg>세부 법안 내용이 포고되어 시행을 앞두고 있다.</eg>
+					<eg>계엄령이 포고되어 있는 상태에서 갑남은 계엄령 위반행위를 하였으나, 계속 도망다녀서 체포를 면할 수 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

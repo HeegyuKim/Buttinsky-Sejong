@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>부실공사</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/12</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>sem검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>의미부류 검토했음, 예문 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>n_v 유형 수정</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">부실 공사</var>
+			<str type="N_N">부실+공사</str>
+			<org lg="si">不實工事</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>올해부터 ~가 잦은 시공업체는 그 내용과 명단을 공개하기로 했다.</eg>
+				<eg>다리 공사에 터무니없이 싼값으로 입찰한 기업들은 ~가 우려된다.</eg>
+				<eg>수익이 줄어든 건설 회사들이 ~를 하게 되어 결국 집 없는 서민이 불이익을 당할 수 있다.</eg>
+				<trans>fraudulent work</trans>
+				<domain></domain>
+				<sem_class>결과행위</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 근절</comb_n>
+				<comb_n type="compound">~ 문제</comb_n>
+				<comb_n type="compound">~ 방지</comb_n>
+				<comb_n type="compound">~ 여부</comb_n>
+				<comb_n type="compound">~ 예방</comb_n>
+				<comb_n type="compound">~ 추방</comb_n>
+				<comb_n type="compound">~ 추방대책</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="yes">~를 하다</form>
+					<frame>X-이 Y-을 ~를 하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!--narg->npred로 수정(미현)-->
+					<form vcompound="no">~를 근절하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정(미현)-->
+					<form vcompound="no">~를 막다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정(미현)-->
+					<form vcompound="no">~를 방지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"><!--narg->npred로 수정(미현)-->
+					<form vcompound="no">~를 추방하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 Y ~</max_n_str>
+				<max_n_str>X-의 Y-에 대한 ~</max_n_str>
+				<sel_rst arg="X">인간|기업</sel_rst>
+				<sel_rst arg="Y">설치물|건물|길|다리|굴</sel_rst>
+				<cl type="uni">건</cl>
+				<cl type="uni">번</cl>
+				<cl type="uni">차례</cl>
+				<cl type="uni">회</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

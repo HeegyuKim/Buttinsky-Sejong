@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>힘없다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2002/11/01</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2002/11/03</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/10/05</mod_date>
+				<mod_writer>노윤채</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/27</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">힘이 없다</var>
+			<str>NV</str>
+			<infl type="yeo"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be weak</trans>
+				<trans>be feeble</trans>
+				<trans>be faint</trans>
+				<lr>
+					<syn type="sino">약하다</syn>
+					<ant type="grad">힘차다</ant>
+					<ant type="grad">힘없다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">몸짓및동작|소리</sel_rst>
+					<eg>그는 다 죽어 가는 듯 힘없는 목소리로 내게 전화를 걸어 왔다.</eg>
+					<eg>그 여자는 곧 쓰러질 듯 발걸음이 힘없어 보였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense >
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be weak</trans>
+				<trans>be lack of power</trans>
+				<lr>
+					<syn type="sino">약하다</syn>
+					<ant type="grad">힘있다</ant>
+					<ant type="grad">강하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|인간집단</sel_rst>
+					<eg>이 나라에서 세금을 정직하게 내는 사람은 힘없는 근로자들뿐이다.</eg>
+					<eg>한때 그는 힘없는 사람들의 편에 서서 정의를 실현하는 검사가 되고 싶었던 적이 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

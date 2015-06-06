@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>들씌우다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>박보연</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str></str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>impute</trans>
+				<trans>lay blame on</trans>
+				<lr>
+					<syn type="sino">전가하다</syn>
+					<hyper>씌우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">(책임|허물|잘못|죄)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|인간집단</sel_rst>
+					<eg>내 잘못을 그 친구에게 들씌웠다.</eg>
+					<eg>우리 팀은 상대편에 모든 책임을 들씌웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pour all over</trans>
+				<trans>cover all over</trans>
+				<lr>
+					<hyper>씌우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="THM">(물|먼지)|액체|폐기물|부산물|배설물</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물|장소</sel_rst>
+					<eg>청소한답시고 먼지를 온통 나한테 들씌웠다.</eg>
+					<eg>쓰레기차가 온갖 쓰레기를 길에 들씌우며 지나간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>pull over</trans>
+				<lr>
+					<hyper>씌우다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|동물</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체인공물(이불|책상보)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물</sel_rst>
+					<eg>어머니는 추위에 떠는 아이 머리끝까지 이불을 들씌웠다.</eg>
+					<eg>아저씨가 나뭇가지에 꼬마전구줄을 들씌웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst></infl_rst>
+			<trans></trans>
+			<sel_rst arg="X" tht="AGT"></sel_rst>
+			<defect_eg></defect_eg>
+		</defect>
+	</entry>
+</superEntry>

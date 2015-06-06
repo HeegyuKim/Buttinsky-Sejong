@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>한갓되다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/22</cre_date>
+				<cre_writer>조원형</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>D.되</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be no more</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상</sel_rst>
+					<eg>한갓되이 욕심만 맺으려는고.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<defect>
+			<infl_rst>한갓되이</infl_rst>
+			<trans>only|simply</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>한갓되이 욕심만 맺으려는고.</defect_eg>
+		</defect>
+		<defect>
+			<infl_rst>한갓된</infl_rst>
+			<trans>only|simply</trans>
+			<sel_rst arg="X" tht="THM"></sel_rst>
+			<defect_eg>한갓된 욕심만 맺으려는고.</defect_eg>
+		</defect>
+	</entry>
+</superEntry>

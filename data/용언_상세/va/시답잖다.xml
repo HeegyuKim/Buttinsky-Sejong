@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>시답잖다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/05/11</cre_date>
+				<cre_writer>박진호</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">시덥잖다</var>
+			<str>A.잖</str>
+			<org lg="si">實__</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>외향적심리상태</sem_class>
+				<trans>be dissatisfied</trans>
+				<trans>be discontented</trans>
+				<trans>be displeased</trans>
+				<lr>
+					<syn type="sino">불만족스럽다</syn>
+					<syn type="sino">불만스럽다</syn>
+					<ant type="grad">만족스럽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">온</sel_rst>
+					<eg>그는 아들의 행동이 시답잖은 모양이다.</eg>
+					<eg>그는 회의 내내 시답잖은 표정으로 앉아 있었다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">S것</sel_rst>
+					<eg>그는 내가 이 일에 앞장서는 것이 시답잖은 모양이다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>낮은정도</sem_class>
+				<trans>be trivial</trans>
+				<trans>be insignificant</trans>
+				<trans>be of little importance</trans>
+				<lr>
+					<syn type="perfect">시시하다</syn>
+					<ant type="grad">중요하다</ant>
+					<ant type="grad">시답다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">이야기(이야기)|소통행위(말|소리)|행위</sel_rst>
+					<eg>그는 볼일도 없이 내 방에 와서 시답잖은 소리만 늘어놓다 갔다.</eg>
+					<eg>시답잖은 수작 그만 하고 빨리 집에나 가자.</eg>
+					<eg>너는 내 말이 시답잖게 들리냐?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

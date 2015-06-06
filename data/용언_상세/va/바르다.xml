@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>바르다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/25</cre_date>
+				<cre_writer>한선혜</cre_writer>
+				<cre_note>마지막 센스 "양지가 바르다"의 경우 통사구조 재검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/20</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/09/09</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>A</str>
+		</morph_grp>
+		<sense n="01">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be straight</trans>
+				<lr>
+					<syn type="perfect">곧다</syn>
+					<ant type="grad">비뚤다</ant>
+					<ant type="grad">굽다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">도형(선|선분|줄)|길|구체물</sel_rst>
+					<eg>이쪽 길이 굴곡도 없고 발라 걷기가 편하겠다.</eg>
+					<eg>도면을 그릴 때는 선을 바르게 긋는 것이 중요하다.</eg>
+					<eg>의자들을 모두 바르게 정렬해라.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="02">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be right</trans>
+				<lr>
+					<syn type="perfect">옳다</syn>
+					<ant type="grad">그르다</ant>
+					<ant type="grad">틀리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|행위</sel_rst>
+					<eg>늘 네 주장이 바르고 남들은 잘못되었다고 생각한다면 큰 착각이다.</eg>
+					<eg>말이야 바른 말이지만 그렇게 행동하기가 쉽진 않습니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="03">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be honest</trans>
+				<lr>
+					<ant type="grad">악하다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|품격속성(마음|성품)</sel_rst>
+					<eg>아버지는 내게 늘 마음이 바른 사람이 되라고 가르치셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="04">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>have</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">규범(예절|예의|인사성)</sel_rst>
+					<eg>그는 예의가 바르고 상냥해 어른들의 사랑을 독차지하곤 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="05">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be correct</trans>
+				<lr>
+					<syn type="perfect">옳다</syn>
+					<ant type="grad">틀리다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">행위</sel_rst>
+					<eg>그 사람만이 그 질문에 바른 대답을 하였다.</eg>
+					<eg>너 나에게 바르게 말해야 한다.</eg>
+					<eg>나는 그 사람에게 길을 바르게 가르쳐 주었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense n="06">
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be sunny</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 Y=N1-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">지상장소|건물</sel_rst>
+					<sel_rst arg="Y" tht="THM">빛(햇볕|햇빛)|(양지)</sel_rst>
+					<eg>아낙은 햇볕이 바른 앞마당에 멍석을 깔고 고추를 널었다.</eg>
+					<eg>이 곳은 앞이 툭 트이고 양지 발라 부모님 묘자리로 명당이겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>바른 말을 잘 하다</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

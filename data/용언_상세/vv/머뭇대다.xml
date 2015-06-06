@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>머뭇대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/15</cre_date>
+				<cre_writer>박철우</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/07/28</mod_date>
+				<mod_writer>김건희</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/10/02</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 수정</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>어휘 의미관계 보충</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="lng">머무적대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>hesitate</trans>
+				<lr>
+					<syn type="perfect">뭉그적대다</syn>
+					<syn type="perfect">몽그작대다</syn>
+					<syn type="perfect">주척대다</syn>
+					<syn type="perfect">주춤대다</syn>
+					<syn type="perfect">멈칫대다</syn>
+					<syn type="perfect">망설이다</syn>
+					<syn type="perfect">우물쭈물하다</syn>
+					<syn type="sino">주저하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<eg>소위 우리 정부의 대신이란 자들은 자기 일신의 영달과 이익이나 바라면서 위협에 겁먹어 머뭇대거나 벌벌 떨며 나라를 팔아먹는 도적이 되기를 감수했던 것이다.</eg>
+					<eg>문앞에서 머뭇대면 보기가 좋지 않으니 재빨리 들어가고 문을 닫을 때는 돌아서서 '꽝' 하는 소리가 나지 않게 양손으로 살짝 조용히 닫는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>가득차다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/15</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/14</mod_date>
+				<mod_writer>김건희</mod_writer>
+				<mod_note>내부구조 수정</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>DV</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">가득하다</syn>
+					<ant type="grad">텅비다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물|현상</sel_rst>
+					<sel_rst arg="Y" tht="LOC">장소|용기</sel_rst>
+					<eg>뒷뜰에는 당근, 옥수수, 그리고 감자가 가득차 있다.</eg>
+					<eg>연기가 불이난 집안에 어느새 가득찼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">가득하다</syn>
+					<ant type="grad">텅비다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">장소|용기</sel_rst>
+					<sel_rst arg="Y" tht="INS">구체물|현상</sel_rst>
+					<eg>뒷뜰이 당근, 옥수수, 그리고 감자로 가득차 있다.</eg>
+					<eg>불이 난 집안은 연기로 어느새 가득찼다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">가득하다</syn>
+					<ant type="grad">텅비다</ant>
+					<hyper>차다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|상태</sel_rst>
+					<sel_rst arg="Y" tht="LOC">신체부위|소리(음성)|개인사</sel_rst>
+					<eg>돌아온 남편을 보자 그 여자의 얼굴에는 기쁨이 가득찼다.</eg>
+					<eg>그의 음성에는 놀람과 의혹이 가득차 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>상태</sem_class>
+				<trans>be full up</trans>
+				<lr>
+					<syn type="perfect">가득하다</syn>
+					<ant type="grad">텅비다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체부위|소리(음성)|개인사</sel_rst>
+					<sel_rst arg="Y" tht="INS">추상적대상|상태</sel_rst>
+					<eg>손자를 안은 할머니의 얼굴은 기쁨으로 가득차 있다.</eg>
+					<eg>그의 인생는 고난과 역경으로 가득차 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

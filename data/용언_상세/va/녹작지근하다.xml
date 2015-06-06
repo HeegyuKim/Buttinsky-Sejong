@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>녹작지근하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/24</cre_date>
+				<cre_writer>김민선</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">녹지근하다</var>
+			<var type="etc">녹짝지근하다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>신체상태</sem_class>
+				<trans>be slack</trans>
+				<trans>be languid</trans>
+				<trans>be tired</trans>
+				<lr>
+					<syn type="perfect">날짝지근하다</syn>
+					<hyper>나른하다</hyper>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간|동물</sel_rst>
+					<n_appr arg="X">상태</n_appr>
+					<eg>누렁이는 녹작지근한 모습으로 집앞에 누워 있었다.</eg>
+					<eg>봄만 되면 철수는 춘곤증 때문에 녹작지근하다고 한다.</eg>
+					<eg>오늘은 몸이 녹작지근하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

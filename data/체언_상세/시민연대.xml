@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>시민연대</orth> <!-- 표제어로 적절한지?? -->
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/06/30</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/07/29</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>'~를 결성하다' 예문 추가;의미부류를 '지속적활동'에서 '단체'로 수정함;명사결합에서 붙여쓰기 된것을 띄어씀;명사결합에 '총선|정치개혁 ~' 추가함;단위표현 추가함;동사결합정보 열거 방법 수정</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/08/05</mod_date>
+				<mod_writer>기영인</mod_writer>
+				<mod_note>각종 형식수정;comments;명사결합 일부정보 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add>'서울|안양지역 ~' 등과 같은 정보는 어느 곳에?</add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="etc"></var>
+			<str type="N_N">시민+연대</str>
+			<org lg="si">市民連帶</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>정치개혁에 동참하는 많은 시민들이 모여 ~를 결성하였다.</eg> <!--이 경우 '연대'가 단체이름의 일부가 되지 않는지?-->
+				<eg>그 사건에 대한 국민의 적극적인 반응은 진정한 ~를 향한 가능성을 보여주었다.</eg>
+				<trans>citizen solidarity</trans>
+				<domain></domain>
+				<sem_class>단체</sem_class> <!--'지속적활동'?-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">~ 활동</comb_n> <!--'총선~'식으로 'N+~'결합정보 역시 고유명사로 취급되는지?--><!--'전반적 제도나 상황'아닌 '개별사안'의 경우 삭제함.-->
+				<comb_n type="compound">정치개혁 ~</comb_n>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 꾸리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~를 결성하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

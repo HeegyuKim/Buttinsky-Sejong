@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>희멀겋다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2006/08/21</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc">해말갛다</var>
+			<str>AA</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be white and glossy</trans>
+				<trans>be nice and fair</trans>
+				<lr>
+					<syn type="perfect">희멀쑥하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">모양(얼굴|외모|모습)</sel_rst>
+					<eg>아무 기대 없이 선 자리에 나갔지만 뜻밖에도 내 앞에 나타난 남자는 키도 크고 얼굴이 희멀건 호남형의 사내였다.</eg>
+					<eg>그 여자는 남편의 희멀건 외모에 반해 생각 없이 결혼한 것이 후회스러웠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be whitish</trans>
+				<trans>be not quite clear</trans>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물</sel_rst>
+					<n_appr arg="X">색</n_appr>
+					<n_appr arg="X">색깔</n_appr>
+					<n_appr arg="X">빛깔</n_appr>
+					<eg>내가 뽑은 사진을 보며 그는 배경 색깔이 너무 희멀겋다며 고개를 저었다.</eg>
+					<eg>컵 속에 담긴 액체는 색이 희멀겋고 무엇인지 모를 이물질까지 섞여 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be thin</trans>
+				<trans>be watery</trans>
+				<trans>be dilute </trans>
+				<lr>
+					<syn type="perfect">멀겋다</syn>
+					<syn type="perfect">묽다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">액체|음식(국|죽)</sel_rst>
+					<eg>사골을 사다가 밤새 고고 또 고았지만 국물이 뽀얗게 우러나긴 커녕 희멀겋기만 했다.</eg>
+					<eg>그는 희멀건 죽을 숟가락으로 젓기만 할 뿐 입으로 떠 넣을 생각은 하지 않는 듯했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

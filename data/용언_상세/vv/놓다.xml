@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>놓다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="CDelVCon"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="perfect">두다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">구체물(가방|화분|신문)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">구체물(책상|식탁|의자)</sel_rst>
+					<eg>철수는 책상 옆에 가방을 놓았다.</eg>
+					<eg>그는 화분을 식탁 위에 놓았다.</eg>
+					<eg>짐을 어디에 놓을까요?</eg>
+					<eg>다 쓴 다음에 그 물건을 제자리에 놓아라.</eg>
+					<eg>내가 분명 신문을 여기다 놓아 두었는데, 어디로 갔지?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">식물(참외|호박|오이)|동물(누에|벌)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(뜰|밭|야산)</sel_rst>
+					<eg>앞뜰에는 참외를 놓고, 뒤뜰에는 호박을 놓았다.</eg>
+					<eg>할머니는 그동안 광에 누에를 놓아 생계를 유지하였다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>사동적이동행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(불)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(논둑|산|집)</sel_rst>
+					<eg>해충을 잡기 위해 아이들은 논둑에 쥐불을 놓았다.</eg>
+					<eg>누군가 일부러 집에 불을 놓은 것이 분명하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>창조행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(수|솜)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">(이불|옷)</sel_rst>
+					<eg>명희는 틈틈히 이불에 금실로 수를 놓았다.</eg>
+					<eg>어머니는 이불에 솜을 놓느라고 바쁘시다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>개선행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(주사|침)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간|신체부위</sel_rst>
+					<eg>간호사는 철호의 팔에 주사를 놓았다.</eg>
+					<eg>한의사가 내 왼쪽 발목에 침을 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="sino">설치하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">설치물(다리|수도|전화)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">장소(개울|강|집)</sel_rst>
+					<eg>드디어 우리 동네 개울에 다리를 놓게 되었다.</eg>
+					<eg>성희는 주인한테 수도를 놓아 달라고 요구하였다.</eg>
+					<eg>아버지께서 내 방에도 전화를 놓아 주셨다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>put</trans>
+				<lr>
+					<syn type="perfect">깔다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-에게 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">단위(한점|두점)</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<eg>나는 준섭에게 두 점을 놓고 두었는 데도 이기지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">신체부위(손)|구체물(칼|책|가방)</sel_rst>
+					<eg>내 손을 놓지 말고 꼭 잡아라.</eg>
+					<eg>이것을 잡고 있다가 내가 놓으라고 할 때 놓아라.</eg>
+					<eg>기영이는 손에 잡고 있던 것을 그냥 놓아 버렸다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>bet</trans>
+				<lr>
+					<syn type="perfect">걸다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(돈)</sel_rst>
+					<eg>한 판에 돈을 얼마씩 놓고 화투를 칩니까?</eg>
+					<eg>철호는 육교 위에서 1000원을 놓고 점을 보았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>대상성몸짓</sem_class>
+				<trans>manipulate</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="INS">(주판)</sel_rst>
+					<eg>달지는 주판을 잘 놓는다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>내재적심리행위</sem_class>
+				<trans>be free from</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">추상적대상(염려|한시름)</sel_rst>
+					<eg>과년한 딸을 시집보내고 이제 한시름 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>배치</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|교통기관(자동차|버스|트럭)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">(속력|속도|마력)</sel_rst>
+					<eg>자동차는 줄곧 120 킬로미터의 속력을 놓고 달렸다.</eg>
+					<eg>고속도로에서 대부분의 운전자들은 시속 120 킬로미터를 놓고 달린다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>방향성행위</sem_class>
+				<trans>make</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 W=N3-에게 Z=N2-을 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(전세|월세)</sel_rst>
+					<sel_rst arg="Z" tht="INS">(집|방)</sel_rst>
+					<sel_rst arg="W" tht="GOL">인간</sel_rst>
+					<eg>정희는 학생 부부에게 방 하나를 세를 놓았다.</eg>
+					<eg>재경 어머니는 방을 하나 세를 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>?향성행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Z=N2-을 Y=N1-을 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(이자)</sel_rst>
+					<sel_rst arg="Z" tht="INS">돈(퇴직금|적립금)</sel_rst>
+					<eg>태우 아버지는 퇴직금을 이자를 놓아 생활한다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>말을 놓다</idm>
+			<idm>다리를 놓다</idm>
+			<idm>딱지를 놓다</idm>
+			<idm>마음을 놓다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="CDelVCon"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>put</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에|을 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(방해|훼방)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">사태</sel_rst>
+					<eg>그들은 우리가 하는 일에 훼방을 놓았다.</eg>
+				</subsense>
+				<subsense>
+					<sel_rst arg="Npr1">(방해|훼방)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="LOC">S데|S것</sel_rst>
+					<eg>그들은 우리가 들어가려는 데 계속 훼방을 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=N2-에게 W=S2-고 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(으름장|엄포)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Z" tht="GOL">인간</sel_rst>
+					<sel_rst arg="W" tht="CNT"/>
+					<eg>그들은 우리에게 해고해 버리겠다고 엄포를 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/03/09</mod_date>
+				<mod_writer>김현권</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2004/12/22</mod_date>
+				<mod_writer>한선혜</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="opt" type="CDelVCon"/>
+			<str>V</str>
+			<infl type="reg"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans></trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="V">행위</sel_rst>
+					<eg>이렇게 갈겨써 놓았으니 무슨 말인지 알 수가 있나?</eg>
+					<eg>농부들은 논을 갈아 놓고 비만 오기를 기다렸다.</eg>
+					<eg>자기가 먹어 놓고서 이제 와서 딴소리다.</eg>
+					<eg>그 물건은 내가 받아 놓았다.</eg>
+					<eg>네 커피는 이미 내가 시켜 놓았다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="Vaux">
+				<frame>A-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="A">정적사태</sel_rst>
+					<eg>둘이 얼굴이 비슷해 놓아서 자꾸 혼동이 된다.</eg>
+					<eg>마을이 너무 작아 놓아서 지도에도 안 나온다.</eg>
+					<eg>이 문제는 너무 어려워 놔서 나는 도저히 못 풀겠다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>대 놓고</idm>
+		</idm_grp>
+	</entry>
+</superEntry>

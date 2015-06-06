@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007josa.dtd">
+<superEntry>
+	<orth>뿐</orth>
+	<entry n="1" pos="j">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/09/29</cre_date>
+				<cre_writer>나윤희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/20</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/06/20</mod_date>
+				<mod_writer>나윤희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/07</mod_date>
+				<mod_writer>박만규</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/27</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>jx</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>유일성</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>N-J</frame>
+				<frame>S것-J</frame>
+				<sel_rst>N=구체물|추상적대상</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 아이들의 관심은 오로지 춤과 노래뿐이었다.</eg>
+				<eg>연구실에는 컴퓨터가 윙윙거리는 소리뿐 적막이 흘렀다.</eg>
+				<eg>주부의 역할이란 살림을 잘 하는 것뿐만은 아니다.</eg>
+				<!--'이다'(연결문에서는 생략된 형태로)나 '아니다' 앞에 쓰인다.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>한정</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>Ef-J</frame>
+				<sel_rst>Ef=(다)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>가방만 안 메었다뿐이지 학생인 게 분명해.</eg>
+				<eg>소문을 듣다뿐인가요 직접 보기까지 한걸요.</eg>
+				<!--'-다뿐이다'의 활용형은 수사의문문의 형식으로 쓰인다.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm>N-뿐(만) 아니라</idm>
+				<idm_eg>팔다리뿐 아니라 온 몸에 흙이 묻어 있었다.</idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

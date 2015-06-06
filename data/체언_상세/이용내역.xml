@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>이용내역</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/19</cre_date>
+				<cre_writer>기영인</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/08/10</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>의미부류 수정;형용사, 명사 결합 정보 추가;동사결합 정보 추가;논항 명사구 정보 추가;논항 의미정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/23</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/20</mod_date>
+				<mod_writer>김성용</mod_writer>
+				<mod_note>논항 정보 삭제</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">이용 내역</var>
+			<str type="N_N">이용+내역</str>
+			<org lg="si">利用內譯</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>혹시 결제가 잘못 되었을까봐 항상 신용카드의 ~을 꼼꼼하게 살펴본다.</eg>
+				<trans>usage particulars</trans>
+				<domain></domain>
+				<sem_class>사실명제</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 자세하다</comb_aj>
+				<comb_aj type="appr">~이 상세하다</comb_aj>
+				<comb_n type="compound">상세 ~</comb_n>
+				<comb_n type="compound">해외 ~</comb_n>
+				<comb_n type="compound">서비스 ~</comb_n>
+				<comb_n type="compound">대출 ~</comb_n>
+				<comb_n type="compound">정보 ~</comb_n>
+				<comb_n type="compound">월별 ~</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 조회하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 확인하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="temp"></sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

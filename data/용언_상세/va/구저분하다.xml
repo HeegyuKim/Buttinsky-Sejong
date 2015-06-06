@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>구저분하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/14</cre_date>
+				<cre_writer>김건희</cre_writer>
+			</cre>
+			<mod>
+				<mod_date></mod_date>
+				<mod_writer></mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>속성값</sem_class>
+				<trans>be rough and dirty</trans>
+				<lr>
+					<syn type="etc">지저분하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="LOC">장소</sel_rst>
+					<eg>그의 손톱에는 때가 끼었고, 그의 방은 돼지 우리만큼 구저분하다.</eg>
+					<eg>아무리 고3 방이라지만, 너무 구저분하지 않니?</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+			<sense>
+			<sem_grp>
+				<sem_class></sem_class>
+				<trans>be rough and dirty</trans>
+				<lr>
+					<syn type="etc">지저분하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">생김새</n_appr>
+					<n_appr arg="X">차림새</n_appr>
+					<eg>구저분한 그를 보고 있자니, 한숨만 나왔다.</eg>
+					<eg>그 사람은 바지도 후줄근하니 전체적으로 웬지 구저분했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>오진하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/05</cre_date>
+				<cre_writer>한선혜</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/09/26</mod_date>
+				<mod_writer>임동식</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/26</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">오진을 하다</var>
+			<str>N.하</str>
+			<org lg="si">誤診_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>결과행위</sem_class>
+				<trans>make a wrong diagnosis</trans>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">직업인간(의사)</sel_rst>
+					<sel_rst arg="Y" tht="THM">질병및증세</sel_rst>
+					<sel_rst arg="Z" tht="FNS">질병및증세</sel_rst>
+					<eg>그의 가족들은 위암을 만성 위염으로 오진하여 치료 시기를 놓치게 한 의사를 상대로 소송을 냈다.</eg>
+					<eg>과장 선생은 신참 시절 단순한 복통을 맹장염으로 오진하여 수술까지 받게 한 일도 있었다고 회고했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

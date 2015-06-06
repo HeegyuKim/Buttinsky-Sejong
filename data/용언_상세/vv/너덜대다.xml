@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>너덜대다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/08/26</cre_date>
+				<cre_writer>김윤신</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/12/28</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>변이형 기술</mod_note>
+				<mod_note>내부구조 수정</mod_note>
+				<mod_note>영어대역어 보충</mod_note>
+				<mod_note>어휘의미관계 수정 및 보충</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>적정명사 처리</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">너덜을 대다</var>
+			<var type="etc">나달대다</var>
+			<var type="etc">너털대다</var>
+			<var type="etc">나탈대다</var>
+			<str>I.대</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>유동</sem_class>
+				<trans>be flipperty-flopperty</trans>
+				<trans>flutter</trans>
+				<lr>
+					<syn type="perfect">달랑대다</syn>
+					<syn type="perfect">팔랑대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">신체착용물|천|종이|기</sel_rst>
+					<eg>누덕누덕 기운 그의 옷은 찢겨 너덜댔고, 발은 맨발이었다.</eg>
+					<eg>천정에는 비가 새서 도배지들이 너덜대고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이야기</sem_class>
+				<trans>talk fresh</trans>
+				<trans>behave fresh</trans>
+				<trans>talk irresponsibly</trans>
+				<lr>
+					<syn type="perfect">너불대다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<n_appr arg="X">언행</n_appr>
+					<n_appr arg="X">태도</n_appr>
+					<n_appr arg="X">행위</n_appr>
+					<n_appr arg="X">심신</n_appr>
+					<eg>뒷덜미에 사자밥을 짊어진 놈이 잘도 너덜댄다.</eg>
+					<eg>그 동안 손님들에게 시달리며 너무 고생을 해서 심신이 너덜댄다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

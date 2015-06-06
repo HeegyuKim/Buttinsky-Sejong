@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>빈부격차</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김성용</cre_writer>
+				<cre_note>서술성 명사로 볼 수 있는지 확인 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/10</mod_date>
+				<mod_writer>호정은</mod_writer>
+				<mod_note>변이형 정보(띄어쓰기) 추가</mod_note>
+				<mod_note>대역어 수정</mod_note>
+				<mod_note>n_n 정보 추가</mod_note>
+			</mod>
+		            <mod>
+				<mod_date>2004/12/29</mod_date>
+				<mod_writer>김미현</mod_writer>
+				<mod_note>mod_note 기술방식 수정</mod_note>
+				<mod_note>n_v 정보 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>'관계속성값'에서 '크기'로 수정;동사정보에서 '있다, 없다' 삭제;동사정보에 '발생하다, 심해지다, 커지다, 벌어지다, 줄어들다, 감소하다' 추가</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/10/08</mod_date>
+				<mod_writer>고길수</mod_writer>
+				<mod_note>형용사에 '적다' 추가</mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">빈부 격차</var>
+			<var type="abb">빈부차</var>
+			<str type="N_N">빈부+격차</str>
+			<org lg="si">貧富隔差</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~를 줄이기 위한, 실효성 있는 정책들이 필요하다.</eg>
+				<trans>the gulf between rich and poor</trans>
+				<trans>the gap between haves and have-nots</trans>
+				<trans>difference of wealth and poverty</trans><!--김성용(2004/07/03)영어대역어 확인 요망-->
+				<domain></domain>
+				<sem_class>크기</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="magn">~가 심하다</comb_aj>
+				<comb_aj type="magn">~가 크다</comb_aj>
+				<comb_aj type="magn">~가 적다</comb_aj>
+				<comb_n type="compound">~ 문제</comb_n>
+				<comb_n type="compound">~ 현상</comb_n>
+				<comb_n type="compound">~ 구조</comb_n>
+				<comb_n type="compound">~ 심화</comb_n>
+				<comb_n type="compound">~ 해소</comb_n>
+				<!-- n_v type="npred_vsup">
+					<form vcompound="no">~가 있다</form>
+					<frame>X-와 Y-이 ~가 있다</frame>
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~가 없다</form>
+					<frame>X-와 Y-이 ~가 없다</frame>
+				</n_v -->
+				<comb_v type="npred_vpred"> <!--추가(미현)-->
+					<form vcompound="no">~를 줄이다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred"> <!--추가(미현)-->
+					<form vcompound="no">~를 해소하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 발생하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 심해지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 벌어지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 커지다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 줄어들다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~가 감소하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-와 Y-의 ~</max_n_str>
+				<sel_rst arg="X">인간집단|지역</sel_rst>
+				<sel_rst arg="Y">인간집단|지역</sel_rst>
+				<cl type="uni"></cl>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>설복하다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/16</cre_date>
+				<cre_writer>임동식</cre_writer>
+				<cre_note>보문의 선택제약 표시 검토 필요</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>박철우</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/09/12</mod_date>
+				<mod_writer>안소진</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="spr">설복을 하다</var>
+			<str>N.하</str>
+			<org lg="si">說伏_</org>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소통행위</sem_class>
+				<trans>persuade</trans>
+				<trans>convince</trans>
+				<lr>
+					<syn type="perfect">설득하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=N2-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="INS">방법|사실명제|언어요소|작품|방송물|비난욕설|텍스트|텍스트담지물|연설</sel_rst>
+					<eg>정부는 핵폐기장 건설에 반대하는 주민들을 다양한 방법으로 설복하려고 했지만 역부족이었다.</eg>
+					<eg>그 친구 그런 방법으로 사람들을 설복하려고 하니 실패하지.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FTR">
+				<frame>X=N0-이 Y=N1-을 Z=S2-고 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간|인간집단</sel_rst>
+					<sel_rst arg="Y" tht="THM">인간|인간집단</sel_rst>
+					<sel_rst arg="Z" tht="CNT"/>
+					<eg>정부는 별도의 보상금을 지급하겠다고 주민들을 설복하려 했지만 소용이 없었다.</eg>
+					<eg>사장은 임금을 조만간 인상하겠다고 사원들을 설복하려 했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>다가들다</orth>
+	<entry pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date>2005/07/15</cre_date>
+				<cre_writer>김선영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2006/10/01</mod_date>
+				<mod_writer>김민선</mod_writer>
+				<mod_note>내부구조 제시방식 수정</mod_note>
+				<mod_note>어휘의미관계 보충</mod_note>
+				<mod_note>"내부구조" 관련 메모</mod_note>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<str>V-어.V</str><!--"다그다"가 존재하는 것으로 보았음.-->
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>go near</trans>
+				<lr>
+					<syn type="perfect">다가가다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|신체부위(몸)</sel_rst>
+					<eg>밖에서 소리가 나자 아이가 황급히 나에게 다가들었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">방향|장소|구체물</sel_rst>
+					<eg>어디서 나왔는지 두 녀석이 내 뒤로 다가들고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>get near</trans>
+				<lr>
+					<syn type="sino">도착하다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(산|하늘)|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간|장소(눈앞)</sel_rst>
+					<eg>열차가 이젠 눈에 보이는 곳에 다가들고 있었다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(산|하늘|들)|교통기관</sel_rst>
+					<sel_rst arg="Y" tht="DIR">방향|장소(눈앞)</sel_rst>
+					<eg>일주문을 들어서자 불에 타버린 시커먼 절집이 불쑥 눈앞으로 다가들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>천문현상</sem_class>
+				<trans>the shadows lengthen</trans>
+				<lr>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(땅거미)</sel_rst>
+					<eg>땅거미가 깊은 산속에도 다가들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>접근</sem_class>
+				<trans>attack</trans>
+				<lr>
+					<syn type="perfect">덤벼들다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에게 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">인간</sel_rst>
+					<eg>사내는 미끄러지듯 허공을 가로지르며 나에게 다가들었다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

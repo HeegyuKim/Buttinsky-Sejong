@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>나가다</orth>
+	<entry n="1" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>소멸</sem_class>
+				<trans>be blown</trans>
+				<trans>be cut off</trans>
+				<lr>
+					<syn type="perfect">꺼지다</syn>
+					<ant type="dir">들어오다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">(전기|불|퓨즈)</sel_rst>
+					<eg>갑자기 전기가 나갔다.</eg>
+					<eg>불이 나가는 바람에 숙제를 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>변형</sem_class>
+				<trans>be worn out</trans>
+				<lr>
+					<syn type="perfect">부서지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(칼|도끼)|신체부위(이|턱)|부분(날|뒷굽)</sel_rst>
+					<eg>야구공에 맞아서 철수의 앞니가 나갔다.</eg>
+					<eg>야구공에 맞아서 철수가 앞니가 나갔다.</eg>
+					<eg>이 나무가 얼마나 단단한지 도끼의 날이 다 나갔다.</eg>
+					<eg>이 나무가 얼마나 단단한지 도끼가 날이 다 나갔다.</eg>
+					<eg>구두의 뒷굽이 다 나갔다.</eg>
+					<eg>구두가 뒷굽이 다 나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>악화</sem_class>
+				<trans>go out of one's mind</trans>
+				<lr>
+					<syn type="perfect">빠지다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="EXP">인간</sel_rst>
+					<sel_rst arg="Y" tht="THM">(정신|넋)</sel_rst>
+					<eg>철수는 가끔 정신 나간 사람처럼 앉아 있다.</eg>
+					<eg>관중들이 넋이 나간 듯이 입을 다물지 못했다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>sell well</trans>
+				<lr>
+					<syn type="perfect">팔리다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(상품|물건)</sel_rst>
+					<sel_rst arg="Adv">Adv(잘|많이|꽤|제법)</sel_rst>
+					<eg>요새는 이런 종류의 상품이 잘 나갑니다.</eg>
+					<eg>올 겨울은 추워서 가죽옷이 많이 나갑니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>감소</sem_class>
+				<trans>be spent</trans>
+				<lr>
+					<syn type="sino">지출되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">비용(경비|비용)</sel_rst>
+					<sel_rst arg="ADV">Adv(많이|조금)|Adj-게(적게|엄청나게)|N(원|달러)</sel_rst>
+					<eg>예기치 않았던 사고로 돈이 많이 나갔다.</eg>
+					<eg>생활비 이외에도 매달 경비가 100만원이 나간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>성공</sem_class>
+				<trans>be popular</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간</sel_rst>
+					<sel_rst arg="Adv">잘</sel_rst>
+					<eg>너 요즘 잘 나간다고 너무 재지 마라.</eg>
+					<eg>신해철은 요즘 잘 나가는 가수 중의 하나다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>행위</sem_class>
+				<trans>do as</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-로|대로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="FNS">방법(식)|인지상태(작전)</sel_rst>
+					<eg>후반전도 전반전과 같은 작전으로 나가면 우리에게 승산이 있을 거다.</eg>
+					<eg>계속 그런 식으로 나가면 정말 곤란합니다.</eg>
+					<eg>네가 그렇게 한다면 나도 내 생각대로 나가겠다.</eg>
+					<eg>네가 그렇게 한다면 나도 내 고집대로 나가겠다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 ADV V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="ADV">Adj-게</sel_rst>
+					<eg>우리 쪽에서 삐딱하게 나가면 그 쪽에서 당황할 거다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>평가</sem_class>
+				<trans>be worth</trans>
+				<trans>weigh</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Adv V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물|추상적대상(체중|무게|값)</sel_rst>
+					<sel_rst arg="Adv">Adv(많이|꽤|조금)|Adj-게(적게)</sel_rst>
+					<eg>이 황소의 무게가 많이 나간다.</eg>
+					<eg>이 보석의 값이 꽤 나간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-이 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">인간|구체물|추상적대상(체중|무게|값)</sel_rst>
+					<sel_rst arg="Y" tht="THM">수|단위</sel_rst>
+					<eg>이 황소가 무게가 천근이 나간다.</eg>
+					<eg>이 보석이 값이 천만원 이상 나간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>go out</trans>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소|모임회의</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>윤주는 아버님을 마중하러 역에 나갔다.</eg>
+					<eg>휴일에는 자연을 즐기러 야외로 나가는 사람들이 많다.</eg>
+					<eg>계약을 매듭지으러 김상무는 아침 일찍 회사에 나갔다.</eg>
+					<eg>길자는 친구들을 만나러 정기적으로 동창회에 나간다.</eg>
+					<eg>영수는 세상 돌아가는 정보를 얻으러 친구들 모임에 자주 나간다.</eg>
+				</subsense>
+			</frame_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Z=S2-러 Y=N1-에서 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="SRC">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>철수가 영희를 만나러 집에서 나간 것은 8시가 좀 지나서였다.</eg>
+					<eg>영수는 맑은 공기를 쏘이러 방에서 나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>be on the market</trans>
+				<lr>
+					<syn type="sino">출시되다</syn>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FIN">
+				<frame>X=N0-이 Y=N1-에|로 V</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">구체물(상품)</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소(시장)</sel_rst>
+					<eg>이 잡지의 창간호는 지난 주에 이미 시중 서점으로 나갔다.</eg>
+					<eg>우리 회사에서 만든 신형차가 곧 시장에 나갈 예정입니다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<idm_grp>
+			<idm>저자세|고자세로 나가다</idm>
+			<idm>바람이 나가다</idm>
+			<idm>붓이 나가다</idm>
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>보고제안</sem_class>
+				<trans>report</trans>
+			</sem_grp>
+			<frame_grp type="SIN">
+				<frame>X=S1-고 Npr0-이 V</frame>
+				<subsense>
+					<sel_rst arg="Npr0" tht="THM">(발표|보도|말)</sel_rst>
+					<sel_rst arg="X" tht="CNT"/>
+					<eg>대통령이 서거했다고 보도가 나가자 모든 국민들이 일손을 멈추고 방송에 귀를 기울였다.</eg>
+					<eg>중요한 자리에서 말이 잘못 나가는 경우가 종종 있다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>move into</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Y=N2-로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1">(이사)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="DIR">장소</sel_rst>
+					<eg>아래층에 세들어 살던 신혼부부가 어제 새 아파트로 이사를 나갔다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>이동행위</sem_class>
+				<trans>work in</trans>
+				<trans>take part in</trans>
+			</sem_grp>
+			<frame_grp type="STR">
+				<frame>X=N0-이 Z=S3-러 Y=N2-에|로 Npr1-을 V</frame>
+				<subsense>
+					<sel_rst arg="Npr1" tht="THM">(출장|순찰|왕진|강의|일|산책)</sel_rst>
+					<sel_rst arg="X" tht="AGT">인간</sel_rst>
+					<sel_rst arg="Y" tht="GOL">장소</sel_rst>
+					<sel_rst arg="Z" tht="PUR"/>
+					<eg>신입사원들은 업무를 익히러 지방으로 자주 출장을 나간다.</eg>
+					<eg>아버지께서는 돈을 벌러 직장에 일을 나가셨다.</eg>
+					<eg>어머니께서는 김을 매러 논에 일을 나가셨다.</eg>
+					<eg>나는 기분전환을 하러 저녁 무렵 공원에 산책을 나간다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+	<entry n="3" pos="vv">
+		<mnt_grp>
+			<cre>
+				<cre_date></cre_date>
+				<cre_writer>???</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2003/06/07</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2005/10/04</mod_date>
+				<mod_writer>김선영</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/08/06</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="etc"></var>
+			<cntr opt="obl" type="a"/>
+			<str>V</str>
+			<infl type="geora"/>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>지속적활동</sem_class>
+				<trans>proceed</trans>
+			</sem_grp>
+			<frame_grp type="Vaux">
+				<frame>V-어 Vaux</frame>
+				<subsense>
+					<sel_rst arg="V">(읽다|풀다|쓰다)</sel_rst>
+					<eg>책을 읽어 나가면서 메모를 하는 것이 좋다.</eg>
+					<eg>문제를 풀어 나가면서 이야기를 하자.</eg>
+					<eg>글을 한참 써 나가다가 도중에 멈추면 맥이 끊긴다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

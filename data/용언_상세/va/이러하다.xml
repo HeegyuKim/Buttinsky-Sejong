@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "vv.dtd">
+<superEntry>
+	<orth>이러하다</orth>
+	<entry pos="va">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/26</cre_date>
+				<cre_writer>허준영</cre_writer>
+			</cre>
+			<mod>
+				<mod_date>2004/0/</mod_date>
+				<mod_writer>김종명</mod_writer>
+			</mod>
+			<mod>
+				<mod_date>2006/07/01</mod_date>
+				<mod_writer>박진호</mod_writer>
+			</mod>
+		</mnt_grp>
+		<morph_grp>
+			<var type="abb">이렇다</var>
+			<str>R.하</str>
+		</morph_grp>
+		<sense>
+			<sem_grp>
+				<sem_class>정적사태</sem_class>
+				<trans>be this way</trans>
+				<trans>be like this</trans>
+				<lr>
+					<syn type="etc">그러하다</syn>
+					<ant type="grad">다르다</ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">추상적대상|사태</sel_rst>
+					<eg>그 사건이 일어난 경위는 이러하다.</eg>
+					<eg>그 사람의 지나온 행적이 이러하다.</eg>
+					<eg>금년 상반기 증권시장의 주가변동이 이러하다.</eg>
+					<eg>역사에 상처를 남긴 독재정권의 전횡이 이러하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<sem_class>정적사태</sem_class>
+				<trans>used to be like this</trans> <!--반복적, 습관적 행위나 행위방식, 일이 되어가는 꼴-->
+				<lr>
+					<ant type="grad"></ant>
+				</lr>
+			</sem_grp>
+			<frame_grp type="FA">
+				<frame>X=N0-이 A</frame>
+				<subsense>
+					<sel_rst arg="X" tht="THM">관습|행위</sel_rst> <!--'반복행위'로서 '버릇'과 같은 범주도 필요할 듯-->
+					<eg>덤벙거리는 그가 하는 일은 언제나 이러하다.</eg>
+					<eg>그동안 잘못된 관행이 늘 이러했다.</eg>
+					<eg>마음에 없는 말을 하는 그의 말버릇이 이러하다.</eg>
+				</subsense>
+			</frame_grp>
+		</sense>
+	</entry>
+</superEntry>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>교통체증</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/07/03</cre_date>
+				<cre_writer>김이정</cre_writer>
+				<cre_note>의미부류 검토 요망</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/30</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>sem 수정, n_aj수정 및 추가, n_n 추가, n_v 수정, cl 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>max_n기술</mod_note>
+				<mod_note>s_n기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/05</mod_date>
+				<mod_writer>이홍식</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">교통 체증</var>
+			<str type="N_N">교통+체증</str>
+			<org lg="si">交通滯症</org>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>눈 때문에 새벽부터 ~이 시작되었다.</eg>
+				<eg>그 나라에도 ~이 있다.</eg>
+				<trans>traffic congestion</trans>
+				<trans>traffic jam</trans>
+				<domain></domain>
+				<sem_class>우발사건</sem_class><!--유발사고에서 수정(권)-->
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr">~이 심하다</comb_aj><!--magn에서 옮김(권)-->
+				<comb_aj type="appr">~이 심각하다</comb_aj><!--magn에서 옮김(권)-->
+				<comb_aj type="magn">~이 극심하다</comb_aj>
+				<comb_aj type="magn">~이 엄청나다</comb_aj>
+				<comb_aj type="magn" pred="no">끔찍한 ~</comb_aj><!--추가-->
+				<comb_n type="compound">~ 기회비용</comb_n>
+				<comb_n type="compound">~ 문제</comb_n>
+				<comb_n type="compound">~ 요인</comb_n>
+				<comb_n type="compound">~ 유발</comb_n>
+				<comb_n type="compound">~ 해소</comb_n>
+				<comb_n type="compound">~ 현상</comb_n>
+				<comb_n type="compound">도로 ~</comb_n>
+				<comb_n type="compound">도심 ~</comb_n>
+				<comb_n type="compound">러시아워 ~</comb_n>
+				<comb_n type="compound">출근길 ~</comb_n>
+				<comb_n type="compound">퇴근길 ~</comb_n>
+				<comb_n type="compound">출퇴근길 ~</comb_n>
+				<comb_n type="compound">행락철 ~</comb_n>
+				<comb_n type="compound">최악의 ~</comb_n>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 있다</form>
+					<frame>X-이 ~이 있다</frame><!--조사추가(권)-->
+					<frame>X-에 ~이 있다</frame><!--조사추가(권)-->
+				</comb_v>
+				<comb_v type="npred_vsup">
+					<form vcompound="no">~이 없다</form>
+					<frame>X-이 ~이 없다</frame><!--조사추가(권)-->
+					<frame>X-에 ~이 없다</frame><!--조사추가(권)-->
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 일어나다</form>
+					<frame>X-에서 ~이 일어나다</frame>
+				</comb_v>
+				<comb_v type="npred_vsupvar">
+					<form vcompound="no">~이 발생하다</form>
+					<frame>X-에서 ~이 발생하다</frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 늘다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~이 줄다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 빚다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 부채질하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 피하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 해소하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 해결하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 막다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 겪다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 방지하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~에 걸리다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 악화시키다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="npred_vpred">
+					<form vcompound="no">~을 완화시키다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str>X-의 S는 ~</max_n_str>
+				<sel_rst arg="X">도로|지역</sel_rst>
+				<cl type="uni"></cl><!--"몇 차례 교통체증을 겪고 나니..."정도가 가능할 것 같지만, 이 경우에는 '겪다'에 걸리는 것으로 보입니다.(권)-->
+				<s_n></s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>

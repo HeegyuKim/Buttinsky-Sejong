@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007nn.dtd">
+<superEntry>
+	<orth>중앙은행</orth>
+	<entry pos="nng_c">
+		<mnt_grp>
+			<cre>
+				<cre_date>2004/09/06</cre_date>
+				<cre_writer>권오희</cre_writer>
+				<cre_note>n_v검토바람</cre_note>
+			</cre>
+			<mod>
+				<mod_date>2004/09/08</mod_date>
+				<mod_writer>김이정</mod_writer>
+				<mod_note>domain 삭제, '기관건물'로 다의 분할 요망</mod_note><!--다의분할했음(권)-->
+			</mod>
+			<mod>
+				<mod_date>2004/12/31</mod_date>
+				<mod_writer>권오희</mod_writer>
+				<mod_note>'~론/법'을 der로 옮김</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/08/03</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<add></add>
+		</mnt_grp>
+		<see></see>
+		<morph_grp>
+			<var type="spr">중앙 은행</var>
+			<str type="N_N">중앙+은행</str>
+			<org lg="si">中央銀行</org>
+		
+			<der pos="n" type="suffix">~론</der>
+			<der pos="n" type="suffix">~법</der>
+		</morph_grp>
+		<idm_grp>
+			<idm type="etc"></idm>
+		</idm_grp>
+		<sense>
+			<sem_grp>
+				<eg>~은 은행들의 은행이다.</eg>
+				<eg>각 나라의 ~은 국고의 출납을 다루고 금융 정책을 시행하는 등의 역할을 한다.</eg>
+				<eg>독일이나 스위스 같은 경우에는 ~을 정부로부터 철저히 독립시켜 물가와 통화 가치를 안정시켰다.</eg>
+				<trans>central bank</trans>
+				<domain></domain>
+				<sem_class>금융기관</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">X(의) ~</comb_n><!--X는 국가명. 빈번한 쓰임인데 표기할 방법이 마땅치 않아 우선 기술함.(권오희)-->
+				<comb_n type="compound">~ 기능</comb_n>
+				<comb_n type="compound">~ 독립</comb_n>
+				<comb_n type="compound">~ 독립성</comb_n>
+				<comb_n type="compound">~ 설립</comb_n>
+				<comb_n type="compound">~ 중립성</comb_n>
+				<comb_n type="compound">~ 총재</comb_n>
+				<comb_n type="compound">~의 역할</comb_n>
+				<comb_n type="compound">~의 위상</comb_n>
+				<comb_n type="compound">~의 지불준비율</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 예치하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 설립하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~을 창설하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+		<sense>
+			<sem_grp>
+				<eg>도매 시장이 시작하는 곳에 ~이 있다.</eg>
+				<eg>우리 회사의 통근 버스는 매일 아침 7시에 ~의 앞을 지나간다.</eg>
+				<trans>central bank</trans>
+				<domain></domain>
+				<sem_class>기관건물</sem_class>
+				<lr>
+					<syn type="etc"></syn>
+					<ant type="etc"></ant>
+				</lr>
+			</sem_grp>
+			<syn_grp>
+				<comb_aj type="appr"></comb_aj>
+				<comb_n type="compound">X(의) ~</comb_n><!--X는 국가명. 빈번한 쓰임인데 표기할 방법이 마땅치 않아 우선 기술함.(권오희)-->
+				<comb_n type="compound">~ 이전</comb_n>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에서 일하다</form>
+					<frame></frame>
+				</comb_v>
+				<comb_v type="narg_vpred">
+					<form vcompound="no">~에 근무하다</form>
+					<frame></frame>
+				</comb_v>
+				<max_n_str></max_n_str>
+				<sel_rst arg="X"></sel_rst>
+				<cl type="uni">개</cl>
+				<cl type="uni">곳</cl>
+				<cl type="uni">군데</cl>
+				<s_n>S는 ~</s_n>
+			</syn_grp>
+		</sense>
+	</entry>
+</superEntry>
