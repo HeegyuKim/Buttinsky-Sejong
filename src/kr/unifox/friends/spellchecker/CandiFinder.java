@@ -69,7 +69,7 @@ public class CandiFinder implements Callable<Void>
 			
 			// 조사찾기
 			if(checker.isJosa(partBack, comp) || 
-					checker.isJoepSa(partBack, comp))
+					checker.isJeopSa(partBack, comp))
 			{
 				String remains = Hangeul.cutJamo(hlist, i);
 				

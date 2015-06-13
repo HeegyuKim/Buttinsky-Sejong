@@ -12,6 +12,8 @@ import java.util.concurrent.Future;
 
 import kr.unifox.friends.spellchecker.WordComponent.Type;
 import kr.unifox.friends.spellchecker.hangeul.ChaeEon;
+import kr.unifox.friends.spellchecker.hangeul.EoGeun;
+import kr.unifox.friends.spellchecker.hangeul.EoMi;
 import kr.unifox.friends.spellchecker.hangeul.Hangeul;
 import kr.unifox.friends.spellchecker.hangeul.HangeulException;
 import kr.unifox.friends.spellchecker.hangeul.JeopSa;
@@ -77,15 +79,21 @@ public class SpellChecker
 		StringTokenizer tokenizer = new StringTokenizer(sentence, ".,() ");
 		while(tokenizer.hasMoreTokens())
 		{
-			result.components.addAll(analyzeWord(tokenizer.nextToken()));
+			String token = tokenizer.nextToken();
+			
+			long begin = System.nanoTime();
+			result.components.addAll(analyzeWord(token, null));
 			result.components.add(new WordComponent("","",Type.WhiteSpace));
+			long dt = System.nanoTime() - begin;
+			
+			System.out.printf("%s: %.3fms elapsed.\n", token, dt / 1000_000.f);
 		}
 		
 		return result;
 	}
 	
 
-	public List<WordComponent> analyzeWord(String word) throws HangeulException 
+	public List<WordComponent> analyzeWord(String word, WordComponent tail) throws HangeulException 
 	{
 		System.out.printf("Analyzing %s\n", word);
 		ArrayList<WordComponent> compList  = null;
@@ -93,6 +101,9 @@ public class SpellChecker
 		List<Hangeul> chars = null;
 
 		compList = new ArrayList<WordComponent>();
+		Type tailType = null;
+		if(tail != null)
+			tailType = tail.type;
 		
 		try {
 			chars = Hangeul.toHangeulList(word);
@@ -108,7 +119,10 @@ public class SpellChecker
 		// 한 단어인가 확인한다
 		// 단순 체언이거나 관형사, 부사, 감탄사일경우가 해당한다.
 		WordComponent comp = new WordComponent();
-		if(isSingle(morphemes, comp) || isChaeEon(morphemes, comp) || isYongEon(morphemes, comp))
+		
+		if((dic.isRightTypeArray(Type.Single, tailType) && isSingle(morphemes, comp)) || 
+				(dic.isRightTypeArray(Type.ChaeEon, tailType) && isChaeEon(morphemes, comp)) || 
+				(dic.isRightTypeArray(Type.YongEon, tailType) && isYongEon(morphemes, comp)))
 		{
 			System.out.printf("%s(%s)\n", comp.origin, comp.type);
 			compList.add(0, comp);
@@ -121,28 +135,71 @@ public class SpellChecker
 		// 조사나 어미를 찾는다.
 		// 
 		int mlen = morphemes.length();
+		
+		
 		for(int i = mlen - 1; i >= 0; --i)
 		{
 			String partBack = morphemes.substring(i, mlen);
 			comp = new WordComponent();
+			List<WordComponent> candies = new ArrayList<WordComponent>();
+			
 			
 			// 조사찾기
-			if(isJosa(partBack, comp) || isJoepSa(partBack, comp))
+			if(dic.isRightTypeArray(Type.Josa, tailType) &&
+					isJosa(partBack, comp) && 
+					dic.isRightSequence(comp, tail))
+				candies.add(comp);
+			
+			// 접사찾기
+			if(dic.isRightTypeArray(Type.JeopSa, tailType) &&
+					isJeopSa(partBack, comp) && 
+					dic.isRightSequence(comp, tail))
+				candies.add(comp);
+			
+			if(dic.isRightTypeArray(Type.EoGeun, tailType) &&
+					isEoGeun(partBack, comp) && 
+					dic.isRightSequence(comp, tail))
+				candies.add(comp);
+			if(dic.isRightTypeArray(Type.EoMi, tailType) &&
+					isEoMi(partBack, comp) && 
+					dic.isRightSequence(comp, tail))
+				candies.add(comp);
+			
+			for(WordComponent candidate : candies)
 			{
-				compList.add(0, comp);
+				if(i == 0)
+				{
+					compList.add(0, candidate);
+					return compList;
+				}
+				
 				String remains = Hangeul.cutJamo(chars, i);
 				
-				System.out.printf("%s(%s, %s)\n", partBack, comp.origin, comp.type);
+				System.out.printf("%s(%s, %s)\n", partBack, candidate.origin, candidate.type);
 
-				compList.addAll(0, analyzeWord(remains));
-				return compList;
+				List<WordComponent> headComps = analyzeWord(remains, candidate);
+				for(WordComponent w : headComps)
+				{
+					switch(w.type)
+					{
+					case Unknown:
+					case Strange:
+						System.out.printf("%s is %s, failed!\n", remains, w.type);
+						break;
+					default:
+						System.out.printf("push and return -> %s, %s\n", remains, w.type);
+						compList.add(0, candidate);
+						compList.addAll(0, headComps);
+						return compList;
+					}
+				}
 			}
 		}
 		
 		
 		//
 		// 나중에 가서 못찾으면 몰라 시발! ㅜㅜ
-		compList.add(new WordComponent(word, word, Type.Unknown));
+		compList.add(0, new WordComponent(word, word, Type.Unknown));
 
 		return compList;
 	}
@@ -211,14 +268,50 @@ public class SpellChecker
 		}
 		return false;
 	}
-	public boolean isJoepSa(String morphemes, WordComponent resComp)
+	public boolean isJeopSa(String morphemes, WordComponent resComp)
 	{
-		JeopSa joepsa = dic.findJoepSa(morphemes);
-		if(joepsa != null)
+		JeopSa jeopsa = dic.findJoepSa(morphemes);
+		if(jeopsa != null)
 		{
-			resComp.origin = joepsa.orth;
+			resComp.origin = jeopsa.orth;
 			resComp.orthInWord = morphemes;
-			resComp.type = Type.JoepSa;
+
+			if(jeopsa.isPrefix)
+			{
+				if(jeopsa.isSuffix)
+					resComp.type = Type.JeopSa;
+				else
+					resComp.type = Type.JeopDuSa;
+			}
+			else if(jeopsa.isSuffix)
+				resComp.type = Type.JeopMiSa;
+			
+			return true;
+		}
+		return false;
+	}
+
+	public boolean isEoGeun(String phenomes, WordComponent resComp)
+	{
+		EoGeun e = dic.findEoGeun(phenomes);
+		if(e != null)
+		{
+			resComp.origin = e.orth;
+			resComp.orthInWord = phenomes;
+			resComp.type = Type.EoGeun;
+			return true;
+		}
+		return false;
+	}
+
+	public boolean isEoMi(String phenomes, WordComponent resComp)
+	{
+		EoMi e = dic.findEoMi(phenomes);
+		if(e != null)
+		{
+			resComp.origin = e.orth;
+			resComp.orthInWord = phenomes;
+			resComp.type = Type.EoMi;
 			return true;
 		}
 		return false;

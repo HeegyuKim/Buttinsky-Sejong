@@ -91,8 +91,23 @@ extends JFrame
 							);
 					input.setText("");
 					
+					List<WordComponent> norm = dic.normalize(result.components);
+					for(WordComponent comp : norm)
+					{
+						++i;
+						if(comp.type == kr.unifox.friends.spellchecker.WordComponent.Type.WhiteSpace)
+							System.out.print("  ");
+						else
+						{
+							System.out.print(String.format("%s(%s)", comp.origin, comp.type.toHangeul()));
+							if(i != result.components.size() - 1)
+								System.out.print("/");
+						}
+						
+					}
 					
 					
+					/*
 					System.out.println("\n\nSpell checking with service...\n");
 					List<List<Candidate>> words = checker.checkSentenceWithService(text);
 					i = 0;
@@ -120,7 +135,7 @@ extends JFrame
 							System.out.println();
 						}
 					}
-					
+					*/
 
 				}
 				catch (HangeulException e)
