@@ -140,31 +140,55 @@ public class SpellChecker
 		for(int i = mlen - 1; i >= 0; --i)
 		{
 			String partBack = morphemes.substring(i, mlen);
-			comp = new WordComponent();
 			List<WordComponent> candies = new ArrayList<WordComponent>();
 			
-			
+
+			comp = new WordComponent();
 			// 조사찾기
 			if(dic.isRightTypeArray(Type.Josa, tailType) &&
 					isJosa(partBack, comp) && 
 					dic.isRightSequence(comp, tail))
+			{
 				candies.add(comp);
+				comp = new WordComponent();
+			}
 			
 			// 접사찾기
 			if(dic.isRightTypeArray(Type.JeopSa, tailType) &&
 					isJeopSa(partBack, comp) && 
 					dic.isRightSequence(comp, tail))
+			{
 				candies.add(comp);
-			
+				comp = new WordComponent();
+			}
+
+			// 접사찾기
 			if(dic.isRightTypeArray(Type.EoGeun, tailType) &&
 					isEoGeun(partBack, comp) && 
 					dic.isRightSequence(comp, tail))
+			{
 				candies.add(comp);
+				comp = new WordComponent();
+			}
+			
+			// 어근찾기
 			if(dic.isRightTypeArray(Type.EoMi, tailType) &&
 					isEoMi(partBack, comp) && 
 					dic.isRightSequence(comp, tail))
+			{
 				candies.add(comp);
-			
+				comp = new WordComponent();
+			}
+
+			if(candies.size() > 0)
+			{
+				System.out.printf("Candidates for %s\n", partBack);
+				// debug feature
+				for(WordComponent candidate : candies)
+				{
+					System.out.println(candidate.type.toHangeul());
+				}
+			}
 			for(WordComponent candidate : candies)
 			{
 				if(i == 0)
