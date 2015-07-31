@@ -8,8 +8,8 @@ import java.util.TreeMap;
 import javax.xml.xpath.XPath;
 
 import kr.unifox.friends.spellchecker.hangeul.JeopSa;
+import kr.unifox.sejong.ling.Hangeul;
 import kr.unifox.friends.spellchecker.hangeul.ChaeEon;
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
 
 import org.w3c.dom.Document;
 

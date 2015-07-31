@@ -10,8 +10,9 @@ public class EoJeol
 {
 
 	public String sourceText;		// 원본 텍스트
-	public String phenomes;			// 음소들(펼침)
-	
+	public String root;				// 어근
+	public String rootPhenomes;		// 어근의 음소들(펼침)
+
 	
 	
 	

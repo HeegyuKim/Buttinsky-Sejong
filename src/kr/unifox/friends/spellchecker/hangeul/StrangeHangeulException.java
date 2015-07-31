@@ -1,5 +1,7 @@
 package kr.unifox.friends.spellchecker.hangeul;
 
+import kr.unifox.sejong.ling.HangeulException;
+
 public class StrangeHangeulException extends HangeulException
 {
 

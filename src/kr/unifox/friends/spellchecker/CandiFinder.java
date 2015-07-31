@@ -7,8 +7,8 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 import kr.unifox.friends.spellchecker.WordComponent.Type;
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
-import kr.unifox.friends.spellchecker.hangeul.HangeulException;
+import kr.unifox.sejong.ling.Hangeul;
+import kr.unifox.sejong.ling.HangeulException;
 
 public class CandiFinder implements Callable<Void>
 {

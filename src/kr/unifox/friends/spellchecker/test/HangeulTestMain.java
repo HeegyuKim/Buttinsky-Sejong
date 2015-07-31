@@ -5,9 +5,10 @@ import java.util.List;
 
 import javax.swing.JLabel;
 
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
-import kr.unifox.friends.spellchecker.hangeul.HangeulException;
 import kr.unifox.friends.spellchecker.hangeul.NotHangeulException;
+import kr.unifox.sejong.ling.Hangeul;
+import kr.unifox.sejong.ling.HangeulException;
+
 import static java.lang.System.out;
 
 public class HangeulTestMain extends TestFrame

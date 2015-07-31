@@ -1,0 +1,60 @@
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, see, morph_grp, idm_grp, sense+)>
+<!ATTLIST entry n NMTOKEN #IMPLIED>
+<!ATTLIST entry pos (md) #REQUIRED>		
+
+
+
+<!ELEMENT mnt_grp (cre, mod+, note+)>
+<!ELEMENT cre (cre_date, cre_writer, cre_note*)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT cre_note (#PCDATA)>
+<!ELEMENT mod (mod_date, mod_writer, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+
+<!ELEMENT see (#PCDATA)>
+
+<!ELEMENT morph_grp (allo*, var*, str, org, comp*, metc*)>
+<!ELEMENT allo (#PCDATA)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (xs|xd|xx|kr|si|heavy|lgt|abb|lng|temp) #REQUIRED>
+<!ELEMENT str (#PCDATA)>
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org lg (si|si_ko|ko_si|si_ko_si|ko_si_ko_si|si_ko_si_ko|temp) #REQUIRED>
+<!ELEMENT comp (#PCDATA)>
+<!ATTLIST comp pos (n|v|a|av|md|np|temp) #REQUIRED>
+<!ELEMENT metc (#PCDATA)>
+
+
+<!ELEMENT idm_grp (idm*, prv*)>
+<!ELEMENT idm (#PCDATA)>
+<!ELEMENT prv (#PCDATA)>
+
+
+<!ELEMENT sense (sem_grp, syn_grp)>
+<!ATTLIST sense n NMTOKEN #IMPLIED>
+
+<!ELEMENT sem_grp (eg+, nclass*, arab*, reg*, con*, sem_rep*, lr?)>
+<!ELEMENT eg (#PCDATA)>
+<!ELEMENT nclass (#PCDATA)>
+<!ELEMENT arab (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT con (#PCDATA)>
+<!ELEMENT sem_rep (#PCDATA)>
+<!ATTLIST sem_rep type (dsoq|qi) #REQUIRED>
+<!ELEMENT lr (syn*, ant*, rel*)>
+<!ELEMENT syn (#PCDATA)>
+<!ELEMENT ant (#PCDATA)>
+<!ELEMENT rel (#PCDATA)>
+<!ATTLIST rel type (car|qua|ord) #REQUIRED>
+<!ELEMENT syn_grp (comb_md_n*, post_n*, synt_sub*)>
+<!ELEMENT comb_md_n (#PCDATA)>
+<!ELEMENT post_n (#PCDATA)>
+<!ELEMENT synt_sub (#PCDATA)>
+<!ATTLIST synt_sub type (big|small|temp) #REQUIRED>

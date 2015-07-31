@@ -3,7 +3,7 @@ package kr.unifox.friends.dicproc;
 import java.io.IOException;
 import java.io.PrintStream;
 
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
+import kr.unifox.sejong.ling.Hangeul;
 
 public class RootAndTail2DB
 {

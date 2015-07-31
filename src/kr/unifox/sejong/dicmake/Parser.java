@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -57,19 +58,7 @@ public class Parser
 				Paths.get(filename), 
 				Charset.forName("MS949")
 				);
-		
-		for(String line : lines)
-		{
-			if(line.trim().isEmpty()) 
-				continue;
-			try {
-				handler.handle(line);
-			}
-			catch(Exception e) {
-				if(exceptionHandler != null)
-					exceptionHandler.handle(e);
-			}
-		}
+		handleData(filename, lines, handler);
 	}
 	
 	/**
@@ -78,10 +67,10 @@ public class Parser
 	 * @param handler 파싱한 데이터를 처리할 핸들러
 	 * @throws ParserConfigurationException 
 	 */
-	public void parseXmlDir(String dirName, Handler<Document> handler) 
+	public void parseXmlDir(String dirName, Handler<File> handler) 
 			throws Exception
 	{
-		// 디렉토리에서 xml파일만 걸러낸다
+				// 디렉토리에서 xml파일만 걸러낸다
 		File dir = new File(dirName);
 		File[] xmlFiles = dir.listFiles(new FilenameFilter()
 		{
@@ -92,26 +81,41 @@ public class Parser
 			}
 		});
 		
-		
-		//
-		// 파싱할 빌더 생성
-		DocumentBuilder builder = 
-				DocumentBuilderFactory.newInstance().newDocumentBuilder();
+		if(xmlFiles == null)
+		{
+			System.out.println("No XML Files there.");
+			return;
+		}
 		
 		//
 		// for loop
-		for(File xmlFile : xmlFiles)
+		handleData(dirName, Arrays.asList(xmlFiles), handler);
+	}
+	
+	private <T> void handleData(String name, Iterable<T> data, Handler<T> handler) throws Exception
+	{
+		System.out.println("Parsing start: " + name);
+		int errorCount = 0;
+		long start = System.currentTimeMillis();
+	
+		for(T t : data)
 		{
-			// parse xml file
+			// parse data
 			try {
-				Document doc = builder.parse(xmlFile);
-				handler.handle(doc);
+				handler.handle(t);
 			}
 			catch(Exception e)
 			{
+				errorCount ++;
+				System.out.println("Error Occured while handling " + t.toString());
 				if(exceptionHandler != null)
 					exceptionHandler.handle(e);
 			}
 		}
+		
+		System.out.printf("Parsing end, %dms elapsed, %d error occured\n", 
+				System.currentTimeMillis() - start,
+				errorCount
+				);
 	}
 }

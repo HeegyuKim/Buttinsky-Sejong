@@ -6,8 +6,8 @@ import javax.xml.xpath.XPath;
 
 import org.w3c.dom.Document;
 
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
 import kr.unifox.friends.spellchecker.hangeul.Single;
+import kr.unifox.sejong.ling.Hangeul;
 
 public class Single2DB extends DataBuildingUtils 
 {

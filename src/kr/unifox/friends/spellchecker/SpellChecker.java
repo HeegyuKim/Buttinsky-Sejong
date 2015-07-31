@@ -14,12 +14,12 @@ import kr.unifox.friends.spellchecker.WordComponent.Type;
 import kr.unifox.friends.spellchecker.hangeul.ChaeEon;
 import kr.unifox.friends.spellchecker.hangeul.EoGeun;
 import kr.unifox.friends.spellchecker.hangeul.EoMi;
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
-import kr.unifox.friends.spellchecker.hangeul.HangeulException;
 import kr.unifox.friends.spellchecker.hangeul.JeopSa;
 import kr.unifox.friends.spellchecker.hangeul.Josa;
 import kr.unifox.friends.spellchecker.hangeul.Single;
 import kr.unifox.friends.spellchecker.hangeul.YongEon;
+import kr.unifox.sejong.ling.Hangeul;
+import kr.unifox.sejong.ling.HangeulException;
 
 public class SpellChecker
 {

@@ -5,8 +5,8 @@ import java.io.PrintStream;
 import javax.xml.xpath.XPath;
 
 import kr.unifox.friends.spellchecker.hangeul.ChaeEon;
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
 import kr.unifox.friends.spellchecker.hangeul.Josa;
+import kr.unifox.sejong.ling.Hangeul;
 
 import org.w3c.dom.Document;
 

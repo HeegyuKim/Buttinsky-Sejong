@@ -18,7 +18,7 @@ import kr.unifox.friends.spellchecker.Dictionary;
 import kr.unifox.friends.spellchecker.SpellChecker;
 import kr.unifox.friends.spellchecker.TextDataDictionary;
 import kr.unifox.friends.spellchecker.WordComponent;
-import kr.unifox.friends.spellchecker.hangeul.HangeulException;
+import kr.unifox.sejong.ling.HangeulException;
 
 public class SpellCheckerTestFrameMain
 extends JFrame

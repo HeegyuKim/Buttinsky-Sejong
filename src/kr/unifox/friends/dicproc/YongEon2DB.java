@@ -6,9 +6,9 @@ import java.io.PrintStream;
 import javax.xml.xpath.XPath;
 
 import kr.unifox.friends.spellchecker.hangeul.JeopSa;
-import kr.unifox.friends.spellchecker.hangeul.Hangeul;
-import kr.unifox.friends.spellchecker.hangeul.HangeulException;
 import kr.unifox.friends.spellchecker.hangeul.YongEon;
+import kr.unifox.sejong.ling.Hangeul;
+import kr.unifox.sejong.ling.HangeulException;
 
 import org.w3c.dom.Document;
 
