@@ -21,6 +21,26 @@ public class Word implements Component
 	 * - 관계언: 조사
 	 * - 독립언: 감탄사
 	 */
+	public static final String
+		PUMSA_MYUNGSA = "명사",
+		PUMSA_DAEMYUNGSA = "대명사",
+		PUMSA_SUSA= "수사",
+		PUMSA_DONGSA= "동사",
+		PUMSA_HYUNGYONGSA = "형용사",
+		PUMSA_BUSA = "부사",
+		PUMSA_GWANHYUNGSA = "관형사",
+		PUMSA_JOSA = "조사",
+		PUMSA_GAMTANSA= "감탄사",
+		EON_CHAEEON = "체언",
+		EON_YONGEON = "용언",
+		EON_SUSIKEON = "수식언",
+		EON_GWANGYEEON = "관계언",
+		EON_DOKRIPEON = "독립언",
+		
+		
+		PUMSA_UNKNOWN = "알수없는품사",
+		EON_UNKNOWN = "알수없는언"
+		;
 
 	public String source;		// 원형
 	public String eumso;		// 음소
@@ -52,4 +72,19 @@ public class Word implements Component
 		return source;
 	}
 	
+	@Override
+	public boolean equals(Object obj) {
+		if(obj instanceof Word)
+		{
+			Word that = (Word)obj;
+			return source.equals(that.source)
+					|| eumso.equals(that.eumso)
+					|| root.equals(that.root)
+					|| pumsa.equals(that.pumsa)
+					|| eon.equals(that.eon)
+					;
+		}
+		
+		return false;
+	}
 }

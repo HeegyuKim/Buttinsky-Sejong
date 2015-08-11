@@ -50,4 +50,20 @@ public interface Dictionary
 	 * @return
 	 */
 	List<Word> findWordByEon(String eumsos, Set<String> allowedEonSet);
+	
+	/**
+	 * @see Evaluator.checkWellContinued(): Private
+	 * 
+	 * 머리와 꼬리가 잘 이어졌는지 확인합니다.
+	 * head가 어디(대명사,감탄사) 이고
+	 * tail이 에(동사,조사,감탄사) 라면 
+	 * 
+	 * 대명사-> 조사 는 잘 이어진 거지만
+	 * 나머지는 다 문법 씹어먹는 것이므로 생략(감탄사 -> 감탄사?????)
+	 * 
+	 * @param headType 머리의 타입
+	 * @param tailType 꼬리의 타입
+	 * @return 맞으면 true, 틀리면 false
+	 */
+	boolean isWellContinued(String headType, String tailType);
 }

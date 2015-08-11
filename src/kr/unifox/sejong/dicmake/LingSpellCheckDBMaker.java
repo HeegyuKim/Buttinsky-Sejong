@@ -23,7 +23,7 @@ public class LingSpellCheckDBMaker
 	PrintWriter out;
 	String pumsa, eon, type;
 	XPath xpath;
-	
+
 	public LingSpellCheckDBMaker() 
 	{
 		//createTextDictionary();

@@ -353,6 +353,11 @@ public class Hangeul
     	return builder.toString();
     }
     
+    public static String combineHangeulString(String spreadText) throws HangeulException
+    {
+    	// TODO: 구현안됨.
+    	return spreadText;
+    }
     
     public static String HangeulListToString(List<Hangeul> hangeulList)
     {

@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
+import java.util.TreeSet;
 
 import kr.unifox.sejong.ling.Component;
 import kr.unifox.sejong.ling.HyungTaeSo;
@@ -21,11 +22,12 @@ public class TextFileDictionary implements Dictionary {
 
 	Map<String, List<Word>> wordTable = new TreeMap<>();
 	Map<String, List<HyungTaeSo>> htsTable = new TreeMap<>();
-	
+	Set<String> seqSet = new TreeSet<String>();
 	
 	public TextFileDictionary(String dir)
 		throws IOException
 	{
+		// 이건 사전에서 단어 전부 읽어오는거임
 		List<String> lines = Files.readAllLines(Paths.get(dir, "dic.txt"));
 		
 		for(String line : lines)
@@ -45,6 +47,7 @@ public class TextFileDictionary implements Dictionary {
 		}
 		
 
+		// 형태소.txt 파일에서 형태소 전부 읽어들이는거(어미나 어근)
 		lines = Files.readAllLines(Paths.get(dir, "hts.txt"));
 		
 		for(String line : lines)
@@ -63,7 +66,13 @@ public class TextFileDictionary implements Dictionary {
 				htss.add(hts);
 		}
 		
-		
+		// 유효한 연결 데이터 가져옴
+		// 어간+어미 이런거 있는거 말하는거임 ㅎ
+		lines = Files.readAllLines(Paths.get(dir, "seq.txt"));
+		for(String line : lines)
+		{
+			seqSet.add(line);
+		}
 	}
 	
 	private List<String> separateLine(String line)
@@ -190,4 +199,11 @@ public class TextFileDictionary implements Dictionary {
 		return htsList;
 	}
 
+	@Override
+	public boolean isWellContinued(String headType, String tailType) 
+	{
+		StringBuilder sb = new StringBuilder();
+		sb.append(headType).append('+').append(tailType);
+		return seqSet.contains(sb.toString());
+	}
 }

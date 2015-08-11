@@ -37,5 +37,16 @@ public class HyungTaeSo implements Component
 		return source;
 	}
 	
-	
+	@Override
+	public boolean equals(Object obj) {
+		if(obj instanceof HyungTaeSo)
+		{
+			HyungTaeSo that = (HyungTaeSo)obj;
+			
+			return source.equals(that.source)
+					|| eumso.equals(that.eumso)
+					|| type.equals(that.type);
+		}
+		return false;
+	}
 }
