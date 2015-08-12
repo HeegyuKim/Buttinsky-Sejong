@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>았</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/10/21</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>1999/10/24</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/2/3</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--과거시제 선어말 어미-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ep</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>pt</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">었</var>
+			<var type="phn">ㅆ</var>
+			<var type="mor">였</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>과거</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>겠</fol>
+				<fol>다</fol>
+				<fol>습니다</fol>
+				<fol>구나</fol>
+				<fol>더구나</fol>
+				<fol>사옵니다</fol>
+				<fol>는데</fol>
+				<frame>V-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>나만 말뚝을 엉뚱한 곳에 박았구나.</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>확정적예측</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>다</fol>
+				<fol>어</fol>
+				<fol>구나</fol>
+				<frame>V(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>넌 선생님한테 내일 맞았다.</eg>
+				<eg>두고 봐 내일 너 나한테 맞았어</eg>
+				<eg>그렇게 울어대니 산타 할아버지한테 선물은 다 받았구나.</eg>
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>현재상태</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>다</fol>
+				<fol>어</fol>
+				<fol>구나</fol>
+				<frame>Va-E</frame>
+				<sel_rst>Va=(늙다|닮다|생기다|굽다|기울다|못생기다|틀리다|그르다)</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그와 그의 동생은 서로 얼굴이 닮았다.</eg>
+				<eg>길이 왼쪽으로 완만하게 굽었다.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/10/21</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/24</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/2/3</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/15</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--‘아 있’의 축약형.-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ser</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>pt</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>아+있</str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm></gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame></frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>너 왜 여기 앉았니?</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>게끔</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/08/05</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/08/05</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/17</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/15</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>후행 조사 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--연결 어미-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcd</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>게+끔</str>
+			<var type="xd">게시리</var>
+			<var type="xd">게스리</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>정도</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>은</fol>
+				<fol>도</fol>
+				<fol>만</fol>
+				<fol>이야</fol>
+				<fol>이나마</fol>
+				<fol>까지</fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>오자마자 쉴 수 있게끔 준비를 해 놓아라.</eg>
+				<eg>분수에 맞게끔 생활해야 한다.</eg>
+				<!--연결어미 ‘-게’보다 강조된 의미-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

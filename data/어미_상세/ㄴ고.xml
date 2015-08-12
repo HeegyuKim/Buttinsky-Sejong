@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>ㄴ고</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/09/28</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/09/28</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/17</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/30</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>음운론적 제약 삭제, 선행 어미 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>ㄴ+고</str>
+			<var type="phn">은고</var>
+			<var type="etc">ㄴ가</var>
+			<!--예스러운 표현, 근엄한 느낌-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>의문</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol></fol>
+				<frame>Va(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc>의문사</nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>저 애는 뉘 집 자식인고?</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>감탄</st>
+					<sl>해라체</sl>
+					<gm>감탄</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol></fol>
+				<frame>Va(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc>의문사</nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이 얼마나 장한 일인고!.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

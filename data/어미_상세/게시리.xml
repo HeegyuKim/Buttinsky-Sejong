@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>게시리</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/10/02</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/02</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/17</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>frame 정보 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--비표준형. 연결 어미-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcd</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>게+시리</str>
+			<var type="xs">게끔</var>
+			<var type="etc">게스리</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm></gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame></frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>칠칠치 못하게시리 물건을 흘리고 다니니?</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

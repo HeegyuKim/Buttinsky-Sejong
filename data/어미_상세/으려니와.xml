@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>으려니와</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/07/26</cre_date>
+				<cre_writer>이지영</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/07/26</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/08/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/20</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcs</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>cn</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>으리+어니와</str>
+			<var type="phn">려니와</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>첨가</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt>*명령문|*청유문</stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>날씨도 좋으려니와 경치도 좋은데, 무슨 불만이 있겠습니까?</eg>
+				<!--선행절이나 후행절에 흔히 '도'가 온다.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

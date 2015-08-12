@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>거나</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/05/10</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/05/10</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/17</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/16</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>frame 정보 수정</mod_note>
+				<mod_note>변이형, 선행 어미 정보 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcd</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>거+나</str>
+			<var type="abb">건</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>선택</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<frn>삽</frn>
+				<fol></fol>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<frame>sab-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep>수의</rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이 일은 네가 직접 하거나 동생을 시켜라.</eg>
+				<eg>나뭇잎이 시들거나 꽃이 피지 않거나 하면 전문가와 상의해라.</eg>
+				<eg>나뭇잎이 누렇게 되거나 하면 병이 든 것이다.</eg>
+				<eg>가거나 말거나 네 마음대로 하렴.</eg>
+				<!--‘-거나 (-거나) 하면’의 기술 문제.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>양보</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<frn>삽</frn>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<frame>sab-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>누가 무슨 말을 하거나 신경 쓰지 말고 네 할 일을 해라.</eg>
+				<eg>무슨 일을 하거나 늘 최선을 다해야 한다.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

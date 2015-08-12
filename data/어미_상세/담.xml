@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>담</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/08/27</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/17</mod_date>
+				<mod_writer>이지영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>다+ㅁ</str>
+			<var type="stem">ㄴ담</var>
+			<var type="stem">는담</var>
+			<var type="stem">람</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>언짢음</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<fol>nil</fol>
+				<frame>Va*c(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc>의문사</nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>남은 속이 상해 어쩔 줄 모르겠는데 혼자서 뭐가 그리 좋담?</eg>
+				<eg>어떻게 당사자에게 물어보지도 않고 기사를 냈담?</eg>
+				<!--혼잣말의 성격이 강함-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>독백의문)</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<fol>nil</fol>
+				<frame>Va*c(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc>의문사</nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>날씨가 왜 이리 춥담?</eg>
+				<eg>얘가 어디로 갔담?</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="2" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/08/27</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/17</mod_date>
+				<mod_writer>이지영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcs</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>다+ㅁ</str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>조건</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<fol>nil</fol>
+				<frame>Va*c(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>날씨가 오늘만 같았담 좋겠다.</eg>
+				<eg>정말 건물이 무너졌담 큰일인데.</eg>
+				<eg>나만 빼놓고 놀러갔담 봐라.</eg>
+				<!--뒤의 예는 앞의 예와 의미 차이가 있는 듯함. 별도 처리? '-다고 하면'의 준말로서 '-담'은 성립하지 않는다고 보아 별도의 항목으로 제시하지 않았음.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

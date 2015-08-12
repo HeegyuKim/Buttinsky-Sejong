@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>겠</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/10/21</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>1999/10/23</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/03</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/10</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/20</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>선행 어미 정보 기술</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ep</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="xd">것</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>미래</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>다</fol>
+				<fol>습니다</fol>
+				<fol>고</fol>
+				<fol>으니</fol>
+				<fol>구나</fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>잠시 후면 수업이 시작되겠다.</eg>
+				<eg>잠시 후 정오가 되겠습니다.</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>추측</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<fol>다</fol>
+				<fol>습니다</fol>
+				<fol>고</fol>
+				<fol>으니</fol>
+				<fol>더라</fol>
+				<fol>더군</fol>
+				<fol>던데</fol>
+				<fol>던걸</fol>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>남은 일의 분량으로 보아 내일은 바쁘겠어.</eg>
+				<eg>내일은 날씨가 맑겠구나!</eg>
+				<eg>그일은 아마 네가 하겠구나!</eg>
+				<!--‘았겠’은 언제나 추측의 의미로만 쓰인다.-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>의지</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol>다</fol>
+				<fol>습니다</fol>
+				<fol>고</fol>
+				<fol>으니</fol>
+				<frame>Vv-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp>1인칭</sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그 일을 내가 하겠어.</eg>
+				<eg>나는 꼭 입시에 합격하겠다.</eg>
+				<!--‘-겠-’이 의지의 용법으로 쓰일 때는 일인칭 주어를 요한다.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

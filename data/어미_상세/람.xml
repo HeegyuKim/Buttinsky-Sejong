@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>람</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/09/01</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/17</mod_date>
+				<mod_writer>이지영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>			
+			<mor_rst>아니</mor_rst>
+			<mor_rst>이</mor_rst>
+			<str>라+ㅁ</str>
+			<var type="stem">담</var>
+			<var type="stem">ㄴ담</var>
+			<var type="stem">는담</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>독백의문</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>nil</fol>
+				<frame>Vc(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이게 도대체 무슨 말이람?</eg>
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>언짢음</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>nil</fol>
+				<frame>Vc(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이게 무슨 꼴이람?</eg>
+				<eg>별안간 웬 변덕이시람?</eg>
+			</sense>
+		</sem_grp>
+	</entry>
+	<entry n="2" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/09/01</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/17</mod_date>
+				<mod_writer>이지영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/11</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<phn_rst>lq</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>라+ㅁ</str>
+			<var type="phn">으람</var>
+			<var type="etc">담</var>
+			<var type="etc">ㄴ담</var>
+			<var type="etc">는담</var>
+			<!--명령형어미 '-라'를 포함.-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>독백의문</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>nil</fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이제 와서 도대체 어디로 가람?</eg>
+				<!--'-란 말인가'의 의미. '자문'의 의미와 '못마땅함'의 의미, 해라체와 혼잣말의 구분이 그다지 분명하지가 않다.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>의문</st>
+					<sl>해라체</sl>
+					<gm>못마땅함</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>nil</fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>시험을 못 봤다고? 그러게 누가 그렇게 공부도 안 하고 놀람?</eg>
+				<!--'-라고 했나'의 의미.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="3" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/09/20</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/10</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcs</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>			
+			<mor_rst>아니</mor_rst>
+			<mor_rst>이</mor_rst>
+			<str>라+ㅁ</str>
+			<var type="lng">라면</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm></gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame></frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>만일 그 소문이 사실이람 정말 큰 일이군요.</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="4" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/09/20</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/10</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ser</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>			
+			<mor_rst>아니</mor_rst>
+			<mor_rst>이</mor_rst>
+			<str>라-(고)_(하)+ㅁ</str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm></gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame></frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>콩을 보고 팥이람 누가 믿겠니?</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+	<entry n="5" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/09/20</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/20</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/10/22</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ser</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<phn_rst>lq</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>라-(고)_(하)-ㅁ</str>
+			<!--명령 어미 '-라' 포함.-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm></gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame></frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>가람 누가 못 갈 줄 알고?</eg>
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

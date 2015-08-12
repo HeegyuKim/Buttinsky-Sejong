@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>ㄹ걸</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/08/22</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/08/22</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/14</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/01</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07></mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>nil</str>
+			<var type="phn">을걸</var>
+			<var type="xd">ㄹ껄</var>
+			<!--기원적으로는 ‘-ㄹ-것-을’로 분석됨-->
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>평서</st>
+					<sl>반말</sl>
+					<gm>추측</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>요</fol>
+				<frame>V(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이 사실은 아무도 모를걸.</eg>
+				<eg>아마 그 애가 너보다 키가 더 클걸.</eg>
+				<eg>아버지께선 저녁 늦게야 돌아오실걸.</eg>
+				<!--상대방이 알고 있는 바나 기대와는 상반되는 의견을 제시할 때 추측의 형식을 빌어 약한 반박을 표시. 의문형 종결어미로 볼 수 있을지 검토.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>평서</st>
+					<sl>반말</sl>
+					<gm>후회의독백</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol>nil</fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>이렇게 값이 오를 줄 알았으면 진작 사 둘걸.</eg>
+				<eg>지름길을 알면 이 고생 안 하실걸.</eg>
+				<!--하지 않은 일에 대한 후회나 아쉬움. 혼잣말에 쓰임.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

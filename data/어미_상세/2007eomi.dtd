@@ -1,0 +1,61 @@
+<!ELEMENT superEntry (orth, entry+)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT entry (mnt_grp, head_grp, morph_grp, sem_grp, idm_grp*)>
+<!ATTLIST entry n NMTOKEN #IMPLIED>
+<!ATTLIST entry pos (e) #REQUIRED>
+
+<!ELEMENT mnt_grp (cre, mod+, note*)>
+<!ELEMENT cre (cre_date*, cre_writer*, cre_note*)>
+<!ELEMENT cre_date (#PCDATA)>
+<!ELEMENT cre_writer (#PCDATA)>
+<!ELEMENT cre_note (#PCDATA)>
+
+<!ELEMENT mod (mod_date, mod_writer, mod_note*)>
+<!ELEMENT mod_date (#PCDATA)>
+<!ELEMENT mod_writer (#PCDATA)>
+<!ELEMENT mod_note (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT head_grp (je_subtype)>
+<!ELEMENT je_subtype (#PCDATA)>
+
+
+<!ELEMENT morph_grp (phn_rst*, mor_rst*, str, var*, note*)>
+<!ELEMENT phn_rst (#PCDATA)>
+<!ELEMENT mor_rst (#PCDATA)>
+<!ELEMENT str (#PCDATA)>
+<!ELEMENT var (#PCDATA)>
+<!ATTLIST var type (phn|mor|stem|hon|abb|lng|strain|plain|spk_p|spk_n|xs|xd|em_p|em_n|temp|etc) #REQUIRED>
+
+<!ELEMENT sem_grp (sense+)>
+<!ELEMENT sense (sem_rep, frn*, fol*, frame*, sel_rst*, own_s, fol_s, eg+)>
+<!ATTLIST sense n NMTOKEN #IMPLIED>
+
+<!ELEMENT sem_rep (st, sl, gm)>
+<!ELEMENT st (#PCDATA)>
+<!ELEMENT sl (#PCDATA)>
+<!ELEMENT gm (#PCDATA)>
+
+<!ELEMENT frn (#PCDATA)>
+<!ELEMENT fol (#PCDATA)>
+<!ELEMENT frame (#PCDATA)>
+<!ELEMENT sel_rst (#PCDATA)>
+<!ELEMENT own_s (nc, sp)>
+<!ELEMENT nc (#PCDATA)>
+<!ELEMENT sp (#PCDATA)>
+
+<!ELEMENT fol_s (stt*, prd, rep, sms)>
+<!ELEMENT stt (#PCDATA)>
+<!ELEMENT prd (#PCDATA)>
+<!ELEMENT rep (#PCDATA)>
+<!ELEMENT sms (#PCDATA)>
+<!ELEMENT eg (#PCDATA)>
+
+<!ELEMENT idm_grp (idm*, idm_eg*)>
+<!ELEMENT idm (#PCDATA)>
+<!ELEMENT idm_eg (#PCDATA)>
+
+
+
+
+ 

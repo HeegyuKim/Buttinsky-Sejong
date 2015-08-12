@@ -13,7 +13,9 @@ import kr.unifox.sejong.spellchecker.Dictionary;
 import kr.unifox.sejong.spellchecker.EvaluationResult;
 import kr.unifox.sejong.spellchecker.Evaluator;
 import kr.unifox.sejong.spellchecker.TextFileDictionary;
+import kr.unifox.sejong.spellchecker.mistakes.AhnAhnhMisktake;
 import kr.unifox.sejong.spellchecker.mistakes.JosaJongSungMistake;
+import kr.unifox.sejong.spellchecker.mistakes.Mistake;
 import kr.unifox.sejong.spellchecker.mistakes.Repaired;
 
 public class SejongCorrectorTest {
@@ -25,14 +27,14 @@ public class SejongCorrectorTest {
 	{
 		long start = System.currentTimeMillis();
 		
-		CandidateSearcher cs = new CandidateSearcher(dic, Hangeul.spreadHangeulString(eojeol));
+		CandidateSearcher cs = new CandidateSearcher(dic, eojeol, Hangeul.spreadHangeulString(eojeol));
 		Evaluator eval = new Evaluator(dic);
 		
 		System.out.println("Start CandidateSearcher Test: " + eojeol);
 		
 		cs.search();
 
-		JosaJongSungMistake mistake = new JosaJongSungMistake();
+		AhnAhnhMisktake mistake = new AhnAhnhMisktake(dic);
 		
 		int i = 1;
 		for(CandidateArray array : cs.getCandidateArrayList())
@@ -55,7 +57,8 @@ public class SejongCorrectorTest {
 			{
 				printCandidate(candi);
 				
-				Repaired r = mistake.checkMistake(candi);
+				Repaired r = new Repaired();
+				mistake.checkMistake(candi, r);
 				if(r.hasMistake)
 				{
 					System.out.print("It has Mistake! Please Repaired to ");
@@ -74,6 +77,7 @@ public class SejongCorrectorTest {
 		
 		long elapsed = System.currentTimeMillis() - start;
 		System.out.printf("%dms elapsed\n", elapsed);
+		computeUsedMemory();
 		System.out.println("-------------------------------");
 	}
 	
@@ -83,25 +87,24 @@ public class SejongCorrectorTest {
 		{
 			System.out.printf("%s(%s) ", comp.getSource(), comp.getTypeName());
 		}
-		if(candi.rejectedReason != null)
-			System.out.println(" 틀린 이유: " + candi.rejectedReason);
-		else 
-			System.out.println();
+		System.out.println();
+		if(candi.mistakes != null)
+		{
+			System.out.println("틀린거 있음 있음!");
+			for(Mistake mis : candi.mistakes)
+				System.out.printf("%s: %s\n", mis.type, mis.reason);
+		}
 	}
 	
 	public SejongCorrectorTest() {
 		try {
 			dic = new TextFileDictionary("db");
-			testCandidateSearcher("그녀의");
-			testCandidateSearcher("어머나");
-			testCandidateSearcher("그러하다");
-			testCandidateSearcher("어디에");
-			testCandidateSearcher("맛있어");
-			testCandidateSearcher("연세이");
-			testCandidateSearcher("아몰랑");
-			testCandidateSearcher("너만를");
-			testCandidateSearcher("만수무강하세요");
-			testCandidateSearcher("만수무강");
+			computeUsedMemory();
+			testCandidateSearcher("않되요");
+			testCandidateSearcher("안되요");
+			testCandidateSearcher("않된다");
+			testCandidateSearcher("안된다");
+			computeUsedMemory();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -109,6 +112,24 @@ public class SejongCorrectorTest {
 	public static void main(String[] args) {
 
 		new SejongCorrectorTest();
+		
+
 	}
 
+	private static final long MEGABYTE = 1024L * 1024L;
+	
+	public static long bytesToMegabytes(long bytes) {
+		return bytes / MEGABYTE;
+	}
+  	public static void computeUsedMemory()
+  	{
+	    Runtime runtime = Runtime.getRuntime();
+	    // Run the garbage collector
+	    //runtime.gc();
+	    // Calculate the used memory
+	    long memory = runtime.totalMemory() - runtime.freeMemory();
+	    System.out.println("Used memory is bytes: " + memory);
+	    System.out.println("Used memory is megabytes: "
+	        + bytesToMegabytes(memory));
+  	}
 }

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>거니</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/05/10</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/05/10</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/17</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/16</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/09/19</mod_date>
+				<mod_writer>박진희</mod_writer>
+				<mod_note>후행절 문장 유형 제약 삭제</mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/07</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcd</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>nil</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>거+니</str>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>전제</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<fol></fol>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>나는 젊었거니 돌인들 무거울까.</eg>
+				<!--주로 수사의문문에 나타나나 필수적인 것은 아님.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>반복</gm>
+				</sem_rep>
+				<frn>으시</frn>
+				<fol></fol>
+				<frame>Vv(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep>필수</rep>
+					<sms></sms>
+				</fol_s>
+				<eg>전반전에는 양팀이 서로 점수를 주거니 받거니 하며 팽팽히 맞섰다.</eg>
+				<eg>두 사람이 앞서거니 뒤서거니 길을 가고 있었다.</eg>
+				<!--‘-거니 -거니 (하-)’의 꼴로 쓰임.-->
+			</sense>
+			<sense n="3">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>추측</gm>
+				</sem_rep>
+				<frn></frn>
+				<frn>으시</frn>
+				<frn>았</frn>
+				<frn>았었</frn>
+				<frn>겠</frn>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<frame>gss-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd>(하다|싶다)</prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>별다른 소식이 없으니 그저 잘 지내고 있겠거니 하고 짐작할 뿐이다.</eg>
+				<!--‘하다’나 ‘싶다’와 어울려 쓰이며 ‘하다’가 생략된 꼴로도 쓰임-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

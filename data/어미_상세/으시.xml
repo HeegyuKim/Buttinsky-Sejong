@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>으시</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>1999/10/23</cre_date>
+				<cre_writer>이광호</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/10/24</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/2/3</mod_date>
+				<mod_writer>이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/20</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<!--주체 존대 선어말 어미-->
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>ep</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>cn</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>nil</str>
+			<var type="phn">시</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>주체높임</gm>
+				</sem_rep>
+				<frn>nil</frn>
+				<fol>었</fol>
+				<fol>었었</fol>
+				<fol>겠</fol>
+				<frame>V-E</frame>
+				<sel_rst>nil</sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>할아버지께서는 손자가 마루바닥에 흘려 놓은 침을 깨끗하게 닦으시었다.</eg>
+				<eg>선생님께서는 분필을 집으시며 말씀하셨다.</eg>
+				<!--앞에 재떨이가 있으시지요? 등 문제되는 예문들 검토.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm></idm>
+				<idm_eg></idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

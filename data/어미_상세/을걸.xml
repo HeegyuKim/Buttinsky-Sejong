@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>을걸</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2000/08/22</cre_date>
+				<cre_writer>이승희</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2000/08/22</mod_date>
+				<mod_writer>김창섭</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2001/02/16</mod_date>
+				<mod_writer>이승희</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/07/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/22</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>eft</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>cn</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str></str>
+			<var type="phn">ㄹ걸</var>
+			<var type="xd">을껄</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st>평서</st>
+					<sl>반말</sl>
+					<gm>추측</gm>
+				</sem_rep>
+				<frn>았</frn>
+				<fol>요</fol>
+				<frame>V(시)-E</frame>
+				<frame>ass-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>기차는 지금쯤 벌써 떠났을걸.</eg>
+				<eg>내 손이 네 손보다 더 작을걸.</eg>
+				<!--상대방이 알고 있는 바나 기대와는 상반되는 의견을 제시할 때 추측의 형식을 빌어 약한 반박을 표시. 의문형 종결어미로 볼 수 있을지 검토.-->
+			</sense>
+			<sense n="2">
+				<sem_rep>
+					<st>평서</st>
+					<sl>반말</sl>
+					<gm>후회</gm>
+				</sem_rep>
+				<frn>았</frn>
+				<fol></fol>
+				<frame>Vv(시)</frame>
+				<frame>ass-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt></stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>잊어버리지 않게 공책에 적을걸.</eg>
+				<eg>할아버지께서 돌아가시기 전에 손자를 보셨으면 무척 좋아하셨을걸.</eg>
+				<!--혼잣말에 쓰임-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+		</idm_grp>
+	</entry>
+</superEntry>

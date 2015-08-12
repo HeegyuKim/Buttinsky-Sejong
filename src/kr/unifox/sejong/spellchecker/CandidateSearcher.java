@@ -32,11 +32,12 @@ public class CandidateSearcher
 	Dictionary dic;
 	List<CandidateArray> candiList = new ArrayList<>();
 	
-	String eumso;
+	String eumso, originalText;
 	
-	public CandidateSearcher(Dictionary dic, String eumso) 
+	public CandidateSearcher(Dictionary dic, String originalText, String eumso) 
 	{
 		this.dic = dic;
+		this.originalText = originalText;
 		this.eumso = eumso;
 	}
 	
@@ -48,10 +49,8 @@ public class CandidateSearcher
 		List<Component> one = dic.find(eumso);
 		if(one != null)
 		{
-			Candidate candi = new Candidate();
-			candi.compList = one;
 			CandidateArray candies = new CandidateArray();
-			candies.add(candi);
+			candies.add(createCandidate(one));
 			candiList.add(candies);
 		}
 		
@@ -76,14 +75,19 @@ public class CandidateSearcher
 				continue;
 
 			List<Candidate> candies = new ArrayList<>();
-			Candidate candi = new Candidate();
-			candi.compList = tails;
-			candies.add(candi);
+			candies.add(createCandidate(tails));
 			
 			searchSubset(head, candies);
 		}
 	}
-	
+	private Candidate createCandidate(List<Component> comps)
+	{
+		Candidate candi = new Candidate();
+		if(comps != null)
+			candi.compList = comps;
+		candi.originalText = originalText;
+		return candi;
+	}
 	private void searchSubset(String eumso, List<Candidate> candies)
 	{
 		// 
@@ -107,8 +111,8 @@ public class CandidateSearcher
 					String combined;
 					try 
 					{
-						System.out.println(eumso + " 아몰랑~~ ");
-						combined = Hangeul.combineHangeulString(eumso);
+						//System.out.println(eumso + " 아몰랑~~ ");
+						combined = Hangeul.combineHangeulEumso(eumso);
 						Word unknownWord = new Word(
 								combined,
 								eumso,
@@ -119,7 +123,7 @@ public class CandidateSearcher
 						
 						CandidateArray newCandies = new CandidateArray();
 						newCandies.addAll(candies);
-						Candidate candi = new Candidate();
+						Candidate candi = createCandidate(null);
 						candi.compList.add(unknownWord);
 						newCandies.add(0, candi);
 					} 
@@ -135,10 +139,7 @@ public class CandidateSearcher
 			// 남은 앞의 부분의 후보집합을 찾아야 한닷
 			CandidateArray newCandies = new CandidateArray();
 			newCandies.addAll(candies);
-			
-			Candidate candi = new Candidate();
-			candi.compList = tails;
-			newCandies.add(0, candi);
+			newCandies.add(0, createCandidate(tails));
 			
 			// i = 0 이면 tail 은 string 전체이므로
 			// 더 이상 찾을 후보집합이 존재하지 않음.

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import kr.unifox.sejong.ling.Component;
+import kr.unifox.sejong.spellchecker.mistakes.Mistake;
 
 /**
  * 
@@ -24,10 +25,19 @@ import kr.unifox.sejong.ling.Component;
 public class Candidate 
 {
 	public List<Component> compList;
-	public String rejectedReason;
+	public String originalText, text;
+	public List<Mistake> mistakes;
 	
 	public Candidate() {
 		compList = new ArrayList<>();
+	}
+	
+	public void addMistake(Mistake mistake)
+	{
+		if(mistakes == null)
+			mistakes = new ArrayList<Mistake>();
+		
+		mistakes.add(mistake);
 	}
 	
 	// 예시 출력할 때 보기에 편하게 하려고...

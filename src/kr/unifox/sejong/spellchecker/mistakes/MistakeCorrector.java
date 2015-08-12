@@ -4,5 +4,5 @@ import kr.unifox.sejong.spellchecker.Candidate;
 
 public interface MistakeCorrector 
 {
-	public Repaired checkMistake(Candidate candidate);
+	public boolean checkMistake(Candidate candidate, Repaired r);
 }

@@ -38,9 +38,8 @@ public class JosaJongSungMistake implements MistakeCorrector
 	}
 	
 	@Override
-	public Repaired checkMistake(Candidate candidate) 
+	public boolean checkMistake(Candidate candidate, Repaired repaired) 
 	{
-		Repaired repaired = new Repaired();
 		repaired.source = candidate;
 		
 		
@@ -76,15 +75,17 @@ public class JosaJongSungMistake implements MistakeCorrector
 							repairedSource = "은";
 						else if(source.equals("가"))
 							repairedSource = "이";
-						
-						repaired.repaired.rejectedReason = 
-							repaired.rejectedReason = 
+
+						Mistake mis = new Mistake( 
 								String.format (
-									"종성이 있는 %c 뒤에는 조사로 %s 대신 %s가 와야 합니다.",
-									lastChar,
-									source,
-									repairedSource
-									);
+										"종성이 없는 %c 뒤에는 조사로 %s 대신 %s가 와야 합니다.",
+										lastChar,
+										source,
+										repairedSource
+										), 
+								Mistake.MISTAKE_JOSA_JONGSUNG
+								);
+						repaired.repaired.addMistake(mis); 
 						
 						Word word = new Word(repairedSource, 
 								Hangeul.spreadHangeulString(repairedSource), 
@@ -110,15 +111,16 @@ public class JosaJongSungMistake implements MistakeCorrector
 						else if(source.equals("이"))
 							repairedSource = "가";
 
-						repaired.repaired.rejectedReason = 
-							repaired.rejectedReason = 
+						Mistake mis = new Mistake( 
 								String.format (
-									"종성이 없는 %c 뒤에는 조사로 %s 대신 %s가 와야 합니다.",
-									lastChar,
-									source,
-									repairedSource
-									);
-						
+										"종성이 없는 %c 뒤에는 조사로 %s 대신 %s가 와야 합니다.",
+										lastChar,
+										source,
+										repairedSource
+										), 
+								Mistake.MISTAKE_JOSA_JONGSUNG
+								);
+						repaired.repaired.addMistake(mis); 
 						
 						Word word = new Word(repairedSource, 
 								Hangeul.spreadHangeulString(repairedSource), 
@@ -135,6 +137,6 @@ public class JosaJongSungMistake implements MistakeCorrector
 			}
 		}
 				
-		return repaired;
+		return repaired.hasMistake;
 	}
 }

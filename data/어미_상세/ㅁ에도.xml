@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no"?>
+<!DOCTYPE superEntry SYSTEM "2007eomi.dtd">
+<superEntry>
+	<orth>ㅁ에도</orth>
+	<entry n="1" pos="e">
+		<mnt_grp>
+
+			<cre>
+				<cre_date>2001/07/05</cre_date>
+				<cre_writer>이지영</cre_writer>
+				<cre_note></cre_note>
+			</cre>
+			<mod>
+				<mod_date>2001/09/15</mod_date>
+				<mod_writer>이지영;이광호</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2003/08/12</mod_date>
+				<mod_writer>김진형</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2006/11/12</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+			<mod>
+				<mod_date>2007/07/08</mod_date>
+				<mod_writer>하신영</mod_writer>
+				<mod_note></mod_note>
+			</mod>
+		</mnt_grp>
+		<head_grp>
+			<je_subtype>efcs</je_subtype>
+		</head_grp>
+		<morph_grp>
+			<phn_rst>vo</phn_rst>
+			<phn_rst>lq</phn_rst>
+			<mor_rst>nil</mor_rst>
+			<str>ㅁ+에+도</str>
+			<var type="phn">음에도</var>
+		</morph_grp>
+		<sem_grp>
+			<sense n="1">
+				<sem_rep>
+					<st></st>
+					<sl></sl>
+					<gm>양보</gm>
+				</sem_rep>
+				<frn></frn>
+				<fol></fol>
+				<frame>V(시)-E</frame>
+				<sel_rst></sel_rst>
+				<own_s>
+					<nc></nc>
+					<sp></sp>
+				</own_s>
+				<fol_s>
+					<stt>*명령문|*청유문</stt>
+					<prd></prd>
+					<rep></rep>
+					<sms></sms>
+				</fol_s>
+				<eg>그가 열심히 공부함에도 불구하고 성적이 오르지 않는 이유가 무엇일까</eg>
+				<!--'불구하고'가 후행하는 경우가 많음.-->
+			</sense>
+		</sem_grp>
+		<idm_grp>
+			
+				<idm>V-E 불구하고</idm>
+				<idm_eg>그는 나이가 어림에도 불구하고 생각이 매우 깊다.</idm_eg>
+			
+		</idm_grp>
+	</entry>
+</superEntry>

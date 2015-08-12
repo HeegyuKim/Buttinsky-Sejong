@@ -9,6 +9,7 @@ import kr.unifox.sejong.ling.Component;
 import kr.unifox.sejong.ling.EoJeol;
 import kr.unifox.sejong.ling.HyungTaeSo;
 import kr.unifox.sejong.ling.Word;
+import kr.unifox.sejong.spellchecker.mistakes.Mistake;
 
 /**
  * 
@@ -132,7 +133,10 @@ public class Evaluator
 					else
 					{
 						stuff.stranges.add(candi);
-						candi.rejectedReason = rejectedReason;
+						candi.addMistake(new Mistake( 
+								rejectedReason,
+								Mistake.WRONG_CONTINUED
+								));
 					}
 				}
 				// 아니면 계속 찾으라고~
@@ -217,9 +221,10 @@ public class Evaluator
 			if(!hasWordWithoutJosa)
 			{
 				stuff.stranges.add(candi);
-				candi.rejectedReason = 
-						"이 문장은 불완전한 문장입니다. 조사를 제외한 단어가 존재하지 않습니다."
-						;
+				candi.addMistake(new Mistake( 
+						"이 문장은 불완전한 문장입니다. 조사를 제외한 단어가 존재하지 않습니다.",
+						Mistake.WRONG_NO_ROOT
+						));
 				it.remove();
 			}
 		}

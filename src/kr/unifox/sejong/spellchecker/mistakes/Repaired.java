@@ -6,18 +6,17 @@ public class Repaired {
 
 	public Candidate source, repaired;
 	public boolean hasMistake;
-	public String rejectedReason;
 	
 	public Repaired() {
 		hasMistake = false;
 	}
 
-	public Repaired(Candidate source, Candidate repaired, boolean hasMistake
-			, String rejectedReason) {
+	public Repaired(Candidate source, Candidate repaired, boolean hasMistake)
+	{
 		this.source = source;
 		this.repaired = repaired;
 		this.hasMistake = hasMistake;
-		this.rejectedReason = rejectedReason;
 	}
+	
 	
 }

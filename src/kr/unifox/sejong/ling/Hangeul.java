@@ -276,6 +276,13 @@ public class Hangeul
     			c2 = getJungsungIndex(jungsung),
     			c3 = getJongsungIndex(jongsung);
     	
+    	if(c2 == -1 || c3 == -1)
+    	{
+    		return chosung;
+    	}
+    	if(c1 * c2 * c3 == -1)
+    		return 0;
+    	
     	return (char)(BASE_CODE + c3 + c2 * JUNGSUNG_CODE + c1 * CHOSUNG_CODE);
     }
     
@@ -353,10 +360,133 @@ public class Hangeul
     	return builder.toString();
     }
     
-    public static String combineHangeulString(String spreadText) throws HangeulException
+    /**
+     *  한글 음소를 결합함~
+     *  ㅇㅏㄶㄱㅡㄹㅐ -> 않그래
+     *  ㄴㅎ를 ㄶ으로 만들지는 않습니당.
+     * @param spreadText
+     * @return
+     * @throws HangeulException
+     */
+    public static String combineHangeulEumso(String eumsos) throws HangeulException
     {
     	// TODO: 구현안됨.
-    	return spreadText;
+    	StringBuilder sb = new StringBuilder();
+    	char cho = ' ', jung = ' ', jong = ' ';		// 조합중인 초중종성
+    	char lastChar = 0;							// 루프를 돌 때 이전의 글자
+    	boolean isLastCharJaeum = false;			// 마지막 글자가 자음임?
+    	
+    	for(int i = 0; i < eumsos.length(); ++i)
+    	{
+    		char ch = eumsos.charAt(i);
+    		
+    		// ch 가 모음임
+    		if(isMoEum(ch))
+    		{
+    			// 이전 글자가 자음일 경우
+    			if(isLastCharJaeum)
+    			{
+    				// 종성으로 조합중일 경우에는 
+    				// 초성+중성을 합쳐서 빼고(sb에 추가!)
+    				// 종성 -> 초성, ch는 모음으로 넣음
+    				if(jong != ' ')
+    				{
+    					//System.out.printf("한글의 탄생1!: %c + %c + %c\n", cho, jung, jong);
+    					sb.append(new Hangeul(cho, jung, ' ').toChar());
+    					cho = jong;
+    					jung = ch;
+    					jong = ' ';
+    				}
+    				else
+    				{
+    					jung = ch;
+    				}
+    			}
+    			// 이전 글자가 없거나 모음인데 모음이 나오면
+    			// 앞에 조합중이던 글자도 넣고
+    			// 모음도 그냥 넣어버령.
+    			// ex) 아ㅓㅏㅓㅏ
+    			else if(lastChar == 0 || !isLastCharJaeum)
+    			{
+    				if(cho != ' ' && jung != ' ')
+    				{
+    					//System.out.printf("한글의 탄생2!: %c + %c + %c\n", cho, jung, jong);
+    					sb.append(new Hangeul(cho, jung, ' ').toChar());
+    				}
+
+					//System.out.printf("한글의 탄생3!: %c + %c + %c\n", cho, jung, jong);
+    				sb.append(ch);
+    				cho = jung = ' ';
+    			}
+    			
+    				
+    			isLastCharJaeum = false;
+    		}
+    		// ch가 자음임
+    		else
+    		{
+    			// 이전 글자가 자음
+    			// 이 경우는 아래 2가지
+    			// 1. 초성만 완성된 상태에서 또 자음이 나옴(ex: ㅋㅋㅋ)
+    			// 2. 종성까지 완벽히 구현된 뒤 자음이 나옴(ex: 안ㄴ)
+    			if(isLastCharJaeum)
+    			{
+    				// 2번의 경우
+    				if(cho != ' ' && jung != ' ' && jong != ' ')
+    				{
+    					//System.out.printf("한글의 탄생4!: %c + %c + %c\n", cho, jung, jong);
+    					sb.append(new Hangeul(cho, jung, jong).toChar());
+    					cho = ch;
+    					jung = jong = ' ';
+    				}
+    				else 
+    				{
+    					//System.out.printf("한글의 탄생5!: %c + %c + %c\n", cho, jung, jong);
+    					if(cho != ' ')
+    						sb.append(cho);
+    					cho = ch;
+    					jung = jong = ' ';
+    				}
+    			}
+    			// 이전의 글자가 모음일 경우
+    			// 1. 개판글 (ex: ㅏㅋㅇㅇㅇ)
+    			// 2. 종성으로 가욧, 하지만 이후 모음이 올 지도 모르지(ex: 간, 가나)
+    			else
+    			{
+    				// 2번의 경우
+    				if(cho != ' ' && jung != ' ')
+    				{
+    					jong = ch;
+    				}
+    				else
+    				{
+    					if(lastChar == 0)
+    					{
+    						cho = ch;
+        					jung = jong = ' ';
+    					}
+    					else
+    					{
+        					//System.out.printf("한글의 탄생6!: %c + %c + %c\n", cho, jung, jong);
+    						if(cho != ' ')
+    							sb.append(cho);
+        					cho = ch;
+        					jung = jong = ' ';
+    					}
+    				}
+    			}
+    			
+    			isLastCharJaeum = true;
+    		}
+    		
+    		lastChar = ch;
+    	}
+    	if(cho != ' ')
+    	{
+    		//System.out.printf("최후의 한글~ %c + %c + %c\n", cho, jung, jong);
+    		sb.append(new Hangeul(cho, jung, jong).toChar());
+    	}
+    	return sb.toString();
     }
     
     public static String HangeulListToString(List<Hangeul> hangeulList)
