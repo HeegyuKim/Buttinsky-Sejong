@@ -27,11 +27,22 @@ public class TextFileDictionary implements Dictionary {
 	public TextFileDictionary(String dir)
 		throws IOException
 	{
+		/*
+		{
+			System.out.println("TextFileDictionary seperateLine Test(돼)");
+			List<String> tokens = separateLine("돼,되,ㄷㅗㅐ,동사,용언");
+			for(String token : tokens)
+			{
+				System.out.println(token);
+			}
+		}*/
 		// 이건 사전에서 단어 전부 읽어오는거임
 		List<String> lines = Files.readAllLines(Paths.get(dir, "dic.txt"));
 		
 		for(String line : lines)
 		{
+			if(line.startsWith("#")) continue;
+			
 			List<String> tokens = separateLine(line);
 			Word word = createWord(tokens);
 			
@@ -52,6 +63,8 @@ public class TextFileDictionary implements Dictionary {
 		
 		for(String line : lines)
 		{
+			if(line.startsWith("#")) continue;
+			
 			List<String> tokens = separateLine(line);
 			HyungTaeSo hts = createHTS(tokens);
 			

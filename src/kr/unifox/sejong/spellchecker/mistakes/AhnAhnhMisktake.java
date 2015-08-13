@@ -19,6 +19,11 @@ public class AhnAhnhMisktake implements MistakeCorrector {
 		this.dic = dic;
 	}
 	
+	@Override
+	public boolean isCheckStranges() {
+		return false;
+	}
+	
 	public boolean checkMistake(Candidate candidate, Repaired rep) 
 	{
 		if(candidate.compList.size() < 2)

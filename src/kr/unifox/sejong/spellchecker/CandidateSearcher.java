@@ -64,7 +64,7 @@ public class CandidateSearcher
 		// head 부분의 모든 후보 집합을 얻어내서
 		// tail 앞에 추가하고 최종적으로 searchSubset() 메서드가
 		// candiList 에 후보들을 추가하게 됩니다.
-		for(int i = eumso.length() - 2; i >= 0; --i)
+		for(int i = eumso.length() - 1; i >= 0; --i)
 		{
 			String head = eumso.substring(0, i),
 					tail = eumso.substring(i);
@@ -93,7 +93,7 @@ public class CandidateSearcher
 		// 
 		// search() 함수에서 했던 걸 바로 이어서 하게 됨, 참고바람.
 		// 
-		for(int i = eumso.length() - 2; i >= 0; --i)
+		for(int i = eumso.length() - 1; i >= 0; --i)
 		{
 			String head = eumso.substring(0, i),
 					tail = eumso.substring(i);

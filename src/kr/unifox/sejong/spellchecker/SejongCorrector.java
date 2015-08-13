@@ -10,6 +10,7 @@ import kr.unifox.sejong.ling.Component;
 import kr.unifox.sejong.ling.Hangeul;
 import kr.unifox.sejong.ling.HangeulException;
 import kr.unifox.sejong.spellchecker.mistakes.AhnAhnhMisktake;
+import kr.unifox.sejong.spellchecker.mistakes.DoeDwaeMistake;
 import kr.unifox.sejong.spellchecker.mistakes.JosaJongSungMistake;
 import kr.unifox.sejong.spellchecker.mistakes.Mistake;
 import kr.unifox.sejong.spellchecker.mistakes.MistakeCorrector;
@@ -17,26 +18,6 @@ import kr.unifox.sejong.spellchecker.mistakes.Repaired;
 
 public class SejongCorrector 
 {
-	public static class Tokenized
-	{
-		// start <= i < end
-		public int start, end; 
-		public String eojeol, replaced;
-		public Mistake mistake;
-		public boolean hasError = false;
-		
-		public Tokenized(int start, int end, String eojeol) {
-			super();
-			this.start = start;
-			this.end = end;
-			this.eojeol = eojeol;
-		}
-		public int length()
-		{
-			return end - start;
-		}
-	}
-	
 	public boolean enableDebugOutput = true;
 	public PrintStream debug = System.out;
 	
@@ -52,6 +33,7 @@ public class SejongCorrector
 		
 		mistakes.add(new AhnAhnhMisktake(dic));
 		mistakes.add(new JosaJongSungMistake());
+		mistakes.add(new DoeDwaeMistake());
 	}
 	
 	
@@ -63,15 +45,15 @@ public class SejongCorrector
 		
 		if(enableDebugOutput)
 		{
-			debug.printf("Tokenize \"%s\"\nGet %d tokens.", text, tokens.size());
+			debug.printf("Tokenize \"%s\"\nGet %d tokens\n", text, tokens.size());
 			int tokenI = 0;
 			for(Tokenized token : tokens)
 			{
 				debug.printf("%s(%d~%d)", token.eojeol, token.start, token.end);
 				if(tokenI != tokens.size() - 1)
 					debug.print(", ");
-				debug.println();
 			}
+			debug.println();
 		}
 		int adjust = 0;
 		
@@ -81,8 +63,16 @@ public class SejongCorrector
 
 			if(enableDebugOutput)
 			{
-				debug.printf("%d CandidateArray is found on \"%s\" eojeol\n", 
-						arrayList.size(), token.eojeol);
+				if(arrayList.size() > 0)
+					debug.printf("%d CandidateArray is found on \"%s\" eojeol\n", 
+							arrayList.size(), token.eojeol);
+				else
+					debug.printf("No candidate exists. continue \"%s\" token.\n", token.eojeol);
+			}
+			if(arrayList.size() == 0)
+			{
+				token.hasError =  true;
+				continue;
 			}
 			
 			CandidateArray selected = null;
@@ -108,7 +98,7 @@ public class SejongCorrector
 				if(selected == null)
 					selected = result.corrects;
 				else if(result.evaluation == GrammaticalEvaluation.CORRECT &&
-						candiCountOfSelected > result.corrects.size() + result.stranges.size())
+						candiCountOfSelected >= result.corrects.size() + result.stranges.size())
 				{
 					selected = result.corrects;
 					selectedIndex = i;
@@ -173,7 +163,7 @@ public class SejongCorrector
 					if(isCorrect)
 						debug.printf("\"%s\" is correct eojeol.\n", token.eojeol);
 					else
-						debug.printf("There is no suitable replacement for %s",		
+						debug.printf("There is no suitable replacement for %s\n",		
 								token.eojeol
 								);
 				}
@@ -184,6 +174,20 @@ public class SejongCorrector
 			else if(enableDebugOutput)
 			{
 				debug.printf("CandidateArray at %d is selected.\n", selectedIndex);
+
+				debug.printf("%d candidates exists.\n", selected.size());
+				for(Candidate candi : selected)
+				{
+					for(Component comp : candi.compList)
+						debug.printf("%s[%s] ", comp.getSource(), comp.getTypeName());
+					debug.println();
+					if(candi.mistakes != null && candi.mistakes.size() > 0)
+					{
+						debug.println(candi.mistakes.size() + " mistakes exists");
+						for(Mistake mis : candi.mistakes)
+							debug.println(mis.reason);
+					}	
+				}
 			}
 			
 			// Selected의 Corrects 중 첫번째를 고름
@@ -216,6 +220,18 @@ public class SejongCorrector
 			{
 				token.replaced = correct = selectedCandi.text;
 				token.hasError = true;
+
+				if(enableDebugOutput)
+					debug.printf("%d mistakes exists\n", selectedCandi.mistakes.size()); 
+				for(Mistake mistake : selectedCandi.mistakes)
+				{
+					if(!mistake.isWrong)
+					{
+						token.mistake = mistake;
+						token.addConfuses(mistake);
+						break;
+					}
+				}
 			}
 			
 			// 조정된 시작/끝값
@@ -296,7 +312,7 @@ public class SejongCorrector
 			}
 		}
 
-		if(i - start > 1 && start != -1)
+		if(i - start >= 1 && start != -1)
 		{
 			Tokenized token = new Tokenized(	
 					start, i, text.substring(start, i));
@@ -320,12 +336,13 @@ public class SejongCorrector
 	public Repaired findMistakes(Candidate candi)
 	{
 		Repaired rep = new Repaired();
-		rep.source = rep.repaired = candi;
+		rep.source = candi;
+		
 		boolean mistaken = false;
 		
 		for(MistakeCorrector mis : mistakes)
 		{
-			if(mis.checkMistake(rep.repaired, rep))
+			if(mis.checkMistake(rep.source, rep))
 				mistaken = true;
 			rep.hasMistake = false;
 		}

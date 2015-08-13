@@ -96,14 +96,29 @@ public class SejongCorrectorTest {
 		}
 	}
 	
+	public void findAndPrint(String hangeul) throws HangeulException
+	{
+		List<Component> comps = dic.find(Hangeul.spreadHangeulString(hangeul));
+		if(comps != null && comps.size() > 0)
+		{
+			System.out.printf("%s -> %d개 찾음\n", hangeul, comps.size());
+			for(Component comp : comps)
+				System.out.printf("%s(%s)\n", comp.getSource(), comp.getTypeName());
+		}
+		else
+			System.out.println(hangeul + " 못찾음 ㅜㅜ");
+	}
 	public SejongCorrectorTest() {
 		try {
 			dic = new TextFileDictionary("db");
+
+			findAndPrint("돼");
+			findAndPrint("되");
+			
 			computeUsedMemory();
-			testCandidateSearcher("않되요");
-			testCandidateSearcher("안되요");
-			testCandidateSearcher("않된다");
-			testCandidateSearcher("안된다");
+			testCandidateSearcher("됬다");
+			testCandidateSearcher("됐다");
+			testCandidateSearcher("돼");
 			computeUsedMemory();
 		} catch (Exception e) {
 			e.printStackTrace();

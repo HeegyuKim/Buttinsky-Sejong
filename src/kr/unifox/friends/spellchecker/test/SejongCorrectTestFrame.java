@@ -18,7 +18,7 @@ import kr.unifox.sejong.ling.HangeulException;
 import kr.unifox.sejong.spellchecker.Dictionary;
 import kr.unifox.sejong.spellchecker.SejongCorrector;
 import kr.unifox.sejong.spellchecker.TextFileDictionary;
-import kr.unifox.sejong.spellchecker.SejongCorrector.Tokenized;
+import kr.unifox.sejong.spellchecker.Tokenized;
 
 
 public class SejongCorrectTestFrame extends JFrame {
@@ -79,23 +79,40 @@ public class SejongCorrectTestFrame extends JFrame {
 					
 					boolean hasError = false;
 					
-					for(Tokenized token : tokens)
+					for(kr.unifox.sejong.spellchecker.Tokenized token : tokens)
 					{
-						if(!token.hasError)
+						if(token.mistake == null)
 							continue;
-						
-						hasError = true;
-						result.append(String.format(
-								"오류: %s(%d~%d)",
-								text.substring(token.start, token.end),
-								token.start, token.end
-								));
-						if(token.mistake != null)
+
+						if(token.hasError && !token.isWrong)
+						{
+							hasError = true;
 							result.append(String.format(
-									"다음으로 수정됨: %s. %s",
-									token.replaced,
+									"오류: %s(%d~%d)",
+									text.substring(token.start, token.end),
+									token.start, token.end
+									));
+							if(token.mistake != null)
+								result.append(String.format(
+										"다음으로 수정됨: %s. %s",
+										token.replaced,
+										token.mistake.reason));
+							result.append('\n');							
+						}
+						else if(token.isWrong)
+						{
+							hasError = true;
+							result.append(String.format(
+									"주의: %s(%d~%d)",
+									text.substring(token.start, token.end),
+									token.start, token.end
+									));
+							result.append(String.format(
+									"다음과 혼동됨: %s. %s",
+									token.confuses.get(0),
 									token.mistake.reason));
-						result.append('\n');
+							result.append('\n');
+						}
 					}
 					
 					if(!hasError)

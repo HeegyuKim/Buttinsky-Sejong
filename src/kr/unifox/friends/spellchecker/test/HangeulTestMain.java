@@ -26,6 +26,10 @@ public class HangeulTestMain extends TestFrame
 	{
 		System.out.printf("%c는 자음입니까? %s\n", ch, Hangeul.isJaEum(ch));
 	}
+	public static void isHangeul(char ch)
+	{
+		System.out.printf("%c는 한글입니까? %s\n", ch, Hangeul.isHangeul(ch));
+	}
 	public static void combine(String eumsos) throws HangeulException
 	{
 		System.out.printf("%s 를 결합! 두구두구 -->  %s\n", eumsos, Hangeul.combineHangeulEumso(eumsos));
@@ -46,6 +50,8 @@ public class HangeulTestMain extends TestFrame
 			out.println(a.spread());
 			out.println(a.toChar());
 			out.println(Hangeul.spreadHangeulString("룰루랄라"));
+			out.println(Hangeul.spreadHangeulString("됬다"));
+			out.println(Hangeul.spreadHangeulString("됐다"));
 			out.printf("%s: %d\n", b.spread(), b.getJamoCount());
 			out.printf("%s: %d\n", c.spread(), c.getJamoCount());
 			out.printf("%s: %d\n", d.spread(), d.getJamoCount());
@@ -54,9 +60,8 @@ public class HangeulTestMain extends TestFrame
 			List<Hangeul> hlist = Hangeul.toHangeulList(hstr);
 			out.printf("%s -3= %s\n", hstr, Hangeul.cutJamo(hlist, 5));
 
-			isJaEum('ㅏ');
-			isJaEum('ㄱ');
-			isJaEum('ㄶ');
+			isHangeul('ㅆ');
+			isHangeul('ㅁ');
 
 			showHangeul('ㄱ', ' ', ' ');
 			showHangeul('ㄱ', 'ㅡ', ' ');

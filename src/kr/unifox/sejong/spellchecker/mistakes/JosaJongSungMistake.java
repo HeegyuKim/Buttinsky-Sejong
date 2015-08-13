@@ -36,7 +36,11 @@ public class JosaJongSungMistake implements MistakeCorrector
 		jongsungExists = Collections.unmodifiableSet(jongsungExists);
 		jongsungNone= Collections.unmodifiableSet(jongsungNone);
 	}
-	
+	@Override
+	public boolean isCheckStranges() {
+		return false;
+	}
+
 	@Override
 	public boolean checkMistake(Candidate candidate, Repaired repaired) 
 	{

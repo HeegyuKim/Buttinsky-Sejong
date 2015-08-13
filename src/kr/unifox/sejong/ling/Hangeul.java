@@ -321,7 +321,8 @@ public class Hangeul
     
     public static boolean isHangeul(int codePoint)
     {
-    	return codePoint >= BASE_CODE && codePoint <= HANGEUL_END;
+    	return (codePoint >= BASE_CODE && codePoint <= HANGEUL_END)
+    			|| (COMP_JAEUM_BEGIN <= codePoint && codePoint <= COMP_MOEUM_END);
     }
     
     /**
