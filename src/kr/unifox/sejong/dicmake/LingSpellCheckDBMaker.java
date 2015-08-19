@@ -2,6 +2,7 @@ package kr.unifox.sejong.dicmake;
 
 import java.io.File;
 import java.io.PrintWriter;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
@@ -105,7 +106,7 @@ public class LingSpellCheckDBMaker
 			parser.parseTextFile("data/어미_상세.txt", txtHandler);
 			
 			// parsing data/affix.txt
-			List<String> lines = Files.readAllLines(Paths.get("db/affix.txt"));
+			List<String> lines = Files.readAllLines(Paths.get("db/affix.txt"), Charset.defaultCharset());
 			for(String line : lines)
 			{
 				try {

@@ -201,6 +201,8 @@ public class Hangeul
 	private char chosung = ' ', jungsung = ' ', jongsung = ' ';
     
 
+
+	
     public Hangeul(char hangeulCharacter) throws HangeulException
     {
     	int code = (int)hangeulCharacter;

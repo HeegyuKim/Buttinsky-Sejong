@@ -1,4 +1,4 @@
-package kr.unifox.friends.spellchecker.test;
+package test;
 
 import java.io.IOException;
 import java.nio.channels.FileChannel;
@@ -16,7 +16,7 @@ public class DictionaryProcessingMain
 		try
 		{
 			List<String> lines = 
-					Files.readAllLines(Paths.get("data/Á¢»ç_»ó¼¼.txt"), Charset.defaultCharset());
+					Files.readAllLines(Paths.get("data/ï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½.txt"), Charset.defaultCharset());
 			
 			for(int i = 0; i < Math.min(10, lines.size()); ++i)
 			{
