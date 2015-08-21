@@ -1,4 +1,4 @@
-package kr.unifox.friends.spellchecker.test;
+package test;
 
 import java.io.IOException;
 import java.lang.reflect.Field;
