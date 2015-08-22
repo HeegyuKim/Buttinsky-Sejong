@@ -68,6 +68,8 @@ public class HangeulTestMain extends TestFrame
 			showHangeul('ㄱ', 'ㅏ', 'ㅅ');
 			showHangeul('ㄱ', 'ㅏ', 'ㅀ');
 			combine("ㄱㅡㄹㅓㅎㄱㅔ");
+			combine("ㄱㅡㄹㅓㅎㄱㅔ123 aasf");
+			combine("ㄱㅡㄹㅓㅎㄱㅔ?$@@Wfeㅁㄹㅏㅁㅕㄴㅈㅕㅎㅇ!ㅏ)(^");
 			combine("ㅋㅋㅣㅏㅣㅓㄴㄹ");
 			combine("ㅁㄴㅇㄼㅁㄴ");
 			combine("ㄱㅏㄴㅏㅇㅛ");

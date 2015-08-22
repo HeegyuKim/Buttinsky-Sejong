@@ -362,6 +362,7 @@ public class Hangeul
     	
     	return builder.toString();
     }
+
     
     /**
      *  한글 음소를 결합함~
@@ -426,7 +427,7 @@ public class Hangeul
     			isLastCharJaeum = false;
     		}
     		// ch가 자음임
-    		else
+    		else if(isJaEum(ch))
     		{
     			// 이전 글자가 자음
     			// 이 경우는 아래 2가지
@@ -480,6 +481,16 @@ public class Hangeul
     			}
     			
     			isLastCharJaeum = true;
+    		}
+    		else	// 한글아님.
+    		{
+    			if(cho != ' ')
+    			{
+    				sb.append(new Hangeul(cho, jung, jong).toChar());
+    				cho = jung = jong = ' ';
+    			}
+    			sb.append(ch);
+    			isLastCharJaeum = false;
     		}
     		
     		lastChar = ch;
