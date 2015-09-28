@@ -116,11 +116,17 @@ public class RegexTester implements Tester
 						String replaced = testItem.replaced;
 						char lastChar = replaced.charAt(replaced.length() - 1);
 						Hangeul hangeul = new Hangeul(lastChar);
+
+						if(testItem.spread)
+						{
+							replaced = Hangeul.combineHangeulEumso(replaced);
+							mistake.replaced = replaced;
+						}
 						
 						if(hangeul.getJamoCount() == 3)
-							mistake.title = String.format("%s으로 바꾸기", testItem.replaced);
+							mistake.title = String.format("\"%s\"으로 바꾸기", replaced);
 						else
-							mistake.title = String.format("%s로 바꾸기", testItem.replaced);
+							mistake.title = String.format("\"%s\"로 바꾸기", replaced);
 						
 						modifyingText = String.format("%s%s%s", 
 								modifyingText.substring(0, mistake.startIndex),

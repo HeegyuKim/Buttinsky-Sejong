@@ -17,7 +17,7 @@ public class SimpleTestMain {
 				.replaceAll("ㅇㅏㄶㅎ", "ㅇㅏㄴㅎ"));
 		try {
 			RegexTester tester = RegexTester.create(new FileInputStream("db/simplified.json"));
-			DoubtfulText text = tester.test("않해 않돼어 않되어 돼고 또돼고 않돼고도 어떻해 오랫만 몇일 불리운 낳아 어의 금새 담배를 피우다 안돼");
+			DoubtfulText text = tester.test("않되 안돼 불리우다");
 			
 			System.out.println("원본: " + text.originalText);
 			System.out.println("수정본: " + text.replacedText);

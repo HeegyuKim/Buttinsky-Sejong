@@ -311,9 +311,10 @@ public class Hangeul
     public String spread()
     {
     	StringBuilder builder = new StringBuilder();
-    	builder.append(chosung);
+    	if(chosung != ' ')
+    		builder.append(chosung);
     	if(jungsung != ' ')
-    	builder.append(jungsung);
+    		builder.append(jungsung);
     	if(jongsung != ' ')
     		builder.append(jongsung);
     	
