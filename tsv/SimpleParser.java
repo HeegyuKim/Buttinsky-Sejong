@@ -104,7 +104,7 @@ public class SimpleParser {
 					String strId = String.format("conf_%06d", id);
 					confusable.put("id", strId);
 					confusable.put("regex", args[1]);
-					confusable.put("spread", true);
+					confusable.put("spread", Boolean.valueOf(args[4]));
 					
 					String title = args[2];
 					String description = args[3].replaceAll("\\n", "\n");
